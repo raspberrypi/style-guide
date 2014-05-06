@@ -340,6 +340,7 @@ UK English should be used.
  
 ###I 
 
+*   I2C - Inter-Integrated Circuit, used for peripherals on the Pi.
 *   IBM (company name) 
 *   IC – integrated circuit 
 *   ICT – information and communications technology, **not** information and communication technology 

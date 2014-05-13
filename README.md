@@ -330,7 +330,6 @@ UK English should be used.
 *   help pages 
 *   hit – do not use as a substitute for *press* or *click* 
 *   home page 
-*   homepage 
 *   host name 
 *   hot swap (noun), hot-swap (verb), hot-swappable, hot swapping 
 *   hotspot – one word when referring to a WiFi access point. Use hot spot if you're talking about a popular restaurant.

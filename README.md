@@ -469,6 +469,7 @@ UK English should be used.
 *   OEM – original equipment manufacturer. Preferable to *factory* when talking about the place where the Raspberry Pi is made. 
 *   offline 
 *   offscreen 
+*   ohm
 *   OK – **not** okay, Ok or ok. OK? 
 *   online 
 *   onscreen 

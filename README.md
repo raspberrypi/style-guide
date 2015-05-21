@@ -378,6 +378,7 @@ UK English should be used.
 *   kbps – kilobits per second. No space between the number and kbps. 
 *   kBps – kilobytes per second. No space between the number and kBps. 
 *   keylogger 
+*   key press
 *   keyword – search engine term. *Think about the best keywords to use on your webpage*. Use key word when referring to a critical word. *She couldn't remember what else he'd said. The key word in his last sentence was "bagpipes".* 
 *   kg – kilogram(s). Space between number and kg. 
 *   kHz – kilohertz. No space between the number and kHz.  

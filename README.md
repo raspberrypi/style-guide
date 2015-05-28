@@ -222,6 +222,7 @@ UK English should be used.
 *   clip art 
 *   cloud computing (noun and adjective) 
 *   cm – centimetre. Use a space between the number and cm. *My thumb measures 4 cm.* 
+*   codebase
 *   codec – coder/decoder 
 *   command line 
 *   Commodore 64 (computer) 

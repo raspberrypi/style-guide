@@ -660,6 +660,7 @@ UK English should be used.
 *   wallpaper, wallpapers 
 *   WAN – wide area network 
 *   WAP – Wireless Application Protocol 
+*   Weather Station HAT - note capitalisation
 *   web 
 *   webcam 
 *   webcast 

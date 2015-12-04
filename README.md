@@ -315,6 +315,7 @@ UK English should be used.
 *   GNU – the GNU Project. A recursive acronym: GNU is not UNIX. 
 *   GNU Linux 
 *   Google – Google trademark. Google's guidelines say you may not use the trademark as a verb, despite common usage; use *search [with Google]* or *search for* instead. 
+*   GPIO - General-Purpose Input/Output
 *   GPU – graphics processing unit 
 *   gram – see g 
 *   grey – not gray  

@@ -241,9 +241,7 @@ UK English should be used.
 
 *   data – treat as a singular noun. *The data is lost.* 
 *   database 
-*   Debian 
-*   Debian "squeeze" 
-*   dial-up – hyphenate when noun or adjective. Two words when a verb. *I am using a dial-up connection. My Raspberry Pi takes ages to dial up and connect.* 
+*   Debian
 *   digital age, digital native, digital divide – avoid where possible. Dated jargon. 
 *   dingbat – typographical ornament, such as ★. 
 *   disc/disk – magnetic storage is on disks, but optical storage is on discs: *floppy disks, compact discs.* 
@@ -251,6 +249,7 @@ UK English should be used.
 *   DoS – denial-of-service attack 
 *   DOS – Disk Operating System. Acronym for several closely related operating systems. 
 *   dos and don'ts – note apostrophes 
+*   DOTs Board- Bare Conductive's electric paint-based addon
 *   double-click – note hyphen 
 *   drag-and-drop (adjective), drag and drop (verb) 
 *   dreamt 
@@ -437,7 +436,7 @@ UK English should be used.
 *   microsite 
 *   Microsoft .Net – Microsoft's trademark guidelines say that *Microsoft* should precede the *.Net* brand name in the first instance of use. Because the full stop can create confusion, insert *Microsoft* before *.Net* if it occurs at the start of a sentence. Better still, never use the term at all. 
 *   Microsoft Windows – see *Windows* 
-*   mike – short form of microphone 
+*   mike – short form of microphone (mic also acceptable) 
 *   million – use numerals and a space with *million*. Don't hyphenate the numeral and *million*, even before a noun. If you're forming a compound adjective, use a hyphen between the numeral and *million*. So: *4 million Raspberry Pis, a £4 million budget, a 4-million-year schedule.* 
 *   min. – abbreviation for minute; use only where space is at a premium, and note full stop. 
 *   mips – million instructions per second. No space between number and mips. 
@@ -572,7 +571,6 @@ UK English should be used.
 *   sign-in (noun, adjective); sign in, sign in to (verb). Preferable to *log in* or *log on*; sounds less technical. 
 *   sign-out, sign-up – see *sign-in* 
 *   SIM card – subscriber identity module card 
-*   Sinclair BASIC  
 *   Sinclair ZX81 (cf. ZX Spectrum) 
 *   site map 
 *   slideshow 
@@ -660,7 +658,6 @@ UK English should be used.
 
 *   wallpaper, wallpapers 
 *   WAN – wide area network 
-*   WAP – Wireless Application Protocol 
 *   Weather Station HAT - note capitalisation
 *   web 
 *   webcam 
@@ -704,4 +701,3 @@ UK English should be used.
 
 *   ZX Spectrum 
 *   zip file 
- 

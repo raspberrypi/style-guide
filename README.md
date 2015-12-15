@@ -7,7 +7,7 @@ Unless the matter is mentioned below, please consult the *Oxford Guide to Style*
 
 The Raspberry Pi Foundation strives for an approachable, conversational tone in its materials. See www.raspberrypi.org for examples. 
 
-##Lists  
+## Lists  
 
 Use semicolons for lists with internal commas. *We received bouquets from Chris, in California; Jim, in Belgium; and Bob, in Liverpool.*
 
@@ -21,7 +21,7 @@ A bulleted list should be introduced with a colon:
  
 See **Titles of other works** below for more examples of bulleted lists. 
 
-##Emphasis 
+## Emphasis 
 
 Use **bold** type for emphasis. 
 
@@ -33,7 +33,7 @@ Hyphenate two or more modifiers before a noun unless the first adjective modifie
 
 Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* 
 
-##Titles of other works 
+## Titles of other works 
 
 Titles of other works should be set in title case (first and last words take an initial capital, regardless of length of word or part of speech; all other words in the title **except** articles, prepositions of three or fewer letters and conjunctions of three or fewer letters, and the words *if, how* and *why* should also take an initial capital.)  
 
@@ -65,18 +65,18 @@ These are a few of my favourite things:
 *   Banditry 
 *   *Anne of Green Gables* 
  
-##Capitalisation 
+## Capitalisation 
 
 First word in chapter headings and titles take an initial capital, others lower case. (Sentence case.) 
 In all text, try to avoid the use of a trademark whose initial letter is in lower case (iPad, element14) at the start of a sentence or title. *iPad sales soar* is only ever acceptable if typography means that there is insufficient space for *Sales of iPad soar*. 
 
-##Abbreviations 
+## Abbreviations 
 
 Spell out abbreviations in the first instance in a chapter section, followed by the abbreviation in parentheses. Thereafter use the abbreviation. *The Raspberry Pi's brain is a system on a chip (SoC), made by stacking a memory chip on top of a processor chip. Using an SoC keeps the area of the Raspberry Pi board low.*
 
 See the word list below for correct abbreviations and their capitalisations when spelt out. 
 
-##Numerals 
+## Numerals 
 
 Spell out numbers one to twelve unless dealing with code or units of computer storage; express 13 and higher numbers as a numeral *unless* at the start of a sentence. *Eighteen bagpipers were shown to the door.*
 
@@ -84,11 +84,11 @@ Subscript numerals (e.g. in chemical formulae) are fine in print, but not for on
 
 Use the multiplication symbol × when required, not the letter x. 
 
-##URLs 
+## URLs 
 
 Omit http:// from URLs in print. Use hyperlinks in online content. 
 
-##Time and date 
+## Time and date 
 
 Use the 24-hour clock. *1615h* etc.
 
@@ -96,7 +96,7 @@ Dates should be expressed *21 Jan 2006* etc. to avoid confusion with month/day o
 
 Season names should not be capitalised. 
 
-##Race, disability, gender 
+## Race, disability, gender 
 
 *Indian people* (or *Egyptian people, black people, Jewish people* etc.) never *Indians, Egyptians, blacks* or *Jews*. Similarly, use *disabled* as an adjective, never a noun. *Disabled people*, not *the disabled*. 
 
@@ -106,7 +106,7 @@ Avoid gendered job titles; there is usually an alternative. So *firefighter* ins
 
 Avoid *man, mankind, manmade, manpower* etc. There are plenty of alternatives. 
  
-##Markdown-specific guidelines 
+## Markdown-specific guidelines 
  
 The main header should be formatted as **h1**, sub-headers as **h2**. Any further sub-headers in the hierarchy should be **h3**, **h4** and so on. Never use bold formatting instead. Leave one line break between headers and the main text. 
 
@@ -118,11 +118,11 @@ Images should not have text in the preceding square brackets []; it should be pl
 
 'Smart' quotes should be avoided. 
  
-##Spelling 
+## Spelling 
  
-UK English should be used. 
+UK English should be used, with the exception of international organisations- for example, The John F Kennedy Space *Center*. 
  
-##Word list 
+## Word list 
 
 ###&#35;
 

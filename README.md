@@ -140,6 +140,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Acorn Computers (company name, produced the BBC Micro and the Acorn family of computers) 
 *   Acorn Electron (computer) 
 *   adaptor
+*   add-on
 *   adware 
 *   AMD (company name) 
 *   Amstrad (company name) 

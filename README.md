@@ -139,7 +139,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Acorn Archimedes (computer) – shorten to Archimedes after first use 
 *   Acorn Computers (company name, produced the BBC Micro and the Acorn family of computers) 
 *   Acorn Electron (computer) 
-*   adaptor
+*   adapter
 *   add-on
 *   adware 
 *   AMD (company name) 

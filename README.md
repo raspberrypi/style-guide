@@ -112,6 +112,8 @@ The main header should be formatted as **h1**, sub-headers as **h2**. Any furthe
 
 Code and code-related words should be formatted with backticks, for example `mc = minecraft.Minecraft.create()`. In large code examples, the name of the programming language should be entered after the first set of three backticks (for example, *```python*). Code must always be indented within lists to prevent the numbering formatting being broken. 
 
+Code blocks and images should have a new line before and after them to improve readability.
+
 Images should not have text in the preceding square brackets []; it should be placed within the regular brackets. For example: 
 
 <pre>![](components.png "Components you will need"). </pre>

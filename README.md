@@ -319,6 +319,7 @@ UK English should be used, with the exception of international organisations- fo
 *   GNU Linux 
 *   Google – Google trademark. Google's guidelines say you may not use the trademark as a verb, despite common usage; use *search [with Google]* or *search for* instead. 
 *   GPIO - General-Purpose Input/Output
+*   GPIO Zero
 *   GPU – graphics processing unit 
 *   gram – see g 
 *   grey – not gray  
@@ -505,6 +506,7 @@ UK English should be used, with the exception of international organisations- fo
 *   PhD 
 *   phishing – tricking someone into giving out sensitive information using an email that looks legitimate 
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb. 
+*   Pi Zero
 *   PIN – acronym for *personal identification number*. Do not use *PIN number*. 
 *   pixel  
 *   playlist 

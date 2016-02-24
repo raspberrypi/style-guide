@@ -25,7 +25,7 @@ See **Titles of other works** below for more examples of bulleted lists.
 
 Use **bold** type for emphasis. 
 
-##Punctuation 
+## Punctuation 
 
 Oxford commas should be used throughout; they resolve ambiguity and should be used elsewhere for consistency. *We photographed the components, a sandwich, and a magnet.*  
 
@@ -119,6 +119,10 @@ Images should not have text in the preceding square brackets []; it should be pl
 <pre>![](components.png "Components you will need"). </pre>
 
 'Smart' quotes should be avoided. 
+
+Lists should only be used for step-by-step instructions, not for ordinary paragraphs that don't contain specific instructions.
+
+Some longer pages in the documentation repository use Markdown's internal anchors, such as `<a name="usage"></a>`, for ease of navigation. These can be added on the line preceding headings.
  
 ## Spelling 
  
@@ -153,6 +157,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Apple – Apple trademark. Do not add an s to make plural. 
 *   applications processor 
 *   Apricot Computers (company name) 
+*   APT - Advanced Package Tool, used in Debian Linux to obtain software.
 *   Arch Linux 
 *   ARM architecture 
 *   ARM chipset 

@@ -142,7 +142,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Acorn Computers (company name, produced the BBC Micro and the Acorn family of computers) 
 *   Acorn Electron (computer) 
 *   adapter
-*   add-on
+*   add-on; use 'add-on board', not 'card'
 *   adware 
 *   AMD (company name) 
 *   Amstrad (company name) 
@@ -331,6 +331,7 @@ UK English should be used, with the exception of international organisations- fo
 
 *   hardcore 
 *   hashtag – Twitter term 
+*   HAT - Hardware Attached on Top, describing various add-on boards such as the Sense HAT
 *   HDTV – high-definition television 
 *   help desk 
 *   help pages 

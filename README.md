@@ -425,6 +425,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Mac (for Macintosh) is acceptable usage 
 *   MacBook, MacBook Air, MacBook Pro – Apple trademarks, so do not add an s to make plural 
 *   machine – do not use as a synonym for computer. Use *computer*. 
+*   MagPi - the official Raspberry Pi magazine
 *   mailbox 
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 

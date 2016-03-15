@@ -515,7 +515,7 @@ UK English should be used, with the exception of international organisations- fo
 *   PhD 
 *   phishing – tricking someone into giving out sensitive information using an email that looks legitimate 
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb. 
-*   Pi Zero
+*   Pi Zero (plural Zeros)
 *   PIN – acronym for *personal identification number*. Do not use *PIN number*. 
 *   pixel  
 *   playlist 

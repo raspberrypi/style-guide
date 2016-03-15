@@ -476,7 +476,7 @@ UK English should be used, with the exception of international organisations- fo
 *   nickel-metal hydride – see *Ni-MH* 
 *   no-no 
 *   No. 1 – see *number one* 
-*   NOOBS - New Out Of the Box Software, used to easily install an operating system on the Pi.
+*   NOOBS - New Out Of Box Software, used to easily install an operating system on the Pi.
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
 *   NYC – New York City. Use only if space is tight. 
  

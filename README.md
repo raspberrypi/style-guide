@@ -441,8 +441,8 @@ UK English should be used, with the exception of international organisations- fo
 *   metatag 
 *   mg – miligram(s). Insert a space between the number and mg. 
 *   MHz – megahertz. No space between the number and MHz. 
-*   Micro SD 
-*   Micro USB 
+*   micro SD 
+*   micro USB 
 *   microblog 
 *   microcontroller 
 *   microprocessor 
@@ -452,6 +452,8 @@ UK English should be used, with the exception of international organisations- fo
 *   mike – short form of microphone (mic also acceptable) 
 *   million – use numerals and a space with *million*. Don't hyphenate the numeral and *million*, even before a noun. If you're forming a compound adjective, use a hyphen between the numeral and *million*. So: *4 million Raspberry Pis, a £4 million budget, a 4-million-year schedule.* 
 *   min. – abbreviation for minute; use only where space is at a premium, and note full stop. 
+*   mini SD
+*   mini USB
 *   mips – million instructions per second. No space between number and mips. 
 *   ml – millilitre(s). Use a space between the number and ml. 
 *   mm – millimetre(s). Use a space between the number and mm.  

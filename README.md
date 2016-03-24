@@ -120,7 +120,7 @@ Images should not have text in the preceding square brackets []; it should be pl
 
 'Smart' quotes should be avoided. 
 
-Lists should only be used for step-by-step instructions, not for ordinary paragraphs that don't contain specific instructions.
+Lists should only be used for step-by-step instructions, not for ordinary paragraphs that don't contain specific instructions. When creating numbered lists, start each item with '1.', rather than ascending numbers. This makes it easier to add steps later without having to change all the others.
 
 Some longer pages in the documentation repository use Markdown's internal anchors, such as `<a name="usage"></a>`, for ease of navigation. These can be added on the line preceding headings.
  

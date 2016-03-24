@@ -108,7 +108,9 @@ Avoid *man, mankind, manmade, manpower* etc. There are plenty of alternatives.
  
 ## Markdown-specific guidelines 
  
-The main header should be formatted as **h1**, sub-headers as **h2**. Any further sub-headers in the hierarchy should be **h3**, **h4** and so on. Never use bold formatting instead. Leave one line break between headers and the main text. 
+The main header should be formatted as **h1**, sub-headers as **h2**. Any further sub-headers in the hierarchy should be **h3**, **h4** and so on. Never use bold formatting instead; likewise, never use headers to make text bold. Leave one line break between headers and the main text.
+
+No double spaces after punctuation, please!
 
 Code and code-related words should be formatted with backticks, for example `mc = minecraft.Minecraft.create()`. In large code examples, the name of the programming language should be entered after the first set of three backticks (for example, *```python*). Code must always be indented within lists to prevent the numbering formatting being broken. 
 

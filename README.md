@@ -520,6 +520,7 @@ UK English should be used, with the exception of international organisations- fo
 *   phishing – tricking someone into giving out sensitive information using an email that looks legitimate 
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb. 
 *   Pi Zero (plural Zeros)
+*   Picademy - training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.
 *   PIN – acronym for *personal identification number*. Do not use *PIN number*. 
 *   pixel  
 *   playlist 

@@ -359,6 +359,7 @@ UK English should be used, with the exception of international organisations- fo
 *   IC – integrated circuit 
 *   ICT – information and communications technology, **not** information and communication technology 
 *   ID – identification. Plural IDs. Avoid using as a verb unless space is very restricted; use apostrophe in verb form. Where possible, *The bouncer checks drinkers' identification*, not *The bouncer ID’s drinkers.* 
+*   IDLE - Python IDE installed on Raspbian, found under the Programming menu as 'Python 3 (IDLE)'
 *   i.e. 
 *   IM – instant message. Plural IMs. Avoid using as a verb unless space is very restricted. 
 *   IMAX – trademark, so use as an adjective, not a noun 

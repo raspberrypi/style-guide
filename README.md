@@ -489,11 +489,11 @@ UK English should be used, with the exception of international organisations- fo
 
 *   OEM – original equipment manufacturer. Preferable to *factory* when talking about the place where the Raspberry Pi is made. 
 *   offline 
-*   offscreen 
+*   off-screen 
 *   ohm
 *   OK – **not** okay, Ok or ok. OK? 
 *   online 
-*   onscreen 
+*   on-screen (adjective), on screen (adverb)
 *   open source (noun), open-source (adjective) 
 *   opt-in (noun, adjective), opt in (verb) 
 *   OS – operating system. Plural OSes. 

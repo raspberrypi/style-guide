@@ -64,7 +64,9 @@ These are a few of my favourite things:
 *   Sausages 
 *   Banditry 
 *   *Anne of Green Gables* 
- 
+
+When referring to the company, always use "the Raspberry Pi Foundation" with the definite article, never "Raspberry Pi Foundation" on its own without the article. "The Raspberry Pi Foundation" should always be used as the first instance in an article; "the Foundation" is fine subsequently.
+
 ## Capitalisation 
 
 First word in chapter headings and titles take an initial capital, others lower case. (Sentence case.) 

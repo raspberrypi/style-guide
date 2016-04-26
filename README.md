@@ -215,7 +215,8 @@ UK English should be used, with the exception of international organisations- fo
 
 *   C (language) 
 *   C# (language) 
-*   C++ (language) 
+*   C++ (language)
+*   Camera Module / Camera Module v2 - the official Raspberry Pi camera add-on
 *   camera phone 
 *   CAPTCHA – Completely Automated Public Turing Test to Tell Computers and Humans Apart. A rare instance where the first use of an acronym does not need spelling out! 
 *   CAS – Computing at School  

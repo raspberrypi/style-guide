@@ -280,6 +280,7 @@ UK English should be used, with the exception of international organisations- fo
 *   e.g. 
 *   Earth – capitalise when referring to planet, lower case when referring to soil. 
 *   eBay – an eBay trademark 
+*   Ed and Izzy - the two special Astro Pi units sent to the ISS with Tim Peake.
 *   EEG - electroencephalography 
 *   element14/Premier Farnell in the first instance in a chapter section, then just element14. Element14 should be capitalised if it appears at the beginning of a sentence; in general, try to avoid using at the start of a sentence. 
 *   email 
@@ -371,6 +372,7 @@ UK English should be used, with the exception of international organisations- fo
 *   inkjet 
 *   instant messenger– lower case unless a brand name like *AOL Instant Messenger* 
 *   internet (do not capitalise unless at start of sentence or in title case) 
+*   Internet of Things (IoT)
 *   IP – Internet Protocol or intellectual property (note capitalisations) 
 *   iPad – Apple trademark, so do not add an s to make plural 
 *   iPhone – Apple trademark, so do not add an s to make plural 
@@ -484,6 +486,7 @@ UK English should be used, with the exception of international organisations- fo
 *   nickel-metal hydride – see *Ni-MH* 
 *   no-no 
 *   No. 1 – see *number one* 
+*   Node-RED - a visual tool for wiring the Internet of Things, installed on Raspbian Jessie.
 *   NOOBS - New Out Of Box Software, used to easily install an operating system on the Pi.
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
 *   NYC – New York City. Use only if space is tight. 

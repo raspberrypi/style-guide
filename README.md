@@ -626,7 +626,7 @@ UK English should be used, with the exception of international organisations- fo
 ###T 
 
 *   T-shirt 
-*   terminal 
+*   terminal - when talking about starting the command line in the GUI, 'open a terminal window' (never LXTerminal or similar) 
 *   Tetris (game) 
 *   text message (noun), text-message (adjective, verb). Acceptable to shorten to *text* 
 *   thousand – spell out when in inline text 

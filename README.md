@@ -29,7 +29,7 @@ Use **bold** type for emphasis.
 
 Oxford commas should be used throughout; they resolve ambiguity and should be used elsewhere for consistency. *We photographed the components, a sandwich, and a magnet.*  
 
-Hyphenate two or more modifiers before a noun unless the first adjective modifies the complete noun phrase. *The moderators are fascist-robot enthusiasts. The moderators are fascist robot enthusiasts.* Do not hyphenate adjectival compounds which begin with adverbs ending -ly. *A gorgeously constructed computer*. Be sure to differentiate between hyphens (n-dashes) and dashes (m-dashes). 
+Hyphenate two or more modifiers before a noun unless the first adjective modifies the complete noun phrase. *The moderators are fascist-robot enthusiasts. The moderators are fascist robot enthusiasts.* Do not hyphenate adjectival compounds which begin with adverbs ending -ly. *A gorgeously constructed computer*. Add a hyphen on the end of multiple items that are joined to another word in this way e.g. 'a 12- and 15-month subscription is available', 'full- and part-time jobs'. Be sure to differentiate between hyphens (n-dashes) and dashes (m-dashes). 
 
 Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* 
 

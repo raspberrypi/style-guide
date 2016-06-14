@@ -546,6 +546,7 @@ UK English should be used, with the exception of international organisations- fo
 *   programme (television, theatre etc.) 
 *   PS2, PS3, PS4 – acceptable abbreviations for Sony's *PlayStation 2*, *PlayStation 3*, and *PlayStation 4*. 
 *   Puppy Linux 
+*   PuTTY: popular SSH/Telnet software used to access the Pi
 *   PyGame 
 *   Python (language) 
  

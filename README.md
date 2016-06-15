@@ -600,6 +600,7 @@ UK English should be used, with the exception of international organisations- fo
 *   sign-out, sign-up – see *sign-in* 
 *   SIM card – subscriber identity module card 
 *   Sinclair ZX81 (cf. ZX Spectrum) 
+*   single-board computer
 *   site map 
 *   slideshow 
 *   smart card 

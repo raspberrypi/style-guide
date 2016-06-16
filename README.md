@@ -310,6 +310,7 @@ UK English should be used, with the exception of international organisations- fo
 *   flash memory 
 *   friend – can be used as a verb if referring to social networking. See *unfriend*. 
 *   FTP – File Transfer Protocol (note capitalisation) 
+*   full-screen
 *   function keys 
  
 ###G 

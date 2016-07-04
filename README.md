@@ -230,6 +230,7 @@ UK English should be used, with the exception of international organisations- fo
 *   CGI – computer-generated imaging **or** common gateway interface **or** computer graphics interface. Be clear in the first reference in a section which you are referring to before reverting to the acronym. 
 *   chat room 
 *   checkbox 
+*   childrens'
 *   click – usage depends on the object: use *click* for a button, link or other interface object, and *click on* for pictures, icons etc. 
 *   clickable 
 *   client/server – an adjective to describe a kind of network 
@@ -402,6 +403,7 @@ UK English should be used, with the exception of international organisations- fo
 *   keylogger 
 *   key press
 *   keyword – search engine term. *Think about the best keywords to use on your webpage*. Use key word when referring to a critical word. *She couldn't remember what else he'd said. The key word in his last sentence was "bagpipes".* 
+*   kids'
 *   kg – kilogram(s). Space between number and kg. 
 *   kHz – kilohertz. No space between the number and kHz.  
 *   kilogram 
@@ -413,6 +415,7 @@ UK English should be used, with the exception of international organisations- fo
 
 *   l – litre. Use a space between the number and l. *The barman served drinks in 1 l glasses.* 
 *   LA – Los Angeles. Use only when space is at a premium. 
+*   ladies'
 *   LAN – local area network 
 *   LCD – liquid-crystal display. Plural LCDs. 
 *   learnt 
@@ -443,6 +446,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Mbps – megabits per second. No space between number and Mbps. 
 *   MBps – megabytes per second. No space between number and MBps. 
 *   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to the Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.* 
+*   mens'
 *   mentee – never, ever use this horrible neologism. *Student* or *protégé* are acceptable substitutions. 
 *   mentor 
 *   message boards 
@@ -691,6 +695,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Weather Station HAT - note capitalisation
 *   web 
 *   webcam 
+*   womens'
 *   webcast 
 *   webinar (ghastly, but it appears we're stuck with it) 
 *   webisode (see *webinar*) 

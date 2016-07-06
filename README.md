@@ -707,6 +707,7 @@ UK English should be used, with the exception of international organisations- fo
 *   widescreen 
 *   WiFi - if referring to the Pi 3, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar. 
 *   Wii – Nintendo trademark. Do not add an s to make plural. 
+*   Wiimote - controller for the Wii. Colloquial. (The official term is Wii Remote.)
 *   wiki – plural *wikis* 
 *   Windows – trademark: use Microsoft Windows if talking about the Microsoft product to differentiate from other windowing software 
 *   Windows CE – trademark. **Not** Microsoft Windows CE 

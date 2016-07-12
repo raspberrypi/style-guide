@@ -206,6 +206,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Blu-ray – a Blu-ray Disc Association (BDA) trademark, so note capitalisation and hyphen. Use as an adjective only. 
 *   Bluetooth – Bluetooth SIG trademark. Note capitalisation and only use as an adjective. 
 *   BMP – bitmap.  
+*   boot ROM - a small piece of memory containing the first code executed by the processor on startup
 *   bps – bits per second 
 *   breadcrumb (when referring to website navigation) 
 *   Broadcom 

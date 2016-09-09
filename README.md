@@ -186,6 +186,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Bash (Bourne-again shell) 
 *   BBC BASIC – not BASIC (to avoid confusion with Sinclair BASIC and other BASICs.) 
 *   BBC Micro 
+*   BBC micro:bit - a handheld, fully programmable computer which was given free to every Year 7 child across the UK. If using just 'micro:bit', try not to begin sentences with it, due to the lowercase nature of the name.
 *   BBC Model A 
 *   BBC Model B 
 *   Bcc – blind carbon copy. Do not spell out this acronym. (See also Cc.) Also Bcc'd, Bcc'ing. 

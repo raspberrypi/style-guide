@@ -33,6 +33,8 @@ Hyphenate two or more modifiers before a noun unless the first adjective modifie
 
 Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* 
 
+In large sections of quoted speech, leave the quotation mark at the end of each paragraph rather than omitting them, as per the Oxford Guide to Style.
+
 ## Titles of other works 
 
 Titles of other works should be set in title case (first and last words take an initial capital, regardless of length of word or part of speech; all other words in the title **except** articles, prepositions of three or fewer letters and conjunctions of three or fewer letters, and the words *if, how* and *why* should also take an initial capital.)  

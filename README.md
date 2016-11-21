@@ -282,6 +282,7 @@ UK English should be used, with the exception of international organisations- fo
 *   e- – generally, hyphenate when a prefix. So: *e-book, e-card, e-reader*. Note exception for email. 
 *   e-book 
 *   e-commerce 
+*   e-paper
 *   e.g. 
 *   Earth – capitalise when referring to planet, lower case when referring to soil. 
 *   eBay – an eBay trademark 

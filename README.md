@@ -158,6 +158,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Amstrad (company name) 
 *   Amstrad CPC (computer), short for Amstrad Colour Personal Computer 
 *   analogue 
+*   antenna (pl. antennae
 *   antivirus  
 *   app – short form of application. Don’t use if there's potential for confusion. 
 *   Apple – Apple trademark. Do not add an s to make plural. 
@@ -254,6 +255,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Creative Commons 
 *   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a web page.* 
 *   CSV – comma-separated values 
+*   curriculum (pl. curricula
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
  
 ###D 

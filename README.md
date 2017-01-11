@@ -446,6 +446,7 @@ UK English should be used, with the exception of international organisations- fo
 *   machine – do not use as a synonym for computer. Use *computer*. 
 *   MagPi - the official Raspberry Pi magazine
 *   mailbox 
+*   makerspace
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 
 *   Mb – megabit 

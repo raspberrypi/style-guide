@@ -165,7 +165,6 @@ UK English should be used, with the exception of international organisations- fo
 *   app – short form of application. Don’t use if there's potential for confusion. 
 *   Apple – Apple trademark. Do not add an s to make plural. 
 *   applications processor 
-*   Apricot Computers (company name) 
 *   APT - Advanced Package Tool, used in Debian Linux to obtain software.
 *   Arch Linux 
 *   ARM architecture 
@@ -237,7 +236,7 @@ UK English should be used, with the exception of international organisations- fo
 *   CGI – computer-generated imaging **or** common gateway interface **or** computer graphics interface. Be clear in the first reference in a section which you are referring to before reverting to the acronym. 
 *   chat room 
 *   checkbox 
-*   childrens'
+*   children's
 *   click – usage depends on the object: use *click* for a button, link or other interface object, and *click on* for pictures, icons etc. 
 *   clickable 
 *   client/server – an adjective to describe a kind of network 
@@ -446,7 +445,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Mac (for Macintosh) is acceptable usage 
 *   MacBook, MacBook Air, MacBook Pro – Apple trademarks, so do not add an s to make plural 
 *   machine – do not use as a synonym for computer. Use *computer*. 
-*   MagPi - the official Raspberry Pi magazine
+*   The MagPi - the official Raspberry Pi magazine
 *   mailbox 
 *   makerspace
 *   malware 

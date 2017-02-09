@@ -539,11 +539,12 @@ UK English should be used, with the exception of international organisations- fo
 *   pharming – redirecting traffic from a website that looks legitimate to a spoof website 
 *   PhD 
 *   phishing – tricking someone into giving out sensitive information using an email that looks legitimate 
+*   photobooth
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb. 
 *   Pi Zero (plural Zeros)
 *   Picademy - training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.
 *   PIN – acronym for *personal identification number*. Do not use *PIN number*. 
-*   pixel  
+*   PIXEL (all caps) is the Raspbian desktop environment. Google's phone is Pixel, and the screen element is a pixel.
 *   playlist 
 *   PlayStation – Sony trademark. Do not add an s to make plural. 
 *   podcast 

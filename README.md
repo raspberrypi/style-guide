@@ -533,6 +533,7 @@ UK English should be used, with the exception of international organisations- fo
 *   PC – personal computer. Make context clear to avoid confusion with *politically correct.* 
 *   PCB – printed circuit board 
 *   PDA – personal digital assistant. Becoming outdated. Be sure to make context clear to avoid confusion with *public display of affection.*  
+*   PDF (Portable Document Format, Adobe file format)
 *   peer-to-peer (adjective) 
 *   percent 
 *   Perl  

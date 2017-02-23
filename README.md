@@ -268,6 +268,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Debian
 *   Device Tree: a means of representing devices on the Raspberry Pi- see the original elinux documentation [here](http://elinux.org/Device_Tree).
 *   digital age, digital native, digital divide – avoid where possible. Dated jargon. 
+*   Digital Making Curriculum. Also: the Raspberry Pi Foundation's Digital Making Curriculum.
 *   dingbat – typographical ornament, such as ★. 
 *   disc/disk – magnetic storage is on disks, but optical storage is on discs: *floppy disks, compact discs.* 
 *   dongle 

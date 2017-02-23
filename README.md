@@ -82,13 +82,15 @@ Spell out abbreviations in the first instance in a chapter section, followed by 
 
 See the word list below for correct abbreviations and their capitalisations when spelt out. 
 
-## Numerals 
+## Numerals and numbers
 
 Spell out numbers one to twelve unless dealing with code or units of computer storage; express 13 and higher numbers as a numeral *unless* at the start of a sentence. *Eighteen bagpipers were shown to the door.*
 
 Subscript numerals (e.g. in chemical formulae) are fine in print, but not for online content. So *CO2* online, *CO<sub>2</sub>*  in print. 
 
 Use the multiplication symbol × when required, not the letter x. 
+
+Use 'more than' rather than 'over' when referring to something that can be counted: *more than 1000 people*, *more than a million Raspberry Pis*.
 
 ## URLs 
 

@@ -235,6 +235,7 @@ UK English should be used, with the exception of international organisations- fo
 *   CD-RW – CD-rewritable. Plural CD-RWs. 
 *   Celsius – can always be abbreviated to °C 
 *   centimetre (**not** centimeter) 
+*   Certified Educator (Picademy graduate)
 *   CGI – computer-generated imaging **or** common gateway interface **or** computer graphics interface. Be clear in the first reference in a section which you are referring to before reverting to the acronym. 
 *   chat room 
 *   checkbox 
@@ -547,6 +548,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb. 
 *   Pi Zero (plural Zeros)
 *   Picademy - training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.
+*   Pi In The Sky (PITS) board
 *   PIN – acronym for *personal identification number*. Do not use *PIN number*. 
 *   PIXEL (all caps) is the Raspbian desktop environment. Google's phone is Pixel, and the screen element is a pixel.
 *   playlist 

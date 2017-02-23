@@ -724,7 +724,7 @@ UK English should be used, with the exception of international organisations- fo
 *   web server 
 *   website 
 *   widescreen 
-*   WiFi - if referring to the Pi 3, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar. 
+*   WiFi - if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar. If you are not sure whether the connected item is licensed to use 'WiFi', use 'wireless LAN'.
 *   Wii – Nintendo trademark. Do not add an s to make plural. 
 *   Wiimote - controller for the Wii. Colloquial. (The official term is Wii Remote.)
 *   wiki – plural *wikis* 

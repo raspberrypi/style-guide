@@ -90,7 +90,7 @@ Subscript numerals (e.g. in chemical formulae) are fine in print, but not for on
 
 Use the multiplication symbol × when required, not the letter x. 
 
-Use 'more than' rather than 'over' when referring to something that can be counted: *more than 1000 people*, *more than a million Raspberry Pis*.
+Use 'more than' rather than 'over' when referring to something that can be counted: *more than 1000 bagpipers*, *more than a million folk music fans*.
 
 ## URLs 
 

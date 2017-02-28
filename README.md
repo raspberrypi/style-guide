@@ -468,6 +468,7 @@ UK English should be used, with the exception of international organisations- fo
 *   metadata 
 *   metatag 
 *   mg – miligram(s). Insert a space between the number and mg. 
+
 *   MHz – megahertz. No space between the number and MHz. 
 *   micro SD 
 *   micro USB 
@@ -522,6 +523,7 @@ UK English should be used, with the exception of international organisations- fo
 *   on-screen (adjective), on screen (adverb)
 *   open source (noun), open-source (adjective) 
 *   opt-in (noun, adjective), opt in (verb) 
+*   organiser
 *   OS – operating system. Plural OSes. 
 *   outbox 
 *   overclocking (noun), overclock (verb). Never the verb *clock*, which may mean something else entirely. If in doubt, clarify. For example, *dynamic frequency clocking*. 

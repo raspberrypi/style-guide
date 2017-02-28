@@ -478,7 +478,7 @@ UK English should be used, with the exception of international organisations- fo
 *   microsite 
 *   Microsoft .Net – Microsoft's trademark guidelines say that *Microsoft* should precede the *.Net* brand name in the first instance of use. Because the full stop can create confusion, insert *Microsoft* before *.Net* if it occurs at the start of a sentence. Better still, never use the term at all. 
 *   Microsoft Windows – see *Windows* 
-*   mike – short form of microphone (mic also acceptable) 
+s*   mike – short form of microphone (mic also acceptable) 
 *   million – use numerals and a space with *million*. Don't hyphenate the numeral and *million*, even before a noun. If you're forming a compound adjective, use a hyphen between the numeral and *million*. So: *4 million Raspberry Pis, a £4 million budget, a 4-million-year schedule.* 
 *   min. – abbreviation for minute; use only where space is at a premium, and note full stop. 
 *   mini SD
@@ -488,7 +488,7 @@ UK English should be used, with the exception of international organisations- fo
 *   mm – millimetre(s). Use a space between the number and mm.  
 *   mobile – acceptable as a noun when it's a short form of *mobile phone* 
 *   moon – lower case, whether referring to *the moon* or other moons. *Mercury does not have a moon.* 
-*   mouse – plural mice even when talking about computer peripherals 
+(*   mouse – plural mice even when talking about computer peripherals 
 *   mouseover, mouse over – do not use. Use *roll* or *move your mouse cursor over*, or an equivalent. 
 *   MP3 – abbreviation for MPEG-1 Audio Layer 3.  
 *   MPEG – Moving Picture Experts Group. Also refers to a compression methodology whose standards are set by this group.
@@ -498,8 +498,8 @@ UK English should be used, with the exception of international organisations- fo
 *   multi- – do not hyphenate words with this prefix unless the root word starts with an i or a capital letter. *Multiplayer, multicolour, multi-industry.* 
  
 ###N 
-
-*   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight. 
+ 
+(*   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight. 
 *   news feed 
 *   newsreader – both job title and RSS feed 
 *   Ni-MH – a kind of battery. Note capitalisation differs on expansion; cf. *nickel-metal hydride.*  
@@ -523,7 +523,7 @@ UK English should be used, with the exception of international organisations- fo
 *   on-screen (adjective), on screen (adverb)
 *   open source (noun), open-source (adjective) 
 *   opt-in (noun, adjective), opt in (verb) 
-*   organiser
+*   organiser (s, not z)
 *   OS – operating system. Plural OSes. 
 *   outbox 
 *   overclocking (noun), overclock (verb). Never the verb *clock*, which may mean something else entirely. If in doubt, clarify. For example, *dynamic frequency clocking*. 

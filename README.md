@@ -589,6 +589,8 @@ s*   mike – short form of microphone (mic also acceptable)
 *   Raspberry Pi Weekly (a weekly email newsletter)
 *   Raspi/Raspis and RPi/RPis are the only appropriate abbreviations of Raspberry Pi. 
 *   re- – close up this prefix with root words unless the root word starts with an e  or a capital letter. If it does, hyphenate. There are exceptions to this rule for the avoidance of confusion with other words: *re-create, re-cover, re-sent.* 
+*   Raspbian
+*   Raspbian Lite
 *   real time (noun), real-time (adjective) 
 *   reality TV 
 *   retweet 
@@ -645,6 +647,7 @@ s*   mike – short form of microphone (mic also acceptable)
 *   spell-checker, spell-check 
 *   splot – the individual nubble on a Lego brick. *A Raspberry Pi fits into a case measuring seven by eleven splots.*  
 *   spyware 
+*   SSH
 *   standalone 
 *   startup (noun, adjective), start up (verb) 
 *   style sheet – lower case even when referring to CSS. See CSS. 

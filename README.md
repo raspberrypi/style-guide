@@ -69,6 +69,8 @@ These are a few of my favourite things:
 *   Banditry 
 *   *Anne of Green Gables* 
 
+## *The* Raspberry Pi Foundation
+
 When referring to the company, use "the Raspberry Pi Foundation" with the definite article, never "Raspberry Pi Foundation" on its own without the article. "The Raspberry Pi Foundation" should always be used as the first instance in an article; "the Foundation" is fine subsequently. It's acceptable to omit the "the" on covers and in titles. However, for less formal text, 'Raspberry Pi' is preferable to 'the Foundation', and more outsider-friendly.
 
 ## Capitalisation 

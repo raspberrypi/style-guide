@@ -586,6 +586,7 @@ s*   mike – short form of microphone (mic also acceptable)
 *   RAM – random access memory 
 *   Raspberry Pi – plural Raspberry Pis 
 *   Raspberry Pi Foundation 
+*   Raspberry Pi Zero W (not 'Wireless'): confirmed by Eben, 10/03/17
 *   Raspberry Pi Weekly (a weekly email newsletter)
 *   Raspi/Raspis and RPi/RPis are the only appropriate abbreviations of Raspberry Pi. 
 *   Raspbian

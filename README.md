@@ -306,6 +306,7 @@ UK English should be used, with the exception of international organisations- fo
 *   ePub – electronic publication. An open-standard file format for e-books. 
 *   ESP – email service provider 
 *   -esque – Do not hyphenate words with this suffix unless the suffix creates a double vowel. *Turneresque, Dali-esque.* 
+*   etc.
 *   Ethernet (always capitalise) 
 *   EULA – end user licence agreement 
 *   ex. – do not use this abbreviation. Use *e.g.* instead. 

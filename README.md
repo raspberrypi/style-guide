@@ -86,7 +86,9 @@ See the word list below for correct abbreviations and their capitalisations when
 
 ## Numerals and numbers
 
-Spell out numbers one to twelve unless dealing with code or units of computer storage; express 13 and higher numbers as a numeral *unless* at the start of a sentence. *Eighteen bagpipers were shown to the door.*
+Spell out numbers one to twelve unless dealing with code or units of computer storage; express 13 and higher numbers as a numeral *unless* at the start of a sentence. *Eighteen bagpipers were shown to the door.* 
+
+For a range of numbers, try to keep a consistent format: *coding clubs for children aged 9-13*, *Pioneers are aged 11-16*, *one to twenty*. Use common sense: if following the style guide looks awful, (*coding clubs for children aged nine to 13*, *one to 20*), use a consistent format instead.
 
 Subscript numerals (e.g. in chemical formulae) are fine in print, but not for online content. So *CO2* online, *CO<sub>2</sub>*  in print. 
 

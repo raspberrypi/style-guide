@@ -73,6 +73,8 @@ These are a few of my favourite things:
 
 When referring to the company, use "the Raspberry Pi Foundation" with the definite article, never "Raspberry Pi Foundation" on its own without the article. "The Raspberry Pi Foundation" should always be used as the first instance in an article; "the Foundation" is fine subsequently. It's acceptable to omit the "the" on covers and in titles. However, for less formal text, 'Raspberry Pi' is preferable to 'the Foundation', and more outsider-friendly.
 
+For the Raspberry Pi Foundation team: Trustee, Member, founder, co-founder, Board of Trustees, group of Members. Other job titles as here: https://www.raspberrypi.org/about/team/
+
 ## Capitalisation 
 
 First word in chapter headings and titles take an initial capital, others lower case. (Sentence case.) 

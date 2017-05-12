@@ -153,6 +153,7 @@ UK English should be used, with the exception of international organisations- fo
 *   3D 
 *   3G, 4G (phone networks) 
 *   50-50 – not fifty-fifty  
+*   7-inch screen
 *   8-bit microprocessor 
 *   8×, 16× (CD or DVD drive speeds) – note multiplication symbol, not letter x. 
  

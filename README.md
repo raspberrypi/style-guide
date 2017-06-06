@@ -506,7 +506,7 @@ UK English should be used, with the exception of international organisations- fo
  
 ###N 
  
-(*   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight. 
+*   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight. 
 *   news feed 
 *   newsreader – both job title and RSS feed 
 *   Ni-MH – a kind of battery. Note capitalisation differs on expansion; cf. *nickel-metal hydride.*  

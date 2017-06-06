@@ -476,7 +476,6 @@ UK English should be used, with the exception of international organisations- fo
 *   metadata 
 *   metatag 
 *   mg – miligram(s). Insert a space between the number and mg. 
-
 *   MHz – megahertz. No space between the number and MHz. 
 *   micro SD 
 *   micro USB 
@@ -486,7 +485,7 @@ UK English should be used, with the exception of international organisations- fo
 *   microsite 
 *   Microsoft .Net – Microsoft's trademark guidelines say that *Microsoft* should precede the *.Net* brand name in the first instance of use. Because the full stop can create confusion, insert *Microsoft* before *.Net* if it occurs at the start of a sentence. Better still, never use the term at all. 
 *   Microsoft Windows – see *Windows* 
-s*   mike – short form of microphone (mic also acceptable) 
+*   mike – short form of microphone (mic also acceptable) 
 *   million – use numerals and a space with *million*. Don't hyphenate the numeral and *million*, even before a noun. If you're forming a compound adjective, use a hyphen between the numeral and *million*. So: *4 million Raspberry Pis, a £4 million budget, a 4-million-year schedule.* 
 *   min. – abbreviation for minute; use only where space is at a premium, and note full stop. 
 *   mini SD
@@ -496,7 +495,7 @@ s*   mike – short form of microphone (mic also acceptable)
 *   mm – millimetre(s). Use a space between the number and mm.  
 *   mobile – acceptable as a noun when it's a short form of *mobile phone* 
 *   moon – lower case, whether referring to *the moon* or other moons. *Mercury does not have a moon.* 
-(*   mouse – plural mice even when talking about computer peripherals 
+*   mouse – plural mice even when talking about computer peripherals 
 *   mouseover, mouse over – do not use. Use *roll* or *move your mouse cursor over*, or an equivalent. 
 *   MP3 – abbreviation for MPEG-1 Audio Layer 3.  
 *   MPEG – Moving Picture Experts Group. Also refers to a compression methodology whose standards are set by this group.

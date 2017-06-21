@@ -2,7 +2,7 @@
 
 A reference guide to the formatting and style choices which should be made when producing learning resources. 
 
-This guide should be used in conjunction with the main [Raspberry Pi Style Guide](https://github.com/raspberrypilearning/style-guide/style-guide.md), which gives advice on preferred spellings, capitalisation, formatting of times and dates, and a range of other material. 
+This guide should be used in conjunction with the main [Raspberry Pi Style Guide](../style-guide/style-guide.md), which gives advice on preferred spellings, capitalisation, formatting of times and dates, and a range of other material. 
 
 
 |Item |Format |Notes |   	

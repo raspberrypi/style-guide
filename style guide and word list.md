@@ -7,7 +7,7 @@ Unless the matter is mentioned below, please consult the *Oxford Guide to Style*
 
 The Raspberry Pi Foundation strives for an approachable, conversational tone in its materials. See www.raspberrypi.org for examples. 
 
-Formatting guidelines specific to the Raspberry Pi learning resources can be found in the [Style Guide for Raspberry Pi learning resources](https://github.com/raspberrypilearning/style-guide-for-resources), which should be used in conjunction with this Style Guide.
+Formatting guidelines specific to the Raspberry Pi learning resources can be found in the [Style Guide for Raspberry Pi learning resources](https://github.com/raspberrypilearning/style-guide/style-guide-for-resources.md), which should be used in conjunction with this Style Guide.
 
 ## Lists  
 

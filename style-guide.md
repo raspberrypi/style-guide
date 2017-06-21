@@ -1,4 +1,4 @@
-# Raspberry Pi Style Guide, v2.0
+# Raspberry Pi Style Guide 2.0
 
  
 This document is based on the original Style Guide from days of yore. It is a work in progress; the word list is still being updated to remove obsolete and duplicate entries, and there will also be specific sections on website guidelines in future.

@@ -3,7 +3,7 @@
  
 This document is based on the original Style Guide from days of yore. It is a work in progress; the word list is still being updated to remove obsolete and duplicate entries, and there will also be specific sections on website guidelines in future.
  
-Unless the matter is mentioned below, please consult the *Oxford Guide to Style*.
+Unless the matter is mentioned below, please consult the *New Oxford Style Manual*.
 
 The Raspberry Pi Foundation strives for an approachable, conversational tone in its materials. See www.raspberrypi.org for examples. 
 

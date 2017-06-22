@@ -1,6 +1,6 @@
 # Style Guide for Raspberry Pi learning resources
 
-A reference guide to the formatting and style choices which should be made when producing learning resources. 
+This is a reference guide to the formatting and style choices which should be made when producing Rapsberry Pi learning resources, and related worksheets. It should also be referred to in the case of worked examples or code produced for demonstration purposes, particularly in the Documentation repository.    
 
 This guide should be used in conjunction with the main [Raspberry Pi Style Guide](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide.md), which gives advice on preferred spellings, capitalisation, formatting of times and dates, and a range of other material. 
 

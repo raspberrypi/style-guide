@@ -3,7 +3,7 @@
  
 This document is based on the original Style Guide from days of yore. It is a work in progress; the word list is still being updated to remove obsolete and duplicate entries, and there will also be specific sections on website guidelines in future.
  
-Unless the matter is mentioned below, please consult the *New Hart's Rules: The Oxford Guide to Style*. If a particular spelling or hyphenation choice is not specified here, the version in the *Oxford English Dictionary* is to be preferred.  
+Unless the matter is mentioned below, please consult *New Hart's Rules: The Oxford Guide to Style*. If a particular spelling or hyphenation choice is not specified here, the version in the *Oxford English Dictionary* is to be preferred.  
 
 Formatting guidelines specific to the Raspberry Pi learning resources can be found in the [Style Guide for Raspberry Pi learning resources](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide-for-resources.md), which should be used in conjunction with this Style Guide.
 

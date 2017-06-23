@@ -114,6 +114,8 @@ Dates should be expressed *21 Jan 2006* etc. to avoid confusion with month/day o
 
 Season names should not be capitalised. 
 
+When referring to decades, use *the eighties* or *the 1980s*, but never *the '80s*. When referring to two decades use *the 1970s and 1980s*, even though *the 1970s and '80s* more accurately shows how such dates may be read out loud. When the name of a decade is used to define a social or cultural period it should be written as a word.
+
 ## Race, disability, gender 
 
 *Indian people* (or *Egyptian people, black people, Jewish people* etc.) never *Indians, Egyptians, blacks* or *Jews*. Similarly, use *disabled* as an adjective, never a noun. *Disabled people*, not *the disabled*. 

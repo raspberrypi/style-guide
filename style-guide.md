@@ -527,6 +527,7 @@ UK English should be used, with the exception of international organisations- fo
  
 ###O 
 
+*   object-oriented programming
 *   OEM – original equipment manufacturer. Preferable to *factory* when talking about the place where the Raspberry Pi is made. 
 *   offline 
 *   off-screen 

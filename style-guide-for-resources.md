@@ -22,7 +22,7 @@ This guide should be used in conjunction with the main [Raspberry Pi Style Guide
 |GPIO pin signals|Bold, Caps|**ON**, **OFF**.|
 |HAT pins or sockets|Bold|Example: **Motor 1 +**, **Input 1**.|
 |Resistors|Bold|Example: **R1**, **R2** (example from [Fart Detector](https://www.raspberrypi.org/learning/fart-detector/) resource).|
-|Words printed on a board (e.g. a HAT)|Bold|Example: Servos, Input, Output, Motion.|
+|Words printed on a board (e.g. a HAT)|Bold|Example: **Servos**, **Input**, **Output**, **Motion**.|
 |Explanations or notes|No formatting|Prefix with '**Note:**' if needed. Do not apply additional formatting (bold/italics/underlining).|
 |Binary numbers|Bold/no formatting|Bold for emphasis if required for emphasis/clarity. Otherwise, do not apply additional formatting.|
 |Attributions|Italics|Attributions should be italicised and made at the foot of the page, where necessary. See [the config.txt README](https://github.com/raspberrypi/documentation/tree/master/configuration/config-txt) in the Documentation repository for an example.|

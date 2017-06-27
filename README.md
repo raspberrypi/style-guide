@@ -6,3 +6,5 @@ This repository contains the following documents:
 - [**Style Guide for Raspberry Pi learning resources**](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide-for-resources.md): this guide should be used when preparing learning resources, to ensure that document formatting remains consistent across resources.  
 
 These guides are, inevitably, not exhaustive, and may be added to over time. Please be sure to refer to the version of the guide in this repository, which is considered to be the definitive record, and not to any forked copy you may have. 
+
+If you wish to suggest any changes to either of the guides, please submit a pull request or approach a member of the Comms team. 

@@ -7,6 +7,7 @@ This guide should be used in conjunction with the main [Raspberry Pi Style Guide
 
 |Item |Format |Notes |   	
 |---|---|---|
+|Headings and subheadings|Sentence case: capital letter on first word only|Example: 'What next?'|
 |Emphasis or new concept|Bold|Example: ‘Using an infinite loop to repeatedly check the status of the input pin is called **polling**.’ <br/><br/>Be sparing with the use of bold for emphasis: overuse can make the document look cluttered and confusing. Do **not** use italics for emphasis.|
 |Filename|Code|Example: ‘Save your file: we called ours `allseeingpi.py` but you can use a different name if you wish.’|   	
 |URL|Code|In many instances, URLs can be presented neatly as hyperlinks, for example: 'Visit the [Raspberry Pi homepage](raspberrypi.org) for more information'. <br/><br/>Code formatting should be used in cases where typing the URL forms part of the resource. For example: ‘url = foo.com’|

@@ -114,6 +114,8 @@ Dates should be expressed *21 Jan 2006* etc. to avoid confusion with month/day o
 
 Season names should not be capitalised. 
 
+An x-week period: hyphen between number and 'week'. *A six-week period*.
+
 When referring to decades, use *the eighties* or *the 1980s*, but never *the '80s*. When referring to two decades use *the 1970s and 1980s*, even though *the 1970s and '80s* more accurately shows how such dates may be read out loud. When the name of a decade is used to define a social or cultural period it should be written as a word.
 
 ## Race, disability, gender 
@@ -225,7 +227,9 @@ UK English should be used, with the exception of international organisations- fo
 *   blog 
 *   Blogger – Google trademark when referring to the blogging platform 
 *   blogroll 
-*   Blu-ray – a Blu-ray Disc Association (BDA) trademark, so note capitalisation and hyphen. Use as an adjective only. 
+*   Blu-ray – a Blu-ray Disc Association (BDA) trademark, so note capitalisation and hyphen. Use as an adjective only.
+*   Blu Tack (noun) - Bostik product 
+*   Blu-Tack (verb) - 'to Blu-Tack'/'Blu-Tacked'
 *   Bluetooth – Bluetooth SIG trademark. Note capitalisation and only use as an adjective. 
 *   BMP – bitmap.  
 *   boot ROM - a small piece of memory containing the first code executed by the processor on startup
@@ -267,6 +271,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Commodore 64 (computer) 
 *   Commodore Amiga – shorten to Amiga after first use 
 *   Commodore International – company producing the Commodore family of computers 
+*   Compute Module, Compute Module 3, Compute Module 3 Lite - CM1, CM3, CM3 Lite. Abbreviations should only be used after first using the full product name, and only where repeating the full name would become cumbersome.
 *   computer science (**not** computing science) 
 *   cookie – lower case for both biscuits and tracking cookies 
 *   corrupted – use *corrupted*, not *corrupt* when describing data. *The file is corrupted.*  
@@ -312,7 +317,8 @@ UK English should be used, with the exception of international organisations- fo
 *   EEG - electroencephalography 
 *   element14/Premier Farnell in the first instance in a chapter section, then just element14. Element14 should be capitalised if it appears at the beginning of a sentence; in general, try to avoid using at the start of a sentence. 
 *   email 
-*   Emotiv – company producing EEG headsets for neuro-signal work.  
+*   Emotiv – company producing EEG headsets for neuro-signal work. 
+*   end-of-year - adjective before a noun, as in 'end-of-year report'
 *   EPROM – erasable programmable read only memory 
 *   ePub – electronic publication. An open-standard file format for e-books. 
 *   ESP – email service provider 
@@ -337,6 +343,7 @@ UK English should be used, with the exception of international organisations- fo
 *   FireWire – trademark  
 *   Flash – capitalise if referring to Adobe Flash; if referring to Adobe Flash, *Flash* is a trademark, so use as an adjective. Do not confuse with *flash memory*, which is not capitalised and can be used as a noun. 
 *   flash memory 
+*   floating-point - adjective, as in 'floating-point number' 
 *   friend – can be used as a verb if referring to social networking. See *unfriend*. 
 *   FTP – File Transfer Protocol (note capitalisation) 
 *   full-screen
@@ -448,6 +455,7 @@ UK English should be used, with the exception of international organisations- fo
 *   LCD – liquid-crystal display. Plural LCDs. 
 *   learnt 
 *   LED – light-emitting diode. Plural LEDs. 
+*   left-hand - adjective. Use 'top left-hand side', not 'top left side' or 'top-left side'
 *   Lego – the Lego Group has trademarked LEGO (all caps), but Lego is an acceptable usage. See also *splot*. Adjective only. Plural *Lego bricks*. 
 *   LGBT – lesbian, gay, bisexual, transgender 
 *   Li-ion – lithium-ion (a kind of battery) 
@@ -464,6 +472,7 @@ UK English should be used, with the exception of international organisations- fo
 *   m – metre. Use a space between the number and m. *The sausage measured an amazing 6 m.* 
 *   Mac (for Macintosh) is acceptable usage 
 *   MacBook, MacBook Air, MacBook Pro – Apple trademarks, so do not add an s to make plural 
+*   macOS (**not** Mac OS, Mac OS X, OS X, or OSX) 
 *   machine – do not use as a synonym for computer. Use *computer*. 
 *   The MagPi - the official Raspberry Pi magazine
 *   mailbox 
@@ -513,6 +522,7 @@ UK English should be used, with the exception of international organisations- fo
 ###N 
  
 *   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight. 
+*   nano - linux text editor. Note lower case. Full name: 'GNU nano'
 *   news feed 
 *   newsreader – both job title and RSS feed 
 *   Ni-MH – a kind of battery. Note capitalisation differs on expansion; cf. *nickel-metal hydride.*  
@@ -530,6 +540,7 @@ UK English should be used, with the exception of international organisations- fo
 *   object-oriented programming
 *   OEM – original equipment manufacturer. Preferable to *factory* when talking about the place where the Raspberry Pi is made. 
 *   offline 
+*   offshoot
 *   off-screen 
 *   ohm
 *   OK – **not** okay, Ok or ok. OK? 
@@ -611,6 +622,7 @@ UK English should be used, with the exception of international organisations- fo
 *   reality TV 
 *   retweet 
 *   right-click 
+*   right-hand - adjective. Use 'top right-hand side', not 'top right side' or 'top-right side'
 *   ringtone 
 *   rock 'n' roll 
 *   ROM – read-only memory 
@@ -668,6 +680,7 @@ UK English should be used, with the exception of international organisations- fo
 *   startup (noun, adjective), start up (verb) 
 *   style sheet – lower case even when referring to CSS. See CSS. 
 *   sub- – close up this prefix with the root word unless the root word starts with a capital letter, in which case hyphenate. *Subdomain, sub-Victorian.* 
+*   substring
 *   sync, synched, synching 
  
 ###T 
@@ -741,6 +754,7 @@ UK English should be used, with the exception of international organisations- fo
 *   webinar (ghastly, but it appears we're stuck with it) 
 *   webisode (see *webinar*) 
 *   weblog – use only when explaining the etymology of the word *blog*, which is always to be preferred 
+*   web browser
 *   webmaster 
 *   webpage 
 *   web server 

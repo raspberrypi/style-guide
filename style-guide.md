@@ -605,6 +605,7 @@ UK English should be used, with the exception of international organisations- fo
 
 *   Q&A 
 *   QR code 
+*   quad-core - hyphenated when modifying a noun (processor, computer, etc.)
 *   QuickTime – Apple trademark 
  
 ###R 

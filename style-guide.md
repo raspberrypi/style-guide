@@ -691,6 +691,7 @@ UK English should be used, with the exception of international organisations- fo
 *   terminal - when talking about starting the command line in the GUI, 'open a terminal window' (never LXTerminal or similar) 
 *   Tetris (game) 
 *   text message (noun), text-message (adjective, verb). Acceptable to shorten to *text* 
+*   third-best selling general-purpose computer
 *   thousand – spell out when in inline text 
 *   thumb drive 
 *   timeshift, timeshifting 

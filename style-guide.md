@@ -154,7 +154,7 @@ UK English should be used, with the exception of international organisations- fo
  
 ## Word list 
 
-###&#35;
+### &#35;
 
 *   3D 
 *   3G, 4G (phone networks) 
@@ -163,7 +163,7 @@ UK English should be used, with the exception of international organisations- fo
 *   8-bit microprocessor 
 *   8×, 16× (CD or DVD drive speeds) – note multiplication symbol, not letter x. 
  
-###A 
+### A 
 
 *   AA batteries 
 *   abandonware – old software, where the IP holders are unknown 
@@ -194,7 +194,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Auto-Tune (capitalise – it's an Antares Audio Technologies trademark. Do not use as a verb.) 
 *   avatar (lower case unless you're talking about the movie!) 
  
-###B 
+### B 
 
 *   B.C. – place after the year. *The hoard dates back to around 700 B.C.* 
 *   back end (noun), back-end (adjective) 
@@ -236,7 +236,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Broadcom 
 *   BSD – Berkeley Software Distribution 
  
-###C
+### C
 
 *   C (language) 
 *   C# (language) 
@@ -280,7 +280,7 @@ UK English should be used, with the exception of international organisations- fo
 *   curriculum (pl. curricula
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
  
-###D 
+### D 
 
 *   data – treat as a singular noun. *The data is lost.* 
 *   database 
@@ -302,7 +302,7 @@ UK English should be used, with the exception of international organisations- fo
 *   DVD – digital video disc. No need to spell out the acronym in first use. 
 *   DVR – digital video recorder 
  
-###E 
+### E 
 
 *   e- – generally, hyphenate when a prefix. So: *e-book, e-card, e-reader*. Note exception for email. 
 *   e-book 
@@ -326,7 +326,7 @@ UK English should be used, with the exception of international organisations- fo
 *   EULA – end user licence agreement 
 *   ex. – do not use this abbreviation. Use *e.g.* instead. 
  
-###F 
+### F 
 
 *   fan page 
 *   fan site 
@@ -347,7 +347,7 @@ UK English should be used, with the exception of international organisations- fo
 *   full-screen
 *   function keys 
  
-###G 
+### G 
 
 *   g – gram(s). Use a numeral with g and use a space between the numeral and g. *The teabag weighs 7 g.* 
 *   gamer 
@@ -374,7 +374,7 @@ UK English should be used, with the exception of international organisations- fo
 *   guestbook 
 *   GUI – graphical user interface 
  
-###H 
+### H 
 
 *   hardcore 
 *   hashtag – Twitter term 
@@ -391,7 +391,7 @@ UK English should be used, with the exception of international organisations- fo
 *   HTML – Hypertext Markup Language 
 *   Hynix (company name) 
  
-###I 
+### I 
 
 *   I2C - Inter-Integrated Circuit, used for peripherals on the Pi.
 *   IBM (company name) 
@@ -419,14 +419,14 @@ UK English should be used, with the exception of international organisations- fo
 *   IT – information technology 
 *   iTunes – Apple trademark 
  
-###J 
+### J 
 
 *   Java – a Sun Microsystems trademark 
 *   JavaScript – a Sun Microsystems trademark 
 *   JPEG – Joint Photographic Experts Group 
 *   junk mail 
  
-###K 
+### K 
 
 *   k – do not use as an abbreviation for thousand. When talking about kilobytes, use kB, not k, which is outdated. *The original BBC Micro had 32kB memory.* 
 *   kb – kilobit. No space between the number and kb. 
@@ -444,7 +444,7 @@ UK English should be used, with the exception of international organisations- fo
 *   km – kilometre. Use a space between the number and km. *We drove 50 km.* 
 *   kmph – kilometres per hour. Use a space between the number and kmph. 
  
-###L 
+### L 
 
 *   l – litre. Use a space between the number and l. *The barman served drinks in 1 l glasses.* 
 *   LA – Los Angeles. Use only when space is at a premium. 
@@ -465,7 +465,7 @@ UK English should be used, with the exception of international organisations- fo
 *   lookup – one word when a noun or adjective: *lookup table* or *reverse phone number lookup*. Two words when a verb. *I tried to look up my ex's phone number.* 
 *   LXDE – Lightweight X11 Desktop Environment  
  
-###M 
+### M 
 
 *   m – metre. Use a space between the number and m. *The sausage measured an amazing 6 m.* 
 *   Mac (for Macintosh) is acceptable usage 
@@ -517,7 +517,7 @@ UK English should be used, with the exception of international organisations- fo
 *   MS-DOS – Microsoft Disk Operating System. Trademark for a Microsoft operating system from the DOS family. See *DOS*.
 *   multi- – do not hyphenate words with this prefix unless the root word starts with an i or a capital letter. *Multiplayer, multicolour, multi-industry.* 
  
-###N 
+### N 
  
 *   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight. 
 *   nano - linux text editor. Note lower case. Full name: 'GNU nano'
@@ -533,7 +533,7 @@ UK English should be used, with the exception of international organisations- fo
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
 *   NYC – New York City. Use only if space is tight. 
  
-###O 
+### O 
 
 *   object-oriented programming
 *   OEM – original equipment manufacturer. Preferable to *factory* when talking about the place where the Raspberry Pi is made. 
@@ -551,7 +551,7 @@ UK English should be used, with the exception of international organisations- fo
 *   outbox 
 *   overclocking (noun), overclock (verb). Never the verb *clock*, which may mean something else entirely. If in doubt, clarify. For example, *dynamic frequency clocking*. 
  
-###P 
+### P 
 
 *   P2P – peer-to-peer 
 *   Pac-Man (game) 
@@ -599,14 +599,14 @@ UK English should be used, with the exception of international organisations- fo
 *   PyGame 
 *   Python (language) 
  
-###Q 
+### Q 
 
 *   Q&A 
 *   QR code 
 *   quad-core - hyphenated when modifying a noun (processor, computer, etc.)
 *   QuickTime – Apple trademark 
  
-###R 
+### R 
 
 *   RAM – random access memory 
 *   Raspberry Pi – plural Raspberry Pis 
@@ -631,7 +631,7 @@ UK English should be used, with the exception of international organisations- fo
 *   RSS – Really Simple Syndication. Best practice is to use *RSS feed*, *RSS news feed* or *RSS newsreader*; few people know what RSS means on its own. 
 *   RTC – real-time clock 
  
-###S 
+### S 
 
 *   SanDisk (company) 
 *   screen – should only refer to a computer or television screen, not a *page* on a website.  
@@ -682,7 +682,7 @@ UK English should be used, with the exception of international organisations- fo
 *   substring
 *   sync, synched, synching 
  
-###T 
+### T 
 
 *   T-shirt 
 *   TeachMeet
@@ -711,7 +711,7 @@ UK English should be used, with the exception of international organisations- fo
 *   tweet 
 *   Twitter – Capitalise when talking about the website. Do not use as a verb to refer to communicating on Twitter. Use *tweet* instead. 
  
-###U 
+### U 
 
 *   UART – universal asynchronous receiver/transmitter 
 *   UI – user interface 
@@ -730,7 +730,7 @@ UK English should be used, with the exception of international organisations- fo
 *   userID 
 *   userland – OS software that does not belong in the kernel 
  
-###V 
+### V 
 
 *   VGA – video graphics array 
 *   video camera 
@@ -742,7 +742,7 @@ UK English should be used, with the exception of international organisations- fo
 *   VoIP – voice over Internet Protocol 
 *   VPN – virtual private network 
  
-###W 
+### W 
 
 *   wallpaper, wallpapers 
 *   WAN – wide area network 
@@ -775,7 +775,7 @@ UK English should be used, with the exception of international organisations- fo
 *   WWW 
 *   WYSIWIG – what you see is what you get 
  
-###X 
+### X 
 
 *   X-ray 
 *   x86 architecture 
@@ -783,12 +783,12 @@ UK English should be used, with the exception of international organisations- fo
 *   XHTML – Extensible Hypertext Markup Language 
 *   XML – Extensible Markup Language 
  
-###Y 
+### Y 
 
 *   Yahoo! – use the upper case Y and the exclamation mark when referring to the company or its brands 
 *   YouTube – Google trademark 
  
-###Z 
+### Z 
 
 *   ZX Spectrum 
 *   zip file 

@@ -714,7 +714,8 @@ UK English should be used, with the exception of international organisations- fo
 *   troubleshoot 
 *   TV (no need to spell out what the acronym means!) 
 *   tweet 
-*   Twitter – Capitalise when talking about the website. Do not use as a verb to refer to communicating on Twitter. Use *tweet* instead. 
+*   Twitter – Capitalise when talking about the website. Do not use as a verb to refer to communicating on Twitter. Use *tweet* instead.
+*   Twitter chat
  
 ###U 
 

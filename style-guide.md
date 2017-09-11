@@ -173,6 +173,7 @@ UK English should be used, with the exception of international organisations- fo
 *   adapter
 *   add-on; use 'add-on board', not 'card'
 *   adware 
+*   all-expenses-paid trip
 *   AMD (company name) 
 *   Amstrad (company name) 
 *   Amstrad CPC (computer), short for Amstrad Colour Personal Computer 
@@ -507,6 +508,7 @@ UK English should be used, with the exception of international organisations- fo
 *   ml – millilitre(s). Use a space between the number and ml. 
 *   mm – millimetre(s). Use a space between the number and mm.  
 *   mobile – acceptable as a noun when it's a short form of *mobile phone* 
+*   money-can't-buy prizes
 *   moon – lower case, whether referring to *the moon* or other moons. *Mercury does not have a moon.* 
 *   mouse – plural mice even when talking about computer peripherals 
 *   mouseover, mouse over – do not use. Use *roll* or *move your mouse cursor over*, or an equivalent. 
@@ -594,6 +596,7 @@ UK English should be used, with the exception of international organisations- fo
 *   program (computer) 
 *   programme (television, theatre etc.) 
 *   PS2, PS3, PS4 – acceptable abbreviations for Sony's *PlayStation 2*, *PlayStation 3*, and *PlayStation 4*. 
+*   pseudocode
 *   Puppy Linux 
 *   PuTTY: popular SSH/Telnet software used to access the Pi
 *   PyGame 
@@ -705,6 +708,8 @@ UK English should be used, with the exception of international organisations- fo
 *   trackpad 
 *   trade show 
 *   traveller, travelled, travelling 
+*   trinket - the trinket.io website
+*   trinket/trinkets - projects on trinket.io
 *   Trojan horse 
 *   troubleshoot 
 *   TV (no need to spell out what the acronym means!) 
@@ -725,7 +730,8 @@ UK English should be used, with the exception of international organisations- fo
 *   USA 
 *   USB – universal serial bus 
 *   USB flash drive 
-*   user  
+*   user 
+*   user base
 *   user name 
 *   userID 
 *   userland – OS software that does not belong in the kernel 

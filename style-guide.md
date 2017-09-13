@@ -120,6 +120,8 @@ When referring to decades, use *the eighties* or *the 1980s*, but never *the '80
 
 *Indian people* (or *Egyptian people, black people, Jewish people* etc.) never *Indians, Egyptians, blacks* or *Jews*. Similarly, use *disabled* as an adjective, never a noun. *Disabled people*, not *the disabled*. 
 
+Example access statement for Picademy: *The venue is described as being accessible for people with limited mobility. If you will need to use a car to access the venue, or if you have other access requirements or would like further information, please get in touch via email and let us know how we can help.*; further examples: www.accessibilityguides.org/prepare
+
 Copy should be gender neutral as far as possible. Using *they* as a singular pronoun is acceptable, and is preferable to alternating *he* and *she*, which can be clumsy and immersion breaking for the reader. Where possible, make nouns and pronouns plural: *Students should enter their passwords* is preferable to *Each student should enter his or her password.* 
 
 Avoid gendered job titles; there is usually an alternative. So *firefighter* instead of *fireman*; *flight attendant* instead of *stewardess.*  

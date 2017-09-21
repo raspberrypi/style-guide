@@ -282,7 +282,7 @@ UK English should be used, with the exception of international organisations- fo
 *   corrupted – use *corrupted*, not *corrupt* when describing data. *The file is corrupted.*  
 *   crawl – fine as a transitive verb meaning "to sift through" when applied to search engines 
 *   Creative Commons 
-*   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a web page.* 
+*   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a webpage.* 
 *   CSV – comma-separated values 
 *   curriculum (pl. curricula
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 

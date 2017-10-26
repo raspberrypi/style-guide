@@ -112,7 +112,7 @@ Omit http:// from URLs in print. Use hyperlinks in online content.
 
 Use the 24-hour clock. Separate hours and minutes with a **colon**. Include the appropriate time zone abbreviation. *8:00 BST, 16:15 GMT, 12:00 (noon), 24:00 (midnight)*, etc.
 
-Use the 12-hour clock in copy that **specifically** targets British or North American audiences (for example, a blog post about an event in New York, or a schedule for a Picademy in Cardiff). Include the appropriate time zone abbreviation for North American events. Use a full stop to separate hours and minutes. Separate the time and 'am/pm' with a thin space in print. *5am PDT, 8.20pm, 12 noon EST, 12 midnight*, etc.
+Use the 12-hour clock in copy that **specifically** targets British or North American audiences (for example, an email about an event in New York, or a schedule for a Picademy in Cardiff). Include the appropriate time zone abbreviation for North American events. Use a full stop to separate hours and minutes. Separate the time and 'am/pm' with a thin space in print. *5am PDT, 8.20pm, 12 noon EST, 12 midnight*, etc.
 
 Dates should be expressed *21 Jan 2006* etc. to avoid confusion with month/day ordering for readers outside the UK. Abbreviate months thus: *Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec.* 
 

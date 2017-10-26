@@ -110,7 +110,8 @@ Omit http:// from URLs in print. Use hyperlinks in online content.
 
 ## Time and date 
 
-Use the 24-hour clock. *1615h* etc.
+Use the 24-hour clock. Separate hours and minutes with a **colon**. Include the appropriate time zone abbreviation. *8:00 BST, 16:15 GMT, 12:00 (noon), 24:00 (midnight)*, etc.
+Use the 12-hour clock in copy that **specifically** targets British or North American audiences (for example, a blog post about an event that's taking place in New York, or a schedule for a Picademy in Cardiff). Include the appropriate time zone abbreviation for North American events. Use a full stop to separate hours and minutes. Separate the time and 'am/pm' with a thin space in print. *5am, 8.20pm, 12 noon, 12 midnight*, etc.
 
 Dates should be expressed *21 Jan 2006* etc. to avoid confusion with month/day ordering for readers outside the UK. Abbreviate months thus: *Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec.* 
 
@@ -122,7 +123,7 @@ When referring to decades, use *the eighties* or *the 1980s*, but never *the '80
 
 ## Race, disability, gender 
 
-*Indian people* (or *Egyptian people, black people, Jewish people* etc.) never *Indians, Egyptians, blacks* or *Jews*. Similarly, use *disabled* as an adjective, never a noun. *Disabled people*, not *the disabled*. 
+*Indian people* (or *Egyptian people, black people, Jewish people*, etc.) never *Indians, Egyptians, blacks* or *Jews*. Similarly, use *disabled* as an adjective, never a noun. *Disabled people*, not *the disabled*. 
 
 Example access statement for Picademy: *The venue is described as being accessible for people with limited mobility. If you will need to use a car to access the venue, or if you have other access requirements or would like further information, please get in touch via email and let us know how we can help.*; further examples: www.accessibilityguides.org/prepare
 

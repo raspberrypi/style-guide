@@ -501,7 +501,7 @@ UK English should be used, with the exception of international organisations- fo
 *   MHz – megahertz. No space between the number and MHz. 
 *   micro SD 
 *   micro USB
-*   micro:bit - a handheld, fully programmable computer which was given free to every Year 7 child across the UK. The Micro:bit Educational Foundation is trying to drop the 'BBC' in front of 'micro:bit'. If using just 'micro:bit', try not to begin sentences with it, due to the lowercase nature of the name.
+*   micro:bit – a handheld, fully programmable computer which was given free to every Year 7 child across the UK. The Micro:bit Educational Foundation is trying to drop the 'BBC' in front of 'micro:bit'. If using just 'micro:bit', try not to begin sentences with it, due to the lowercase nature of the name.
 *   Micro:bit Educational Foundation – see [here](http://microbit.org/about/). Note uppercase 'M'.
 *   microblog 
 *   microcontroller 

@@ -732,8 +732,8 @@ UK English should be used, with the exception of international organisations- fo
 *   trackpad 
 *   trade show 
 *   traveller, travelled, travelling 
-*   trinket - the trinket.io website
-*   trinket/trinkets - projects on trinket.io
+*   Trinket - the service provided on the trinket.io website, as well as the organisation. Note that capitalisation is used inconsistently in their website copy, so this usage is a judgement call by us. See below.
+*   trinket/trinkets - projects on trinket.io. See above.
 *   Trojan horse 
 *   troubleshoot 
 *   TV (no need to spell out what the acronym means!) 

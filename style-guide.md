@@ -200,7 +200,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Amstrad (company name) 
 *   Amstrad CPC (computer), short for Amstrad Colour Personal Computer 
 *   analogue 
-*   antenna (pl. antennae
+*   antenna (pl. antennae)
 *   antivirus  
 *   app – short form of application. Don’t use if there's potential for confusion. 
 *   Apple – Apple trademark. Do not add an s to make plural. 

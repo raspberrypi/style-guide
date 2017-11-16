@@ -40,7 +40,7 @@ Hyphen (-):
 En dash (–):
 - Use a closed-up en dash when writing ranges. _7–17, Monday–Friday_.
 - Use a closed-up en dash when expressing a connection, relation, or alternative. _Dover–Calais crossing, Williams–Navratilova match_.
-- Use a closed-up en dash to form compound words either when one of the components is itself a hyphenated word, or when one of the components is formed of two words. _e-book–only publisher, National Book Award–winning novelist, public school–educated student, liberal–conservative debate_.
+- Use a closed-up en dash to form compound words either when one of the components is itself a hyphenated word, or when one of the components is formed of two words. _Raspberry Pi–powered, e-book–only publisher, public school–educated student, liberal–conservative debate_.
 
 Em dash (—):
 - Use an em dash with space either side for parenthetical statements. Em dashes express a more pronounced break in the sentence than commas, and also draw more attention to the parenthetical. They express less of a break than parentheses, and are more informal. Do **not** overuse em dashes. _I didn't have an educated background — dad was a farm labourer._

@@ -256,6 +256,7 @@ UK English should be used, with the exception of international organisations- fo
 *   bps – bits per second 
 *   breadcrumb (when referring to website navigation) 
 *   Broadcom 
+*   brute-force — adjective, as in _brute-force attack_
 *   BSD – Berkeley Software Distribution 
  
 ###C

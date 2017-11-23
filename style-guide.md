@@ -399,6 +399,7 @@ UK English should be used, with the exception of international organisations- fo
  
 ###H 
 
+*   HackSpace magazine – **always** include _magazine_. Note capitals.
 *   hardcore 
 *   hashtag – Twitter term 
 *   HAT - Hardware Attached on Top, describing various add-on boards such as the Sense HAT

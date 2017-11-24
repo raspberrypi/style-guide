@@ -337,7 +337,8 @@ UK English should be used, with the exception of international organisations- fo
 *   Ed and Izzy - the two special Astro Pi units sent to the ISS with Tim Peake.
 *   EEG - electroencephalography 
 *   element14/Premier Farnell in the first instance in a chapter section, then just element14. Element14 should be capitalised if it appears at the beginning of a sentence; in general, try to avoid using at the start of a sentence. 
-*   email 
+*   email
+*   emoji – pl. emojis (even though this is a Japanese word, see _tsunami, tsunamis_)
 *   Emotiv – company producing EEG headsets for neuro-signal work. 
 *   end-of-year - adjective before a noun, as in 'end-of-year report'
 *   EPROM – erasable programmable read only memory 

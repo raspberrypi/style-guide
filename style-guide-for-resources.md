@@ -11,7 +11,7 @@ This guide should be used in conjunction with the main [Raspberry Pi Style Guide
 |Emphasis or new concept|Bold|Example: ‘Using an infinite loop to repeatedly check the status of the input pin is called **polling**.’ <br/><br/>Be sparing with the use of bold for emphasis: overuse can make the document look cluttered and confusing. Do **not** use italics for emphasis.|
 |File name|Code|Example: ‘Save your file: we called ours `allseeingpi.py` but you can use a different name if you wish.’|   	
 |URL|Code|In many instances, URLs can be presented neatly as hyperlinks, for example: 'Visit the [Raspberry Pi homepage](raspberrypi.org) for more information'. <br/><br/>Code formatting should be used in cases where typing the URL forms part of the resource. For example: ‘url = foo.com’|
-|Keystroke|Code|Example: ‘Press `Ctrl+S` to save your file, then `F5` to run it.’|
+|Keystroke|<kbd></kbd>|Example: ‘Press <kbd>Ctrl+S</kbd> to save your file, then <kbd>F5</kbd> to run it.’|
 |Menu item|Bold|Example: 'Select **New File**'.|
 |Menu items inside Scratch window or Python shell|Bold|Example: **Costumes**, **Motion** blocks.|
 |Python element (e.g. library)|Code|Match upper case/lower case. Be careful about names of libraries versus names of classes. For example: ‘The `picamera` library contains the `PiCamera` class.’|

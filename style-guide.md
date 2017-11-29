@@ -366,6 +366,7 @@ UK English should be used, with the exception of international organisations- fo
 *   Flash – capitalise if referring to Adobe Flash; if referring to Adobe Flash, *Flash* is a trademark, so use as an adjective. Do not confuse with *flash memory*, which is not capitalised and can be used as a noun. 
 *   flash memory 
 *   floating-point - adjective, as in 'floating-point number' 
+*   forgo – not _forego_
 *   friend – can be used as a verb if referring to social networking. See *unfriend*. 
 *   FTP – File Transfer Protocol (note capitalisation) 
 *   full-screen

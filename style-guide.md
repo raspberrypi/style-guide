@@ -430,7 +430,8 @@ UK English should be used, with the exception of international organisations- fo
 *   IMAX – trademark, so use as an adjective, not a noun 
 *   inbox 
 *   infrared 
-*   inkjet 
+*   inkjet
+*   install – install _on_ a computer, install _to_ a hard drive
 *   instant messenger– lower case unless a brand name like *AOL Instant Messenger* 
 *   internet (do not capitalise unless at start of sentence or in title case) 
 *   Internet of Things (IoT)
@@ -505,7 +506,8 @@ UK English should be used, with the exception of international organisations- fo
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 
 *   Mb – megabit 
-*   MB – megabyte (**not** MByte). No space between the number and MB. *My old Amiga only had 130MB hard drive space.* 
+*   MB – megabyte (**not** MByte). No space between the number and MB. *My old Amiga only had 130MB 
+drive space.* 
 *   Mbps – megabits per second. No space between number and Mbps. 
 *   MBps – megabytes per second. No space between number and MBps. 
 *   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to the Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.* 

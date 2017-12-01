@@ -602,7 +602,8 @@ UK English should be used, with the exception of international organisations- fo
 *   PhD 
 *   phishing – tricking someone into giving out sensitive information using an email that looks legitimate 
 *   photobooth
-*   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb. 
+*   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb.
+*   PiServer – a piece of software created by us for centrally controlling fleets of Pis (e.g. in a classroom)
 *   Pi In The Sky (PITS) board
 *   Pi Zero (plural Zeros)
 *   Picademy - training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.

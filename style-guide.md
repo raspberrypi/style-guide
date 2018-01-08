@@ -764,7 +764,7 @@ drive space.*
 *   USB flash drive 
 *   user 
 *   user base
-*   user name 
+*   username 
 *   userID 
 *   userland – OS software that does not belong in the kernel 
  

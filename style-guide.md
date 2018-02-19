@@ -206,10 +206,10 @@ UK English should be used, with the exception of international organisations- fo
 *   Apple – Apple trademark. Do not add an s to make plural. 
 *   applications processor 
 *   APT - Advanced Package Tool, used in Debian Linux to obtain software.
-*   Arch Linux 
+*   Arch Linux
 *   ARM architecture 
 *   ARM chipset 
-*   ARM Holdings (company name) 
+*   Arm Holdings (company name) — rebranded from ARM
 *   ARMv6, ARMv7 
 *   assembly language 
 *   Atheros (chipset, company name) 

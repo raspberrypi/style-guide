@@ -501,7 +501,8 @@ UK English should be used, with the exception of international organisations- fo
 *   macOS (**not** Mac OS, Mac OS X, OS X, or OSX) 
 *   machine – do not use as a synonym for computer. Use *computer*. 
 *   The MagPi - the official Raspberry Pi magazine
-*   mailbox 
+*   mailbox
+*   maker movement – **not** Maker Movement. Just stop that.
 *   makerspace
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 

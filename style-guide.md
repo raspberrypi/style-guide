@@ -3,7 +3,9 @@
  
 This document is based on the original Style Guide from days of yore. It is a work in progress; the word list is still being updated to remove obsolete and duplicate entries, and there will also be specific sections on website guidelines in future.
  
-Unless the matter is mentioned below, please consult *New Hart's Rules: The Oxford Guide to Style*. If a particular spelling or hyphenation choice is not specified here, the version in the *Oxford English Dictionary* is to be preferred.  
+When preparing copy for UK or international audiences (that is, the vast majority of our content), unless the matter is mentioned below, please consult *New Hart's Rules: The Oxford Guide to Style*. If a particular spelling or hyphenation choice is not specified here, the version in the *Oxford English Dictionary* is to be preferred.
+
+When editing copy that is intended specifically for a US audience, refer to *the Associated Press Stylebook*.
 
 Formatting guidelines specific to the Raspberry Pi learning resources can be found in the [Style Guide for Raspberry Pi learning resources](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide-for-resources.md), which should be used in conjunction with this Style Guide.
 
@@ -178,7 +180,9 @@ Please note that the final section in a resource should be titled **What next?**
  
 ## Spelling 
  
-UK English should be used, with the exception of international organisations- for example, The John F Kennedy Space *Center*. 
+In copy written primarily for a UK or an international audience, UK English should be used, with the exception of international organisations- for example, The John F Kennedy Space *Center*.
+
+In copy intended specifically for a US audience, US English should be used.
  
 ## Word list 
 

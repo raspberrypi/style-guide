@@ -530,7 +530,7 @@ drive space.*
 *   metatag 
 *   mg – miligram(s). Insert a space between the number and mg. 
 *   MHz – megahertz. No space between the number and MHz. 
-*   micro SD 
+*   micro SD – lower-case unless at the start of a sentence/bullet point
 *   micro USB
 *   micro:bit – a handheld, fully programmable computer which was given free to every Year 7 child across the UK. The Micro:bit Educational Foundation is trying to drop the 'BBC' in front of 'micro:bit'. If using just 'micro:bit', try not to begin sentences with it, due to the lowercase nature of the name.
 *   Micro:bit Educational Foundation – see [here](http://microbit.org/about/). Note uppercase 'M'.
@@ -543,7 +543,7 @@ drive space.*
 *   mike – short form of microphone (mic also acceptable) 
 *   million – use numerals and a space with *million*. Don't hyphenate the numeral and *million*, even before a noun. If you're forming a compound adjective, use a hyphen between the numeral and *million*. So: *4 million Raspberry Pis, a £4 million budget, a 4-million-year schedule.* 
 *   min. – abbreviation for minute; use only where space is at a premium, and note full stop. 
-*   mini SD
+*   mini SD – lower-case unless at the start of a sentence/bullet point
 *   mini USB
 *   mips – million instructions per second. No space between number and mips. 
 *   ml – millilitre(s). Use a space between the number and ml. 

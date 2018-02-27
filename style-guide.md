@@ -93,6 +93,12 @@ On business cards, always use 'Raspberry Pi Foundation', with no definite articl
 
 For the Raspberry Pi Foundation team: Trustee, Member, founder, co-founder, Board of Trustees, group of Members. Other job titles as here: https://www.raspberrypi.org/about/team/
 
+## Our charitable status
+
+The Raspberry Pi Foundation is registered with the Charity Commission for England and Wales. We can say that the Foundation is "a registered charity" or "UK registered charity 1129409".
+
+The Raspberry Pi Foundation North America is an official charity in the USA. According to the AP Stylebook, the only acceptable style is "501(c)(3)", and it can only be used as an adjective (501(c)(3) is the section of the US tax code that defines what a charity is). An example of a statement that correctly describes the status of our US charity is "The Raspberry Pi Foundation North America is a 501(c)(3) charity”.
+
 ## Capitalisation 
 
 First word in chapter headings and titles take an initial capital, others lower case. (Sentence case.) 

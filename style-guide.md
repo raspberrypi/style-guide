@@ -1,6 +1,5 @@
 # Raspberry Pi Style Guide 2.0
 
- 
 This document is based on the original Style Guide from days of yore. It is a work in progress; the word list is still being updated to remove obsolete and duplicate entries, and there will also be specific sections on website guidelines in future.
  
 When preparing copy for UK or international audiences (that is, the vast majority of our content), unless the matter is mentioned below, please consult *New Hart's Rules: The Oxford Guide to Style*. If a particular spelling or hyphenation choice is not specified here, the version in the *Oxford English Dictionary* is to be preferred.
@@ -100,6 +99,11 @@ For the Raspberry Pi Foundation team: Trustee, Member, founder, co-founder, Boar
 The Raspberry Pi Foundation is registered with the Charity Commission for England and Wales. We can say that the Foundation is "a registered charity" or "UK registered charity 1129409".
 
 The Raspberry Pi Foundation North America is an official charity in the USA. According to the AP Stylebook, the only acceptable style is "501(c)(3)", and it can only be used as an adjective (501(c)(3) is the section of the US tax code that defines what a charity is). An example of a statement that correctly describes the status of our US charity is "The Raspberry Pi Foundation North America is a 501(c)(3) charity”.
+
+## The Raspberry Pi computer
+
+For official nomenclature, refer to the [products page](https://www.raspberrypi.org/products/) (and the [FAQs](https://www.raspberrypi.org/help/faqs/) if still in doubt). Be careful with using _Pi 1_ — the _1_ is only necessary when you need to clearly distinguish it from other models.
+If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Model B_ > _Raspberry Pi 2 B_ > _Pi 2 B_
 
 ## Capitalisation 
 

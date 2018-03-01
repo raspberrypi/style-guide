@@ -103,7 +103,7 @@ The Raspberry Pi Foundation North America is an official charity in the USA. Acc
 ## The Raspberry Pi computer
 
 For official nomenclature, refer to the [products page](https://www.raspberrypi.org/products/) (and the [FAQs](https://www.raspberrypi.org/help/faqs/) if still in doubt). Be careful with using _Pi 1_ — the _1_ is only necessary when you need to clearly distinguish it from other models.
-If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Model B_ > _Raspberry Pi 2 B_ > _Pi 2 B_
+If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Model B_ > _Raspberry Pi 2B_ > _Pi 2B_
 
 ## Capitalisation 
 

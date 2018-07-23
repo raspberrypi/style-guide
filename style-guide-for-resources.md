@@ -27,5 +27,6 @@ This guide should be used in conjunction with the main [Raspberry Pi Style Guide
 |Explanations or notes|No formatting|Prefix with '**Note:**' if needed. Do not apply additional formatting (bold/italics/underlining).|
 |Binary numbers|Bold/no formatting|Bold for emphasis if required for emphasis/clarity. Otherwise, do not apply additional formatting.|
 |Attributions|Italics|Attributions should be italicised and made at the foot of the page, where necessary. See [the config.txt README](https://github.com/raspberrypi/documentation/tree/master/configuration/config-txt) in the Documentation repository for an example.|
+|Collapsible section headings|Express text as string when necessary|E.g. `title: "Advanced: install Mu on Windows/macOS using pip"`, otherwise the colon will break the project|
 
 

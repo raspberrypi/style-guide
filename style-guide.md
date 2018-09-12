@@ -226,6 +226,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Arm Holdings (company name) — rebranded from ARM
 *   ARMv6, ARMv7 
 *   assembly language 
+*   Astro Pi — find the style guide specific to this programme [here](https://docs.google.com/document/d/1cZFRJiBbAKol8LrtPgm8vMZUzs8HLZCl4pY3Heu6xNQ/edit?usp=sharing)
 *   Atheros (chipset, company name) 
 *   audio conference 
 *   Auto-Tune (capitalise – it's an Antares Audio Technologies trademark. Do not use as a verb.) 

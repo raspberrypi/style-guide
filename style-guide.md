@@ -201,9 +201,8 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###A 
 
-*   A level — **not** A Level. _She teaches computer science to her A-level students._
+*   A level — **not** A Level. _She teaches computer science to her A-level students._ See for example [this DfE documentation](https://www.gov.uk/education/as-and-a-level-changes-and-reforms).
 *   A level Computer Science — capitals **only** to be used to refer **specifically** to the curriculum subject (see above). _She teaches A level Computer Science at Hogwarts._
-*   AS level (see above)
 *   AA batteries 
 *   abandonware – old software, where the IP holders are unknown 
 *   Acorn Archimedes (computer) – shorten to Archimedes after first use 
@@ -228,6 +227,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   ARM chipset 
 *   Arm Holdings (company name) — rebranded from ARM
 *   ARMv6, ARMv7 
+*   AS level — see 'A level'
 *   assembly language 
 *   Astro Pi — find the style guide specific to this programme [here](https://docs.google.com/document/d/1cZFRJiBbAKol8LrtPgm8vMZUzs8HLZCl4pY3Heu6xNQ/edit?usp=sharing)
 *   Atheros (chipset, company name) 

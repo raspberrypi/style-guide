@@ -201,6 +201,9 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###A 
 
+*   A level — **not** A Level. _She teaches computer science to her A-level students._
+*   A level Computer Science — capitals **only** to be used to refer **specifically** to the curriculum subject (see above). _She teaches A level Computer Science at Hogwarts._
+*   AS level (see above)
 *   AA batteries 
 *   abandonware – old software, where the IP holders are unknown 
 *   Acorn Archimedes (computer) – shorten to Archimedes after first use 

@@ -295,6 +295,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   centimetre (**not** centimeter) 
 *   Certified Educator (Picademy graduate)
 *   CGI – computer-generated imaging **or** common gateway interface **or** computer graphics interface. Be clear in the first reference in a section which you are referring to before reverting to the acronym. 
+*   champion - lower case, even in the context of CoderDojo ("Thank you to all our wonderful CoderDojo champions and mentors!")
 *   chat room 
 *   checkbox 
 *   children's
@@ -306,6 +307,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   cm – centimetre. Use a space between the number and cm. *My thumb measures 4 cm.* 
 *   codebase
 *   codec – coder/decoder 
+*   CoderDojo - can refer to the network of coding clubs that we run, or to a particular club that is part of the CoderDojo network
 *   command line 
 *   Commodore 64 (computer) 
 *   Commodore Amiga – shorten to Amiga after first use 
@@ -331,6 +333,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Digital Making Curriculum. Also: the Raspberry Pi Foundation's Digital Making Curriculum.
 *   dingbat – typographical ornament, such as ★. 
 *   disc/disk – magnetic storage is on disks, but optical storage is on discs: *floppy disks, compact discs.* 
+*   Dojo - upper case when used to refer to a particular club in the CoderDojo network
 *   dongle 
 *   DoS – denial-of-service attack 
 *   DOS – Disk Operating System. Acronym for several closely related operating systems. 
@@ -532,7 +535,7 @@ drive space.*
 *   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to the Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.* 
 *   mens'
 *   mentee – never, ever use this horrible neologism. *Student* or *protégé* are acceptable substitutions. 
-*   mentor 
+*   mentor - lower case, including in the context of CoderDojo ("Thank you to all our wonderful CoderDojo champions and mentors!")
 *   message boards 
 *   metadata 
 *   metatag 
@@ -577,6 +580,7 @@ drive space.*
 *   Ni-MH – a kind of battery. Note capitalisation differs on expansion; cf. *nickel-metal hydride.*  
 *   NIC – network interface card 
 *   nickel-metal hydride – see *Ni-MH* 
+*   Ninja - upper case when used in the context of CoderDojo 
 *   no-no 
 *   No. 1 – see *number one* 
 *   Node-RED - a visual tool for wiring the Internet of Things, installed on Raspbian Jessie.

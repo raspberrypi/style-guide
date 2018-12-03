@@ -295,7 +295,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   centimetre (**not** centimeter) 
 *   Certified Educator (Picademy graduate)
 *   CGI – computer-generated imaging **or** common gateway interface **or** computer graphics interface. Be clear in the first reference in a section which you are referring to before reverting to the acronym. 
-*   champion - lower case, even in the context of CoderDojo ("Thank you to all our wonderful CoderDojo champions and mentors!")
+*   champion - lower case, including in the context of CoderDojo ("Thank you to all our wonderful CoderDojo champions and mentors!")
 *   chat room 
 *   checkbox 
 *   children's

@@ -122,9 +122,9 @@ Spell out numbers one to twelve unless dealing with code or units of computer st
 
 For a range of numbers, try to keep a consistent format: *coding clubs for children aged 9-13*, *Pioneers are aged 11-16*, *one to twenty*. Use common sense: if following the style guide looks awful, (*coding clubs for children aged nine to 13*, *one to 20*), use a consistent format instead.
 
-For numbers of more than four digits, use a thin space (Unicode U+2009) for formatting, instead of commas: *10 000*, *100 000*.
+For numbers of more than four digits, use commas: *10,000*, *100,000*.
 
-SI units take a thin space (Unicode U+2009) between the value and the unit: *2 m*, *2 kg*, *2 ohm*. Note that units of storage do not: *8MB*, *8GB*, *8TB*.
+There should be no space between the value and the unit whether you're using SI units or units of storage. *2 m*, *2 kg*, *2 ohm*. *8MB*, *8GB*, *8TB*.
 
 Subscript numerals (e.g. in chemical formulae) are fine in print, but not for online content. So *CO2* online, *CO<sub>2</sub>*  in print. 
 

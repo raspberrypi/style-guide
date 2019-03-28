@@ -676,6 +676,7 @@ drive space.*
 *   re- – close up this prefix with root words unless the root word starts with an e  or a capital letter. If it does, hyphenate. There are exceptions to this rule for the avoidance of confusion with other words: *re-create, re-cover, re-sent.* 
 *   real time (noun), real-time (adjective) 
 *   reality TV 
+*   Resource Repository - capitalised when referring to the NCCE Resource Repository. *We are building a resource repository called the Resource Repository.*
 *   retweet 
 *   right-click 
 *   right-hand - adjective. Use 'top right-hand side', not 'top right side' or 'top-right side'

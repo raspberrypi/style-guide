@@ -114,6 +114,8 @@ In all text, try to avoid the use of a trademark whose initial letter is in lowe
 
 Spell out abbreviations in the first instance in a chapter section, followed by the abbreviation in parentheses. Thereafter use the abbreviation. *The Raspberry Pi's brain is a system on a chip (SoC), made by stacking a memory chip on top of a processor chip. Using an SoC keeps the area of the Raspberry Pi board low.*
 
+Abbreviations should not be marked in this format: ***S**ystem **o**n a **C**hip*.
+
 See the word list below for correct abbreviations and their capitalisations when spelt out. 
 
 ## Numerals and numbers

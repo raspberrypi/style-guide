@@ -260,7 +260,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   biannual, bimonthly, biweekly – do **not** use. Instead use every two months or twice a month etc. which is longer, but which avoids confusion. 
 *   billion – use numerals with billion: *5 billion people*. Abbreviate to bil only if space is at a premium. 
 *   binary 
-*   binary blob – a pejorative term in the free software community. Do not use to refer to the GPU in the Raspberry Pi. 
+*   binary blob – a pejorative term in the free software community. Do not use to refer to the GPU in the Raspberry Pi.
+*   binary 1/binary 0 – write the digit, not the number
 *   BIOS – Basic Input/Output System 
 *   bitstream 
 *   BlackBerry – a Research In Motion (RIM) trademark, so note capitalisation, plural: *BlackBerry. BlackBerrys* is not correct and can be used only as part of a direct quotation. 
@@ -512,6 +513,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Linux – trademark owned by Linus Torvalds. Not capitalised in the same way as UNIX. 
 *   LiPo – lithium polymer (a kind of battery)
 *   lithium-ion – do not capitalise when written out in full (cf. *Li-ion*). 
+*   logic 1/logic 0 – write the digit, not the number
 *   login – one word when a noun or adjective. Two words when used as a verb. However, try to avoid using as a verb; *sign in* is preferable because it sounds less technical. 
 *   lookup – one word when a noun or adjective: *lookup table* or *reverse phone number lookup*. Two words when a verb. *I tried to look up my ex's phone number.* 
 *   LXDE – Lightweight X11 Desktop Environment  

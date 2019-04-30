@@ -100,6 +100,8 @@ The Raspberry Pi Foundation is registered with the Charity Commission for Englan
 
 The Raspberry Pi Foundation North America is an official charity in the USA. According to the AP Stylebook, the only acceptable style is "501(c)(3)", and it can only be used as an adjective (501(c)(3) is the section of the US tax code that defines what a charity is). The consensus from a discussion with several US-based 501(c)(3) leaders was that it's best to refer to RPFNA as a nonprofit, rather than a charity. Therefore, at the bottom of flyers and similar assets used by RPFNA, we should include the line "The Raspberry Pi Foundation North America is a 501(c)(3) nonprofit”.
 
+The Raspberry Pi Foundation is referred to as a "non-profit" rather than a "charity" in copy which specifically addresses an Indian audience, as "charity" can have negative connotations in India.
+
 ## The Raspberry Pi computer
 
 For official nomenclature, refer to the [products page](https://www.raspberrypi.org/products/) (and the [FAQs](https://www.raspberrypi.org/help/faqs/) if still in doubt). Be careful with using _Pi 1_ — the _1_ is only necessary when you need to clearly distinguish it from other models.

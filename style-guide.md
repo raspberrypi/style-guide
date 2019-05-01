@@ -222,10 +222,10 @@ In copy intended specifically for a US audience, US English should be used.
 *   analogue 
 *   antenna (pl. antennae)
 *   antivirus  
-*   app – short form of application. Don’t use if there's potential for confusion. 
-*   Apple – Apple trademark. Do not add an s to make plural. 
+*   app – short form of application. Don’t use if there's potential for confusion
+*   Apple – Apple trademark. Do not add an s to make plural
 *   applications processor 
-*   APT - Advanced Package Tool, used in Debian Linux to obtain software.
+*   apt - Advanced Package Tool, used in Debian Linux to obtain software (APT is not really an acronym. It was originally, it's just 'apt' now.)
 *   Arch Linux
 *   ARM architecture 
 *   ARM chipset 
@@ -322,7 +322,9 @@ In copy intended specifically for a US audience, US English should be used.
 *   cookie – lower case for both biscuits and tracking cookies 
 *   corrupted – use *corrupted*, not *corrupt* when describing data. *The file is corrupted.*  
 *   crawl – fine as a transitive verb meaning "to sift through" when applied to search engines 
-*   Creative Commons 
+*   Creative Commons
+*   cron – time-based job scheduler in Unix-like computer operating systems
+*   crontab – cron table, a configuration file driving cron that specifies shell commands to run periodically on a given schedule
 *   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a webpage.* 
 *   CSV – comma-separated values 
 *   curriculum (pl. curricula
@@ -417,13 +419,14 @@ In copy intended specifically for a US audience, US English should be used.
 *   GNU Linux 
 *   Google – Google trademark. Google's guidelines say you may not use the trademark as a verb, despite common usage; use *search [with Google]* or *search for* instead. 
 *   GPIO - General-Purpose Input/Output
-*   GPIO Zero
+*   GPIO Zero – GPIO Zero is the name of the project, but gpiozero is an acceptable alternative when referring to the module
 *   GPU – graphics processing unit 
 *   gram – see g 
 *   grey – not gray  
 *   GSM – Global System for Mobile Communications 
 *   guestbook 
 *   GUI – graphical user interface 
+*   guizero
  
 ###H 
 
@@ -445,8 +448,8 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###I 
 
-*   I2C - Inter-Integrated Circuit, used for peripherals on the Pi.
-*   IBM (company name) 
+*   I2C - Inter-Integrated Circuit, used for peripherals on the Pi; I<sup>2</sup>C if possible, I2C is acceptable
+*   IBM  – company name
 *   IC – integrated circuit 
 *   ICT – information and communications technology, **not** information and communication technology 
 *   ID – identification. Plural IDs. Avoid using as a verb unless space is very restricted; use apostrophe in verb form. Where possible, *The bouncer checks drinkers' identification*, not *The bouncer ID’s drinkers.* 
@@ -590,6 +593,7 @@ drive space.*
 *   no-no 
 *   No. 1 – see *number one* 
 *   Node-RED - a visual tool for wiring the Internet of Things, installed on Raspbian Jessie.
+*   Node.js
 *   NOOBS - New Out Of Box Software, used to easily install an operating system on the Pi.
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
 *   NYC – New York City. Use only if space is tight. 
@@ -659,7 +663,8 @@ drive space.*
 *   pseudocode
 *   Puppy Linux 
 *   PuTTY: popular SSH/Telnet software used to access the Pi
-*   PyGame 
+*   Pygame
+*   Pygame Zero
 *   Python (language) 
  
 ###Q 
@@ -683,6 +688,7 @@ drive space.*
 *   real time (noun), real-time (adjective) 
 *   reality TV 
 *   Resource Repository - capitalised when referring to the NCCE Resource Repository. *We are building a resource repository called the Resource Repository.*
+*   RetroPiE – the E stands for 'emulator'
 *   retweet 
 *   right-click 
 *   right-hand - adjective. Use 'top right-hand side', not 'top right side' or 'top-right side'

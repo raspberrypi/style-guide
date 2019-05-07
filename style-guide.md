@@ -688,7 +688,7 @@ drive space.*
 *   real time (noun), real-time (adjective) 
 *   reality TV 
 *   Resource Repository - capitalised when referring to the NCCE Resource Repository. *We are building a resource repository called the Resource Repository.*
-*   RetroPiE – the E stands for 'emulator'
+*   RetroPie – not _Retropie_ or _RetroPiE_
 *   retweet 
 *   right-click 
 *   right-hand - adjective. Use 'top right-hand side', not 'top right side' or 'top-right side'

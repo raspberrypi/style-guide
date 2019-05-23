@@ -581,9 +581,10 @@ drive space.*
 *   multi- – do not hyphenate words with this prefix unless the root word starts with an i or a capital letter. *Multiplayer, multicolour, multi-industry.* 
  
 ###N 
- 
-*   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight. 
+
 *   nano - linux text editor. Note lower case. Full name: 'GNU nano'
+*   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight.
+*   newline – the control character
 *   news feed 
 *   newsreader – both job title and RSS feed 
 *   Ni-MH – a kind of battery. Note capitalisation differs on expansion; cf. *nickel-metal hydride.*  

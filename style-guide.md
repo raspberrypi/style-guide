@@ -105,7 +105,9 @@ The Raspberry Pi Foundation is referred to as a "non-profit" rather than a "char
 ## Raspberry Pi computers
 
 "Raspberry Pi 4", "Raspberry Pi Zero", and so on; not "_the_ Raspberry Pi 4" or "_the_ Raspberry Pi Zero", and not just "Pi 4" or "Pi Zero". The plural of "Raspberry Pi" is "Raspberry Pis" (no apostrophe); but use "Raspberry Pi computers", "Raspberry Pi devices", etc where possible.
+
 To check official nomenclature, refer to the [products page](https://www.raspberrypi.org/products/) (and the [FAQs](https://www.raspberrypi.org/help/faqs/) if still in doubt).
+
 Be careful with using _Raspberry Pi 1_ — the _1_ is only necessary when you need to clearly distinguish it from other models.
 If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Model B_ > _Raspberry Pi 2B_ >
 

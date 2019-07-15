@@ -102,10 +102,12 @@ The Raspberry Pi Foundation North America is an official charity in the USA. Acc
 
 The Raspberry Pi Foundation is referred to as a "non-profit" rather than a "charity" in copy which specifically addresses an Indian audience, as "charity" can have negative connotations in India.
 
-## The Raspberry Pi computer
+## Raspberry Pi computers
 
-For official nomenclature, refer to the [products page](https://www.raspberrypi.org/products/) (and the [FAQs](https://www.raspberrypi.org/help/faqs/) if still in doubt). Be careful with using _Pi 1_ — the _1_ is only necessary when you need to clearly distinguish it from other models.
-If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Model B_ > _Raspberry Pi 2B_ > _Pi 2B_
+"Raspberry Pi 4", "Raspberry Pi Zero", and so on; not "_the_ Raspberry Pi 4" or "_the_ Raspberry Pi Zero", and not just "Pi 4" or "Pi Zero". The plural of "Raspberry Pi" is "Raspberry Pis" (no apostrophe); but use "Raspberry Pi computers", "Raspberry Pi devices", etc where possible.
+To check official nomenclature, refer to the [products page](https://www.raspberrypi.org/products/) (and the [FAQs](https://www.raspberrypi.org/help/faqs/) if still in doubt).
+Be careful with using _Raspberry Pi 1_ — the _1_ is only necessary when you need to clearly distinguish it from other models.
+If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Model B_ > _Raspberry Pi 2B_ >
 
 ## Capitalisation 
 
@@ -114,7 +116,7 @@ In all text, try to avoid the use of a trademark whose initial letter is in lowe
 
 ## Abbreviations 
 
-Spell out abbreviations in the first instance in a chapter section, followed by the abbreviation in parentheses. Thereafter use the abbreviation. *The Raspberry Pi's brain is a system on a chip (SoC), made by stacking a memory chip on top of a processor chip. Using an SoC keeps the area of the Raspberry Pi board low.*
+Spell out abbreviations in the first instance in a chapter section, followed by the abbreviation in parentheses. Thereafter use the abbreviation. *Raspberry Pi's brain is a system on a chip (SoC), made by stacking a memory chip on top of a processor chip. Using an SoC keeps the area of the Raspberry Pi board low.*
 
 Abbreviations should not be marked in this format: ***S**ystem **o**n a **C**hip*.
 
@@ -255,14 +257,14 @@ In copy intended specifically for a US audience, US English should be used.
 *   BBC Model A 
 *   BBC Model B 
 *   Bcc – blind carbon copy. Do not spell out this acronym. (See also Cc.) Also Bcc'd, Bcc'ing. 
-*   BCM2835 – SoC made by Broadcom, used in the Raspberry Pi. Can be shortened to 2835 after first use. 
+*   BCM2XXX (eg BCM2835, BCM2837, BCM2711) – SoCs made by Broadcom, used in Raspberry Pi computers. Can be shortened to 2835, 2837, 2711 after first use. 
 *   Beagle Board 
 *   beta – do not capitalise unless part of an official product lane. *Raspberry Pi's beta release for developers; try Yahoo! Messenger Beta.* 
 *   BGA – ball grid array 
 *   biannual, bimonthly, biweekly – do **not** use. Instead use every two months or twice a month etc. which is longer, but which avoids confusion. 
 *   billion – use numerals with billion: *5 billion people*. Abbreviate to bil only if space is at a premium. 
 *   binary 
-*   binary blob – a pejorative term in the free software community. Do not use to refer to the GPU in the Raspberry Pi.
+*   binary blob – a pejorative term in the free software community. Do not use to refer to the GPU in Raspberry Pi computers.
 *   binary 1/binary 0 – write the digit, not the number
 *   BIOS – Basic Input/Output System 
 *   bitstream 
@@ -335,7 +337,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   data – treat as a singular noun. *The data is lost.* 
 *   database 
 *   Debian
-*   Device Tree: a means of representing devices on the Raspberry Pi- see the original elinux documentation [here](http://elinux.org/Device_Tree).
+*   Device Tree: a means of representing devices on Raspberry Pi- see the original elinux documentation [here](http://elinux.org/Device_Tree).
 *   digital age, digital native, digital divide – avoid where possible. Dated jargon. 
 *   Digital Making Curriculum. Also: the Raspberry Pi Foundation's Digital Making Curriculum.
 *   dingbat – typographical ornament, such as ★. 
@@ -448,7 +450,7 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###I 
 
-*   I2C - Inter-Integrated Circuit, used for peripherals on the Pi; I<sup>2</sup>C if possible, I2C is acceptable
+*   I2C - Inter-Integrated Circuit, used for peripherals on Raspberry Pi; I<sup>2</sup>C if possible, I2C is acceptable
 *   IBM  – company name
 *   IC – integrated circuit 
 *   ICT – information and communications technology, **not** information and communication technology 
@@ -541,7 +543,7 @@ In copy intended specifically for a US audience, US English should be used.
 drive space.* 
 *   Mbps – megabits per second. No space between number and Mbps. 
 *   MBps – megabytes per second. No space between number and MBps. 
-*   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to the Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.* 
+*   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.* 
 *   mens'
 *   mentee – never, ever use this horrible neologism. *Student* or *protégé* are acceptable substitutions. 
 *   mentor - lower case, including in the context of CoderDojo ("Thank you to all our wonderful CoderDojo champions and mentors!")
@@ -596,14 +598,14 @@ drive space.*
 *   No. 1 – see *number one* 
 *   Node-RED - a visual tool for wiring the Internet of Things, installed on Raspbian Jessie.
 *   Node.js
-*   NOOBS - New Out Of Box Software, used to easily install an operating system on the Pi.
+*   NOOBS - New Out Of Box Software, used to easily install an operating system on Raspberry Pi.
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
 *   NYC – New York City. Use only if space is tight. 
  
 ###O 
 
 *   object-oriented programming
-*   OEM – original equipment manufacturer. Preferable to *factory* when talking about the place where the Raspberry Pi is made. 
+*   OEM – original equipment manufacturer. Preferable to *factory* when talking about the place where Raspberry Pi computers are made. 
 *   offline 
 *   offshoot
 *   off-screen 
@@ -640,7 +642,7 @@ drive space.*
 *   phishing – tricking someone into giving out sensitive information using an email that looks legitimate 
 *   photobooth
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb.
-*   PiServer – a piece of software created by us for centrally controlling fleets of Pis (e.g. in a classroom)
+*   PiServer – a piece of software created by us for centrally controlling fleets of Raspberry Pis (e.g. in a classroom)
 *   Pi In The Sky (PITS) board
 *   Pi Zero (plural Zeros)
 *   Picademy - training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.
@@ -664,7 +666,7 @@ drive space.*
 *   PS2, PS3, PS4 – acceptable abbreviations for Sony's *PlayStation 2*, *PlayStation 3*, and *PlayStation 4*. 
 *   pseudocode
 *   Puppy Linux 
-*   PuTTY: popular SSH/Telnet software used to access the Pi
+*   PuTTY: popular SSH/Telnet software used to access Raspberry Pi
 *   Pygame
 *   Pygame Zero
 *   Python (language) 

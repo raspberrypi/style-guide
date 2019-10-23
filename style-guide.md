@@ -495,6 +495,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   kBps – kilobytes per second. No space between the number and kBps. 
 *   keylogger 
 *   key press
+*   Key Stage – in UK school system, note upper-case letters
 *   keyword – search engine term. *Think about the best keywords to use on your webpage*. Use key word when referring to a critical word. *She couldn't remember what else he'd said. The key word in his last sentence was "bagpipes".* 
 *   kids'
 *   kg – kilogram(s). Space between number and kg. 

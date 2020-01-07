@@ -842,7 +842,7 @@ drive space.*
 *   web server 
 *   website 
 *   widescreen 
-*   WiFi - if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar. If you are not sure whether the connected item is licensed to use 'WiFi', use 'wireless LAN'.
+*   WiFi or Wi-Fi - if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar. If you are not sure whether the connected item is licensed to use 'Wi-Fi', use 'wireless LAN'. Note that "wireless" is sometimes an acceptable substitution, but "wireless LAN" makes clear that we are not referring to Bluetooth connectivity.
 *   Wii – Nintendo trademark. Do not add an s to make plural. 
 *   Wiimote - controller for the Wii. Colloquial. (The official term is Wii Remote.)
 *   wiki – plural *wikis* 

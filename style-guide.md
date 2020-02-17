@@ -554,7 +554,8 @@ drive space.*
 *   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.* 
 *   mens'
 *   mentee – never, ever use this horrible neologism. *Student* or *protégé* are acceptable substitutions. 
-*   mentor - lower case, including in the context of CoderDojo ("Thank you to all our wonderful CoderDojo champions and mentors!")
+*   mentor - lower case, including in the context of CoderDojo. _Thank you to all our wonderful CoderDojo champions and mentors!_
+*   membership – one has, applies for, pays for, gives, etc. membership _of_ a club, society, association etc.
 *   message boards 
 *   metadata 
 *   metatag 

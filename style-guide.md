@@ -52,8 +52,8 @@ Colon:
 - When a colon is preceded by a header-style construction, the letter following the colon should be upper-case. E.g. _Note: This wouldn’t look so great with a lower-case t._
 
 Quotation marks (' and "):
-- Do **not** use scare quotes (quotation marks put around a word or phrase in a written sentence in order to show that the word is being used in a special way or in a way that may not be correct or true). Scare quotes make for a vague, sensationalist writing style.
-- Use single quotes to highlight a word/phrase when needed, such as when you introduce a new term or need to offset the name of something. E.g. _Ask what the word 'system' means._ or _Hand out the ‘Bicycle system’ activity sheet._
+- Do **not** use scare quotes (quotation marks put around a word or phrase in a written sentence in order to show that the word is being used in a special way, or in a way that may not be correct or true). Scare quotes make for vague, sensationalist writing. You can write better than that.
+- Use single quotes to highlight a word/phrase when needed, such as when you introduce a new term, need to offset a title. E.g. _Ask what the word 'system' means._ or _Hand out the ‘Bicycle system’ activity sheet._
    - Be judicious in your use of quotation marks in this way: if the word/phrase stands out to the reader without them, leave them out; if the reader might stumble over the word/phrase without them, put them in.
 - Use double quotation marks **only** to indicate actual quoted speech.
    - In large sections of quoted speech, put double quotation marks at the end of each paragraph rather than omitting them, as per the Oxford Guide to Style.
@@ -528,7 +528,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   LGBT – lesbian, gay, bisexual, transgender 
 *   Li-ion – lithium-ion (a kind of battery) 
 *   licence/license –  licence (noun), license (verb). We are not American! 
-*   like – when using as a Facebook verb, enclose in quotation marks. *Thousands of people "like" Raspberry Pi on Facebook, helping the charity to raise funds.* If producing online materials and treating the term as a user-interface object (viz. as a link or a button), use a hyperlink to make it stand out, and do not use quotation marks. 
+*   like – when using as a Facebook verb, enclose in quotation marks. *Thousands of people 'like' Raspberry Pi on Facebook, helping the charity to raise funds.* If producing online materials and treating the term as a user-interface object (viz. as a link or a button), use a hyperlink to make it stand out, and do not use quotation marks. 
 *   Linux – trademark owned by Linus Torvalds. Not capitalised in the same way as UNIX. 
 *   LiPo – lithium polymer (a kind of battery)
 *   lithium-ion – do not capitalise when written out in full (cf. *Li-ion*). 

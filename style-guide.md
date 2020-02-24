@@ -51,10 +51,14 @@ Colon:
 - When a colon is used in free text, the letter following the colon should be lower-case. E.g. _I have three dogs: a small one, a medium one, and a big one._
 - When a colon is preceded by a header-style construction, the letter following the colon should be upper-case. E.g. _Note: This wouldn’t look so great with a lower-case t._
 
+Quotation marks (' and "):
+- Do **not** use scare quotes (quotation marks put around a word or phrase in a written sentence in order to show that the word is being used in a special way or in a way that may not be correct or true). Scare quotes make for a vague, sensationalist writing style.
+- Use single quotes to highlight a word/phrase when needed, such as when you introduce a new term or need to offset the name of something. E.g. _Ask what the word 'system' means._ or _Hand out the ‘Bicycle system’ activity sheet._
+   - Be judicious in your use of quotation marks in this way: if the word/phrase stands out to the reader without them, leave them out; if the reader might stumble over the word/phrase without them, put them in.
+- Use double quotation marks **only** to indicate actual quoted speech.
+   - In large sections of quoted speech, put double quotation marks at the end of each paragraph rather than omitting them, as per the Oxford Guide to Style.
 
 Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* 
-
-In large sections of quoted speech, leave quotation marks at the end of each paragraph rather than omitting them, as per the Oxford Guide to Style.
 
 Do **not** use ampersands (&); always use 'and'. The exception might be in a print article for one of our magazines, where space is at a premium.
 

@@ -337,7 +337,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Creative Commons
 *   cron – time-based job scheduler in Unix-like computer operating systems
 *   crontab – cron table, a configuration file driving cron that specifies shell commands to run periodically on a given schedule
-*   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a webpage.* 
+*   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a web page.* 
 *   CSV – comma-separated values 
 *   curriculum (pl. curricula
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
@@ -505,7 +505,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   keylogger 
 *   key press
 *   Key Stage – in UK school system, note upper-case letters
-*   keyword – search engine term. *Think about the best keywords to use on your webpage*. Use key word when referring to a critical word. *She couldn't remember what else he'd said. The key word in his last sentence was "bagpipes".* 
+*   keyword – search engine term. *Think about the best keywords to use on your web page*. Use key word when referring to a critical word. *She couldn't remember what else he'd said. The key word in his last sentence was "bagpipes".* 
 *   kids'
 *   kg – kilogram(s). Space between number and kg. 
 *   kHz – kilohertz. No space between the number and kHz.  

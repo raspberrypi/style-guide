@@ -847,7 +847,7 @@ drive space.*
 *   weblog – use only when explaining the etymology of the word *blog*, which is always to be preferred 
 *   web browser
 *   webmaster 
-*   webpage 
+*   web page 
 *   web server 
 *   website 
 *   widescreen 

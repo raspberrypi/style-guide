@@ -134,7 +134,7 @@ See the word list below for correct abbreviations and their capitalisations when
 
 ## Numerals and numbers
 
-Spell out numbers one to twelve unless dealing with code or units of computer storage; express 13 and higher numbers as a numeral *unless* at the start of a sentence. *Eighteen bagpipers were shown to the door.* 
+Unless you are dealing with code, units of computer storage, or maths materials/equations, spell out numbers one to twelve; express 13 and higher numbers as a numeral *unless* at the start of a sentence. *Eighteen bagpipers were shown to the door.* 
 
 For a range of numbers, try to keep a consistent format: *coding clubs for children aged 9-13*, *Pioneers are aged 11-16*, *one to twenty*. Use common sense: if following the style guide looks awful, (*coding clubs for children aged nine to 13*, *one to 20*), use a consistent format instead.
 

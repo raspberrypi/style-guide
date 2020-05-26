@@ -472,6 +472,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   IM – instant message. Plural IMs. Avoid using as a verb unless space is very restricted. 
 *   IMAX – trademark, so use as an adjective, not a noun 
 *   inbox 
+*   index – plural: indices, *not* indexes (esp. in technical contexts)
 *   infrared 
 *   inkjet
 *   install – install _on_ a computer, install _to_ a hard drive

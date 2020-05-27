@@ -226,7 +226,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   Acorn Electron (computer) 
 *   adapter
 *   add-on; use 'add-on board', not 'card'
-*   adware 
+*   adware
+*   aka – not 'a.k.a.' or 'AKA'
 *   all-expenses-paid trip
 *   AMD (company name) 
 *   Amstrad (company name) 

@@ -352,6 +352,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Device Tree: a means of representing devices on Raspberry Pi- see the original elinux documentation [here](http://elinux.org/Device_Tree).
 *   digital age, digital native, digital divide – avoid where possible. Dated jargon. 
 *   Digital Making Curriculum. Also: the Raspberry Pi Foundation's Digital Making Curriculum.
+*   dialog box – US spelling for this technical term. Otherwise use 'dialogue'.
 *   dingbat – typographical ornament, such as ★. 
 *   disc/disk – magnetic storage is on disks, but optical storage is on discs: *floppy disks, compact discs.* 
 *   Document Object Model (DOM) – note capitals

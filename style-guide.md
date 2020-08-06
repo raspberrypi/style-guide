@@ -332,7 +332,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   Commodore Amiga – shorten to Amiga after first use 
 *   Commodore International – company producing the Commodore family of computers 
 *   Compute Module, Compute Module 3, Compute Module 3 Lite - CM1, CM3, CM3 Lite. Abbreviations should only be used after first using the full product name, and only where repeating the full name would become cumbersome.
-*   computer science (**not** computing science) 
+*   computer science (**not** computing science) — always lower-case, even when referring to the school subject
+*   computing — always lower-case, even when referring to the school subject
 *   cookie – lower case for both biscuits and tracking cookies 
 *   corrupted – use *corrupted*, not *corrupt* when describing data. *The file is corrupted.*  
 *   crawl – fine as a transitive verb meaning "to sift through" when applied to search engines 

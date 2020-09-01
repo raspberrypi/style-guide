@@ -45,7 +45,7 @@ This includes, for example:
 + Tool names, e.g. Click on the **Brush** tool
 + Click on the **Fill** colour chooser 
 + Set the **Size** to `150` (percent)
-This applies to locations/items you click on, in general, with the exception of blocks/blocks menus (see next section)
+<br>This applies to locations/items you click on, in general, with the exception of blocks/blocks menus (see next section)
 
 ### For specific reference to a block or blocks menu, use colour:
 + `Motion`{:class="block3motion"} block

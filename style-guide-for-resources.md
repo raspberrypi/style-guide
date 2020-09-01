@@ -77,7 +77,7 @@ This applies to locations/items you click on, in general, with the exception of 
 + This also includes references to variables (and similar), e.g. “The next step is to set the value of `repetitions`{:class="block3variables"}` when the program starts.”
 + Values should be in code (to indicate typing), e.g. “set to `70` and `y`{:class="block3motion"} set to `-25`.” 
 + In addition, all references to typing should also be in code (backticks), e.g. “type `breathe out` in the `say`{:class="block3looks"} block.”
-+ All references to keyboard keys should be written between the tags <kbd></kbd>, e.g. “Press <kbd>Enter</kbd> or <kbd>+</kbd>.”
++ All references to keyboard keys should be written between the tags `<kbd></kbd>`, e.g. “Press <kbd>Enter</kbd> or <kbd>+</kbd>.”
 + Where applicable, it is fine to refer to rounded blocks such as variables as ‘rounded blocks’
 + Where blocks include drop-down menus, write the block as you would read it, e.g. `broadcast message1 and wait`{:class="block3events"} block. The exception to this is when you are talking about one of these blocks in a context that is not an instruction, e.g. “In this project, you will learn how to use `broadcast`{:class="block3events"} blocks”
 + Operators blocks: It is ok to refer to operators blocks as ‘operators’ if you are explaining what they do, rather than referring to a specific block in an instruction, e.g. “You can use an `and`{:class="block3operators"} operator to test for two different conditions. Add an `and`{:class="block3operators"} block into the `repeat until`{:class="block3control"} block.”

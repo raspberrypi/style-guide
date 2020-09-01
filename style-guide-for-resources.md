@@ -36,7 +36,8 @@ This guide should be used in conjunction with the main [Raspberry Pi Style Guide
 The notes below expand on the information in the table above.
 
 ### Interface locations and menus or menu items:
-Bold, initial capital letter
+Bold, initial capital letter<br>
+
 This includes, for example:
 + **Costumes** tab
 + **Pen** extension (this is only when clicking on an extension in the Extensions Library — see below for references to the blocks menu)
@@ -45,7 +46,8 @@ This includes, for example:
 + Tool names, e.g. Click on the **Brush** tool
 + Click on the **Fill** colour chooser 
 + Set the **Size** to `150` (percent)
-<br>This applies to locations/items you click on, in general, with the exception of blocks/blocks menus (see next section)
+
+This applies to locations/items you click on, in general, with the exception of blocks/blocks menus (see next section)
 
 ### For specific reference to a block or blocks menu, use colour:
 + `Motion`{:class="block3motion"} block

@@ -31,7 +31,7 @@ This guide should be used in conjunction with the main [Raspberry Pi Style Guide
 |Attributions|Italics|Attributions should be italicised and made at the foot of the page, where necessary. See [the config.txt README](https://github.com/raspberrypi/documentation/tree/master/configuration/config-txt) in the Documentation repository for an example.|
 |Collapsible section headings|Express text as string when necessary|E.g. `title: "Advanced: install Mu on Windows/macOS using pip"`, otherwise the colon will break the project|
 
-## Scratch style guide
+## Scratch style guide ([version with example images](https://docs.google.com/document/d/17DhJSaT6Fqo4NDo7hVxzIeiZwrZpOP1eIgxoQhEO1NI/edit?usp=sharing))
 
 The notes below expand on the information in the table above.
 

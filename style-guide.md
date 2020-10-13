@@ -452,6 +452,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   hashtag – Twitter term 
 *   HAT - Hardware Attached on Top, describing various add-on boards such as the Sense HAT
 *   HDTV – high-definition television 
+*   heatsink - spelled solid, not "heat sink"
 *   help desk 
 *   help pages 
 *   hit – do not use as a substitute for *press* or *click* 

@@ -466,7 +466,7 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###I 
 
-*   I2C - Inter-Integrated Circuit, used for peripherals on Raspberry Pi; I<sup>2</sup>C if possible, I2C is acceptable
+*   I2C - Inter-Integrated Circuit, used for peripherals on Raspberry Pi; use I2C (no superscript) unless there's a particular reason for using I<sup>2</sup>C (changed Nov 2020 and consistent across RPTL and Raspberry Pi Press)
 *   IBM  – company name
 *   IC – integrated circuit 
 *   ICT – information and communications technology, **not** information and communication technology 

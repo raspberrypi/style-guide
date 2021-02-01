@@ -146,6 +146,8 @@ Subscript numerals (e.g. in chemical formulae) are fine in print, but not for on
 
 Use the multiplication symbol × when required, not the letter x. 
 
+School grades (USA): Spell out first through ninth grade and use figures for 10th grade or higher. Try to keep a consistent format for ranges, as above.
+
 ## URLs 
 
 Omit http:// from URLs in print. Use hyperlinks in online content. 
@@ -438,6 +440,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   GPIO - General-Purpose Input/Output
 *   GPIO Zero – GPIO Zero is the name of the project, but gpiozero is an acceptable alternative when referring to the module
 *   GPU – graphics processing unit 
+*   grade – for school grades (USA), spell out first through ninth grade and use figures for 10th grade or higher. Try to keep a consistent format for ranges (see [Numerals and numbers](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide.md#numerals-and-numbers) above). 
 *   gram – see g 
 *   grey – not gray  
 *   GSM – Global System for Mobile Communications 

@@ -40,24 +40,24 @@ Hyphen (-):
 *   Consult en dash rules for more complex hyphenation cases.
 
 En dash (–):
--   Use a closed-up en dash when writing ranges. _7–17, Monday–Friday_.
--   Use a closed-up en dash when expressing a connection, relation, or alternative. _Dover–Calais crossing, Williams–Navratilova match_.
--   Use a closed-up en dash to form compound words either when one of the components is itself a hyphenated word, or when one of the components is formed of two words. _Raspberry Pi–powered, e-book–only publisher, public school–educated student, liberal–conservative debate_.
+*   Use a closed-up en dash when writing ranges. _7–17, Monday–Friday_.
+*   Use a closed-up en dash when expressing a connection, relation, or alternative. _Dover–Calais crossing, Williams–Navratilova match_.
+*   Use a closed-up en dash to form compound words either when one of the components is itself a hyphenated word, or when one of the components is formed of two words. _Raspberry Pi–powered, e-book–only publisher, public school–educated student, liberal–conservative debate_.
 
 Em dash (—):
-- Use an em dash with space either side for parenthetical statements. Em dashes express a more pronounced break in the sentence than commas, and also draw more attention to the parenthetical. They express less of a break than parentheses, and are more informal. Do **not** overuse em dashes. _I didn't have an educated background — dad was a farm labourer._
-- Use a pair of em dashes with space either side for making a parenthetical statement in the middle of a sentence. If using punctiation in the parenthetical, the closing dash may only be preceded by an exclamation or question mark and the following word may not be capitalised, even if it begins a sentence (unless it is a proper noun). E.g. _The party lasted — we knew it would! — far longer than planned._
+*   Use an em dash with space either side for parenthetical statements. Em dashes express a more pronounced break in the sentence than commas, and also draw more attention to the parenthetical. They express less of a break than parentheses, and are more informal. Do **not** overuse em dashes. _I didn't have an educated background — dad was a farm labourer._
+*   Use a pair of em dashes with space either side for making a parenthetical statement in the middle of a sentence. If using punctiation in the parenthetical, the closing dash may only be preceded by an exclamation or question mark and the following word may not be capitalised, even if it begins a sentence (unless it is a proper noun). E.g. _The party lasted — we knew it would! — far longer than planned._
 
 Colon:
-- When a colon is used in free text, the letter following the colon should be lower-case. E.g. _I have three dogs: a small one, a medium one, and a big one._
-- When a colon is preceded by a header-style construction, the letter following the colon should be upper-case. E.g. _Note: This wouldn’t look so great with a lower-case t._
+*   When a colon is used in free text, the letter following the colon should be lower-case. E.g. _I have three dogs: a small one, a medium one, and a big one._
+*   When a colon is preceded by a header-style construction, the letter following the colon should be upper-case. E.g. _Note: This wouldn’t look so great with a lower-case t._
 
 Quotation marks (' and "):
-- Do **not** use scare quotes (quotation marks put around a word or phrase in a written sentence in order to show that the word is being used in a special way, or in a way that may not be correct or true). Scare quotes make for vague, sensationalist writing. You can write better than that.
-- Use single quotes to highlight a word/phrase when needed, such as when you introduce a new term, need to offset a title. E.g. _Ask what the word 'system' means._ or _Hand out the ‘Bicycle system’ activity sheet._
-   - Be judicious in your use of quotation marks in this way: if the word/phrase stands out to the reader without them, leave them out; if the reader might stumble over the word/phrase without them, put them in.
-- Use double quotation marks **only** to indicate actual quoted speech.
-   - In large sections of quoted speech, put double quotation marks at the end of each paragraph rather than omitting them, as per the Oxford Guide to Style.
+*   Do **not** use scare quotes (quotation marks put around a word or phrase in a written sentence in order to show that the word is being used in a special way, or in a way that may not be correct or true). Scare quotes make for vague, sensationalist writing. You can write better than that.
+*   Use single quotes to highlight a word/phrase when needed, such as when you introduce a new term, need to offset a title. E.g. _Ask what the word 'system' means._ or _Hand out the ‘Bicycle system’ activity sheet._
+   *   Be judicious in your use of quotation marks in this way: if the word/phrase stands out to the reader without them, leave them out; if the reader might stumble over the word/phrase without them, put them in.
+*   Use double quotation marks **only** to indicate actual quoted speech.
+   *   In large sections of quoted speech, put double quotation marks at the end of each paragraph rather than omitting them, as per the Oxford Guide to Style.
 
 Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* 
 

@@ -34,15 +34,15 @@ Oxford commas should be used throughout; they resolve ambiguity and should be us
 
 Hyphen (-):
 
-* Hyphenate two or more modifiers before a noun unless the first adjective modifies the complete noun phrase. *The moderators are fascist-robot enthusiasts. The moderators are fascist robot enthusiasts.*
-* Do not hyphenate adjectival compounds which begin with adverbs ending -ly. *A gorgeously constructed computer*.
-* Add a hyphen on the end of multiple items that are joined to another word in this way. _A 12- and 15-month subscription, full- and part-time jobs_.
-* Consult en dash rules for more complex hyphenation cases.
+*   Hyphenate two or more modifiers before a noun unless the first adjective modifies the complete noun phrase. *The moderators are fascist-robot enthusiasts. The moderators are fascist robot enthusiasts.*
+*   Do not hyphenate adjectival compounds which begin with adverbs ending -ly. *A gorgeously constructed computer*.
+*   Add a hyphen on the end of multiple items that are joined to another word in this way. _A 12- and 15-month subscription, full- and part-time jobs_.
+*   Consult en dash rules for more complex hyphenation cases.
 
 En dash (–):
-- Use a closed-up en dash when writing ranges. _7–17, Monday–Friday_.
-- Use a closed-up en dash when expressing a connection, relation, or alternative. _Dover–Calais crossing, Williams–Navratilova match_.
-- Use a closed-up en dash to form compound words either when one of the components is itself a hyphenated word, or when one of the components is formed of two words. _Raspberry Pi–powered, e-book–only publisher, public school–educated student, liberal–conservative debate_.
+-   Use a closed-up en dash when writing ranges. _7–17, Monday–Friday_.
+-   Use a closed-up en dash when expressing a connection, relation, or alternative. _Dover–Calais crossing, Williams–Navratilova match_.
+-   Use a closed-up en dash to form compound words either when one of the components is itself a hyphenated word, or when one of the components is formed of two words. _Raspberry Pi–powered, e-book–only publisher, public school–educated student, liberal–conservative debate_.
 
 Em dash (—):
 - Use an em dash with space either side for parenthetical statements. Em dashes express a more pronounced break in the sentence than commas, and also draw more attention to the parenthetical. They express less of a break than parentheses, and are more informal. Do **not** overuse em dashes. _I didn't have an educated background — dad was a farm labourer._

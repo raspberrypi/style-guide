@@ -33,6 +33,7 @@ Use **bold** type for emphasis.
 Oxford commas should be used throughout; they resolve ambiguity and should be used elsewhere for consistency. *We photographed the components, a sandwich, and a magnet.*  
 
 Hyphen (-):
+
 - Hyphenate two or more modifiers before a noun unless the first adjective modifies the complete noun phrase. *The moderators are fascist-robot enthusiasts. The moderators are fascist robot enthusiasts.*
 - Do not hyphenate adjectival compounds which begin with adverbs ending -ly. *A gorgeously constructed computer*.
 - Add a hyphen on the end of multiple items that are joined to another word in this way. _A 12- and 15-month subscription, full- and part-time jobs_.

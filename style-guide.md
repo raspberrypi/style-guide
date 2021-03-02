@@ -763,6 +763,7 @@ drive space.*
 *   social media – treat as *media* 
 *   social network (noun), social-network (adjective) 
 *   social networking (noun), social-networking (adjective) 
+*   SODIMM (no hyphen)
 *   sound bite 
 *   soundcheck 
 *   soundstage 

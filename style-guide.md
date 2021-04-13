@@ -541,7 +541,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   like – when using as a Facebook verb, enclose in quotation marks. *Thousands of people 'like' Raspberry Pi on Facebook, helping the charity to raise funds.* If producing online materials and treating the term as a user-interface object (viz. as a link or a button), use a hyperlink to make it stand out, and do not use quotation marks. 
 *   Linux – trademark owned by Linus Torvalds. Not capitalised in the same way as UNIX. 
 *   LiPo – lithium polymer (a kind of battery)
-*   lithium-ion – do not capitalise when written out in full (cf. *Li-ion*). 
+*   lithium-ion – do not capitalise when written out in full (cf. *Li-ion*)
+*   livestream – one word when a noun. Two words when used as a verb
 *   logic 1/logic 0 – write the digit, not the number
 *   login – one word when a noun or adjective. Two words when used as a verb. However, try to avoid using as a verb; *sign in* is preferable because it sounds less technical. 
 *   lookup – one word when a noun or adjective: *lookup table* or *reverse phone number lookup*. Two words when a verb. *I tried to look up my ex's phone number.* 

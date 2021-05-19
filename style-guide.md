@@ -81,7 +81,7 @@ Italicise the titles of the following types of works: artworks; books, book chap
 
 But wait! There's more! 
 
-If compiling a numbered or bulleted list of titles **which are like items**, the titles do not need to be set in italics because they do not need to stand out from surrounding text. A similar list of titles which are not like items should be set in italics where they are required. 
+If compiling a numbered or bulleted list of titles **which are like items**, the titles do not need to be set in italics because they do not need to stand out from surrounding text. A similar list of titles which are not ress or clicklike items should be set in italics where they are required. 
 
 Jemima's favourite old movies are: 
 
@@ -442,8 +442,9 @@ In copy intended specifically for a US audience, US English should be used.
 *   GPIO Zero – GPIO Zero is the name of the project, but gpiozero is an acceptable alternative when referring to the module
 *   GPU – graphics processing unit 
 *   grade – for school grades (USA), spell out first through ninth grade and use figures for 10th grade or higher. Try to keep a consistent format for ranges (see [Numerals and numbers](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide.md#numerals-and-numbers) above). 
-*   gram – see g 
-*   grey – not gray  
+*   gram – see g
+*   grey – not gray
+*   grown-up - the noun takes a hyphen; it isn't _grownup_
 *   GSM – Global System for Mobile Communications 
 *   guestbook 
 *   GUI – graphical user interface 
@@ -451,7 +452,7 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###H 
 
-*   HackSpace magazine – **always** include _magazine_. Note capitals.
+*   HackSpace magazine – Note capitals. It is no longer the case that we must always include _magazine_ when referring to it. 
 *   hardcore 
 *   hashtag – Twitter term 
 *   HAT - Hardware Attached on Top, describing various add-on boards such as the Sense HAT

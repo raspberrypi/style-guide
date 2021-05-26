@@ -59,6 +59,8 @@ Quotation marks (' and "):
 *   Use double quotation marks **only** to indicate actual quoted speech.
    *   In large sections of quoted speech, put double quotation marks at the end of each paragraph rather than omitting them, as per the Oxford Guide to Style.
 
+Fragments do not take a full stop at the end. _An isolated or incomplete part of something_
+
 Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* 
 
 Do **not** use ampersands (&); always use 'and'. The exception might be in a print article for one of our magazines, where space is at a premium.
@@ -69,15 +71,17 @@ Titles of other works should be set in title case (first and last words take an 
 
 As a general rule with **software in particular**, check the manufacturer's capitalisation style. Many examples of software title capitalisation are in the word list below; if you encounter more, please email liz@raspberrypi.org to have them added them to the list. 
 
-Treatment of the titles depends on the type of work. In general, titles should be set in *italics*, unless they fall under one of the following categories: 
+Treatment of the titles depends on the type of work. In general, titles should be set in *italics*.
 
-*   Blogs. The titles of individual blog posts should be set in italics (unless the blog publishes posts under a date only).
-*   Games. Computer games, board games, card games, arcade games. 
-*   Magazines and newspapers. The titles of specific articles from magazines and newspapers should, however, be set in italics. 
-*   Websites. 
-*   Software.  
- 
 Italicise the titles of the following types of works: artworks; books, book chapters and other parts of books; CDs; albums; DVDs; songs; lectures; magazine and newspaper articles; films; operas; plays; podcasts and episodes of podcasts; poems; speeches with titles; television and radio programmes and episodes; web shows; webinars; and online videos. 
+
+Do **not** italicise titles if they fall under one of the following categories: 
+
+*   Blogs. The titles of **individual blog posts should** be set in italics (unless the blog publishes posts under a date only).
+*   Games. Computer games, board games, card games, arcade games. 
+*   Magazines and newspapers. The titles of **specific articles** from magazines and newspapers **should**, however, be set in italics. 
+*   Websites.
+*   Software.
 
 But wait! There's more! 
 

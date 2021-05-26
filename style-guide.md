@@ -59,7 +59,7 @@ Quotation marks (' and "):
 *   Use double quotation marks **only** to indicate actual quoted speech.
    *   In large sections of quoted speech, put double quotation marks at the end of each paragraph rather than omitting them, as per the Oxford Guide to Style.
 
-Fragments do not take a full stop at the end. _An isolated or incomplete part of something_
+Fragments (e.g. for definitions) do not take a full stop at the end. _An isolated or incomplete part of something_
 
 Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* 
 

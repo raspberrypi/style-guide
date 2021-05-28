@@ -415,7 +415,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   file system 
 *   firewall 
 *   FireWire – trademark  
-*   Flash – capitalise if referring to Adobe Flash; if referring to Adobe Flash, *Flash* is a trademark, so use as an adjective. Do not confuse with *flash memory*, which is not capitalised and can be used as a noun. 
+*   Flash – capitalise *Flash* when referring to Flash memory. If for some reason you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
 *   flash memory 
 *   floating-point - adjective, as in 'floating-point number' 
 *   forgo – not _forego_

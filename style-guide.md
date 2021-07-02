@@ -411,6 +411,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Fahrenheit – can always be abbreviated to °F 
 *   fax 
 *   feed reader  
+*   fetch-decode-execute cycle
 *   file name 
 *   file system 
 *   firewall 

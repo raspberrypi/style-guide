@@ -771,6 +771,7 @@ drive space.*
 *   social network (noun), social-network (adjective) 
 *   social networking (noun), social-networking (adjective) 
 *   SODIMM (no hyphen)
+*   software – never write 'a software', always write 'a piece of software' (preferred) or 'software program'
 *   sound bite 
 *   soundcheck 
 *   soundstage 

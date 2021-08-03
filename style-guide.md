@@ -145,7 +145,7 @@ For a range of numbers, try to keep a consistent format: *coding clubs for child
 
 For numbers of more than four digits, use commas: *10,000*, *100,000*.
 
-Use a space between a value and its SI unit: *2 m*, *2 kg*, *2 ohm*. However, there should be **no** space between a value and a unit of storage: *8MB*, *8GB*, *8TB*. In cases where several different units including units of storage appear in close proximity, use no spaces no matter what the units are.
+There should be no space between a value and its SI unit: *2m*, *2kg*, *2ohm*. There should also be no space between a value and a unit of storage: *8MB*, *8GB*, *8TB*. 
 
 Subscript numerals (e.g. in chemical formulae) are fine in print, but not for online content. So *CO2* online, *CO<sub>2</sub>*  in print. 
 
@@ -155,7 +155,7 @@ School grades (USA): Spell out first through ninth grade and use figures for 10t
 
 ## URLs 
 
-Omit http:// from URLs in print. Use hyperlinks in online content. 
+Omit http://www from URLs in print. Use hyperlinks in online content. 
 
 ## Time and date 
 
@@ -189,7 +189,7 @@ The main header should be formatted as **h1**, sub-headers as **h2**. Any furthe
 
 No double spaces after punctuation, please!
 
-Code and code-related words should be formatted with backticks, for example `mc = minecraft.Minecraft.create()`. In large code examples, the name of the programming language should be entered after the first set of three backticks (for example, *```python*). Code must always be indented within lists to prevent the numbering formatting being broken. 
+Code and code-related words should be formatted with backticks, for example `mc = minecraft.Minecraft.create()`. In large code examples, the name of the programming language should be entered after the first set of three backticks (for example, *```python```*). Code must always be indented within lists to prevent the numbering formatting being broken. 
 
 Code blocks and images should have a new line before and after them to improve readability.
 
@@ -200,8 +200,6 @@ Images should not have text in the preceding square brackets []; it should be pl
 'Smart' quotes should be avoided. 
 
 Lists should only be used for step-by-step instructions, not for ordinary paragraphs that don't contain specific instructions. When creating numbered lists, start each item with '1.', rather than ascending numbers. This makes it easier to add steps later without having to change all the others.
-
-Some longer pages in the documentation repository use Markdown's internal anchors, such as `<a name="usage"></a>`, for ease of navigation. These can be added on the line preceding headings.
 
 Please note that the final section in a resource should be titled **What next?**, not **What's next?**.
  
@@ -216,7 +214,7 @@ In copy intended specifically for a US audience, US English should be used.
 ###&#35;
 
 *   3D 
-*   3G, 4G (phone networks) 
+*   3G, 4G, 5G (phone networks) 
 *   50-50 – not fifty-fifty  
 *   7-inch screen
 *   8-bit microprocessor 
@@ -225,7 +223,7 @@ In copy intended specifically for a US audience, US English should be used.
 ###A 
 
 *   A level — **not** A Level. _She teaches computer science to her A-level students._ See for example [this DfE documentation](https://www.gov.uk/education/as-and-a-level-changes-and-reforms).
-*   A level computer science — no capitals, even when referring to the curriculum subject. _She teaches A level computer science at Hogwarts._
+*   A-level computer science — no capitals, even when referring to the curriculum subject. _She teaches A-level computer science at Hogwarts._
 *   AA batteries 
 *   abandonware – old software, where the IP holders are unknown 
 *   Acorn Archimedes (computer) – shorten to Archimedes after first use 
@@ -270,11 +268,11 @@ In copy intended specifically for a US audience, US English should be used.
 *   backup (noun, adjective), back up (verb) 
 *   bar code 
 *   Bash (Bourne-again shell) 
-*   BBC BASIC – not BASIC (to avoid confusion with Sinclair BASIC and other BASICs.) 
+*   BBC BASIC – not BASIC (to avoid confusion with Sinclair BASIC and other BASICs) 
 *   BBC Micro 
 *   BBC Model A 
 *   BBC Model B 
-*   Bcc – blind carbon copy. Do not spell out this acronym. (See also Cc.) Also Bcc'd, Bcc'ing. 
+*   Bcc – blind carbon copy. Do not spell out this acronym. (See also Cc.) Also: Bcc'd, Bcc'ing. 
 *   BCM2XXX (eg BCM2835, BCM2837, BCM2711) – SoCs made by Broadcom, used in Raspberry Pi computers. Can be shortened to 2835, 2837, 2711 after first use. 
 *   Beagle Board 
 *   beta – do not capitalise unless part of an official product lane. *Raspberry Pi's beta release for developers; try Yahoo! Messenger Beta.* 
@@ -369,7 +367,6 @@ In copy intended specifically for a US audience, US English should be used.
 *   DoS – denial-of-service attack 
 *   DOS – Disk Operating System. Acronym for several closely related operating systems. 
 *   dos and don'ts – note apostrophes 
-*   DOTs Board- Bare Conductive's electric paint-based addon
 *   double-click – note hyphen 
 *   drag-and-drop (adjective), drag and drop (verb) 
 *   dreamt 
@@ -416,25 +413,25 @@ In copy intended specifically for a US audience, US English should be used.
 *   file system 
 *   firewall 
 *   FireWire – trademark  
-*   Flash – capitalise *Flash* when referring to Flash memory. If for some reason you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
+*   Flash – do not capitalise *Flash* when referring to flash memory. If for some reason you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
 *   flash memory 
 *   floating-point - adjective, as in 'floating-point number' 
 *   forgo – not _forego_
-*   friend – can be used as a verb if referring to social networking. See *unfriend*. 
+*   friend – can be used as a verb if referring to social networking, but this is grim and unlovely. See *unfriend*. 
 *   FTP – File Transfer Protocol (note capitalisation) 
 *   full-screen
 *   function keys 
  
 ###G 
 
-*   g – gram(s). Use a numeral with g and use a space between the numeral and g. *The teabag weighs 7 g.* 
+*   g – gram(s). Use a numeral with g and no space between the numeral and g. *The teabag weighs 7g.* 
 *   gamer 
 *   Gb – gigabit. No space between the number and Gb. 
 *   GB – gigabyte. No space between the number and GB. *You'll need an 8GB SD card.* 
 *   Gbps – gigabits per second. No space between number and Gbps. 
 *   GBps – gigabytes per second. No space between number and GBps. 
-*   Generation X – also Generation Xer (although this is ugly and should be avoided if possible) 
-*   Generation Y 
+*   Generation X – not Generation Xer 
+*   Generation Y – this used to be the term of art. Since this style guide was conceived the term *millennials* has been coined and is now dominant in the culture. Feel free to use it.
 *   geolocation 
 *   geotagging (noun – OK, gerund), geotag (verb) 
 *   GHz – gigahertz. No space between the number and GHz. 
@@ -442,8 +439,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   GitHub 
 *   GNU – the GNU Project. A recursive acronym: GNU is not UNIX. 
 *   GNU Linux 
-*   Google – Google trademark. Google's guidelines say you may not use the trademark as a verb, despite common usage; use *search [with Google]* or *search for* instead. 
-*   GPIO - General-Purpose Input/Output
+*   Google – Google trademark. Google's guidelines say you may not use the trademark as a verb, but common usage says we can ignore them wholesale on this. It's in the OED. That's good enough for me.
+*   GPIO – General-Purpose Input/Output
 *   GPIO Zero – GPIO Zero is the name of the project, but gpiozero is an acceptable alternative when referring to the module
 *   GPU – graphics processing unit 
 *   grade – for school grades (USA), spell out first through ninth grade and use figures for 10th grade or higher. Try to keep a consistent format for ranges (see [Numerals and numbers](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide.md#numerals-and-numbers) above). 
@@ -462,7 +459,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   hashtag – Twitter term 
 *   HAT - Hardware Attached on Top, describing various add-on boards such as the Sense HAT
 *   HDTV – high-definition television 
-*   heatsink - spelled solid, not "heat sink"
+*   heatsink - not *heat sink*
 *   help desk 
 *   help pages 
 *   hit – do not use as a substitute for *press* or *click* 
@@ -483,26 +480,22 @@ In copy intended specifically for a US audience, US English should be used.
 *   ID – identification. Plural IDs. Avoid using as a verb unless space is very restricted; use apostrophe in verb form. Where possible, *The bouncer checks drinkers' identification*, not *The bouncer ID’s drinkers.* 
 *   IDLE - Python IDE installed on Raspbian, found under the Programming menu as 'Python 3 (IDLE)'
 *   i.e. 
-*   IM – instant message. Plural IMs. Avoid using as a verb unless space is very restricted. 
+*   IM – instant message. Plural IMs. Defunct. Use *DM* or *PM* instead according to context.
 *   IMAX – trademark, so use as an adjective, not a noun 
 *   inbox 
 *   index – plural: indices, *not* indexes (esp. in technical contexts)
 *   infrared 
 *   inkjet
-*   install – install _on_ a computer, install _to_ a hard drive
-*   instant messenger– lower case unless a brand name like *AOL Instant Messenger* 
+*   install – install _on_ a computer, install _to_ a hard drive 
 *   internet (do not capitalise unless at start of sentence or in title case) 
 *   Internet of Things (IoT)
 *   IP – Internet Protocol or intellectual property (note capitalisations) 
 *   iPad – Apple trademark, so do not add an s to make plural 
 *   iPhone – Apple trademark, so do not add an s to make plural 
 *   iPod – Apple trademark, so do not add an s to make plural 
-*   iPod nano – do not use *nano* by itself when referring to the Apple product 
-*   iPod touch – do not use *touch* by itself when referring to the Apple product 
 *   IR – infrared 
 *   ISP – internet service provider 
 *   IT – information technology 
-*   iTunes – Apple trademark 
  
 ###J 
 
@@ -523,16 +516,16 @@ In copy intended specifically for a US audience, US English should be used.
 *   Key Stage – in UK school system, note upper-case letters
 *   keyword – search engine term. *Think about the best keywords to use on your web page*. Use key word when referring to a critical word. *She couldn't remember what else he'd said. The key word in his last sentence was "bagpipes".* 
 *   kids'
-*   kg – kilogram(s). Space between number and kg. 
+*   kg – kilogram(s). No space between number and kg. 
 *   kHz – kilohertz. No space between the number and kHz.  
 *   kilogram 
 *   kilometre 
-*   km – kilometre. Use a space between the number and km. *We drove 50 km.* 
-*   kmph – kilometres per hour. Use a space between the number and kmph. 
+*   km – kilometre. No space between the number and unit. *We drove 50km.* 
+*   kmph – kilometres per hour. No space between the number and kmph. 
  
 ###L 
 
-*   l – litre. Use a space between the number and l. *The barman served drinks in 1 l glasses.* 
+*   l – litre. No space between the number and l. *The barman served drinks in 1l glasses.* 
 *   LA – Los Angeles. Use only when space is at a premium. 
 *   ladies'
 *   LAN – local area network 
@@ -540,7 +533,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   learnt 
 *   LED – light-emitting diode. Plural LEDs. 
 *   left-hand - adjective. Use 'top left-hand side', not 'top left side' or 'top-left side'
-*   Lego – the Lego Group has trademarked LEGO (all caps), but Lego is an acceptable usage. See also *splot*. Adjective only. Plural *Lego bricks*. 
+*   Lego – the Lego Group has trademarked LEGO (all caps), but Lego is an acceptable usage. See also *splot*. Adjective only. Plural *Lego bricks*, not *Legos*, which is an abomination unto Nuggan. 
 *   LGBT – lesbian, gay, bisexual, transgender 
 *   Li-ion – lithium-ion (a kind of battery) 
 *   licence/license –  licence (noun), license (verb). We are not American! 
@@ -551,12 +544,12 @@ In copy intended specifically for a US audience, US English should be used.
 *   livestream – one word when a noun. Two words when used as a verb
 *   logic 1/logic 0 – write the digit, not the number
 *   login – one word when a noun or adjective. Two words when used as a verb. However, try to avoid using as a verb; *sign in* is preferable because it sounds less technical. 
-*   lookup – one word when a noun or adjective: *lookup table* or *reverse phone number lookup*. Two words when a verb. *I tried to look up my ex's phone number.* 
+*   lookup – one word when a noun or adjective: *lookup table* or *reverse phone number lookup*. Two words when a verb. *I tried to look up the length of my ex's prison sentence.* 
 *   LXDE – Lightweight X11 Desktop Environment  
  
 ###M 
 
-*   m – metre. Use a space between the number and m. *The sausage measured an amazing 6 m.* 
+*   m – metre. No space between the number and m. *The sausage measured an amazing 6m.* 
 *   Mac (for Macintosh) is acceptable usage 
 *   MacBook, MacBook Air, MacBook Pro – Apple trademarks, so do not add an s to make plural 
 *   macOS (**not** Mac OS, Mac OS X, OS X, or OSX) 
@@ -564,7 +557,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   The MagPi - the official Raspberry Pi magazine
 *   mailbox
 *   maker movement – **not** Maker Movement. Just stop that.
-*   makerspace
+*   maker space - this is preferred, but if the specific organisation calls itself a *makespace*, *hackspace* or *maker shed*, use their verbiage when referring to them. 
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 
 *   Mb – megabit 
@@ -580,7 +573,7 @@ drive space.*
 *   message boards 
 *   metadata 
 *   metatag 
-*   mg – miligram(s). Insert a space between the number and mg. 
+*   mg – miligram(s). No space between the number and mg. 
 *   MHz – megahertz. No space between the number and MHz. 
 *   microSD – lower-case unless at the start of a sentence/bullet point
 *   micro HDMI – lower case if mid-sentence
@@ -594,22 +587,22 @@ drive space.*
 *   Microsoft .Net – Microsoft's trademark guidelines say that *Microsoft* should precede the *.Net* brand name in the first instance of use. Because the full stop can create confusion, insert *Microsoft* before *.Net* if it occurs at the start of a sentence. Better still, never use the term at all. 
 *   Microsoft Windows – see *Windows* 
 *   mike – short form of microphone (mic also acceptable) 
-*   million – use numerals and a space with *million*. Don't hyphenate the numeral and *million*, even before a noun. If you're forming a compound adjective, use a hyphen between the numeral and *million*. So: *4 million Raspberry Pis, a £4 million budget, a 4-million-year schedule.* 
+*   million – use numerals and a space with *million*. Don't hyphenate the numeral and *million*, even before a noun. If you're forming a compound adjective, use a hyphen between the numeral and *million*. So: *40 million Raspberry Pis, a £4 million budget, a 4-million-year schedule.* 
 *   min. – abbreviation for minute; use only where space is at a premium, and note full stop. 
 *   miniSD – lower-case unless at the start of a sentence/bullet point
 *   mini USB
 *   mips – million instructions per second. No space between number and mips. 
-*   ml – millilitre(s). Use a space between the number and ml. 
-*   mm – millimetre(s). Use a space between the number and mm.  
-*   mobile – acceptable as a noun when it's a short form of *mobile phone* 
+*   ml – millilitre(s). No space between the number and ml. 
+*   mm – millimetre(s). No space between the number and mm.  
+*   mobile – acceptable as a noun when it's a short form of *mobile phone*, but try not to make a habit of it 
 *   money-can't-buy prizes
 *   moon – lower case, whether referring to *the moon* or other moons. *Mercury does not have a moon.* 
 *   mouse – plural mice even when talking about computer peripherals 
 *   mouseover, mouse over – do not use. Use *roll* or *move your mouse cursor over*, or an equivalent. 
 *   MP3 – abbreviation for MPEG-1 Audio Layer 3.  
 *   MPEG – Moving Picture Experts Group. Also refers to a compression methodology whose standards are set by this group.
-*   mpg – miles per gallon. Use a space between the number and mpg. 
-*   mph – miles per hour. Use a space between the number an mph. 
+*   mpg – miles per gallon. No space between the number and mpg. 
+*   mph – miles per hour. No space between the number and mph. 
 *   MS-DOS – Microsoft Disk Operating System. Trademark for a Microsoft operating system from the DOS family. See *DOS*.
 *   multi- – do not hyphenate words with this prefix unless the root word starts with an i or a capital letter. *Multiplayer, multicolour, multi-industry.* 
  
@@ -626,7 +619,7 @@ drive space.*
 *   Ninja - upper case when used in the context of CoderDojo 
 *   no-no 
 *   No. 1 – see *number one* 
-*   Node-RED - a visual tool for wiring the Internet of Things, installed on Raspbian Jessie.
+*   Node-RED - a visual tool for wiring the Internet of Things
 *   Node.js
 *   NOOBS - New Out Of Box Software, used to easily install an operating system on Raspberry Pi.
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
@@ -662,7 +655,6 @@ drive space.*
 *   PayPal – an eBay trademark 
 *   PC – personal computer. Make context clear to avoid confusion with *politically correct.* 
 *   PCB – printed circuit board 
-*   PDA – personal digital assistant. Becoming outdated. Be sure to make context clear to avoid confusion with *public display of affection.*  
 *   PDF (Portable Document Format, Adobe file format)
 *   peer-to-peer (adjective) 
 *   percent 
@@ -674,11 +666,9 @@ drive space.*
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb.
 *   PiServer – a piece of software created by us for centrally controlling fleets of Raspberry Pis (e.g. in a classroom)
 *   Pi In The Sky (PITS) board
-*   Pi Zero (plural Zeros)
 *   Picademy - training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.
 *   picamera - software library which provides a pure Python interface to the Raspberry Pi Camera Module. Contains the PiCamera class (among others). Note capitalisation.  
-*   PIN – acronym for *personal identification number*. Do not use *PIN number*. 
-*   PIXEL (all caps) is the Raspbian desktop environment. Google's phone is Pixel, and the screen element is a pixel.
+*   PIN – acronym for *personal identification number*. *PIN number* is tautological but acceptable.
 *   playlist 
 *   PlayStation – Sony trademark. Do not add an s to make plural. 
 *   podcast 
@@ -711,11 +701,12 @@ drive space.*
 ###R 
 
 *   RAM – random access memory 
-*   Raspberry Pi – plural Raspberry Pis 
+*   Raspberry Pi – plural Raspberry Pis. Do not abbreviate, however much you want to. 
+*   Raspberry Pi 1, Raspberry Pi 2, Raspberry Pi 3B+, Raspberry Pi 4 etc.
 *   Raspberry Pi Foundation 
-*   Raspberry Pi Zero W (not 'Wireless'): confirmed by Eben, 10/03/17
 *   Raspberry Pi Weekly (a weekly email newsletter)
-*   Raspi/Raspis and RPi/RPis are the only appropriate abbreviations of Raspberry Pi. 
+*   Raspberry Pi Zero
+*   Raspberry Pi Zero W (not 'Wireless')
 *   Raspbian
 *   Raspbian Lite
 *   re- – close up this prefix with root words unless the root word starts with an e  or a capital letter. If it does, hyphenate. There are exceptions to this rule for the avoidance of confusion with other words: *re-create, re-cover, re-sent.* 
@@ -732,7 +723,7 @@ drive space.*
 *   Roku – company name and name of streaming media device. Trademark. Do not add s to make plural. Plural *Roku boxes* or *Roku devices*. 
 *   roundup 
 *   RS Components – in full in the first instance in a chapter section, then just RS. 
-*   RSS – Really Simple Syndication. Best practice is to use *RSS feed*, *RSS news feed* or *RSS newsreader*; few people know what RSS means on its own. 
+*   RSS – Really Simple Syndication. Best practice is to use *RSS feed*, *RSS news feed* or *RSS newsreader*; few people know what RSS means on its own, and it's much less used in these dark days of the 2020s than it was when this guide was first written. 
 *   RTC – real-time clock 
  
 ###S 
@@ -765,13 +756,13 @@ drive space.*
 *   smart card 
 *   smartphone 
 *   SMS – short message service 
-*   snail mail 
+*   snail mail – just no. Use *the post* or similar.
 *   SoC – system on a chip 
 *   social media – treat as *media* 
 *   social network (noun), social-network (adjective) 
 *   social networking (noun), social-networking (adjective) 
 *   SODIMM (no hyphen)
-*   software – collective noun; when singular, never write 'a software', always write 'a piece of software' (preferred) or 'a software program'
+*   software – collective noun; when singular, never write 'a software' (seriously, we've seen news outlets who should know better use this); always write 'a piece of software' (preferred) or 'a software program'
 *   sound bite 
 *   soundcheck 
 *   soundstage 
@@ -783,7 +774,7 @@ drive space.*
 *   SSH
 *   standalone 
 *   startup (noun, adjective), start up (verb) 
-*   style sheet – lower case even when referring to CSS. See CSS. 
+*   style sheet – lower case even when referring to CSS (which you probably aren't referring to, but you know. Just in case). See CSS. 
 *   sub- – close up this prefix with the root word unless the root word starts with a capital letter, in which case hyphenate. *Subdomain, sub-Victorian.* 
 *   substring
 *   sync, synched, synching 
@@ -798,6 +789,7 @@ drive space.*
 *   third-best selling general-purpose computer
 *   thousand – spell out when in inline text 
 *   thumb drive 
+*   TikTok
 *   timeshift, timeshifting 
 *   TiVo – trademark. Do not use as a verb or add an s to make plural. 
 *   to-do – plural to-dos. Capitalise as *To-Do* in title case. 
@@ -818,7 +810,7 @@ drive space.*
 *   TV (no need to spell out what the acronym means!) 
 *   tweet 
 *   Twitter – Capitalise when talking about the website. Do not use as a verb to refer to communicating on Twitter. Use *tweet* instead.
-*   Twitter chat
+*   Twitter thread
  
 ###U 
 
@@ -830,7 +822,7 @@ drive space.*
 *   UNIX 
 *   unsubscribe 
 *   up-to-date 
-*   URL – Uniform Resource Locator, but abbreviation is always OK and doesn't need to be spelt out in the first instance. 
+*   URL – Uniform Resource Locator, but abbreviation is always OK and doesn't need to be spelt out in the first instance
 *   USA 
 *   USB – universal serial bus 
 *   USB flash drive 
@@ -856,7 +848,7 @@ drive space.*
 
 *   wallpaper, wallpapers 
 *   WAN – wide area network 
-*   Weather Station HAT - note capitalisation
+
 *   web 
 *   webcam 
 *   womens'

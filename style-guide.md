@@ -818,6 +818,7 @@ drive space.*
 *   UI – user interface 
 *   UK 
 *   UN 
+*   undervoltage - not under voltage
 *   unfriend – see *friend* 
 *   UNIX 
 *   unsubscribe 

@@ -575,14 +575,14 @@ drive space.*
 *   metatag 
 *   mg – miligram(s). No space between the number and mg. 
 *   MHz – megahertz. No space between the number and MHz. 
-*   microSD – lower-case unless at the start of a sentence/bullet point
 *   micro HDMI – lower case if mid-sentence
 *   micro USB
 *   micro:bit – a handheld, fully programmable computer which was given free to every Year 7 child across the UK. The Micro:bit Educational Foundation is trying to drop the 'BBC' in front of 'micro:bit'. If using just 'micro:bit', try not to begin sentences with it, due to the lowercase nature of the name.
 *   Micro:bit Educational Foundation – see [here](http://microbit.org/about/). Note uppercase 'M'.
 *   microblog 
 *   microcontroller 
-*   microprocessor 
+*   microprocessor
+*   microSD - SanDisk trademark. Don't use at the start of a sentence, because that lower-case 'M' is a nuisance. 
 *   microsite 
 *   Microsoft .Net – Microsoft's trademark guidelines say that *Microsoft* should precede the *.Net* brand name in the first instance of use. Because the full stop can create confusion, insert *Microsoft* before *.Net* if it occurs at the start of a sentence. Better still, never use the term at all. 
 *   Microsoft Windows – see *Windows* 

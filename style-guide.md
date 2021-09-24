@@ -245,10 +245,10 @@ In copy intended specifically for a US audience, US English should be used.
 *   applications processor 
 *   apt - Advanced Package Tool, used in Debian Linux to obtain software (APT is not really an acronym. It was originally, it's just 'apt' now.)
 *   Arch Linux
-*   ARM architecture 
-*   ARM chipset 
+*   Arm architecture 
+*   Arm chipset 
 *   Arm Holdings (company name) — rebranded from ARM
-*   ARMv6, ARMv7 
+*   Armv6, Armv7 
 *   AS level — see 'A level'
 *   assembly language 
 *   Astro Pi — find the style guide specific to this programme [here](https://docs.google.com/document/d/1cZFRJiBbAKol8LrtPgm8vMZUzs8HLZCl4pY3Heu6xNQ/edit?usp=sharing)

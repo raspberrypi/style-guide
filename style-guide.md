@@ -8,7 +8,7 @@ When editing copy that is intended specifically for a US audience, refer to *the
 
 Formatting guidelines specific to the Raspberry Pi learning resources can be found in the [Style Guide for Raspberry Pi learning resources](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide-for-resources.md), which should be used in conjunction with this Style Guide.
 
-The Raspberry Pi Foundation strives for an approachable, conversational tone in its materials. See www.raspberrypi.org for examples.
+Raspberry Pi strives for an approachable, conversational tone in its materials. See www.raspberrypi.org for examples.
 
 ## Lists  
 
@@ -101,13 +101,11 @@ These are a few of my favourite things:
 
 ## *The* Raspberry Pi Foundation
 
-When referring to the company, use "the Raspberry Pi Foundation" with the definite article, never "Raspberry Pi Foundation" on its own without the article. "The Raspberry Pi Foundation" should always be used as the first instance in an article; "the Foundation" is fine subsequently. It's acceptable to omit the "the" on covers and in titles. However, for less formal text, "Raspberry Pi" is preferable to "the Foundation", and more outsider-friendly.
-
-On business cards, always use "Raspberry Pi Foundation", with no definite article.
+When referring to the Foundation, use "the Raspberry Pi Foundation" with the definite article, never "Raspberry Pi Foundation" on its own without the article. "The Raspberry Pi Foundation" should always be used as the first instance in an article; "the Foundation" is fine subsequently. It's acceptable to omit the "the" on covers and in titles.
 
 For the Raspberry Pi Foundation team: Trustee, Member, founder, co-founder, Board of Trustees, group of Members. Other job titles as here: https://www.raspberrypi.org/about/team/
 
-## Our charitable status
+## The Raspberry Pi Foundation's charitable status
 
 The Raspberry Pi Foundation is registered with the Charity Commission for England and Wales. We can say that the Foundation is "a registered charity" or "UK registered charity 1129409".
 

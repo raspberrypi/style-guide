@@ -6,8 +6,6 @@ When preparing copy for UK or international audiences (that is, the vast majorit
 
 When editing copy that is intended specifically for a US audience, refer to *the Associated Press Stylebook*.
 
-Formatting guidelines specific to the Raspberry Pi learning resources can be found in the [Style Guide for Raspberry Pi learning resources](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide-for-resources.md), which should be used in conjunction with this Style Guide.
-
 Raspberry Pi strives for an approachable, conversational tone in its materials. See www.raspberrypi.org for examples.
 
 ## Lists  

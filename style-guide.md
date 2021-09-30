@@ -69,7 +69,7 @@ Do **not** use ampersands (&); always use 'and'. The exception might be in a pri
 
 Titles of other works should be set in title case (first and last words take an initial capital, regardless of length of word or part of speech; all other words in the title **except** articles, prepositions of three or fewer letters and conjunctions of three or fewer letters, and the words *if, how* and *why* should also take an initial capital.)  
 
-As a general rule with **software in particular**, check the manufacturer's capitalisation style. Many examples of software title capitalisation are in the word list below; if you encounter more, please email liz@raspberrypi.org to have them added them to the list. 
+As a general rule with **software in particular**, check the manufacturer's capitalisation style. Many examples of software title capitalisation are in the word list below; if you encounter more, please email liz@raspberrypi.com to have them added to the list. 
 
 Treatment of the titles depends on the type of work. In general, titles should be set in *italics*.
 

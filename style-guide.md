@@ -344,8 +344,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   crontab – cron table, a configuration file driving cron that specifies shell commands to run periodically on a given schedule
 *   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a web page.* 
 *   CSV – comma-separated values 
-*   curriculum (pl. curricula
-*   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
+*   curriculum - plural curricula
+*   cyber – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
  
 ###D 
 
@@ -496,8 +496,8 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###J 
 
-*   Java – a Sun Microsystems trademark 
-*   JavaScript – a Sun Microsystems trademark 
+*   Java – a Oracle trademark 
+*   JavaScript – an Oracle trademark 
 *   JPEG – Joint Photographic Experts Group 
 *   junk mail 
  
@@ -510,7 +510,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   kBps – kilobytes per second. No space between the number and kBps. 
 *   keylogger 
 *   key press
-*   Key Stage – in UK school system, note upper-case letters
+*   Key Stage – in English school system, note upper-case letters
 *   keyword – search engine term. *Think about the best keywords to use on your web page*. Use key word when referring to a critical word. *She couldn't remember what else he'd said. The key word in his last sentence was "bagpipes".* 
 *   kids'
 *   kg – kilogram(s). No space between number and kg. 
@@ -649,7 +649,7 @@ drive space.*
 *   passphrase 
 *   password 
 *   password-protect (verb) 
-*   PayPal – an eBay trademark 
+*   PayPal – a trademark of PayPal Inc. 
 *   PC – personal computer. Make context clear to avoid confusion with *politically correct.* 
 *   PCB – printed circuit board 
 *   PDF (Portable Document Format, Adobe file format)
@@ -704,8 +704,8 @@ drive space.*
 *   Raspberry Pi Weekly (a weekly email newsletter)
 *   Raspberry Pi Zero
 *   Raspberry Pi Zero W (not 'Wireless')
-*   Raspbian
-*   Raspbian Lite
+*   Raspbian - an open-source project to build armv6 Debian packages for the Raspberry Pi. Also formerly the name of Raspberry Pi's official OS. Do not use, unless referring to the open-source project. For our OS distribution, always use 'Raspberry Pi OS'.
+*   Raspbian Lite - do not use. Always use 'Raspberry Pi OS Lite'.
 *   re- – close up this prefix with root words unless the root word starts with an e  or a capital letter. If it does, hyphenate. There are exceptions to this rule for the avoidance of confusion with other words: *re-create, re-cover, re-sent.* 
 *   real time (noun), real-time (adjective) 
 *   reality TV 
@@ -787,7 +787,8 @@ drive space.*
 *   thousand – spell out when in inline text 
 *   thumb drive 
 *   TikTok
-*   timeshift, timeshifting 
+*   timeshift, timeshifting
+*   time zone
 *   TiVo – trademark. Do not use as a verb or add an s to make plural. 
 *   to-do – plural to-dos. Capitalise as *To-Do* in title case. 
 *   toolbar 

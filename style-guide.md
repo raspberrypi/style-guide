@@ -252,6 +252,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   audio conference 
 *   Auto-Tune (capitalise – it's an Antares Audio Technologies trademark. Do not use as a verb.) 
 *   avatar (lower case unless you're talking about the movie!) 
+*   AWG - capitalise. Stands for American Wire Gauge, a US standard set of electrical conductor diameters, used for example in cable specifications
  
 ###B 
 

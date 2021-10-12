@@ -122,7 +122,7 @@ If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Mod
 
 ## Other Raspberry Pi products
 
-Accessories, PSUs, and add-on boards all take a definite article before their product name where it's natural to use one, and it is acceptable to omit "Raspberry Pi" from the name after the first instance. "You can do all kind of experiments with the Raspberry Pi Sense HAT, which is why there are two of them on the International Space Station. The Sense HAT has an array of sensors, a five-button joystick, and an 8x8 RGB LED matrix." "We recommend using the Raspberry Pi USB-C Power Supply, which represents excellent value."
+Accessories, PSUs, and add-on boards all take a definite article ("the") before their product name: "the Raspberry Pi Sense HAT", "the Raspberry Pi Mouse", "the Raspberry Pi Camera Module 2". It is usually desirable to omit "Raspberry Pi" from the name in most instances following the first mention. "You can do all kind of experiments with the Raspberry Pi Sense HAT, which is why there are two of them on the International Space Station. The Sense HAT has an array of sensors, a five-button joystick, and an 8x8 RGB LED matrix." "We recommend using the Raspberry Pi USB-C Power Supply, which represents excellent value."
 
 ## Capitalisation 
 

@@ -643,6 +643,8 @@ drive space.*
 *   OS – operating system. Plural OSes. 
 *   outbox 
 *   overclocking (noun), overclock (verb). Never the verb *clock*, which may mean something else entirely. If in doubt, clarify. For example, *dynamic frequency clocking*. 
+*   overcurrent - spelled solid; no hyphen, no space
+*   overvoltage - spelled solid; no hyphen, no space
  
 ###P 
 

@@ -83,7 +83,7 @@ Do **not** italicise titles if they fall under one of the following categories:
 
 But wait! There's more! 
 
-If compiling a numbered or bulleted list of titles **which are like items**, the titles do not need to be set in italics because they do not need to stand out from surrounding text. A similar list of titles which are not ress or clicklike items should be set in italics where they are required. 
+If compiling a numbered or bulleted list of titles **which are like items**, the titles do not need to be set in italics because they do not need to stand out from surrounding text. A similar list of titles which are not like items should be set in italics where they are required. 
 
 Jemima's favourite old movies are: 
 

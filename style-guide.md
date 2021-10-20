@@ -591,6 +591,7 @@ drive space.*
 *   million – use numerals and a space with *million*. Don't hyphenate the numeral and *million*, even before a noun. If you're forming a compound adjective, use a hyphen between the numeral and *million*. So: *40 million Raspberry Pis, a £4 million budget, a 4-million-year schedule.* 
 *   min. – abbreviation for minute; use only where space is at a premium, and note full stop. 
 *   miniSD – lower-case unless at the start of a sentence/bullet point
+*   mini HDMI
 *   mini USB
 *   mips – million instructions per second. No space between number and mips. 
 *   ml – millilitre(s). No space between the number and ml. 

@@ -621,6 +621,7 @@ drive space.*
 *   Ninja - upper case when used in the context of CoderDojo 
 *   no-no 
 *   No. 1 – see *number one* 
+*   no one - do not hyphenate
 *   Node-RED - a visual tool for wiring the Internet of Things
 *   Node.js
 *   NOOBS - New Out Of Box Software, used to easily install an operating system on Raspberry Pi.

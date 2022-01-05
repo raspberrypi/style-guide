@@ -708,7 +708,8 @@ drive space.*
 *   RAM – random access memory 
 *   Raspberry Pi – plural Raspberry Pis. Do not abbreviate, however much you want to. 
 *   Raspberry Pi 1, Raspberry Pi 2, Raspberry Pi 3B+, Raspberry Pi 4 etc.
-*   Raspberry Pi Foundation 
+*   Raspberry Pi Foundation - requires a definite article: *The Raspberry Pi Foundation works with ESA to let kids run code in space.*
+*   Raspberry Pi OS - does not take a definite article: *Raspberry Pi OS is our official recommended operating system.*
 *   Raspberry Pi Weekly (a weekly email newsletter)
 *   Raspberry Pi Zero
 *   Raspberry Pi Zero W (not 'Wireless')

@@ -639,7 +639,7 @@ drive space.*
 *   OK – **not** okay, Ok or ok. OK? 
 *   online 
 *   on-screen (adjective), on screen (adverb)
-*   open source (noun), open-source (adjective) 
+*   open source - no hyphen whether used as a noun or as an adjective. We would usually hyphenate a term such as this when used as an adjective, according to the advice of _New Hart's Rules_; however, no one else does this, so we would look fussy and stuffy if we were to do so.
 *   opt-in (noun, adjective), opt in (verb) 
 *   organiser (s, not z)
 *   OS – operating system. Plural OSes. 
@@ -792,6 +792,7 @@ drive space.*
 *   terminal - when talking about starting the command line in the GUI, 'open a terminal window' (never LXTerminal or similar) 
 *   Tetris (game) 
 *   text message (noun), text-message (adjective, verb). Acceptable to shorten to *text* 
+*   thin client - do not hyphenate, whether used as a noun or as an adjective. We would usually hyphenate a compound term of this kind when used as an adjective, but because no one else does, doing so would look fussy.
 *   third-best selling general-purpose computer
 *   thousand – spell out when in inline text 
 *   thumb drive 

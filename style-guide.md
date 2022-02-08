@@ -120,6 +120,14 @@ To check official nomenclature, refer to the [products page](https://www.raspber
 Be careful with using _Raspberry Pi 1_ — the _1_ is only necessary when you need to clearly distinguish it from other models.
 If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Model B_ > _Raspberry Pi 2B_
 
+When listing several products and/or models, it's usually possible, and more elegant, to do so without writing out the name of each product or model in full. For example:
+Not _Raspberry Pi Zero 2 W, Raspberry Pi 2, Raspberry Pi 3, Raspberry Pi 3+, and Raspberry Pi Compute Module 3_
+but
+_Raspberry Pi Zero 2 W, Raspberry Pi 2, 3 and 3+, and Raspberry Pi Compute Module 3_
+or even, daringly,
+_Raspberry Pi 2, 3, 3+ and Zero 2 W, and Raspberry Pi Compute Module 3_
+(note that both examples above omit an Oxford comma where we would usually include one, in the cause of helping the reader to parse the lists correctly).
+
 ## Other Raspberry Pi products
 
 Accessories, PSUs, and add-on boards all take a definite article ("the") before their product name: "the Raspberry Pi Sense HAT", "the Raspberry Pi Mouse", "the Raspberry Pi Camera Module 2". It is usually desirable to omit "Raspberry Pi" from the name in most instances following the first mention. "You can do all kind of experiments with the Raspberry Pi Sense HAT, which is why there are two of them on the International Space Station. The Sense HAT has an array of sensors, a five-button joystick, and an 8x8 RGB LED matrix." "We recommend using the Raspberry Pi USB-C Power Supply, which represents excellent value."

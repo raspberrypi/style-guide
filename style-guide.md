@@ -122,7 +122,9 @@ If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Mod
 
 When listing several products and/or models, it's usually possible, and more elegant, to do so without writing out the name of each product or model in full. For example:
 
-Not _Raspberry Pi Zero 2 W, Raspberry Pi 2, Raspberry Pi 3, Raspberry Pi 3+, and Raspberry Pi Compute Module 3_
+Not
+
+_Raspberry Pi Zero 2 W, Raspberry Pi 2, Raspberry Pi 3, Raspberry Pi 3+, and Raspberry Pi Compute Module 3_
 
 but
 

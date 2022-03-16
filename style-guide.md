@@ -577,7 +577,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   maker space - this is preferred, but if the specific organisation calls itself a *makespace*, *hackspace* or *maker shed*, use their verbiage when referring to them. 
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 
-*   Mb – megabit 
+*   Mbit – megabit (**not** Mb, as this is too easily confused with MB)
 *   MB – megabyte (**not** MByte). No space between the number and MB. *My old Amiga only had 130MB 
 drive space.* 
 *   Mbps – megabits per second. No space between number and Mbps. 

@@ -225,7 +225,7 @@ In copy intended specifically for a US audience, US English should be used.
  
 ## Word list 
 
-###&#35;
+### &#35;
 
 *   3D 
 *   3G, 4G, 5G (phone networks) 
@@ -234,7 +234,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   8-bit microprocessor 
 *   8×, 16× (CD or DVD drive speeds) – note multiplication symbol, not letter x. 
  
-###A 
+### A 
 
 *   A level — **not** A Level. _She teaches computer science to her A-level students._ See for example [this DfE documentation](https://www.gov.uk/education/as-and-a-level-changes-and-reforms).
 *   A-level computer science — no capitals, even when referring to the curriculum subject. _She teaches A-level computer science at Hogwarts._
@@ -272,7 +272,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   avatar (lower case unless you're talking about the movie!) 
 *   AWG - capitalise. Stands for American Wire Gauge, a US standard set of electrical conductor diameters, used for example in cable specifications
  
-###B 
+### B 
 
 *   B.C. – place after the year. *The hoard dates back to around 700 B.C.* 
 *   back end (noun), back-end (adjective) 
@@ -316,7 +316,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   brute-force – adjective, as in _brute-force attack_
 *   BSD – Berkeley Software Distribution 
  
-###C
+### C
 
 *   C (language) 
 *   C# (language) 
@@ -365,7 +365,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   curriculum (pl. curricula
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
  
-###D 
+### D 
 
 *   data – treat as a singular noun. *The data is lost.* 
 *   database 
@@ -389,7 +389,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   DVD – digital video disc. No need to spell out the acronym in first use. 
 *   DVR – digital video recorder 
  
-###E 
+### E 
 
 *   e- – generally, hyphenate when a prefix. So: *e-book, e-card, e-reader*. Note exception for email. 
 *   e-book 
@@ -414,7 +414,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   EULA – end user licence agreement 
 *   ex. – do not use this abbreviation. Use *e.g.* instead. 
  
-###F 
+### F 
 
 *   fan page 
 *   fan site 
@@ -437,7 +437,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   full-screen
 *   function keys 
  
-###G 
+### G 
 
 *   g – gram(s). Use a numeral with g and no space between the numeral and g. *The teabag weighs 7g.* 
 *   gamer 
@@ -467,7 +467,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   GUI – graphical user interface 
 *   guizero
  
-###H 
+### H 
 
 *   HackSpace magazine – Note capitals. It is no longer the case that we must always include _magazine_ when referring to it. 
 *   hardcore 
@@ -486,7 +486,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   HTML – Hypertext Markup Language 
 *   Hynix (company name) 
  
-###I 
+### I 
 
 *   I2C - Inter-Integrated Circuit, used for peripherals on Raspberry Pi; use I2C (no superscript) unless there's a particular reason for using I<sup>2</sup>C (changed Nov 2020 and consistent across RPTL and Raspberry Pi Press)
 *   IBM  – company name
@@ -512,14 +512,14 @@ In copy intended specifically for a US audience, US English should be used.
 *   ISP – internet service provider 
 *   IT – information technology 
  
-###J 
+### J 
 
 *   Java – a Sun Microsystems trademark 
 *   JavaScript – a Sun Microsystems trademark 
 *   JPEG – Joint Photographic Experts Group 
 *   junk mail 
  
-###K 
+### K 
 
 *   k – do not use as an abbreviation for thousand. When talking about kilobytes, use kB, not k, which is outdated. *The original BBC Micro had 32kB memory.* 
 *   kb – kilobit. No space between the number and kb. 
@@ -538,7 +538,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   km – kilometre. No space between the number and unit. *We drove 50km.* 
 *   kmph – kilometres per hour. No space between the number and kmph. 
  
-###L 
+### L 
 
 *   l – litre. No space between the number and l. *The barman served drinks in 1l glasses.* 
 *   LA – Los Angeles. Use only when space is at a premium. 
@@ -562,7 +562,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   lookup – one word when a noun or adjective: *lookup table* or *reverse phone number lookup*. Two words when a verb. *I tried to look up the length of my ex's prison sentence.* 
 *   LXDE – Lightweight X11 Desktop Environment  
  
-###M 
+### M 
 
 *   m – metre. No space between the number and m. *The sausage measured an amazing 6m.* 
 *   Mac (for Macintosh) is acceptable usage 
@@ -622,7 +622,7 @@ drive space.*
 *   MS-DOS – Microsoft Disk Operating System. Trademark for a Microsoft operating system from the DOS family. See *DOS*.
 *   multi- – do not hyphenate words with this prefix unless the root word starts with an i or a capital letter. *Multiplayer, multicolour, multi-industry.* 
  
-###N 
+### N 
 
 *   nano - linux text editor. Note lower case. Full name: 'GNU nano'
 *   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight.
@@ -642,7 +642,7 @@ drive space.*
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
 *   NYC – New York City. Use only if space is tight. 
  
-###O 
+### O 
 
 *   object-oriented programming
 *   OEM – original equipment manufacturer. Preferable to *factory* when talking about the place where Raspberry Pi computers are made. 
@@ -663,7 +663,7 @@ drive space.*
 *   overcurrent - spelled solid; no hyphen, no space
 *   overvoltage - spelled solid; no hyphen, no space
  
-###P 
+### P 
 
 *   P2P – peer-to-peer 
 *   Pac-Man (game) 
@@ -711,14 +711,14 @@ drive space.*
 *   Pygame Zero
 *   Python (language) 
  
-###Q 
+### Q 
 
 *   Q&A 
 *   QR code 
 *   quad-core - hyphenated when modifying a noun (processor, computer, etc.)
 *   QuickTime – Apple trademark 
  
-###R 
+### R 
 
 *   RAM – random access memory 
 *   Raspberry Pi – plural Raspberry Pis. Do not abbreviate, however much you want to. 
@@ -747,7 +747,7 @@ drive space.*
 *   RSS – Really Simple Syndication. Best practice is to use *RSS feed*, *RSS news feed* or *RSS newsreader*; few people know what RSS means on its own, and it's much less used in these dark days of the 2020s than it was when this guide was first written. 
 *   RTC – real-time clock 
  
-###S 
+### S 
 
 *   SanDisk (company) 
 *   screen – should only refer to a computer or television screen, not a *page* on a website.  
@@ -800,7 +800,7 @@ drive space.*
 *   substring
 *   sync, synched, synching 
  
-###T 
+### T 
 
 *   T-shirt 
 *   TeachMeet
@@ -834,7 +834,7 @@ drive space.*
 *   Twitter – Capitalise when talking about the website. Do not use as a verb to refer to communicating on Twitter. Use *tweet* instead.
 *   Twitter thread
  
-###U 
+### U 
 
 *   UART – universal asynchronous receiver/transmitter 
 *   UI – user interface 
@@ -855,7 +855,7 @@ drive space.*
 *   userID 
 *   userland – OS software that does not belong in the kernel 
  
-###V 
+### V 
 
 *   VGA – video graphics array 
 *   video camera 
@@ -867,7 +867,7 @@ drive space.*
 *   VoIP – voice over Internet Protocol 
 *   VPN – virtual private network 
  
-###W 
+### W 
 
 *   wallpaper, wallpapers 
 *   WAN – wide area network 
@@ -901,7 +901,7 @@ drive space.*
 *   WWW 
 *   WYSIWIG – what you see is what you get 
  
-###X 
+### X 
 
 *   X-ray 
 *   x86 architecture 
@@ -909,12 +909,12 @@ drive space.*
 *   XHTML – Extensible Hypertext Markup Language 
 *   XML – Extensible Markup Language 
  
-###Y 
+### Y 
 
 *   Yahoo! – use the upper case Y and the exclamation mark when referring to the company or its brands 
 *   YouTube – Google trademark 
  
-###Z 
+### Z 
 
 *   ZX Spectrum 
 *   zip file 

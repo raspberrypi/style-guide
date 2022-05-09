@@ -6,7 +6,7 @@ When preparing copy for UK or international audiences (that is, the vast majorit
 
 When editing copy that is intended specifically for a US audience, refer to *the Associated Press Stylebook*.
 
-Raspberry Pi strives for an approachable, conversational tone in its materials. See www.raspberrypi.org for examples.
+Raspberry Pi strives for an approachable, conversational tone in its materials. See www.raspberrypi.com for examples.
 
 ## Lists  
 

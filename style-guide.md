@@ -902,6 +902,7 @@ drive space.*
 *   WordPress – trademark  
 *   workflow 
 *   World Wide Web 
+*   writable
 *   WWW 
 *   WYSIWIG – what you see is what you get 
  

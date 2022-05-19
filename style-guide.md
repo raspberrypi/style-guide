@@ -788,6 +788,7 @@ drive space.*
 *   social networking (noun), social-networking (adjective) 
 *   SODIMM (no hyphen)
 *   software – collective noun; when singular, never write 'a software' (seriously, we've seen news outlets who should know better use this); always write 'a piece of software' (preferred) or 'a software program'
+*   SoM - system on module
 *   sound bite 
 *   soundcheck 
 *   soundstage 

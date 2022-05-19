@@ -704,7 +704,8 @@ drive space.*
 *   pre- – close up pre- as a prefix with the root word unless the root word starts with an e or a capital letter, in which case hyphenate. *Preprandial, pre-election, pre-MP3.* 
 *   press – when talking about a key on a keyboard, use *press*. *Click* is for buttons, links and other interface elements, and *click on* is for the mouse action. 
 *   print 
-*   printout (noun), print off (verb)  
+*   printout (noun), print off (verb)
+*   pro forma statement, pro forma income statement - not "pro-forma"
 *   program (computer) 
 *   programme (television, theatre etc.) 
 *   PS2, PS3, PS4 – acceptable abbreviations for Sony's *PlayStation 2*, *PlayStation 3*, and *PlayStation 4*. 

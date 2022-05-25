@@ -871,6 +871,7 @@ drive space.*
 *   vlog – video blog 
 *   voicemail 
 *   VoIP – voice over Internet Protocol 
+*   volt - not capitalised. BUT takes a capital V when abbreviated, so 3.3V (closed-up, and not 3V3).
 *   VPN – virtual private network 
  
 ###W 

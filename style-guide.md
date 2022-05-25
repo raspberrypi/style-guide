@@ -62,7 +62,7 @@ Quotation marks (' and "):
 
 Fragments (e.g. for definitions) do not take a full stop at the end. _An isolated or incomplete part of something_
 
-Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* 
+Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* (This example is from the deep past, when mothers IM'd. Now they WhatsApp us.)
 
 Do **not** use ampersands (&); always use 'and'. The exception might be in a print article for one of our magazines, where space is at a premium.
 
@@ -871,7 +871,7 @@ drive space.*
 *   vlog – video blog 
 *   voicemail 
 *   VoIP – voice over Internet Protocol 
-*   volt - not capitalised. BUT takes a capital V when abbreviated, so 3.3V (closed-up, and not 3V3).
+*   volt - not capitalised. **But** takes a capital V when abbreviated, so 3.3V (closed-up, and not 3V3).
 *   VPN – virtual private network 
  
 ###W 
@@ -891,6 +891,7 @@ drive space.*
 *   web page 
 *   web server 
 *   website
+*   WhatsApp
 *   white paper - two words, lower case, as preferred by both AP and Guardian/Observer style guides (2021/07/02)
 *   widescreen 
 *   WiFi or Wi-Fi - if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar. If you are not sure whether the connected item is licensed to use 'Wi-Fi', use 'wireless LAN'. Note that "wireless" is sometimes an acceptable substitution, but "wireless LAN" makes clear that we are not referring to Bluetooth connectivity.

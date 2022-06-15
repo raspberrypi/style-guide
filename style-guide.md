@@ -510,6 +510,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   install – install _on_ a computer, install _to_ a hard drive 
 *   internet (do not capitalise unless at start of sentence or in title case) 
 *   Internet of Things (IoT)
+*   I/O - not IO. Old MacDonald had a farm.
 *   IP – Internet Protocol or intellectual property (note capitalisations) 
 *   iPad – Apple trademark, so do not add an s to make plural 
 *   iPhone – Apple trademark, so do not add an s to make plural 

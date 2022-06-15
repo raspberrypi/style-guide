@@ -1,6 +1,6 @@
 # Raspberry Pi Style Guide 2.0
 
-This document is based on the original Style Guide from days of yore. It is a work in progress; the word list is still being updated to remove obsolete and duplicate entries, and there will also be specific sections on website guidelines in future.
+This document is being updated constantly; please ensure you have the most recent version.
  
 When preparing copy for UK or international audiences (that is, the vast majority of our content), unless the matter is mentioned below, please consult *New Hart's Rules: The Oxford Guide to Style*. If a particular spelling or hyphenation choice is not specified here, the version in the *Oxford English Dictionary* is to be preferred.
 
@@ -118,7 +118,7 @@ The Raspberry Pi Foundation is referred to as a "non-profit" rather than a "char
 
 "Raspberry Pi 4", "Raspberry Pi Zero", "Raspberry Pi Pico", "Raspberry Pi RP2040", and so on; not "_the_ Raspberry Pi 4" or "_the_ Raspberry Pi Zero", and not just "Pi 4" or "Pi Zero". The plural of "Raspberry Pi" is "Raspberry Pis" (no apostrophe); but use "Raspberry Pi computers", "Raspberry Pi devices", etc where possible.
 
-To check official nomenclature, refer to the [products page](https://www.raspberrypi.com/products/).
+To check official nomenclature, refer to the Product Names Register on Cognidox internally, or the [products page](https://www.raspberrypi.com/products/).
 
 Be careful with using _Raspberry Pi 1_ — the _1_ is only necessary when you need to clearly distinguish it from other models.
 If you want to shorten the name of a model, do it like this: _Raspberry Pi 2 Model B_ > _Raspberry Pi 2B_
@@ -146,15 +146,16 @@ Accessories, PSUs, and add-on boards all take a definite article ("the") before 
 ## Capitalisation 
 
 First word in chapter headings and titles take an initial capital, others lower case. (Sentence case.) 
+
 In all text, try to avoid the use of a trademark whose initial letter is in lower case (iPad, element14) at the start of a sentence or title. *iPad sales soar* is only ever acceptable if typography means that there is insufficient space for *Sales of iPad soar*. 
 
-## Abbreviations 
+## Abbreviations and acronyms 
 
 Spell out abbreviations in the first instance in a chapter section, followed by the abbreviation in parentheses. Thereafter use the abbreviation. *Raspberry Pi's brain is a system on a chip (SoC), made by stacking a memory chip on top of a processor chip. Using an SoC keeps the area of the Raspberry Pi board low.*
 
 Abbreviations should not be marked in this format: ***S**ystem **o**n a **C**hip*.
 
-See the word list below for correct abbreviations and their capitalisations when spelt out. 
+See the word list below for correct abbreviations and their capitalisations when spelt out. Be aware that the fact that something is often acronymised does not imply that the thing itself takes capitals. So ASAP does not imply that As Soon As Possible is the correct capitalisation. (Although some acronyms when expanded do require capitalisation: NASA, ASCII etc. Check the word list or Google the organisation if you're not sure.)
 
 ## Numerals and numbers
 
@@ -451,6 +452,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   GBps – gigabytes per second. No space between number and GBps. 
 *   Generation X – not Generation Xer 
 *   Generation Y – this used to be the term of art. Since this style guide was conceived the term *millennials* has been coined and is now dominant in the culture. Feel free to use it.
+*   Generation Z - *zoomers* seems to be gaining currency. This one's in a state of flux; let's keep an eye on it.
 *   geolocation 
 *   geotagging (noun – OK, gerund), geotag (verb) 
 *   GHz – gigahertz. No space between the number and GHz. 
@@ -576,9 +578,10 @@ In copy intended specifically for a US audience, US English should be used.
 *   The MagPi - the official Raspberry Pi magazine
 *   mailbox
 *   maker movement – **not** Maker Movement. Just stop that.
-*   maker space - this is preferred, but if the specific organisation calls itself a *makespace*, *hackspace* or *maker shed*, use their verbiage when referring to them. 
+*   maker space - things have moved on in the last ten years. This used to be our preferred formulation, but *makespace*, *hackspace* or *maker shed* all have currency too now (and at least one of those things has a magazine). *Hackspace* is probably preferred for branding reasons; refer to the individual organisation's naming preference where possible if writing about specifics. 
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 
+*   mass storage device - not capped up
 *   Mbit – megabit (**not** Mb, as this is too easily confused with MB)
 *   MB – megabyte (**not** MByte). No space between the number and MB. *My old Amiga only had 130MB 
 drive space.* 
@@ -642,7 +645,7 @@ drive space.*
 *   no one - do not hyphenate
 *   Node-RED - a visual tool for wiring the Internet of Things
 *   Node.js
-*   NOOBS - New Out Of Box Software, used to easily install an operating system on Raspberry Pi.
+*   NOOBS - New Out Of Box Software, used to easily install an operating system on Raspberry Pi. Deprecated.
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
 *   NYC – New York City. Use only if space is tight. 
  
@@ -733,7 +736,7 @@ drive space.*
 *   Raspberry Pi Weekly (a weekly email newsletter)
 *   Raspberry Pi Zero
 *   Raspberry Pi Zero W (not 'Wireless')
-*   Raspbian
+*   Raspbian 
 *   Raspbian Lite
 *   re- – close up this prefix with root words unless the root word starts with an e  or a capital letter. If it does, hyphenate. There are exceptions to this rule for the avoidance of confusion with other words: *re-create, re-cover, re-sent.* 
 *   real time (noun), real-time (adjective) 

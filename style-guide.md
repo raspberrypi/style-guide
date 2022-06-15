@@ -510,7 +510,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   install – install _on_ a computer, install _to_ a hard drive 
 *   internet (do not capitalise unless at start of sentence or in title case) 
 *   Internet of Things (IoT)
-*   I/O - not IO. Old MacDonald had a farm.
+*   I/O - not IO. (Old MacDonald had a farm.) BUT see *PIO*.
 *   IP – Internet Protocol or intellectual property (note capitalisations) 
 *   iPad – Apple trademark, so do not add an s to make plural 
 *   iPhone – Apple trademark, so do not add an s to make plural 
@@ -692,6 +692,7 @@ drive space.*
 *   phishing – tricking someone into giving out sensitive information using an email that looks legitimate 
 *   photobooth
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb.
+*   PIO - programmable I/O. Not PI/O or any other abomination
 *   PiServer – a piece of software created by us for centrally controlling fleets of Raspberry Pis (e.g. in a classroom)
 *   Pi In The Sky (PITS) board
 *   Picademy - training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.

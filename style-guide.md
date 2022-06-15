@@ -461,7 +461,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   GNU – the GNU Project. A recursive acronym: GNU is not UNIX. 
 *   GNU Linux 
 *   Google – Google trademark. Google's guidelines say you may not use the trademark as a verb, but common usage says we can ignore them wholesale on this. It's in the OED. That's good enough for me.
-*   GPIO – General-Purpose Input/Output
+*   GPIO – general-purpose input/output. Outside materials which are explicitly educative, there shouldn't ever be a need to expand this.
 *   GPIO Zero – GPIO Zero is the name of the project, but gpiozero is an acceptable alternative when referring to the module
 *   GPU – graphics processing unit 
 *   grade – for school grades (USA), spell out first through ninth grade and use figures for 10th grade or higher. Try to keep a consistent format for ranges (see [Numerals and numbers](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide.md#numerals-and-numbers) above). 

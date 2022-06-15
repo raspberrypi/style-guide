@@ -653,7 +653,7 @@ drive space.*
 *   offline 
 *   offshoot
 *   off-screen 
-*   ohm
+*   ohm - not capped (although it derives from a proper name). When talking about resistors, 1Ω, not 1R.
 *   OK – **not** okay, Ok or ok. OK? 
 *   on-board (adjective), on board (adverb). "There is an on-board wireless antenna", but "There is a wireless antenna on board".
 *   online 

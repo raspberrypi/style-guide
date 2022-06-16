@@ -713,7 +713,7 @@ drive space.*
 *   pro forma statement, pro forma income statement - not "pro-forma"
 *   program (computer) 
 *   programme (television, theatre etc.) 
-*   PS2, PS3, PS4 – acceptable abbreviations for Sony's *PlayStation 2*, *PlayStation 3*, and *PlayStation 4*. 
+*   PS2, PS3, PS4, PS5 – acceptable abbreviations for Sony's *PlayStation 2*, *PlayStation 3*, *PlayStation 4* and *PlayStation 5*. 
 *   pseudocode
 *   Puppy Linux 
 *   PuTTY: popular SSH/Telnet software used to access Raspberry Pi

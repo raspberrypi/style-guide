@@ -366,7 +366,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   crontab – cron table, a configuration file driving cron that specifies shell commands to run periodically on a given schedule
 *   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a web page.* 
 *   CSV – comma-separated values 
-*   curriculum (pl. curricula
+*   curriculum (pl. curricula)
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
  
 ###D 
@@ -434,7 +434,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   firewall 
 *   FireWire – trademark  
 *   Flash – do not capitalise *Flash* when referring to flash memory. If for some reason you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
-*   flash memory 
+*   flash memory - no capital unless at the start of a sentence, Dr Allan.
 *   floating-point - adjective, as in 'floating-point number' 
 *   forgo – not _forego_
 *   friend – can be used as a verb if referring to social networking, but this is grim and unlovely. See *unfriend*. 
@@ -605,6 +605,7 @@ drive space.*
 *   microblog 
 *   microcontroller 
 *   microprocessor
+*   MicroPython
 *   microSD - SanDisk trademark. Don't use at the start of a sentence, because that lower-case 'M' is a nuisance. 
 *   microsite 
 *   Microsoft .Net – Microsoft's trademark guidelines say that *Microsoft* should precede the *.Net* brand name in the first instance of use. Because the full stop can create confusion, insert *Microsoft* before *.Net* if it occurs at the start of a sentence. Better still, never use the term at all. 
@@ -618,7 +619,7 @@ drive space.*
 *   mips – million instructions per second. No space between number and mips. 
 *   ml – millilitre(s). No space between the number and ml. 
 *   mm – millimetre(s). No space between the number and mm.  
-*   mobile – acceptable as a noun when it's a short form of *mobile phone*, but try not to make a habit of it 
+*   mobile – acceptable as a noun when it's a short form of *mobile phone*, but try not to make a habit of it. _Cell_ is becoming more acceptable in the UK, and can be used if preferred.
 *   money-can't-buy prizes
 *   moon – lower case, whether referring to *the moon* or other moons. *Mercury does not have a moon.* 
 *   mouse – plural mice even when talking about computer peripherals 
@@ -640,7 +641,7 @@ drive space.*
 *   Ni-MH – a kind of battery. Note capitalisation differs on expansion; cf. *nickel-metal hydride.*  
 *   NIC – network interface card 
 *   nickel-metal hydride – see *Ni-MH* 
-*   Ninja - upper case when used in the context of CoderDojo 
+*   Ninja - upper case when used in the context of CoderDojo, but frankly I'd be happy never to have to use it again. 
 *   no-no 
 *   No. 1 – see *number one* 
 *   no one - do not hyphenate
@@ -699,7 +700,7 @@ drive space.*
 *   picamera - software library which provides a pure Python interface to the Raspberry Pi Camera Module. Contains the PiCamera class (among others). Note capitalisation.  
 *   PIN – acronym for *personal identification number*. *PIN number* is tautological but acceptable.
 *   playlist 
-*   PlayStation – Sony trademark. Do not add an s to make plural. 
+*   PlayStation – Sony trademark. Do not add an s to make plural.  
 *   podcast 
 *   PoE – power over Ethernet 
 *   polyfuse 
@@ -888,7 +889,7 @@ drive space.*
 *   webcam 
 *   womens'
 *   webcast 
-*   webinar (ghastly, but it appears we're stuck with it) 
+*   webinar (ghastly, but it appears we're stuck with it - ten points for you, dear writer, if you can avoid using it) 
 *   webisode (see *webinar*) 
 *   weblog – use only when explaining the etymology of the word *blog*, which is always to be preferred 
 *   web browser

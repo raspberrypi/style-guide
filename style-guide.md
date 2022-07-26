@@ -636,6 +636,7 @@ drive space.*
 ###N 
 
 *   nano - linux text editor. Note lower case. Full name: 'GNU nano'
+*   NeoPixels - Adafruit trademark
 *   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight.
 *   newline – the control character
 *   news feed 

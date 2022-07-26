@@ -328,6 +328,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Camera Module / Camera Module v2 - the official Raspberry Pi camera add-on
 *   camera phone 
 *   CAPTCHA – Completely Automated Public Turing Test to Tell Computers and Humans Apart. A rare instance where the first use of an acronym does not need spelling out! 
+*   capture card - HDMI capture card
 *   CAS – Computing at School  
 *   Cc – carbon copy. Do not spell out this acronym. (See also Bcc.) Also Cc'd, Cc'ing. 
 *   CD – compact disc. Do not spell out this acronym. Plural CDs. 

@@ -381,6 +381,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   dialog box – US spelling for this technical term. Otherwise use 'dialogue'.
 *   dingbat – typographical ornament, such as ★. 
 *   disc/disk – magnetic storage is on disks, but optical storage is on discs: *floppy disks, compact discs.* 
+*   Disney+ - streaming service. Confusingly, "Disney Plus" seems to be used pretty much interchangeably, but "Disney+" appears to be Disney's preference.
 *   disk space – not disk-space or diskspace
 *   Document Object Model (DOM) – note capitals
 *   Dojo - upper case when used to refer to a particular club in the CoderDojo network

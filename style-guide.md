@@ -903,7 +903,7 @@ drive space.*
 *   WhatsApp
 *   white paper - two words, lower case, as preferred by both AP and Guardian/Observer style guides (2021/07/02)
 *   widescreen 
-*   WiFi or Wi-Fi - if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar. If you are not sure whether the connected item is licensed to use 'Wi-Fi', use 'wireless LAN'. Note that "wireless" is sometimes an acceptable substitution, but "wireless LAN" makes clear that we are not referring to Bluetooth connectivity.
+*   Wi-Fi:registered: - ~~if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar.~~ Newsflash! The Wi-Fi Alliance has now altered its rules to say that non-members are allowed to use the term. Wi-Fi, not WiFi, and needs to be followed by the :registered: symbol
 *   Wii – Nintendo trademark. Do not add an s to make plural. 
 *   Wiimote - controller for the Wii. Colloquial. (The official term is Wii Remote.)
 *   wiki – plural *wikis* 

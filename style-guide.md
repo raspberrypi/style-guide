@@ -562,6 +562,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   LGBT – lesbian, gay, bisexual, transgender 
 *   Li-ion – lithium-ion (a kind of battery) 
 *   licence/license –  licence (noun), license (verb). We are not American! 
+*   lightyear
 *   like – when using as a Facebook verb, enclose in quotation marks. *Thousands of people 'like' Raspberry Pi on Facebook, helping the charity to raise funds.* If producing online materials and treating the term as a user-interface object (viz. as a link or a button), use a hyperlink to make it stand out, and do not use quotation marks. 
 *   Linux – trademark owned by Linus Torvalds. Not capitalised in the same way as UNIX. 
 *   LiPo – lithium polymer (a kind of battery)

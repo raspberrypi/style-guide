@@ -393,6 +393,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   drag-and-drop (adjective), drag and drop (verb) 
 *   dreamt 
 *   drop-down menu **not** pull-down menu 
+*   D-Bus - message bus system. Note capitalisation.
 *   DVD – digital video disc. No need to spell out the acronym in first use. 
 *   DVR – digital video recorder 
  

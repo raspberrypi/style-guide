@@ -860,7 +860,7 @@ drive space.*
 *   UN 
 *   undervoltage - not under voltage
 *   unfriend – see *friend* 
-*   UNIX 
+*   Unix - the trademark is UNIX, but common usage seems to dictate Unix
 *   unsubscribe 
 *   up-to-date 
 *   URL – Uniform Resource Locator, but abbreviation is always OK and doesn't need to be spelt out in the first instance

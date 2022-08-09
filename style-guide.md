@@ -374,6 +374,7 @@ In copy intended specifically for a US audience, US English should be used.
 
 *   data – treat as a singular noun. *The data is lost.* 
 *   database 
+*   D-Bus - message bus system. Note capitalisation.
 *   Debian
 *   Device Tree: a means of representing devices on Raspberry Pi- see the original elinux documentation [here](http://elinux.org/Device_Tree).
 *   digital age, digital native, digital divide – avoid where possible. Dated jargon. 
@@ -393,7 +394,6 @@ In copy intended specifically for a US audience, US English should be used.
 *   drag-and-drop (adjective), drag and drop (verb) 
 *   dreamt 
 *   drop-down menu **not** pull-down menu 
-*   D-Bus - message bus system. Note capitalisation.
 *   DVD – digital video disc. No need to spell out the acronym in first use. 
 *   DVR – digital video recorder 
  

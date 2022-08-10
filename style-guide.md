@@ -201,26 +201,6 @@ Avoid gendered job titles; there is usually an alternative. So *firefighter* ins
 
 Avoid *man, mankind, manmade, manpower* etc. There are plenty of alternatives. 
  
-## Markdown-specific guidelines 
- 
-The main header should be formatted as **h1**, sub-headers as **h2**. Any further sub-headers in the hierarchy should be **h3**, **h4** and so on. Never use bold formatting instead; likewise, never use headers to make text bold. Leave one line break between headers and the main text.
-
-No double spaces after punctuation, please!
-
-Code and code-related words should be formatted with backticks, for example `mc = minecraft.Minecraft.create()`. In large code examples, the name of the programming language should be entered after the first set of three backticks (for example, *```python```*). Code must always be indented within lists to prevent the numbering formatting being broken. 
-
-Code blocks and images should have a new line before and after them to improve readability.
-
-Images should not have text in the preceding square brackets []; it should be placed within the regular brackets. For example: 
-
-<pre>![](components.png "Components you will need"). </pre>
-
-'Smart' quotes should be avoided. 
-
-Lists should only be used for step-by-step instructions, not for ordinary paragraphs that don't contain specific instructions. When creating numbered lists, start each item with '1.', rather than ascending numbers. This makes it easier to add steps later without having to change all the others.
-
-Please note that the final section in a resource should be titled **What next?**, not **What's next?**.
- 
 ## Spelling 
  
 In copy written primarily for a UK or an international audience, UK English should be used, with the exception of international organisations- for example, The John F Kennedy Space *Center*.

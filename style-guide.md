@@ -870,7 +870,6 @@ drive space.*
 
 *   wallpaper, wallpapers 
 *   WAN – wide area network 
-
 *   web 
 *   webcam 
 *   womens'

@@ -679,6 +679,7 @@ drive space.*
 *   phishing – tricking someone into giving out sensitive information using an email that looks legitimate 
 *   photobooth
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb.
+*   Pi-hole - note capitalisation. Don't know about you, but I find objectionable capitalisation 100% more objectionable when the word "Pi" is involved.
 *   PIO - programmable I/O. Not PI/O or any other abomination
 *   PiServer – a piece of software created by us for centrally controlling fleets of Raspberry Pis (e.g. in a classroom)
 *   Pi In The Sky (PITS) board

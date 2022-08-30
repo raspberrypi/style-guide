@@ -694,7 +694,7 @@ drive space.*
 *   pop-up (noun, adjective), pop up (verb). Not *popup*. 
 *   pope – lower case unless referring to a specific named pope. *The pope wants a Raspberry Pi. The Queen met Pope Benedict XVI.* 
 *   Post-it – 3M trademark. Do not use as a noun. Plural *Post-it notes*. 
-*   pre- – close up pre- as a prefix with the root word unless the root word starts with an e or a capital letter, in which case hyphenate. *Preprandial, pre-election, pre-MP3.* 
+*   pre- – close up pre- as a prefix with the root word unless the root word starts with an e or a capital letter, in which case hyphenate. *Preprandial, pre-election, pre-MP3.*  Exception: *pre-soldered*.
 *   press – when talking about a key on a keyboard, use *press*. *Click* is for buttons, links and other interface elements, and *click on* is for the mouse action. 
 *   print 
 *   printout (noun), print off (verb)

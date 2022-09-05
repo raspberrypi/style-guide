@@ -609,6 +609,7 @@ drive space.*
 *   moon – lower case, whether referring to *the moon* or other moons. *Mercury does not have a moon.* 
 *   mouse – plural mice even when talking about computer peripherals 
 *   mouseover, mouse over – do not use. Use *roll* or *move your mouse cursor over*, or an equivalent. 
+*   MP - megapixel. Close up, so a *12MP image*.
 *   MP3 – abbreviation for MPEG-1 Audio Layer 3.  
 *   MPEG – Moving Picture Experts Group. Also refers to a compression methodology whose standards are set by this group.
 *   mpg – miles per gallon. No space between the number and mpg. 

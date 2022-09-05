@@ -485,6 +485,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   ID – identification. Plural IDs. Avoid using as a verb unless space is very restricted; use apostrophe in verb form. Where possible, *The bouncer checks drinkers' identification*, not *The bouncer ID’s drinkers.* 
 *   IDLE - Python IDE installed on Raspbian, found under the Programming menu as 'Python 3 (IDLE)'
 *   i.e. 
+*   I-frame - Intra frame. Video term. Do not confuse with iframe (inline frame tag in HTML)
 *   IM – instant message. Plural IMs. Defunct. Use *DM* or *PM* instead according to context.
 *   IMAX – trademark, so use as an adjective, not a noun 
 *   inbox 
@@ -658,6 +659,7 @@ drive space.*
 *   overclocking (noun), overclock (verb). Never the verb *clock*, which may mean something else entirely. If in doubt, clarify. For example, *dynamic frequency clocking*. 
 *   overcurrent - spelled solid; no hyphen, no space
 *   overvoltage - spelled solid; no hyphen, no space
+*   overwrite - spelled solid; no hyphen, no space
  
 ###P 
 
@@ -824,6 +826,7 @@ drive space.*
 *   trackball 
 *   trackpad 
 *   trade show 
+*   transport stream - MPEG-2 transport stream. Note capitalisation.
 *   traveller, travelled, travelling 
 *   Trinket - the service provided on the trinket.io website, as well as the organisation. Note that capitalisation is used inconsistently in their website copy, so this usage is a judgement call by us. See below.
 *   trinket/trinkets - projects on trinket.io. See above.

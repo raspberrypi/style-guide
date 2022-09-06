@@ -544,6 +544,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   left-hand - adjective. Use 'top left-hand side', not 'top left side' or 'top-left side'
 *   Lego – the Lego Group has trademarked LEGO (all caps), but Lego is an acceptable usage. See also *splot*. Adjective only. Plural *Lego bricks*, not *Legos*, which is an abomination unto Nuggan. 
 *   LGBT – lesbian, gay, bisexual, transgender 
+*   libcamera - software library. Lower-case l, do not use at the start of a sentence. (The passive voice has been used a lot today.)
 *   Li-ion – lithium-ion (a kind of battery) 
 *   licence/license –  licence (noun), license (verb). We are not American! 
 *   lightyear

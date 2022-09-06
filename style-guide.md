@@ -880,6 +880,7 @@ drive space.*
  
 ###W 
 
+*   walkthrough - one word
 *   wallpaper, wallpapers 
 *   WAN – wide area network 
 *   web 

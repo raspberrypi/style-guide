@@ -918,6 +918,7 @@ drive space.*
 *   Xbox – Microsoft trademark. Do not add es to make plural 
 *   XHTML – Extensible Hypertext Markup Language 
 *   XML – Extensible Markup Language 
+*   X Windows - GUI framework
  
 ###Y 
 

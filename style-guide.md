@@ -723,6 +723,8 @@ drive space.*
 *   QR code 
 *   quad-core - hyphenated when modifying a noun (processor, computer, etc.)
 *   QuickTime – Apple trademark 
+*   Qt
+*   QtGL
  
 ###R 
 

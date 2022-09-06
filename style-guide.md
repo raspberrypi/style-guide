@@ -1,4 +1,4 @@
-# Raspberry Pi Style Guide
+# Raspberry Pi style guide
 
 This document is being updated constantly; please ensure you have the most recent version.
  

@@ -412,14 +412,16 @@ In copy intended specifically for a US audience, US English should be used.
 *   fax 
 *   feed reader  
 *   fetch-decode-execute cycle
+*   FFmpeg
 *   file name 
 *   file system 
 *   firewall 
 *   FireWire – trademark  
-*   Flash – do not capitalise *Flash* when referring to flash memory. If for some reason you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
+*   Flash – do not capitalise *Flash* when referring to flash memory. If for some reason (why?) you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
 *   flash memory - no capital unless at the start of a sentence, Dr Allan.
 *   floating-point - adjective, as in 'floating-point number' 
 *   forgo – not _forego_
+*   frame rate - two words. Had a fight with Sam and Brian about this: two words won.
 *   friend – can be used as a verb if referring to social networking, but this is grim and unlovely. See *unfriend*. 
 *   FTP – File Transfer Protocol (note capitalisation) 
 *   full-screen
@@ -449,7 +451,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   GPU – graphics processing unit 
 *   grade – for school grades (USA), spell out first through ninth grade and use figures for 10th grade or higher. Try to keep a consistent format for ranges (see [Numerals and numbers](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide.md#numerals-and-numbers) above). 
 *   gram – see g
-*   grey – not gray
+*   grey – not gray (unless writing for a US audience)
 *   grown-up - the noun takes a hyphen; it isn't _grownup_
 *   GSM – Global System for Mobile Communications 
 *   guestbook 
@@ -613,6 +615,7 @@ drive space.*
 *   MP - megapixel. Close up, so a *12MP image*.
 *   MP3 – abbreviation for MPEG-1 Audio Layer 3.  
 *   MPEG – Moving Picture Experts Group. Also refers to a compression methodology whose standards are set by this group.
+*   MPEG-2, MPEG-2 transport stream
 *   mpg – miles per gallon. No space between the number and mpg. 
 *   mph – miles per hour. No space between the number and mph. 
 *   MS-DOS – Microsoft Disk Operating System. Trademark for a Microsoft operating system from the DOS family. See *DOS*.
@@ -706,6 +709,7 @@ drive space.*
 *   programme (television, theatre etc.) 
 *   PS2, PS3, PS4, PS5 – acceptable abbreviations for Sony's *PlayStation 2*, *PlayStation 3*, *PlayStation 4* and *PlayStation 5*. 
 *   pseudocode
+*   PulseAudio
 *   Puppy Linux 
 *   PuTTY: popular SSH/Telnet software used to access Raspberry Pi
 *   Pygame

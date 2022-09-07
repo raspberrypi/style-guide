@@ -813,6 +813,7 @@ drive space.*
 
 *   T-shirt 
 *   TeachMeet
+*   TensorFlow
 *   terminal, Terminal - when talking about using the command line in the GUI, 'open a terminal window' or 'type \[something\] into the terminal' (never LXTerminal or similar). The application for using the terminal on Raspberry Pi OS is also called Terminal (proper noun, capital letter). How-to instructions aimed at people who might be unfamiliar with the command line should specify 'open Terminal' before advising people to 'type \[whatever\] into the terminal'.
 *   Tetris (game) 
 *   text message (noun), text-message (adjective, verb). Acceptable to shorten to *text* 

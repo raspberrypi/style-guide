@@ -100,20 +100,6 @@ These are a few of my favourite things:
 *   Banditry 
 *   *Anne of Green Gables* 
 
-## *The* Raspberry Pi Foundation
-
-When referring to the Foundation, use "the Raspberry Pi Foundation" with the definite article, never "Raspberry Pi Foundation" on its own without the article. "The Raspberry Pi Foundation" should always be used as the first instance in an article; "the Foundation" is fine subsequently. It's acceptable to omit the "the" on covers and in titles.
-
-For the Raspberry Pi Foundation team: Trustee, Member, founder, co-founder, Board of Trustees, group of Members. Other job titles as here: https://www.raspberrypi.org/about/team/
-
-## The Raspberry Pi Foundation's charitable status
-
-The Raspberry Pi Foundation is registered with the Charity Commission for England and Wales. We can say that the Foundation is "a registered charity" or "UK registered charity 1129409".
-
-The Raspberry Pi Foundation North America is an official charity in the USA. According to the AP Stylebook, the only acceptable style is "501(c)(3)", and it can only be used as an adjective (501(c)(3) is the section of the US tax code that defines what a charity is). The consensus from a discussion with several US-based 501(c)(3) leaders was that it's best to refer to RPFNA as a nonprofit, rather than a charity. Therefore, at the bottom of flyers and similar assets used by RPFNA, we should include the line "The Raspberry Pi Foundation North America is a 501(c)(3) nonprofit”.
-
-The Raspberry Pi Foundation is referred to as a "non-profit" rather than a "charity" in copy which specifically addresses an Indian audience, as "charity" can have negative connotations in India.
-
 ## Raspberry Pi computers, microcontroller devices, and microcontroller boards
 
 "Raspberry Pi 4", "Raspberry Pi Zero", "Raspberry Pi Pico", "Raspberry Pi RP2040", and so on; not "_the_ Raspberry Pi 4" or "_the_ Raspberry Pi Zero", and not just "Pi 4" or "Pi Zero". The plural of "Raspberry Pi" is "Raspberry Pis" (no apostrophe); but use "Raspberry Pi computers", "Raspberry Pi devices", etc where possible.

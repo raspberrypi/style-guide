@@ -218,6 +218,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   adware
 *   aka – not 'a.k.a.' or 'AKA'
 *   all-expenses-paid trip
+*   ALSA
+*   AlsaMixer
 *   AMD (company name) 
 *   Amstrad (company name) 
 *   Amstrad CPC (computer), short for Amstrad Colour Personal Computer 

@@ -221,6 +221,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   ALSA
 *   AlsaMixer
 *   AMD (company name) 
+*   amp - ampere. No capital despite derivation from proper noun. 1A (close up when abbreviated).
 *   Amstrad (company name) 
 *   Amstrad CPC (computer), short for Amstrad Colour Personal Computer 
 *   analogue 

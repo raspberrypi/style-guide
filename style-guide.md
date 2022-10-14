@@ -451,6 +451,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   hardcore 
 *   hashtag – Twitter term 
 *   HAT - Hardware Attached on Top, describing various add-on boards such as the Sense HAT
+*   HD audio - note capitalisation
 *   HDTV – high-definition television 
 *   heatsink - not *heat sink*
 *   help desk 

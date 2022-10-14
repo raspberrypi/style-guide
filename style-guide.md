@@ -221,7 +221,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   ALSA
 *   AlsaMixer
 *   AMD (company name) 
-*   amp - ampere. No capital despite derivation from proper noun. 1.2 amp or 1.2A (close up when abbreviated, spelling out "amp" is preferred).
+*   amp - ampere. No capital despite derivation from proper noun. 1.2amp or 1.2A (close up, spelling out "amp" is preferred).
 *   Amstrad (company name) 
 *   Amstrad CPC (computer), short for Amstrad Colour Personal Computer 
 *   analogue 

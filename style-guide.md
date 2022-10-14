@@ -456,6 +456,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   heatsink - not *heat sink*
 *   help desk 
 *   help pages 
+*   hi-fi
 *   hit – do not use as a substitute for *press* or *click* 
 *   home page 
 *   host name 

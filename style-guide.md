@@ -486,7 +486,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   infrared 
 *   inkjet
 *   install – install _on_ a computer, install _to_ a hard drive 
-*   internet (do not capitalise unless at start of sentence or in title case) 
+*   internet (do not capitalise unless at start of sentence or set in title case, Dr Allan; it is no longer 1997) 
 *   Internet of Things (IoT)
 *   I/O - not IO. (Old MacDonald had a farm.) BUT see *PIO*.
 *   IP – Internet Protocol or intellectual property (note capitalisations) 

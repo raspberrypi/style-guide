@@ -863,11 +863,9 @@ drive space.*
 *   video camera 
 *   video game 
 *   videoconference 
-*   videophone 
-*   vlog – video blog 
 *   voicemail 
 *   VoIP – voice over Internet Protocol 
-*   volt - not capitalised. **But** takes a capital V when abbreviated, so 3.3V (closed-up, and not 3V3).
+*   volt – not capitalised. **But** takes a capital V when abbreviated, so 3.3V (closed-up, and not 3V3). Sorry-not-sorry, Alasdair.
 *   VPN – virtual private network 
  
 ###W 

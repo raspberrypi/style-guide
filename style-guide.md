@@ -464,7 +464,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   home page 
 *   host name 
 *   hot swap (noun), hot-swap (verb), hot-swappable, hot swapping 
-*   hotspot – one word when referring to a WiFi access point. Use hot spot if you're talking about a popular restaurant.
+*   hotspot – one word when referring to a Wi-Fi access point. Use hot spot if you're talking about a popular restaurant.
 *   hover – do not use to describe holding a mouse pointer over something on the page. Use *hold*, *pass*, or *move [your mouse cursor over].* 
 *   HTML – Hypertext Markup Language 
 *   Hynix (company name) 

@@ -399,6 +399,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   FAQ – frequently asked questions. Plural FAQs. 
 *   Fahrenheit – can always be abbreviated to °F 
 *   fax 
+*   fediverse - no cap. A group of federated servers which, although independently administered, can communicate with each other. Mastodon is trying to make the fediverse A Thing, but our experience so far is that users find it very, very hard to get their heads around.
 *   feed reader  
 *   fetch-decode-execute cycle
 *   FFmpeg
@@ -563,6 +564,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 
 *   mass storage device - not capped up
+*   Mastodon - social network. Please don't use their *Toot* coinage: use *post* instead.
 *   Mbit – megabit (**not** Mb, as this is too easily confused with MB)
 *   MB – megabyte (**not** MByte). No space between the number and MB. *My old Amiga only had 130MB 
 drive space.* 

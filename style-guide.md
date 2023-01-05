@@ -815,6 +815,7 @@ drive space.*
 *   thousand – spell out when in inline text 
 *   thumb drive 
 *   TikTok
+*   Timelapse
 *   timeshift, timeshifting 
 *   TiVo – trademark. Do not use as a verb or add an s to make plural. 
 *   to-do – plural to-dos. Capitalise as *To-Do* in title case. 

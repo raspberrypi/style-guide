@@ -100,9 +100,9 @@ These are a few of my favourite things:
 *   Banditry 
 *   *Anne of Green Gables* 
 
-## Raspberry Pi computers, microcontroller devices, and microcontroller boards
+## Raspberry Pi computers, microcontroller devices, microcontroller boards, and camera modules
 
-"Raspberry Pi 4", "Raspberry Pi Zero", "Raspberry Pi Pico", "Raspberry Pi RP2040", and so on; not "_the_ Raspberry Pi 4" or "_the_ Raspberry Pi Zero", and not just "Pi 4" or "Pi Zero". The plural of "Raspberry Pi" is "Raspberry Pis" (no apostrophe); but use "Raspberry Pi computers", "Raspberry Pi devices", etc where possible.
+"Raspberry Pi 4", "Raspberry Pi Zero", "Raspberry Pi Pico", "Raspberry Pi RP2040", "Raspberry Pi Camera Module 2", and so on; not "_the_ Raspberry Pi 4" or "_the_ Raspberry Pi Zero", and not just "Pi 4" or "Pi Zero". The plural of "Raspberry Pi" is "Raspberry Pis" (no apostrophe); but use "Raspberry Pi computers", "Raspberry Pi devices", etc where possible.
 
 To check official nomenclature, refer to the Product Names Register on Cognidox internally, or the [products page](https://www.raspberrypi.com/products/).
 
@@ -127,7 +127,7 @@ _Raspberry Pi 2, 3, 3+ and Zero 2 W, and Raspberry Pi Compute Module 3_
 
 ## Other Raspberry Pi products
 
-Accessories, PSUs, and add-on boards all take a definite article ("the") before their product name: "the Raspberry Pi Sense HAT", "the Raspberry Pi Mouse", "the Raspberry Pi Camera Module 2". It is usually desirable to omit "Raspberry Pi" from the name in most instances following the first mention. "You can do all kind of experiments with the Raspberry Pi Sense HAT, which is why there are two of them on the International Space Station. The Sense HAT has an array of sensors, a five-button joystick, and an 8x8 RGB LED matrix." "We recommend using the Raspberry Pi USB-C Power Supply, which represents excellent value."
+Almost all accessories, PSUs, and add-on boards take a definite article ("the") before their product name: "the Raspberry Pi Sense HAT", "the Raspberry Pi Mouse", "the Raspberry Pi Touch Display", "the Raspberry Pi High Quality Camera" (note that camera modules **do not** take a definite article, but the High Quality Camera does; that's to do with how horribly clunky "the Raspberry Pi Camera Module _n_" sounds). It is usually desirable to omit "Raspberry Pi" from the name in most instances following the first mention. "You can do all kind of experiments with the Raspberry Pi Sense HAT, which is why there are two of them on the International Space Station. The Sense HAT has an array of sensors, a five-button joystick, and an 8x8 RGB LED matrix." "We recommend using the Raspberry Pi USB-C Power Supply, which represents excellent value."
 
 ## Capitalisation 
 

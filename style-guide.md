@@ -648,6 +648,7 @@ drive space.*
 *   on-board (adjective), on board (adverb). "There is an on-board wireless antenna", but "There is a wireless antenna on board".
 *   online 
 *   on-screen (adjective), on screen (adverb)
+*   OpenOCD
 *   open source - no hyphen whether used as a noun or as an adjective. We would usually hyphenate a term such as this when used as an adjective, according to the advice of _New Hart's Rules_; however, no one else does this, so we would look fussy and stuffy if we were to do so.
 *   opt-in (noun, adjective), opt in (verb) 
 *   organiser (s, not z)

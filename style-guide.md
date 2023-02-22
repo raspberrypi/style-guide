@@ -725,6 +725,7 @@ drive space.*
 *   RAM – random access memory 
 *   Raspberry Pi – plural Raspberry Pis. Do not abbreviate, however much you want to. 
 *   Raspberry Pi 1, Raspberry Pi 2, Raspberry Pi 3B+, Raspberry Pi 4 etc.
+*   Raspberry Pi 3-pin Debug Connector Specification - a standard we have developed (see [here](https://datasheets.raspberrypi.com/debug/debug-connector-specification.pdf)). Capitalise the name of the specification and abbrevations thereof: our Debug Connector Specification, the Raspberry Pi 3-pin Debug Specification, etc (just as we do with abbreviations of the names of hardware products). Don't capitalise descriptive references that are not the name of the spec: the Raspberry Pi debug connector standard.
 *   Raspberry Pi Foundation - requires a definite article: *The Raspberry Pi Foundation works with ESA to let kids run code in space.*
 *   Raspberry Pi OS - does not take a definite article: *Raspberry Pi OS is our official recommended operating system.*
 *   Raspberry Pi Weekly (a weekly email newsletter)

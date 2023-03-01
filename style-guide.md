@@ -33,7 +33,8 @@ Oxford commas should be used throughout; they resolve ambiguity and should be us
 Hyphen (-):
 
 In general,
-*   Hyphenate two or more modifiers before a noun unless the first adjective modifies the complete noun phrase. *The moderators are fascist-robot enthusiasts. The moderators are fascist robot enthusiasts.*
+*   Hyphenate two or more modifiers before a noun unless the first modifier is an adjective that modifies the complete noun phrase. *The moderators are fascist-robot enthusiasts. The moderators are fascist robot enthusiasts.*
+*   Compound nouns that are used as a modifier before a noun need not always be hyphenated; if a hyphen makes them look stuffy and old-fashioned, leave it out. *Machine vision applications, science fiction titles, labour market liberalisation*.
 *   Do not hyphenate compound modifiers that follow a noun. *We try to make sure our advice on hyphenation remains up to date* (but *What's a good channel for up-to-date advice on home fungiculture?*)
 *   Do not hyphenate adjectival compounds which begin with adverbs ending -ly. *A gorgeously constructed computer*.
 *   Add a hyphen on the end of multiple items that are joined to another word in this way. _A 12- and 15-month subscription, full- and part-time jobs_.
@@ -649,7 +650,7 @@ drive space.*
 *   online 
 *   on-screen (adjective), on screen (adverb)
 *   OpenOCD
-*   open source - no hyphen whether used as a noun or as an adjective. We would usually hyphenate a term such as this when used as an adjective, according to the advice of _New Hart's Rules_; however, no one else does this, so we would look fussy and stuffy if we were to do so.
+*   open source - no hyphen whether used as a noun or as an adjective. We would usually hyphenate a term such as this when used as an adjective, according to the advice of _New Hart's Rules_; however, no one else does this, so we would look fussy and stuffy if we did.
 *   opt-in (noun, adjective), opt in (verb) 
 *   organiser (s, not z)
 *   OS – operating system. Plural OSes. 

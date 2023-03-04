@@ -48,7 +48,7 @@ En dash (–):
 
 Em dash (—):
 *   Use an em dash with space either side for parenthetical statements. Em dashes express a more pronounced break in the sentence than commas, and also draw more attention to the parenthetical. They express less of a break than parentheses, and are more informal. Do **not** overuse em dashes. _I didn't have an educated background — dad was a farm labourer._
-*   Use a pair of em dashes with space either side for making a parenthetical statement in the middle of a sentence. If using punctiation in the parenthetical, the closing dash may only be preceded by an exclamation or question mark and the following word may not be capitalised, even if it begins a sentence (unless it is a proper noun). E.g. _The party lasted — we knew it would! — far longer than planned._
+*   Use a pair of em dashes with space either side for making a parenthetical statement in the middle of a sentence. If using punctuation in the parenthetical, the closing dash may only be preceded by an exclamation or question mark and the following word may not be capitalised, even if it begins a sentence (unless it is a proper noun). E.g. _The party lasted — we knew it would! — far longer than planned._
 
 Colon:
 *   When a colon is used in free text, the letter following the colon should be lower-case. E.g. _I have three dogs: a small one, a medium one, and a big one._

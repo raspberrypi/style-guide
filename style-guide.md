@@ -646,7 +646,8 @@ drive space.*
 *   off-screen 
 *   ohm - not capped (although it derives from a proper name). When talking about resistors, 1Ω, not 1R.
 *   OK – **not** okay, Ok or ok. OK? 
-*   on-board (adjective), on board (adverb). "There is an on-board wireless antenna", but "There is a wireless antenna on board".
+*   on-board (adjective), on board (adverb), when referring to PCBs. "There is an on-board wireless antenna", but "There is a wireless antenna on board".
+*   onboard (adjective), on board (adverb), when referring to vessels and vehicles. "There are two Raspberry Pi computers on board the International Space Station." "Input from sensors in the hull is sent to the ship's onboard computer."
 *   online 
 *   on-screen (adjective), on screen (adverb)
 *   OpenOCD

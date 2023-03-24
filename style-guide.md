@@ -330,7 +330,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   computer science (**not** computing science) — always lower-case, even when referring to the school subject
 *   computing — always lower-case, even when referring to the school subject
 *   cookie – lower case for both biscuits and tracking cookies 
-*   corrupted – use *corrupted*, not *corrupt* when describing data. *The file is corrupted.*  
+*   corrupted – use *corrupted*, not *corrupt* when describing data. *The file is corrupted.*
+*   COVID, or if necessary COVID-19, in capitals (in agreement with the AP style guide)
 *   crawl – fine as a transitive verb meaning "to sift through" when applied to search engines 
 *   Creative Commons
 *   cron – time-based job scheduler in Unix-like computer operating systems

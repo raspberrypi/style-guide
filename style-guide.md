@@ -411,7 +411,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   FireWire – trademark  
 *   Flash – do not capitalise *Flash* when referring to flash memory. If for some reason (why?) you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
 *   flash memory - no capital unless at the start of a sentence, Dr Allan.
-*   floating-point - adjective, as in 'floating-point number' 
+*   floating-point - adjective, as in 'floating-point number'
+* focused - not _focussed_
 *   forgo – not _forego_
 *   frame rate - two words. Had a fight with Sam and Brian about this: two words won.
 *   friend – can be used as a verb if referring to social networking, but this is grim and unlovely. See *unfriend*. 

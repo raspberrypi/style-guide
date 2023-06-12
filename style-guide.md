@@ -281,6 +281,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   Blu Tack (noun) - Bostik product 
 *   Blu-Tack (verb) - 'to Blu-Tack'/'Blu-Tacked'
 *   Bluetooth – Bluetooth SIG trademark. Note capitalisation and only use as an adjective. 
+*   Bluetooth Classic
+*   BluetoothLE
 *   BMP – bitmap
 *   bookazine – publishing industry jargon, do **not** use this in public-facing copy. Use _book_.
 *   boot ROM - a small piece of memory containing the first code executed by the processor on startup

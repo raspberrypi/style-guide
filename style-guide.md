@@ -12,7 +12,7 @@ Raspberry Pi strives for an approachable, conversational tone in its materials. 
 
 Use semicolons for lists with internal commas. *We received bouquets from Chris, in California; Jim, in Belgium; and Bob, in Liverpool.*
 
-Complicated lists are usually better presented typographically with bullets or numerals. Bullets should be used for lists of items with no hierarchy, numerals for lists of items with hierarchy, and for steps in a process (for example tutorials). Letters should never be used for list points. Bullet points take a capital letter but do not take a full stop (this includes the final list item) unless one or more of the bulleted list items is made up of more than one sentence, in which case all points on the list should have a full stop, even if they are fragments. 
+Complicated lists are usually better presented typographically with bullets or numerals, but don't resort to bulleted lists just because it's the easiest option: consider narrative flow and page layout. Bullets should be used for lists of items with no hierarchy, numerals for lists of items with hierarchy, and for steps in a process (for example tutorials). Letters should never be used for list points. Bullet points take a capital letter but do not take a full stop (this includes the final list item) unless one or more of the bulleted list items is made up of more than one sentence, in which case all points on the list should have a full stop, even if they are fragments. 
 
 A bulleted list should be introduced with a colon: 
 

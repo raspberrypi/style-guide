@@ -30,6 +30,8 @@ Use **bold** type for emphasis.
 
 Oxford commas should be used throughout; they resolve ambiguity and should be used elsewhere for consistency. *We photographed the components, a sandwich, and a magnet.*  
 
+Do you find yourself adding more and more commas to make your sentence readable? Perhaps it would be better if you split it into two sentences instead. That said, at Raspberry Pi we're committed to railing against the death of the semicolon; it's a very useful piece of punctuation.
+
 Hyphen (-):
 
 In general,

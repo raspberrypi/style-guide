@@ -49,7 +49,7 @@ En dash (–):
 *   Use a closed-up en dash to form compound words either when one of the components is itself a hyphenated word, or when one of the components is formed of two words. _Raspberry Pi–powered, e-book–only publisher, public school–educated student, liberal–conservative debate_.
 
 Em dash (—):
-*   Use an em dash with space either side for parenthetical statements. Em dashes express a more pronounced break in the sentence than commas, and also draw more attention to the parenthetical. They express less of a break than parentheses, and are more informal. Do **not** overuse em dashes. _I didn't have an educated background — Dad was a farm labourer._
+*   Use an em dash with space either side for parenthetical statements. Em dashes express a more pronounced break in the sentence than commas, and also draw more attention to the parenthetical. They express less of a break than parentheses, and are more informal. Do *not* overuse em dashes. _I didn't have an educated background — Dad was a farm labourer._
 *   Use a pair of em dashes with space either side for making a parenthetical statement in the middle of a sentence. If using punctuation in the parenthetical, the closing dash may only be preceded by an exclamation or question mark and the following word may not be capitalised, even if it begins a sentence (unless it is a proper noun). E.g. _The party lasted — we knew it would! — far longer than planned._
 
 Colon:
@@ -57,7 +57,7 @@ Colon:
 *   When a colon is preceded by a header-style construction, the letter following the colon should be upper-case. E.g. _Note: This wouldn’t look so great with a lower-case t._
 
 Quotation marks (' and "):
-*   Do **not** use scare quotes (quotation marks put around a word or phrase in a written sentence in order to show that the word is being used in a special way, or in a way that may not be correct or true). Scare quotes make for vague, sensationalist writing. You can write better than that.
+*   Do *not* use scare quotes (quotation marks put around a word or phrase in a written sentence in order to show that the word is being used in a special way, or in a way that may not be correct or true). Scare quotes make for vague, sensationalist writing. You can write better than that.
 *   Use single quotes to highlight a word/phrase when needed, such as when you introduce a new term, need to offset a title. E.g. _Ask what the word 'system' means._ or _Hand out the ‘Bicycle system’ activity sheet._
    *   Be judicious in your use of quotation marks in this way: if the word/phrase stands out to the reader without them, leave them out; if the reader might stumble over the word/phrase without them, put them in.
 *   Use double quotation marks **only** to indicate actual quoted speech.
@@ -67,13 +67,13 @@ Fragments (e.g. for definitions) do not take a full stop at the end. _An isolate
 
 Do not use apostrophes in abbreviated plurals: *PCs, BGAs*. Apostrophes may be used when an abbreviation is turned into a verb, although it is best practice to avoid doing this altogether: *My mother won't stop IM'ing me.* (This example is from the deep past, when mothers IM'd. Now they WhatsApp us.)
 
-Do **not** use ampersands (&); always use 'and'. The exception might be in a print article for one of our magazines, where space is at a premium.
+Do *not* use ampersands (&); always use 'and'. The exception might be in a print article for one of our magazines, where space is at a premium.
 
 ## Titles of other works 
 
-Titles of other works should be set in title case (first and last words take an initial capital, regardless of length of word or part of speech; all other words in the title **except** articles, prepositions of three or fewer letters and conjunctions of three or fewer letters, and the words *if, how* and *why* should also take an initial capital.)  
+Titles of other works should be set in title case (first and last words take an initial capital, regardless of length of word or part of speech; all other words in the title *except* articles, prepositions of three or fewer letters and conjunctions of three or fewer letters, and the words *if, how* and *why* should also take an initial capital.)  
 
-As a general rule with **software in particular**, check the manufacturer's capitalisation style. Many examples of software title capitalisation are in the word list below; if you encounter more that you think we add, please start a pull request. 
+As a general rule with *software in particular*, check the manufacturer's capitalisation style. Many examples of software title capitalisation are in the word list below; if you encounter more that you think we add, please start a pull request. 
 
 Treatment of the titles depends on the type of work. In general, titles should be set in *italics*.
 
@@ -81,15 +81,15 @@ Italicise the titles of the following types of works: artworks; books, book chap
 
 Do **not** italicise titles if they fall under one of the following categories: 
 
-*   Blogs. The titles of **individual blog posts should** be set in italics (unless the blog publishes posts under a date only).
+*   Blogs. The titles of individual blog posts should be set in italics (unless the blog publishes posts under a date only).
 *   Games. Computer games, board games, card games, arcade games. 
-*   Magazines and newspapers. The titles of **specific articles** from magazines and newspapers **should**, however, be set in italics. 
+*   Magazines and newspapers. The titles of specific articles from magazines and newspapers *should*, however, be set in italics. 
 *   Websites.
 *   Software.
 
 But wait! There's more! 
 
-If compiling a numbered or bulleted list of titles **which are like items**, the titles do not need to be set in italics because they do not need to stand out from surrounding text. A similar list of titles which are not like items should be set in italics where they are required. 
+If compiling a numbered or bulleted list of titles *which are like items*, the titles do not need to be set in italics because they do not need to stand out from surrounding text. A similar list of titles which are not like items should be set in italics where they are required. 
 
 Jemima's favourite old movies are: 
 
@@ -130,7 +130,7 @@ _Raspberry Pi 2, 3, 3+ and Zero 2 W, and Raspberry Pi Compute Module 3_
 
 ## Other Raspberry Pi products
 
-Almost all accessories, PSUs, and add-on boards take a definite article ("the") before their product name: "the Raspberry Pi Sense HAT", "the Raspberry Pi Mouse", "the Raspberry Pi Touch Display", "the Raspberry Pi High Quality Camera" (note that camera modules **do not** take a definite article, but the High Quality Camera does; that's to do with how horribly clunky "the Raspberry Pi Camera Module _n_" sounds). It is usually desirable to omit "Raspberry Pi" from the name in most instances following the first mention. "You can do all kind of experiments with the Raspberry Pi Sense HAT, which is why there are two of them on the International Space Station. The Sense HAT has an array of sensors, a five-button joystick, and an 8x8 RGB LED matrix." "We recommend using the Raspberry Pi USB-C Power Supply, which represents excellent value."
+Almost all accessories, PSUs, and add-on boards take a definite article ("the") before their product name: "the Raspberry Pi Sense HAT", "the Raspberry Pi Mouse", "the Raspberry Pi Touch Display", "the Raspberry Pi High Quality Camera" (note that camera modules do not take a definite article, but the High Quality Camera does; that's to do with how horribly clunky "the Raspberry Pi Camera Module _n_" sounds). It is usually desirable to omit "Raspberry Pi" from the name in most instances following the first mention. "You can do all kind of experiments with the Raspberry Pi Sense HAT, which is why there are two of them on the International Space Station. The Sense HAT has an array of sensors, a five-button joystick, and an 8x8 RGB LED matrix." "We recommend using the Raspberry Pi USB-C Power Supply, which represents excellent value."
 
 ## Capitalisation 
 
@@ -268,7 +268,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Beagle Board 
 *   beta – do not capitalise unless part of an official product lane. *Raspberry Pi's beta release for developers; try Yahoo! Messenger Beta.* 
 *   BGA – ball grid array 
-*   biannual, bimonthly, biweekly – do **not** use. Instead use every two months or twice a month etc. which is longer, but which avoids confusion. 
+*   biannual, bimonthly, biweekly – do not use. Instead use every two months or twice a month etc. which is longer, but which avoids confusion. 
 *   billion – use numerals with billion: *5 billion people*. Abbreviate to bil only if space is at a premium. 
 *   binary 
 *   binary blob – a pejorative term in the free software community. Do not use to refer to the GPU in Raspberry Pi computers.
@@ -286,7 +286,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Bluetooth Classic
 *   BluetoothLE
 *   BMP – bitmap
-*   bookazine – publishing industry jargon, do **not** use this in public-facing copy. Use _book_.
+*   bookazine – publishing industry jargon, do not use this in public-facing copy. Use _book_.
 *   boot ROM - a small piece of memory containing the first code executed by the processor on startup
 *   bps – bits per second 
 *   breadcrumb (when referring to website navigation) 
@@ -310,9 +310,9 @@ In copy intended specifically for a US audience, US English should be used.
 *   CD-ROM – CD-read-only memory. Do not spell out this acronym. Plural CD-ROMs. 
 *   CD-RW – CD-rewritable. Plural CD-RWs. 
 *   Celsius – can always be abbreviated to °C 
-*   centimetre (**not** centimeter) 
+*   centimetre (not centimeter) 
 *   Certified Educator (Picademy graduate)
-*   CGI – computer-generated imaging **or** common gateway interface **or** computer graphics interface. Be clear in the first reference in a section which you are referring to before reverting to the acronym. 
+*   CGI – computer-generated imaging *or* common gateway interface *or* computer graphics interface. Be clear in the first reference in a section which you are referring to before reverting to the acronym. 
 *   champion - lower case, including in the context of CoderDojo ("Thank you to all our wonderful CoderDojo champions and mentors!")
 *   chat room 
 *   checkbox 
@@ -331,7 +331,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Commodore Amiga – shorten to Amiga after first use 
 *   Commodore International – company producing the Commodore family of computers 
 *   Compute Module, Compute Module 3, Compute Module 3 Lite - CM1, CM3, CM3 Lite. Abbreviations should only be used after first using the full product name, and only where repeating the full name would become cumbersome.
-*   computer science (**not** computing science) — always lower-case, even when referring to the school subject
+*   computer science (not computing science) — always lower-case, even when referring to the school subject
 *   computing — always lower-case, even when referring to the school subject
 *   cookie – lower case for both biscuits and tracking cookies 
 *   corrupted – use *corrupted*, not *corrupt* when describing data. *The file is corrupted.*
@@ -368,7 +368,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   double-click – note hyphen 
 *   drag-and-drop (adjective), drag and drop (verb) 
 *   dreamt 
-*   drop-down menu **not** pull-down menu 
+*   drop-down menu not pull-down menu 
 *   DVD – digital video disc. No need to spell out the acronym in first use. 
 *   DVR – digital video recorder 
  
@@ -483,7 +483,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   I2C - Inter-Integrated Circuit, used for peripherals on Raspberry Pi; use I2C (no superscript) unless there's a particular reason for using I<sup>2</sup>C (changed Nov 2020 and consistent across RPTL and Raspberry Pi Press)
 *   IBM  – company name
 *   IC – integrated circuit 
-*   ICT – information and communications technology, **not** information and communication technology 
+*   ICT – information and communications technology, not information and communication technology 
 *   ID – identification. Plural IDs. Avoid using as a verb unless space is very restricted; use apostrophe in verb form. Where possible, *The bouncer checks drinkers' identification*, not *The bouncer ID’s drinkers.* 
 *   IDLE - Python IDE installed on Raspbian, found under the Programming menu as 'Python 3 (IDLE)'
 *   i.e. 
@@ -573,8 +573,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   mashup (noun, adjective), mash up (verb) 
 *   mass storage device - not capped up
 *   Mastodon - social network. Please don't use their *Toot* coinage: use *post* instead.
-*   Mbit – megabit (**not** Mb, as this is too easily confused with MB)
-*   MB – megabyte (**not** MByte). No space between the number and MB. *My old Amiga only had 130MB 
+*   Mbit – megabit (not Mb, as this is too easily confused with MB)
+*   MB – megabyte (not MByte). No space between the number and MB. *My old Amiga only had 130MB 
 drive space.* 
 *   Mbps – megabits per second. No space between number and Mbps. 
 *   MBps – megabytes per second. No space between number and MBps. 
@@ -592,7 +592,7 @@ drive space.*
 *   micro USB
 *   micro:bit – a handheld, fully programmable computer which was given free to every Year 7 child across the UK. The Micro:bit Educational Foundation is trying to drop the 'BBC' in front of 'micro:bit'. If using just 'micro:bit', try not to begin sentences with it, due to the lowercase nature of the name.
 *   Micro:bit Educational Foundation – see [here](http://microbit.org/about/). Note uppercase 'M'.
-*   microblog 
+*   microblog - deprecated. This is what we used to call platforms like Twitter and Tumblr.
 *   microcontroller 
 *   microprocessor
 *   MicroPython
@@ -652,7 +652,7 @@ drive space.*
 *   offshoot
 *   off-screen 
 *   ohm - not capped (although it derives from a proper name). When talking about resistors, 1Ω, not 1R.
-*   OK – **not** okay, Ok or ok. OK? 
+*   OK – not okay, Ok or ok. OK? 
 *   on-board (adjective), on board (adverb), when referring to PCBs. "There is an on-board wireless antenna", but "There is a wireless antenna on board".
 *   onboard (adjective), on board (adverb), when referring to vessels and vehicles. "There are two Raspberry Pi computers on board the International Space Station." "Input from sensors in the hull is sent to the ship's onboard computer."
 *   online 
@@ -880,7 +880,7 @@ drive space.*
 *   videoconference 
 *   voicemail 
 *   VoIP – voice over Internet Protocol 
-*   volt – not capitalised. **But** takes a capital V when abbreviated, so 3.3V (closed-up, and not 3V3). Sorry-not-sorry, Alasdair.
+*   volt – not capitalised. *But* takes a capital V when abbreviated, so 3.3V (closed-up, and not 3V3). Sorry-not-sorry, Alasdair.
 *   VPN – virtual private network 
  
 ###W 
@@ -908,7 +908,7 @@ drive space.*
 *   Wiimote - controller for the Wii. Colloquial. (The official term is Wii Remote.)
 *   wiki – plural *wikis* 
 *   Windows – trademark: use Microsoft Windows if talking about the Microsoft product to differentiate from other windowing software 
-*   Windows CE – trademark. **Not** Microsoft Windows CE 
+*   Windows CE – trademark. Not Microsoft Windows CE 
 *   Wine – application to allow Microsoft Windows software to run on UNIX-like operating systems. Originally an acronym for WINdows Emulator, later changed to a recursive “backronym” for Wine Is Not an Emulator. 
 *   word processing (noun), word-processing (adjective) 
 *   word-of-mouth 

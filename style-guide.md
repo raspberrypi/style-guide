@@ -341,7 +341,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   cron – time-based job scheduler in Unix-like computer operating systems
 *   crontab – cron table, a configuration file driving cron that specifies shell commands to run periodically on a given schedule
 *   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a web page.* 
-*   CSV – comma-separated values 
+*   CSV – comma-separated values
+*   cubesat - not CubeSat or cube sat
 *   curriculum (pl. curricula)
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
  
@@ -415,6 +416,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   FireWire – trademark  
 *   Flash – do not capitalise *Flash* when referring to flash memory. If for some reason (why?) you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
 *   flash memory - no capital unless at the start of a sentence, Dr Allan.
+*   flatsat - prototype, ground-based test hardware for cubesats. Not flat sat or FlatSat.
 *   floating-point - adjective, as in 'floating-point number'
 * focused - not _focussed_
 *   forgo – not _forego_

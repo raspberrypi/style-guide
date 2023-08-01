@@ -786,19 +786,20 @@ drive space.*
 *   SIM card – subscriber identity module card 
 *   Sinclair ZX81 (cf. ZX Spectrum) 
 *   single-board computer
+*   SiP – system in package
 *   site map 
 *   slideshow 
 *   smart card 
 *   smartphone 
 *   SMS – short message service 
 *   snail mail – just no. Use *the post* or similar.
-*   SoC – system on a chip 
+*   SoC – system on chip 
 *   social media – treat as *media* 
 *   social network (noun), social-network (adjective) 
 *   social networking (noun), social-networking (adjective) 
 *   SODIMM (no hyphen)
 *   software – collective noun; when singular, never write 'a software' (seriously, we've seen news outlets who should know better use this); always write 'a piece of software' (preferred) or 'a software program'
-*   SoM - system on module
+*   SoM – system on module
 *   sound bite 
 *   soundcheck 
 *   soundstage 

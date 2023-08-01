@@ -342,7 +342,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   crontab – cron table, a configuration file driving cron that specifies shell commands to run periodically on a given schedule
 *   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a web page.* 
 *   CSV – comma-separated values
-*   cubesat - not CubeSat or cube sat
+*   CubeSat - not cubesat or cube sat
 *   curriculum (pl. curricula)
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
  

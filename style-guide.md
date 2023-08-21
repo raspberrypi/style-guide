@@ -815,6 +815,7 @@ drive space.*
 *   style sheet – lower case even when referring to CSS (which you probably aren't referring to, but you know. Just in case). See CSS. 
 *   sub- – close up this prefix with the root word unless the root word starts with a capital letter, in which case hyphenate. *Subdomain, sub-Victorian.* 
 *   substring
+*   sulphur - not sulfur, despite the Royal Society of Chemistry's best efforts.
 *   SWD - Serial Wire Debug
 *   sync, synched, synching 
  

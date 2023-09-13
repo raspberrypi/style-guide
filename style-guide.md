@@ -580,7 +580,8 @@ In copy intended specifically for a US audience, US English should be used.
 drive space.* 
 *   Mbps – megabits per second. No space between number and Mbps. 
 *   MBps – megabytes per second. No space between number and MBps. 
-*   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.* 
+*   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.*
+*   meet-up (noun, adjective), meet up (verb). Not *meetup*. 
 *   mens'
 *   mentee – never, ever use this horrible neologism. *Student* or *protégé* are acceptable substitutions. 
 *   mentor - lower case, including in the context of CoderDojo. _Thank you to all our wonderful CoderDojo champions and mentors!_

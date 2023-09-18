@@ -290,7 +290,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   boot ROM - a small piece of memory containing the first code executed by the processor on startup
 *   bps – bits per second 
 *   breadcrumb (when referring to website navigation) 
-*   Broadcom 
+*   Broadcom
+*   Brownout - spelled solid; no hyphen, no space
 *   brute-force – adjective, as in _brute-force attack_
 *   BSD – Berkeley Software Distribution 
  

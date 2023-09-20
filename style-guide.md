@@ -874,7 +874,8 @@ drive space.*
 *   up-to-date 
 *   URL – Uniform Resource Locator, but abbreviation is always OK and doesn't need to be spelt out in the first instance
 *   USA 
-*   USB – universal serial bus 
+*   USB – universal serial bus
+*   USB C, USB 2 etc. Not USB Type-C in blog posts, magazine articles or books like the _Beginner's Guide_, but Type-C etc. is acceptable in writing geared for a more technical audience.
 *   USB flash drive 
 *   user 
 *   user base

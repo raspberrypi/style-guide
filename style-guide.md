@@ -105,7 +105,7 @@ These are a few of my favourite things:
 
 ## Raspberry Pi computers, microcontroller devices, microcontroller boards, and camera modules
 
-"Raspberry Pi 4", "Raspberry Pi Zero", "Raspberry Pi Pico", "Raspberry Pi RP2040", "Raspberry Pi Camera Module 2", and so on; not "_the_ Raspberry Pi 4" or "_the_ Raspberry Pi Zero", and not just "Pi 4" or "Pi Zero". The plural of "Raspberry Pi" is "Raspberry Pis" (no apostrophe); but use "Raspberry Pi computers", "Raspberry Pi devices", etc where possible.
+"Raspberry Pi 4", "Raspberry Pi Zero", "Raspberry Pi Pico", "Raspberry Pi RP2040", "Raspberry Pi Camera Module 2", and so on; not "_the_ Raspberry Pi 4" or "_the_ Raspberry Pi Zero", and not just "Pi 4" or "Pi Zero". The plural of "Raspberry Pi" is "Raspberry Pis" (no apostrophe); but use "Raspberry Pi computers", "Raspberry Pi devices", etc. where possible.
 
 To check official nomenclature, refer to the Product Names Register on Cognidox internally, or the [products page](https://www.raspberrypi.com/products/).
 

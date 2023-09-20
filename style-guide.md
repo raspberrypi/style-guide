@@ -356,8 +356,9 @@ In copy intended specifically for a US audience, US English should be used.
 *   Device Tree - a means of representing devices on Raspberry Pi.
 *   digital age, digital native, digital divide – avoid where possible. Dated jargon. 
 *   Digital Making Curriculum. Also: the Raspberry Pi Foundation's Digital Making Curriculum.
-*   dialogue – UK spelling. 
-*   dingbat – typographical ornament, such as ★. 
+*   dialogue – UK spelling
+*   dingbat – typographical ornament, such as ★.
+*   dioptre - UK spelling
 *   disc/disk – magnetic storage is on disks, but optical storage is on discs: *floppy disks, compact discs.* 
 *   Disney+ - streaming service. Confusingly, "Disney Plus" seems to be used pretty much interchangeably, but "Disney+" appears to be Disney's preference.
 *   disk space – not disk-space or diskspace

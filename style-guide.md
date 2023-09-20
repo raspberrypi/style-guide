@@ -431,7 +431,8 @@ In copy intended specifically for a US audience, US English should be used.
 ###G 
 
 *   g – gram(s). Use a numeral with g and no space between the numeral and g. *The teabag weighs 7g.* 
-*   gamer 
+*   gamer
+*   games console. Not "game console", which is the US usage: British usage is "games". See also maths/math.
 *   Gb – gigabit. No space between the number and Gb. 
 *   GB – gigabyte. No space between the number and GB. *You'll need an 8GB SD card.* 
 *   Gbps – gigabits per second. No space between number and Gbps. 
@@ -577,6 +578,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   mashup (noun, adjective), mash up (verb) 
 *   mass storage device - not capped up
 *   Mastodon - social network. Please don't use their *Toot* coinage: use *post* instead.
+*   Maths, not math. Mathematics is also acceptable.
 *   Mbit – megabit (not Mb, as this is too easily confused with MB)
 *   MB – megabyte (not MByte). No space between the number and MB. *My old Amiga only had 130MB 
 drive space.* 

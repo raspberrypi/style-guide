@@ -806,7 +806,8 @@ drive space.*
 *   SoM – system on module
 *   sound bite 
 *   soundcheck 
-*   soundstage 
+*   soundstage
+*   southbridge - a bit dated, and very ASIC-engineer specific. 'I/O controller chip' is preferred.
 *   spam 
 *   spammer 
 *   spell-checker, spell-check 

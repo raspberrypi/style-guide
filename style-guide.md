@@ -843,7 +843,8 @@ drive space.*
 *   thumb drive 
 *   TikTok
 *   Timelapse
-*   timeshift, timeshifting 
+*   timeshift, timeshifting
+*   title bar
 *   TiVo – trademark. Do not use as a verb or add an s to make plural. 
 *   to-do – plural to-dos. Capitalise as *To-Do* in title case. 
 *   toolbar 

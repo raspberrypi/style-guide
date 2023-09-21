@@ -380,7 +380,8 @@ In copy intended specifically for a US audience, US English should be used.
 
 *   e- – generally, hyphenate when a prefix. So: *e-book, e-card, e-reader*. Note exception for email. 
 *   e-book 
-*   e-commerce 
+*   e-commerce
+*   E-Mark - protocol controller for USB cables. Abbreviation of *Electronically Marked*. Term of art, so please observe capitalsation. *E-Marked* is acceptable. *Ensure that you are using an E-Marked cable.* 
 *   e-paper
 *   e.g. 
 *   Earth – capitalise when referring to planet, lower case when referring to soil. 

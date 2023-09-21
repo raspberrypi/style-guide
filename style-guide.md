@@ -345,6 +345,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   CSV – comma-separated values
 *   CubeSat - not cubesat or cube sat
 *   curriculum (pl. curricula)
+*   cut-out - *there is a cut-out in the side of the case to make room for the camera cable.* Note hyphen, do not close up.
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
  
 ###D 

@@ -626,7 +626,7 @@ drive space.*
 *   MPEG – Moving Picture Experts Group. Also refers to a compression methodology whose standards are set by this group.
 *   MPEG-2, MPEG-2 transport stream
 *   mpg – miles per gallon. No space between the number and mpg. 
-*   mph – miles per hour. No space between the number and mph. 
+*   mph – miles per hour. No space between the number and mph.
 *   MS-DOS – Microsoft Disk Operating System. Trademark for a Microsoft operating system from the DOS family. See *DOS*.
 *   multi- – do not hyphenate words with this prefix unless the root word starts with an i or a capital letter. *Multiplayer, multicolour, multi-industry.* 
  
@@ -634,14 +634,14 @@ drive space.*
 
 *   nano - linux text editor. Note lower case. Full name: 'GNU nano'
 *   NeoPixels - Adafruit trademark
-*   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight.
+*   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight
 *   newline – the control character
 *   news feed 
 *   newsreader – both job title and RSS feed 
 *   Ni-MH – a kind of battery. Note capitalisation differs on expansion; cf. *nickel-metal hydride.*  
 *   NIC – network interface card 
 *   nickel-metal hydride – see *Ni-MH* 
-*   Ninja - upper case when used in the context of CoderDojo, but frankly I'd be happy never to have to use it again. 
+*   Ninja - upper case when used in the context of CoderDojo, but frankly I'd be happy never to have to use it again
 *   no-no 
 *   No. 1 – see *number one* 
 *   no one - do not hyphenate
@@ -740,7 +740,7 @@ drive space.*
 
 *   RAM – random access memory
 *   Raspberry Pi icon - not _Raspberry Icon_ or _raspberry icon_.
-*   Raspberry Pi menu - not _Raspberry Pi Menu_ or _Raspberry menu_ or any other of your nonsense, Jepson. :P
+*   Raspberry Pi menu - not _Raspberry Pi Menu_ or _Raspberry menu_ or any of your other nonsense, Jepson. :P
 *   Raspberry Pi – plural Raspberry Pis. Do not abbreviate, however much you want to. 
 *   Raspberry Pi 1, Raspberry Pi 2, Raspberry Pi 3B+, Raspberry Pi 4 etc.
 *   Raspberry Pi 3-pin Debug Connector Specification - a standard we have developed (see [here](https://datasheets.raspberrypi.com/debug/debug-connector-specification.pdf)). Capitalise the name of the specification and abbrevations thereof: our Debug Connector Specification, the Raspberry Pi 3-pin Debug Specification, etc (just as we do with abbreviations of the names of hardware products). Don't capitalise descriptive references that are not the name of the spec: the Raspberry Pi debug connector standard.
@@ -823,7 +823,7 @@ drive space.*
 *   style sheet – lower case even when referring to CSS (which you probably aren't referring to, but you know. Just in case). See CSS. 
 *   sub- – close up this prefix with the root word unless the root word starts with a capital letter, in which case hyphenate. *Subdomain, sub-Victorian.* 
 *   substring
-*   sulphur - not sulfur, despite the Royal Society of Chemistry's best efforts.
+*   sulphur - not sulfur, despite the Royal Society of Chemistry's best efforts
 *   SWD - Serial Wire Debug
 *   sync, synched, synching 
  
@@ -917,7 +917,7 @@ drive space.*
 *   WhatsApp
 *   white paper - two words, lower case, as preferred by both AP and Guardian/Observer style guides (2021/07/02)
 *   widescreen 
-*   Wi-Fi:registered: - ~~if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar.~~ Newsflash! The Wi-Fi Alliance has now altered its rules to say that non-members are allowed to use the term. Wi-Fi, not WiFi, and needs to be followed by the :registered: symbol
+*   Wi-Fi:registered: - ~~if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar.~~ Newsflash! The Wi-Fi Alliance has now altered its rules to say that non-members are allowed to use the term. Wi-Fi, not WiFi, and needs to be followed by the :registered: symbol. No need to expand to _wireless (Wi-Fi)_ when first using in a document; Wi-Fi is common-enough usage that we can consider it standard English. 
 *   Wii – Nintendo trademark. Do not add an s to make plural. 
 *   Wiimote - controller for the Wii. Colloquial. (The official term is Wii Remote.)
 *   wiki – plural *wikis* 

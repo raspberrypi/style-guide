@@ -201,7 +201,8 @@ In copy intended specifically for a US audience, US English should be used.
 ###&#35;
 
 *   3D 
-*   3G, 4G, 5G (phone networks) 
+*   3G, 4G, 5G (phone networks)
+*   4K - screen resolution. Upper-case K, close up if modifier added: _4Kp60_.
 *   50-50 – not fifty-fifty  
 *   7-inch screen
 *   8-bit microprocessor 

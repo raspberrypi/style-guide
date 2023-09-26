@@ -872,7 +872,8 @@ drive space.*
  
 ###U 
 
-*   UART – universal asynchronous receiver/transmitter 
+*   UART – universal asynchronous receiver/transmitter
+*   UF2
 *   UI – user interface 
 *   UK 
 *   UN 

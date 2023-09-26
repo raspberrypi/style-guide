@@ -827,6 +827,7 @@ drive space.*
 *   sub- – close up this prefix with the root word unless the root word starts with a capital letter, in which case hyphenate. *Subdomain, sub-Victorian.* 
 *   substring
 *   sulphur - not sulfur, despite the Royal Society of Chemistry's best efforts
+*   supercapacitor - all one word
 *   SWD - Serial Wire Debug
 *   sync, synched, synching 
  

@@ -470,7 +470,8 @@ In copy intended specifically for a US audience, US English should be used.
 ###H 
 
 *   HackSpace magazine – Note capitals. It is no longer the case that we must always include _magazine_ when referring to it.
-*   Hall effect sensor - capital H 
+*   Hall effect sensor - capital H
+*   Hands-on - "a hands-on demo", "get hands-on with Raspberry Pi Pico"
 *   hardcore 
 *   hashtag – Twitter term 
 *   HAT - Hardware Attached on Top, describing various add-on boards such as the Sense HAT

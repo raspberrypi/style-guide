@@ -690,7 +690,9 @@ drive space.*
 *   password-protect (verb) 
 *   PayPal – an eBay trademark 
 *   PC – personal computer. Make context clear to avoid confusion with *politically correct.* 
-*   PCB – printed circuit board 
+*   PCB – printed circuit board
+*   PCIe 
+*   PCIe 3.0 x1 - letter x, not multiplication symbol
 *   PDF (Portable Document Format, Adobe file format)
 *   peer-to-peer (adjective) 
 *   percent 

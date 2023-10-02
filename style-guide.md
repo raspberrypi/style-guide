@@ -714,6 +714,7 @@ drive space.*
 *   Picademy - training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.
 *   picamera - software library which provides a pure Python interface to the Raspberry Pi Camera Module. Contains the PiCamera class (among others). Note capitalisation.  
 *   PIN – acronym for *personal identification number*. *PIN number* is tautological but acceptable.
+*   PipeWire
 *   playlist 
 *   PlayStation – Sony trademark. Do not add an s to make plural.  
 *   podcast 

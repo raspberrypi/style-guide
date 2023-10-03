@@ -223,6 +223,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Acorn Electron (computer) 
 *   adapter
 *   add-on; use 'add-on board', not 'card'
+*   Advanced Error Reporting - cap up this PCIe term
 *   adware
 *   aka – not 'a.k.a.' or 'AKA'
 *   all-expenses-paid trip
@@ -398,6 +399,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   emoji – pl. emojis (even though this word is Japanese; see _tsunami, tsunamis_)
 *   Emotiv – company producing EEG headsets for neuro-signal work. 
 *   end-of-year - adjective before a noun, as in 'end-of-year report'
+*   Endpoint Controller
 *   EPROM – erasable programmable read only memory 
 *   ePub – electronic publication. An open-standard file format for e-books. 
 *   ESP – email service provider 
@@ -700,7 +702,8 @@ drive space.*
 *   PCIe 3.0 x1 - letter x, not multiplication symbol
 *   PDF (Portable Document Format, Adobe file format)
 *   peer-to-peer (adjective) 
-*   percent 
+*   percent
+*   Peripheral Address Map
 *   Perl  
 *   pharming – redirecting traffic from a website that looks legitimate to a spoof website 
 *   PhD 
@@ -782,7 +785,8 @@ drive space.*
  
 ###S 
 
-*   SanDisk (company) 
+*   SanDisk (company)
+*   Schmitt trigger
 *   screen – should only refer to a computer or television screen, not a *page* on a website.  
 *   screen name 
 *   screen reader (accessibility tool) 
@@ -952,7 +956,8 @@ drive space.*
 
 *   X-ray 
 *   x86 architecture 
-*   Xbox – Microsoft trademark. Do not add es to make plural 
+*   Xbox – Microsoft trademark. Do not add es to make plural
+*   xHCI
 *   XHTML – Extensible Hypertext Markup Language 
 *   XML – Extensible Markup Language 
 *   X Windows - GUI framework

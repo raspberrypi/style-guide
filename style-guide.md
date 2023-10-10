@@ -698,7 +698,8 @@ drive space.*
 *   PayPal – an eBay trademark 
 *   PC – personal computer. Make context clear to avoid confusion with *politically correct.* 
 *   PCB – printed circuit board
-*   PCIe 
+*   PCIe
+*   PCIe connector – this is a standard that Raspberry Pi 5 is not using. Write "Raspberry Pi connector for PCIe" instead.
 *   PCIe 3.0 x1 - letter x, not multiplication symbol
 *   PDF (Portable Document Format, Adobe file format)
 *   peer-to-peer (adjective) 

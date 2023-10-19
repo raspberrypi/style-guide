@@ -360,6 +360,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   database 
 *   D-Bus - message bus system. Note capitalisation.
 *   Debian
+*   delta-sigma PWM
 *   Device Tree - a means of representing devices on Raspberry Pi.
 *   digital age, digital native, digital divide – avoid where possible. Dated jargon. 
 *   Digital Making Curriculum. Also: the Raspberry Pi Foundation's Digital Making Curriculum.
@@ -427,6 +428,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   FireWire – trademark  
 *   Flash – do not capitalise *Flash* when referring to flash memory. If for some reason (why?) you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
 *   flash memory - no capital unless at the start of a sentence, Dr Allan.
+*   Flat Flexible Cable - cap up. FFC is acceptable.
 *   flatsat - prototype, ground-based test hardware for cubesats. Not flat sat or FlatSat.
 *   floating-point - adjective, as in 'floating-point number'
 * focused - not _focussed_
@@ -804,7 +806,8 @@ drive space.*
 *   search engine 
 *   security key 
 *   setup (noun, adjective), set up (verb) 
-*   short code – two words when referring to a mobile phone 
+*   short code – two words when referring to a mobile phone
+*   shutdown - noun. Shut down is the verb.
 *   sidebar 
 *   sign-in (noun, adjective); sign in, sign in to (verb). Preferable to *log in* or *log on*; sounds less technical. 
 *   sign-out, sign-up – see *sign-in* 
@@ -828,7 +831,7 @@ drive space.*
 *   sound bite 
 *   soundcheck 
 *   soundstage
-*   southbridge - a bit dated, and very ASIC-engineer specific. 'I/O controller chip' is preferred.
+*   southbridge - a bit dated, and very ASIC-engineer specific. 'I/O controller chip' is preferred, unless in technical writing.
 *   spam 
 *   spammer 
 *   spell-checker, spell-check 

@@ -518,7 +518,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   iPhone – Apple trademark, so do not add an s to make plural 
 *   iPod – Apple trademark, so do not add an s to make plural 
 *   IR – infrared 
-*   ISP – internet service provider 
+*   ISP – internet service provider
+*   ISP - image signal processor. Not image sensor pipeline (deprecated).
 *   IT – information technology 
  
 ###J 

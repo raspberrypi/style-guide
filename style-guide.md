@@ -193,6 +193,10 @@ Copy should be gender neutral as far as possible. Using *they* as a singular pro
 Avoid gendered job titles; there is usually an alternative. So *firefighter* instead of *fireman*; *flight attendant* instead of *stewardess.*  
 
 Avoid *man, mankind, manmade, manpower* etc. There are plenty of alternatives. 
+
+## Text in images
+
+If presenting a screenshot of the Terminal, or any other interfaces which don't provide scalable fonts, use a white background and black text for readability. Dark mode doesn't work well in printed media.
  
 ## Spelling 
  

@@ -470,7 +470,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   gram – see g
 *   grey – not gray (unless writing for a US audience)
 *   grown-up - the noun takes a hyphen; it isn't _grownup_
-*   GSM – Global System for Mobile Communications 
+*   GSM – Global System for Mobile Communications
+*   GStreamer
 *   guestbook 
 *   GUI – graphical user interface 
 *   guizero

@@ -564,6 +564,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   learnt 
 *   LED – light-emitting diode. Plural LEDs. 
 *   left-hand - adjective. Use 'top left-hand side', not 'top left side' or 'top-left side'
+*   legacy - *legacy stack*, *legacy API* etc. do not take an initial capital. The word 'legacy' is not a title.
 *   Lego – the Lego Group has trademarked LEGO (all caps), but Lego is an acceptable usage. See also *splot*. Adjective only. Plural *Lego bricks*, not *Legos*, which is an abomination unto Nuggan. 
 *   LGBT – lesbian, gay, bisexual, transgender 
 *   libcamera - software library. Lower-case l, do not use at the start of a sentence. (The passive voice has been used a lot today.)

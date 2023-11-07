@@ -333,7 +333,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   client/server – an adjective to describe a kind of network 
 *   clip art 
 *   cloud computing (noun and adjective) 
-*   cm – centimetre. Use a space between the number and cm. *My thumb measures 4 cm.* 
+*   cm – centimetre. Use a space between the number and cm. *My thumb measures 4 cm.*
+*   code, coding - outdated edu-jargon. The praxis is called computer programming or software engineering by people who actually do it for a living. Use these terms instead.
 *   codebase
 *   codec – coder/decoder 
 *   CoderDojo - can refer to the network of coding clubs that we run, or to a particular club that is part of the CoderDojo network

@@ -234,7 +234,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   ALSA
 *   AlsaMixer
 *   AMD (company name) 
-*   amp - ampere. No capital despite derivation from proper noun. 1.2amp or 1.2A (close up, spelling out "amp" is preferred).
+*   amp — ampere. No capital despite derivation from proper noun. 1.2amp or 1.2A (close up, spelling out "amp" is preferred).
 *   Amstrad (company name) 
 *   Amstrad CPC (computer), short for Amstrad Colour Personal Computer 
 *   analogue 
@@ -243,7 +243,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   app – short form of application. Don’t use if there's potential for confusion
 *   Apple – Apple trademark. Do not add an s to make plural
 *   applications processor 
-*   apt - Advanced Package Tool, used in Debian Linux to obtain software (APT is not really an acronym. It was originally, it's just 'apt' now.)
+*   apt — Advanced Package Tool, used in Debian Linux to obtain software (APT is not really an acronym. It was originally, it's just 'apt' now.)
 *   Arch Linux
 *   Arm architecture 
 *   Arm chipset 
@@ -254,9 +254,9 @@ In copy intended specifically for a US audience, US English should be used.
 *   Astro Pi — find the style guide specific to this programme [here](https://docs.google.com/document/d/1cZFRJiBbAKol8LrtPgm8vMZUzs8HLZCl4pY3Heu6xNQ/edit?usp=sharing)
 *   Atheros (chipset, company name) 
 *   audio conference 
-*   Auto-Tune (capitalise – it's an Antares Audio Technologies trademark. Do not use as a verb.) 
+*   Auto-Tune — capitalise, it's an Antares Audio Technologies trademark. Do not use as a verb.) 
 *   avatar (lower case unless you're talking about the movie!) 
-*   AWG - capitalise. Stands for American Wire Gauge, a US standard set of electrical conductor diameters, used for example in cable specifications
+*   AWG — capitalise. Stands for American Wire Gauge, a US standard set of electrical conductor diameters, used for example in cable specifications
  
 ###B 
 
@@ -276,12 +276,12 @@ In copy intended specifically for a US audience, US English should be used.
 *   Bcc – blind carbon copy. Do not spell out this acronym. (See also Cc.) Also: Bcc'd, Bcc'ing. 
 *   BCM2XXX (eg BCM2835, BCM2837, BCM2711) – SoCs made by Broadcom, used in Raspberry Pi computers. Can be shortened to 2835, 2837, 2711 after first use. 
 *   Beagle Board 
-*   beta – do not capitalise unless part of an official product lane. *Raspberry Pi's beta release for developers; try Yahoo! Messenger Beta.* 
-*   BGA – ball grid array 
+*   beta — do not capitalise unless part of an official product lane. *Raspberry Pi's beta release for developers; try Yahoo! Messenger Beta.* 
+*   BGA — ball grid array 
 *   biannual, bimonthly, biweekly – do not use. Instead use every two months or twice a month etc. which is longer, but which avoids confusion. 
-*   billion – use numerals with billion: *5 billion people*. Abbreviate to bil only if space is at a premium. 
+*   billion — use numerals with billion: *5 billion people*. Abbreviate to bil only if space is at a premium. 
 *   binary 
-*   binary blob – a pejorative term in the free software community. Do not use to refer to the GPU in Raspberry Pi computers.
+*   binary blob — a pejorative term in the free software community. Do not use to refer to the GPU in Raspberry Pi computers.
 *   binary 1/binary 0 – write the digit, not the number
 *   BIOS – Basic Input/Output System 
 *   bitstream 
@@ -290,20 +290,20 @@ In copy intended specifically for a US audience, US English should be used.
 *   Blogger – Google trademark when referring to the blogging platform 
 *   blogroll 
 *   Blu-ray – a Blu-ray Disc Association (BDA) trademark, so note capitalisation and hyphen. Use as an adjective only.
-*   Blu Tack (noun) - Bostik product 
-*   Blu-Tack (verb) - 'to Blu-Tack'/'Blu-Tacked'
+*   Blu Tack (noun) — Bostik product 
+*   Blu-Tack (verb) — 'to Blu-Tack'/'Blu-Tacked'
 *   Bluetooth – Bluetooth SIG trademark. Note capitalisation and only use as an adjective. 
 *   Bluetooth Classic
 *   BluetoothLE
 *   BMP – bitmap
 *   bookazine – publishing industry jargon, do not use this in public-facing copy. Use _book_.
-*   boot ROM - a small piece of memory containing the first code executed by the processor on startup
-*   bps – bits per second 
+*   boot ROM — a small piece of memory containing the first code executed by the processor on startup
+*   bps — bits per second 
 *   breadcrumb (when referring to website navigation) 
 *   Broadcom
-*   Brownout - spelled solid; no hyphen, no space
-*   brute-force – adjective, as in _brute-force attack_
-*   BSD – Berkeley Software Distribution 
+*   Brownout — spelled solid; no hyphen, no space
+*   brute-force — adjective, as in _brute-force attack_
+*   BSD — Berkeley Software Distribution 
  
 ###C
 
@@ -313,35 +313,35 @@ In copy intended specifically for a US audience, US English should be used.
 *   Camera Module / Camera Module v2 - the official Raspberry Pi camera add-on
 *   camera phone 
 *   CAPTCHA – Completely Automated Public Turing Test to Tell Computers and Humans Apart. A rare instance where the first use of an acronym does not need spelling out! 
-*   capture card - HDMI capture card
+*   capture card — HDMI capture card
 *   CAS – Computing at School  
 *   Cc – carbon copy. Do not spell out this acronym. (See also Bcc.) Also Cc'd, Cc'ing. 
 *   CD – compact disc. Do not spell out this acronym. Plural CDs. 
-*   CD-R – CD-recordable. Plural CD-Rs. 
-*   CD-ROM – CD-read-only memory. Do not spell out this acronym. Plural CD-ROMs. 
-*   CD-RW – CD-rewritable. Plural CD-RWs. 
-*   Celsius – can always be abbreviated to °C 
+*   CD-R — CD-recordable. Plural CD-Rs. 
+*   CD-ROM — CD-read-only memory. Do not spell out this acronym. Plural CD-ROMs. 
+*   CD-RW — CD-rewritable. Plural CD-RWs. 
+*   Celsius — can always be abbreviated to °C 
 *   centimetre (not centimeter) 
 *   Certified Educator (Picademy graduate)
 *   CGI – computer-generated imaging *or* common gateway interface *or* computer graphics interface. Be clear in the first reference in a section which you are referring to before reverting to the acronym. 
-*   champion - lower case, including in the context of CoderDojo ("Thank you to all our wonderful CoderDojo champions and mentors!")
+*   champion — lower case, including in the context of CoderDojo ("Thank you to all our wonderful CoderDojo champions and mentors!")
 *   chat room 
 *   checkbox 
 *   children's
-*   click – usage depends on the object: use *click* for a button, link or other interface object, and *click on* for pictures, icons etc. 
+*   click — usage depends on the object: use *click* for a button, link or other interface object, and *click on* for pictures, icons etc. 
 *   clickable 
 *   client/server – an adjective to describe a kind of network 
 *   clip art 
 *   cloud computing (noun and adjective) 
-*   cm – centimetre. Use a space between the number and cm. *My thumb measures 4 cm.*
+*   cm — centimetre. Use a space between the number and cm. *My thumb measures 4 cm.*
 *   code, coding - outdated edu-jargon. The praxis is called computer programming or software engineering by people who actually do it for a living. Use these terms instead.
 *   codebase
 *   codec – coder/decoder 
-*   CoderDojo - can refer to the network of coding clubs that we run, or to a particular club that is part of the CoderDojo network
+*   CoderDojo — can refer to the network of coding clubs that we run, or to a particular club that is part of the CoderDojo network
 *   command line 
 *   Commodore 64 (computer) 
 *   Commodore Amiga – shorten to Amiga after first use 
-*   Commodore International – company producing the Commodore family of computers 
+*   Commodore International — company producing the Commodore family of computers 
 *   Compute Module, Compute Module 3, Compute Module 3 Lite - CM1, CM3, CM3 Lite. Abbreviations should only be used after first using the full product name, and only where repeating the full name would become cumbersome.
 *   computer science (not computing science) — always lower-case, even when referring to the school subject
 *   computing — always lower-case, even when referring to the school subject
@@ -350,33 +350,33 @@ In copy intended specifically for a US audience, US English should be used.
 *   COVID, or if necessary COVID-19, in capitals (in agreement with the AP style guide)
 *   crawl – fine as a transitive verb meaning "to sift through" when applied to search engines 
 *   Creative Commons
-*   cron – time-based job scheduler in Unix-like computer operating systems
-*   crontab – cron table, a configuration file driving cron that specifies shell commands to run periodically on a given schedule
+*   cron — time-based job scheduler in Unix-like computer operating systems
+*   crontab — cron table, a configuration file driving cron that specifies shell commands to run periodically on a given schedule
 *   CSS – Cascading Style Sheets. Note capitalisation. Lower case *style sheets* can be used to refer to CSS documents: *Cascading Style Sheets (CSS) specifications enable a web designer to use style sheets to lay out a web page.* 
 *   CSV – comma-separated values
-*   CubeSat - not cubesat or cube sat
+*   CubeSat — not cubesat or cube sat
 *   curriculum (pl. curricula)
-*   cut-out - *there is a cut-out in the side of the case to make room for the camera cable.* Note hyphen, do not close up.
+*   cut-out — *there is a cut-out in the side of the case to make room for the camera cable.* Note hyphen, do not close up.
 *   cyber- – avoid as a prefix where possible: dated. If you do need to use it, don't hyphenate. *Cyberattack, cyberterrorism.* 
  
 ###D 
 
 *   data – treat as a singular noun. *The data is lost.* 
 *   database 
-*   D-Bus - message bus system. Note capitalisation.
+*   D-Bus — message bus system. Note capitalisation.
 *   Debian
 *   delta-sigma PWM
-*   Device Tree - a means of representing devices on Raspberry Pi.
+*   Device Tree — a means of representing devices on Raspberry Pi.
 *   digital age, digital native, digital divide – avoid where possible. Dated jargon. 
 *   Digital Making Curriculum. Also: the Raspberry Pi Foundation's Digital Making Curriculum.
 *   dialogue – UK spelling
 *   dingbat – typographical ornament, such as ★.
 *   dioptre - UK spelling
 *   disc/disk – magnetic storage is on disks, but optical storage is on discs: *floppy disks, compact discs.* 
-*   Disney+ - streaming service. Confusingly, "Disney Plus" seems to be used pretty much interchangeably, but "Disney+" appears to be Disney's preference.
-*   disk space – not disk-space or diskspace
-*   Document Object Model (DOM) – note capitals
-*   Dojo - upper case when used to refer to a particular club in the CoderDojo network
+*   Disney+ — streaming service. Confusingly, "Disney Plus" seems to be used pretty much interchangeably, but "Disney+" appears to be Disney's preference.
+*   disk space — not disk-space or diskspace
+*   Document Object Model (DOM) — note capitals
+*   Dojo — upper case when used to refer to a particular club in the CoderDojo network
 *   dongle 
 *   DoS – denial-of-service attack 
 *   DOS – Disk Operating System. Acronym for several closely related operating systems. 
@@ -385,26 +385,26 @@ In copy intended specifically for a US audience, US English should be used.
 *   drag-and-drop (adjective), drag and drop (verb) 
 *   dreamt 
 *   drop-down menu not pull-down menu 
-*   DVD – digital video disc. No need to spell out the acronym in first use. 
-*   DVR – digital video recorder 
+*   DVD — digital video disc. No need to spell out the acronym in first use. 
+*   DVR — digital video recorder 
  
 ###E 
 
 *   e- – generally, hyphenate when a prefix. So: *e-book, e-card, e-reader*. Note exception for email. 
 *   e-book 
 *   e-commerce
-*   E-Mark - protocol controller for USB cables. Abbreviation of *Electronically Marked*. Term of art, so please observe capitalsation. *E-Marked* is acceptable. *Ensure that you are using an E-Marked cable.* 
+*   E-Mark — protocol controller for USB cables. Abbreviation of *Electronically Marked*. Term of art, so please observe capitalsation. *E-Marked* is acceptable. *Ensure that you are using an E-Marked cable.* 
 *   e-paper
 *   e.g. 
-*   Earth – capitalise when referring to planet, lower case when referring to soil. 
-*   eBay – an eBay trademark 
-*   Ed and Izzy - the two special Astro Pi units sent to the ISS with Tim Peake.
-*   EEG - electroencephalography 
+*   Earth — capitalise when referring to planet, lower case when referring to soil. 
+*   eBay — an eBay trademark 
+*   Ed and Izzy — the two special Astro Pi units sent to the ISS with Tim Peake.
+*   EEG — electroencephalography 
 *   element14/Premier Farnell in the first instance in a chapter section, then just element14. Element14 should be capitalised if it appears at the beginning of a sentence; in general, try to avoid using at the start of a sentence. 
 *   email
-*   emoji – pl. emojis (even though this word is Japanese; see _tsunami, tsunamis_)
-*   Emotiv – company producing EEG headsets for neuro-signal work. 
-*   end-of-year - adjective before a noun, as in 'end-of-year report'
+*   emoji — pl. emojis (even though this word is Japanese; see _tsunami, tsunamis_)
+*   Emotiv — company producing EEG headsets for neuro-signal work. 
+*   end-of-year — adjective before a noun, as in 'end-of-year report'
 *   Endpoint Controller
 *   EPROM – erasable programmable read only memory 
 *   ePub – electronic publication. An open-standard file format for e-books. 
@@ -423,7 +423,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   FAQ – frequently asked questions. Plural FAQs. 
 *   Fahrenheit – can always be abbreviated to °F 
 *   fax 
-*   fediverse - no cap. A group of federated servers which, although independently administered, can communicate with each other. Mastodon is trying to make the fediverse A Thing, but our experience so far is that users find it very, very hard to get their heads around.
+*   fediverse — no cap. A group of federated servers which, although independently administered, can communicate with each other. Mastodon is trying to make the fediverse A Thing, but our experience so far is that users find it very, very hard to get their heads around.
 *   feed reader  
 *   fetch-decode-execute cycle
 *   FFmpeg
@@ -432,15 +432,15 @@ In copy intended specifically for a US audience, US English should be used.
 *   firewall 
 *   FireWire – trademark  
 *   Flash – do not capitalise *Flash* when referring to flash memory. If for some reason (why?) you need to refer to the now-deprecated Adobe Flash, use *Flash* as an adjective, since it is a trademark. 
-*   flash memory - no capital unless at the start of a sentence, Dr Allan.
-*   Flat Flexible Cable - cap up. FFC is acceptable.
-*   flatsat - prototype, ground-based test hardware for cubesats. Not flat sat or FlatSat.
-*   floating-point - adjective, as in 'floating-point number'
-* focused - not _focussed_
-*   forgo – not _forego_
-*   frame rate - two words. Had a fight with Sam and Brian about this: two words won.
-*   friend – can be used as a verb if referring to social networking, but this is grim and unlovely. See *unfriend*. 
-*   FTP – File Transfer Protocol (note capitalisation) 
+*   flash memory — no capital unless at the start of a sentence, Dr Allan.
+*   Flat Flexible Cable — cap up. FFC is acceptable.
+*   flatsat — prototype, ground-based test hardware for cubesats. Not flat sat or FlatSat.
+*   floating-point — adjective, as in 'floating-point number'
+* focused — not _focussed_
+*   forgo — not _forego_
+*   frame rate — two words. Had a fight with Sam and Brian about this: two words won.
+*   friend — can be used as a verb if referring to social networking, but this is grim and unlovely. See *unfriend*. 
+*   FTP — File Transfer Protocol (note capitalisation) 
 *   full-screen
 *   function keys 
  
@@ -451,11 +451,11 @@ In copy intended specifically for a US audience, US English should be used.
 *   games console. Not "game console", which is the US usage: British usage is "games". See also maths/math.
 *   Gb – gigabit. No space between the number and Gb. 
 *   GB – gigabyte. No space between the number and GB. *You'll need an 8GB SD card.* 
-*   Gbps – gigabits per second. No space between number and Gbps. 
-*   GBps – gigabytes per second. No space between number and GBps. 
+*   Gbps — gigabits per second. No space between number and Gbps. 
+*   GBps — gigabytes per second. No space between number and GBps. 
 *   Generation X – not Generation Xer 
 *   Generation Y – this used to be the term of art. Since this style guide was conceived the term *millennials* has been coined and is now dominant in the culture. Feel free to use it.
-*   Generation Z - *zoomers* seems to be gaining currency. This one's in a state of flux; let's keep an eye on it.
+*   Generation Z – *zoomers* seems to be gaining currency. This one's in a state of flux; let's keep an eye on it.
 *   geolocation 
 *   geotagging (noun – OK, gerund), geotag (verb) 
 *   GHz – gigahertz. No space between the number and GHz. 
@@ -463,14 +463,14 @@ In copy intended specifically for a US audience, US English should be used.
 *   GitHub 
 *   GNU – the GNU Project. A recursive acronym: GNU is not UNIX. 
 *   GNU Linux 
-*   Google – Google trademark. Google's guidelines say you may not use the trademark as a verb, but common usage says we can ignore them wholesale on this. It's in the OED. That's good enough for me.
+*   Google – Alphabet trademark. Google's guidelines say you may not use the trademark as a verb, but common usage says we can ignore them wholesale on this. It's in the OED. That's good enough for me.
 *   GPIO – general-purpose input/output. Outside materials which are explicitly educative, there shouldn't ever be a need to expand this.
 *   GPIO Zero – GPIO Zero is the name of the project, but gpiozero is an acceptable alternative when referring to the module
 *   GPU – graphics processing unit 
 *   grade – for school grades (USA), spell out first through ninth grade and use figures for 10th grade or higher. Try to keep a consistent format for ranges (see [Numerals and numbers](https://github.com/raspberrypilearning/style-guide/blob/master/style-guide.md#numerals-and-numbers) above). 
 *   gram – see g
 *   grey – not gray (unless writing for a US audience)
-*   grown-up - the noun takes a hyphen; it isn't _grownup_
+*   grown-up – the noun takes a hyphen; it isn't _grownup_
 *   GSM – Global System for Mobile Communications
 *   GStreamer
 *   guestbook 
@@ -480,15 +480,15 @@ In copy intended specifically for a US audience, US English should be used.
 ###H 
 
 *   HackSpace magazine – Note capitals. It is no longer the case that we must always include _magazine_ when referring to it.
-*   Hall effect sensor - capital H
-*   Hands-on - "a hands-on demo", "get hands-on with Raspberry Pi Pico"
+*   Hall effect sensor – capital H
+*   Hands-on – "a hands-on demo", "get hands-on with Raspberry Pi Pico"
 *   hardcore 
 *   hashtag – Twitter term 
-*   HAT - Hardware Attached on Top, describing various add-on boards such as the Sense HAT
-*   HD audio - note capitalisation. Full HD audio is 192kHz; HD audio is 96kHz.
-*   HMDI - the HDMI authority have emailed to say that the ® symbol is required in the first mention of HDMI in any given document. So HDMI® in the first instance, thereafter HDMI.
+*   HAT – Hardware Attached on Top, describing various add-on boards such as the Sense HAT
+*   HD audio – note capitalisation. Full HD audio is 192kHz; HD audio is 96kHz.
+*   HMDI – the HDMI authority have emailed to say that the ® symbol is required in the first mention of HDMI in any given document. So HDMI® in the first instance, thereafter HDMI.
 *   HDTV – high-definition television 
-*   heatsink - not *heat sink*
+*   heatsink – not *heat sink*
 *   help desk 
 *   help pages 
 *   hi-fi
@@ -565,11 +565,11 @@ In copy intended specifically for a US audience, US English should be used.
 *   LCD – liquid-crystal display. Plural LCDs. 
 *   learnt 
 *   LED – light-emitting diode. Plural LEDs. 
-*   left-hand - adjective. Use 'top left-hand side', not 'top left side' or 'top-left side'
-*   legacy - *legacy stack*, *legacy API* etc. do not take an initial capital. The word 'legacy' is not a title.
+*   left-hand – adjective. Use 'top left-hand side', not 'top left side' or 'top-left side'
+*   legacy – *legacy stack*, *legacy API* etc. do not take an initial capital. The word 'legacy' is not a title.
 *   Lego – the Lego Group has trademarked LEGO (all caps), but Lego is an acceptable usage. See also *splot*. Adjective only. Plural *Lego bricks*, not *Legos*, which is an abomination unto Nuggan. 
 *   LGBT – lesbian, gay, bisexual, transgender 
-*   libcamera - software library. Lower-case l, do not use at the start of a sentence. (The passive voice has been used a lot today.)
+*   libcamera – software library. Lower-case l, do not use at the start of a sentence. (The passive voice has been used a lot today.)
 *   Li-ion – lithium-ion (a kind of battery) 
 *   licence/license –  licence (noun), license (verb). We are not American! 
 *   lightyear
@@ -590,14 +590,14 @@ In copy intended specifically for a US audience, US English should be used.
 *   MacBook, MacBook Air, MacBook Pro – Apple trademarks, so do not add an s to make plural 
 *   macOS (**not** Mac OS, Mac OS X, OS X, or OSX) 
 *   machine – do not use as a synonym for computer. Use *computer*. 
-*   The MagPi - the official Raspberry Pi magazine
+*   The MagPi – the official Raspberry Pi magazine
 *   mailbox
 *   maker movement – **not** Maker Movement. Just stop that.
-*   maker space - things have moved on in the last ten years. This used to be our preferred formulation, but *makespace*, *hackspace* or *maker shed* all have currency too now (and at least one of those things has a magazine). *Hackspace* is probably preferred for branding reasons; refer to the individual organisation's naming preference where possible if writing about specifics. 
+*   maker space – things have moved on in the last ten years. This used to be our preferred formulation, but *makespace*, *maker lab*, *hackspace* or *maker shed* all have currency too now (and at least one of those things has a magazine). *Hackspace* is probably preferred for branding reasons despite Toby's Maker Lab; refer to the individual organisation's naming preference where possible if writing about specifics. 
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 
-*   mass storage device - not capped up
-*   Mastodon - social network. Please don't use their *Toot* coinage: use *post* instead.
+*   mass storage device – not capped up
+*   Mastodon – social network. Please don't use their *Toot* coinage: use *post* instead.
 *   Maths, not math. Mathematics is also acceptable.
 *   Mbit – megabit (not Mb, as this is too easily confused with MB)
 *   MB – megabyte (not MByte). No space between the number and MB. *My old Amiga only had 130MB 
@@ -608,7 +608,7 @@ drive space.*
 *   meet-up (noun, adjective), meet up (verb). Not *meetup*. 
 *   mens'
 *   mentee – never, ever use this horrible neologism. *Student* or *protégé* are acceptable substitutions. 
-*   mentor - lower case, including in the context of CoderDojo. _Thank you to all our wonderful CoderDojo champions and mentors!_
+*   mentor – lower case, including in the context of CoderDojo. _Thank you to all our wonderful CoderDojo champions and mentors!_
 *   membership – one has, applies for, pays for, gives, etc. membership _of_ a club, society, association etc.
 *   message boards 
 *   metadata 
@@ -619,11 +619,11 @@ drive space.*
 *   micro USB
 *   micro:bit – a handheld, fully programmable computer which was given free to every Year 7 child across the UK. The Micro:bit Educational Foundation is trying to drop the 'BBC' in front of 'micro:bit'. If using just 'micro:bit', try not to begin sentences with it, due to the lowercase nature of the name.
 *   Micro:bit Educational Foundation – see [here](http://microbit.org/about/). Note uppercase 'M'.
-*   microblog - deprecated. This is what we used to call platforms like Twitter and Tumblr.
+*   microblog – deprecated. This is what we used to call platforms like Twitter and Tumblr.
 *   microcontroller 
 *   microprocessor
 *   MicroPython
-*   microSD - SanDisk trademark. Don't use at the start of a sentence, because that lower-case 'M' is a nuisance. 
+*   microSD – SanDisk trademark. Don't use at the start of a sentence, because that lower-case 'M' is a nuisance. 
 *   microsite 
 *   Microsoft .Net – Microsoft's trademark guidelines say that *Microsoft* should precede the *.Net* brand name in the first instance of use. Because the full stop can create confusion, insert *Microsoft* before *.Net* if it occurs at the start of a sentence. Better still, never use the term at all. 
 *   Microsoft Windows – see *Windows* 
@@ -641,7 +641,7 @@ drive space.*
 *   moon – lower case, whether referring to *the moon* or other moons. *Mercury does not have a moon.* 
 *   mouse – plural mice even when talking about computer peripherals 
 *   mouseover, mouse over – do not use. Use *roll* or *move your mouse cursor over*, or an equivalent. 
-*   MP - megapixel. Close up, so a *12MP image*.
+*   MP – megapixel. Close up, so a *12MP image*.
 *   MP3 – abbreviation for MPEG-1 Audio Layer 3.  
 *   MPEG – Moving Picture Experts Group. Also refers to a compression methodology whose standards are set by this group.
 *   MPEG-2, MPEG-2 transport stream
@@ -649,12 +649,12 @@ drive space.*
 *   mph – miles per hour. No space between the number and mph.
 *   MS-DOS – Microsoft Disk Operating System. Trademark for a Microsoft operating system from the DOS family. See *DOS*.
 *   multi- – do not hyphenate words with this prefix unless the root word starts with an i or a capital letter. *Multiplayer, multicolour, multi-industry.*
-*   multimeter - note spelling. Not multimetre.
+*   multimeter – note spelling. Not multimetre.
  
 ###N 
 
-*   nano - linux text editor. Note lower case. Full name: 'GNU nano'
-*   NeoPixels - Adafruit trademark
+*   nano – linux text editor. Note lower case. Full name: 'GNU nano'
+*   NeoPixels – Adafruit trademark
 *   net – do not capitalise if referring to the internet. Use *internet* for preference, unless space is tight
 *   newline – the control character
 *   news feed 
@@ -662,13 +662,13 @@ drive space.*
 *   Ni-MH – a kind of battery. Note capitalisation differs on expansion; cf. *nickel-metal hydride.*  
 *   NIC – network interface card 
 *   nickel-metal hydride – see *Ni-MH* 
-*   Ninja - upper case when used in the context of CoderDojo, but frankly I'd be happy never to have to use it again
+*   Ninja – upper case when used in the context of CoderDojo, but frankly I'd be happy never to have to use it again
 *   no-no 
 *   No. 1 – see *number one* 
 *   no one - do not hyphenate
-*   Node-RED - a visual tool for wiring the Internet of Things
+*   Node-RED – a visual tool for wiring the Internet of Things
 *   Node.js
-*   NOOBS - New Out Of Box Software, used to easily install an operating system on Raspberry Pi. Deprecated.
+*   NOOBS – New Out Of Box Software, used to easily install an operating system on Raspberry Pi. Deprecated.
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
 *   NYC – New York City. Use only if space is tight. 
  
@@ -679,22 +679,22 @@ drive space.*
 *   offline 
 *   offshoot
 *   off-screen 
-*   ohm - not capped (although it derives from a proper name). When talking about resistors, 1Ω, not 1R.
+*   ohm – not capped (although it derives from a proper name). When talking about resistors, 1Ω, not 1R.
 *   OK – not okay, Ok or ok. OK? 
 *   on-board (adjective), on board (adverb), when referring to PCBs. "There is an on-board wireless antenna", but "There is a wireless antenna on board".
 *   onboard (adjective), on board (adverb), when referring to vessels and vehicles. "There are two Raspberry Pi computers on board the International Space Station." "Input from sensors in the hull is sent to the ship's onboard computer."
 *   online 
 *   on-screen (adjective), on screen (adverb)
 *   OpenOCD
-*   open source - no hyphen whether used as a noun or as an adjective. We would usually hyphenate a term such as this when used as an adjective, according to the advice of _New Hart's Rules_; however, no one else does this, so we would look fussy and stuffy if we did.
+*   open source – no hyphen whether used as a noun or as an adjective. We would usually hyphenate a term such as this when used as an adjective, according to the advice of _New Hart's Rules_; however, no one else does this, so we would look fussy and stuffy if we did.
 *   opt-in (noun, adjective), opt in (verb) 
 *   organiser (s, not z)
 *   OS – operating system. Plural OSes. 
 *   outbox 
 *   overclocking (noun), overclock (verb). Never the verb *clock*, which may mean something else entirely. If in doubt, clarify. For example, *dynamic frequency clocking*. 
-*   overcurrent - spelled solid; no hyphen, no space
-*   overvoltage - spelled solid; no hyphen, no space
-*   overwrite - spelled solid; no hyphen, no space
+*   overcurrent – spelled solid; no hyphen, no space
+*   overvoltage – spelled solid; no hyphen, no space
+*   overwrite – spelled solid; no hyphen, no space
  
 ###P 
 
@@ -710,7 +710,7 @@ drive space.*
 *   PCB – printed circuit board
 *   PCIe
 *   PCIe connector – this is a standard that Raspberry Pi 5 is not using. Write "Raspberry Pi connector for PCIe" instead.
-*   PCIe 3.0 x1 - letter x, not multiplication symbol
+*   PCIe 3.0 x1 – letter x, not multiplication symbol
 *   PDF (Portable Document Format, Adobe file format)
 *   peer-to-peer (adjective) 
 *   percent
@@ -722,11 +722,11 @@ drive space.*
 *   photobooth
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb.
 *   Pi-hole - note capitalisation. Don't know about you, but I find objectionable capitalisation 100% more objectionable when the word "Pi" is involved.
-*   PIO - programmable I/O. Not PI/O or any other abomination
+*   PIO – programmable I/O. Not PI/O or any other abomination
 *   PiServer – a piece of software created by us for centrally controlling fleets of Raspberry Pis (e.g. in a classroom)
 *   Pi In The Sky (PITS) board
-*   Picademy - training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.
-*   picamera - software library which provides a pure Python interface to the Raspberry Pi Camera Module. Contains the PiCamera class (among others). Note capitalisation.  
+*   Picademy – training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.
+*   picamera – software library which provides a pure Python interface to the Raspberry Pi Camera Module. Contains the PiCamera class (among others). Note capitalisation.  
 *   PIN – acronym for *personal identification number*. *PIN number* is tautological but acceptable.
 *   PipeWire
 *   playlist 
@@ -757,7 +757,7 @@ drive space.*
 
 *   Q&A 
 *   QR code 
-*   quad-core - hyphenated when modifying a noun (processor, computer, etc.)
+*   quad-core – hyphenated when modifying a noun (processor, computer, etc.)
 *   QuickTime – Apple trademark 
 *   Qt
 *   QtGL
@@ -765,13 +765,13 @@ drive space.*
 ###R 
 
 *   RAM – random access memory
-*   Raspberry Pi icon - not _Raspberry Icon_ or _raspberry icon_.
-*   Raspberry Pi menu - not _Raspberry Pi Menu_ or _Raspberry menu_ or any of your other nonsense, Jepson. :P
+*   Raspberry Pi icon – not _Raspberry Icon_ or _raspberry icon_.
+*   Raspberry Pi menu – not _Raspberry Pi Menu_ or _Raspberry menu_ or any of your other nonsense, Jepson. :P
 *   Raspberry Pi – plural Raspberry Pis. Do not abbreviate, however much you want to. 
 *   Raspberry Pi 1, Raspberry Pi 2, Raspberry Pi 3B+, Raspberry Pi 4 etc.
 *   Raspberry Pi 3-pin Debug Connector Specification - a standard we have developed (see [here](https://datasheets.raspberrypi.com/debug/debug-connector-specification.pdf)). Capitalise the name of the specification and abbrevations thereof: our Debug Connector Specification, the Raspberry Pi 3-pin Debug Specification, etc (just as we do with abbreviations of the names of hardware products). Don't capitalise descriptive references that are not the name of the spec: the Raspberry Pi debug connector standard.
-*   Raspberry Pi Foundation - requires a definite article: *The Raspberry Pi Foundation works with ESA to let kids run code in space.*
-*   Raspberry Pi OS - does not take a definite article: *Raspberry Pi OS is our official recommended operating system.*
+*   Raspberry Pi Foundation – requires a definite article: *The Raspberry Pi Foundation works with ESA to let kids run code in space.*
+*   Raspberry Pi OS – does not take a definite article: *Raspberry Pi OS is our official recommended operating system.*
 *   Raspberry Pi Weekly (a weekly email newsletter)
 *   Raspberry Pi Zero
 *   Raspberry Pi Zero W (not 'Wireless')
@@ -780,7 +780,7 @@ drive space.*
 *   re- – close up this prefix with root words unless the root word starts with an e  or a capital letter. If it does, hyphenate. There are exceptions to this rule for the avoidance of confusion with other words: *re-create, re-cover, re-sent.* 
 *   real time (noun), real-time (adjective) 
 *   reality TV 
-*   Resource Repository - capitalised when referring to the NCCE Resource Repository. *We are building a resource repository called the Resource Repository.*
+*   Resource Repository – capitalised when referring to the NCCE Resource Repository. *We are building a resource repository called the Resource Repository.*
 *   RetroPie – not _Retropie_ or _RetroPiE_
 *   retweet 
 *   right-click 
@@ -814,7 +814,7 @@ drive space.*
 *   security key 
 *   setup (noun, adjective), set up (verb) 
 *   short code – two words when referring to a mobile phone
-*   shutdown - noun. Shut down is the verb.
+*   shutdown – noun. Shut down is the verb.
 *   sidebar 
 *   sign-in (noun, adjective); sign in, sign in to (verb). Preferable to *log in* or *log on*; sounds less technical. 
 *   sign-out, sign-up – see *sign-in* 
@@ -838,7 +838,7 @@ drive space.*
 *   sound bite 
 *   soundcheck 
 *   soundstage
-*   southbridge - a bit dated, and very ASIC-engineer specific. 'I/O controller chip' is preferred, unless in technical writing.
+*   southbridge – a bit dated, and very ASIC-engineer specific. 'I/O controller chip' is preferred, unless in technical writing.
 *   spam 
 *   spammer 
 *   spell-checker, spell-check 
@@ -847,13 +847,13 @@ drive space.*
 *   SSH
 *   standalone 
 *   startup (noun, adjective), start up (verb)
-*   STL - not .stl or .STL
+*   STL – not .stl or .STL
 *   style sheet – lower case even when referring to CSS (which you probably aren't referring to, but you know. Just in case). See CSS. 
 *   sub- – close up this prefix with the root word unless the root word starts with a capital letter, in which case hyphenate. *Subdomain, sub-Victorian.* 
 *   substring
-*   sulphur - not sulfur, despite the Royal Society of Chemistry's best efforts
-*   supercapacitor - all one word
-*   SWD - Serial Wire Debug
+*   sulphur – not sulfur, despite the Royal Society of Chemistry's best efforts
+*   supercapacitor – all one word
+*   SWD – Serial Wire Debug
 *   sync, synched, synching 
  
 ###T 
@@ -861,10 +861,10 @@ drive space.*
 *   T-shirt 
 *   TeachMeet
 *   TensorFlow
-*   terminal, Terminal - when talking about using the command line in the GUI, 'open a terminal window' or 'type \[something\] into the terminal' (never LXTerminal or similar). The application for using the terminal on Raspberry Pi OS is also called Terminal (proper noun, capital letter). How-to instructions aimed at people who might be unfamiliar with the command line should specify 'open Terminal' before advising people to 'type \[whatever\] into the terminal'.
+*   terminal, Terminal – when talking about using the command line in the GUI, 'open a terminal window' or 'type \[something\] into the terminal' (never LXTerminal or similar). The application for using the terminal on Raspberry Pi OS is also called Terminal (proper noun, capital letter). How-to instructions aimed at people who might be unfamiliar with the command line should specify 'open Terminal' before advising people to 'type \[whatever\] into the terminal'.
 *   Tetris (game) 
 *   text message (noun), text-message (adjective, verb). Acceptable to shorten to *text* 
-*   thin client - do not hyphenate, whether used as a noun or as an adjective. We would usually hyphenate a compound term of this kind when used as an adjective, but because no one else does, doing so would look fussy.
+*   thin client – do not hyphenate, whether used as a noun or as an adjective. We would usually hyphenate a compound term of this kind when used as an adjective, but because no one else does, doing so would look fussy.
 *   third-best selling general-purpose computer
 *   thousand – spell out when in inline text 
 *   thumb drive 
@@ -885,8 +885,8 @@ drive space.*
 *   trade show 
 *   transport stream - MPEG-2 transport stream. Note capitalisation.
 *   traveller, travelled, travelling 
-*   Trinket - the service provided on the trinket.io website, as well as the organisation. Note that capitalisation is used inconsistently in their website copy, so this usage is a judgement call by us. See below.
-*   trinket/trinkets - projects on trinket.io. See above.
+*   Trinket – the service provided on the trinket.io website, as well as the organisation. Note that capitalisation is used inconsistently in their website copy, so this usage is a judgement call by us. See below.
+*   trinket/trinkets – projects on trinket.io. See above.
 *   Trojan horse 
 *   troubleshoot 
 *   TV (no need to spell out what the acronym means!) 
@@ -930,14 +930,14 @@ drive space.*
  
 ###W 
 
-*   walkthrough - one word
+*   walkthrough – one word
 *   wallpaper, wallpapers 
 *   WAN – wide area network 
 *   web 
 *   webcam 
 *   womens'
 *   webcast 
-*   webinar (ghastly, but it appears we're stuck with it - ten points for you, dear writer, if you can avoid using it) 
+*   webinar (ghastly, but it appears we're stuck with it – ten points for you, dear writer, if you can avoid using it) 
 *   webisode (see *webinar*) 
 *   weblog – use only when explaining the etymology of the word *blog*, which is always to be preferred 
 *   web browser
@@ -946,11 +946,11 @@ drive space.*
 *   web server 
 *   website
 *   WhatsApp
-*   white paper - two words, lower case, as preferred by both AP and Guardian/Observer style guides (2021/07/02)
+*   white paper – two words, lower case, as preferred by both AP and Guardian/Observer style guides (2021/07/02)
 *   widescreen 
-*   Wi-Fi:registered: - ~~if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar.~~ Newsflash! The Wi-Fi Alliance has now altered its rules to say that non-members are allowed to use the term. Wi-Fi, not WiFi, and needs to be followed by the :registered: symbol. No need to expand to _wireless (Wi-Fi)_ when first using in a document; Wi-Fi is common-enough usage that we can consider it standard English. 
+*   Wi-Fi:registered: – ~~if referring to a Raspberry Pi product, do *not* use this; refer to the built-in WiFi as 'wireless LAN' or similar.~~ Newsflash! The Wi-Fi Alliance has now altered its rules to say that non-members are allowed to use the term. Wi-Fi, not WiFi, and needs to be followed by the :registered: symbol. No need to expand to _wireless (Wi-Fi)_ when first using in a document; Wi-Fi is common-enough usage that we can consider it standard English. 
 *   Wii – Nintendo trademark. Do not add an s to make plural. 
-*   Wiimote - controller for the Wii. Colloquial. (The official term is Wii Remote.)
+*   Wiimote – controller for the Wii. Colloquial. (The official term is Wii Remote.)
 *   wiki – plural *wikis* 
 *   Windows – trademark: use Microsoft Windows if talking about the Microsoft product to differentiate from other windowing software 
 *   Windows CE – trademark. Not Microsoft Windows CE 
@@ -966,9 +966,10 @@ drive space.*
  
 ###X 
 
-*   X-ray 
+*   X – social network formerly known as Twitter. If we do end up having to reference it, use language like "X, formerly known as Twitter." 
+*   X-ray
 *   x86 architecture 
-*   Xbox – Microsoft trademark. Do not add es to make plural
+*   Xbox – Microsoft trademark. Do not add "es" to make plural.
 *   xHCI
 *   XHTML – Extensible Hypertext Markup Language 
 *   XML – Extensible Markup Language 

@@ -726,7 +726,7 @@ drive space.*
 *   PiServer – a piece of software created by us for centrally controlling fleets of Raspberry Pis (e.g. in a classroom)
 *   Pi In The Sky (PITS) board
 *   Picademy – training courses for teachers. If possible, pluralise by adding 'sessions', 'courses' or similar.
-*   picamera – software library which provides a pure Python interface to the Raspberry Pi Camera Module. Contains the PiCamera class (among others). Note capitalisation.  
+*   picamera, picamera2 – software libraries which provide a pure Python interface to Raspberry Pi cameras. Contain the PiCamera class (among others). Note capitalisation.
 *   PIN – acronym for *personal identification number*. *PIN number* is tautological but acceptable.
 *   PipeWire
 *   playlist 

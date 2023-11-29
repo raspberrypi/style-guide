@@ -230,7 +230,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Advanced Error Reporting - cap up this PCIe term
 *   adware
 *   aka – not 'a.k.a.' or 'AKA'
-*   Allen key – proper noun, capitalise. (Cf. Phillips screwdrivers; why are all the things you screw into other things named after men? Don't answer that.)
+*   Allen key – proper noun, capitalise. (Cf. _Phillips_ screwdrivers; why are all the things you screw into other things named after men? Don't answer that.)
 *   all-expenses-paid trip
 *   ALSA
 *   AlsaMixer
@@ -718,7 +718,8 @@ drive space.*
 *   Peripheral Address Map
 *   Perl  
 *   pharming – redirecting traffic from a website that looks legitimate to a spoof website 
-*   PhD 
+*   PhD
+*   Phillips screwdrivers, Phillips screw - proper noun, takes a cap. Not a trademark, nothing to do with Philips the lightbulb/hair-removal people. Your editor draws this to your attention because ESA once got very confused about it when we mentioned a screwdriver in an ISS video.
 *   phishing – tricking someone into giving out sensitive information using an email that looks legitimate 
 *   photobooth
 *   Photoshop – Adobe trademark. Use as an adjective or proper noun, and never as a verb.

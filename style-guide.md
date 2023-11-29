@@ -230,6 +230,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Advanced Error Reporting - cap up this PCIe term
 *   adware
 *   aka – not 'a.k.a.' or 'AKA'
+*   Allen key – proper noun, capitalise. (Cf. Phillips screwdrivers; why are all the things you screw into other things named after men? Don't answer that.)
 *   all-expenses-paid trip
 *   ALSA
 *   AlsaMixer

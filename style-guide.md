@@ -511,7 +511,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   ID – identification. Plural IDs. Avoid using as a verb unless space is very restricted; use apostrophe in verb form. Where possible, *The bouncer checks drinkers' identification*, not *The bouncer ID’s drinkers.* 
 *   IDLE - Python IDE installed on Raspbian, found under the Programming menu as 'Python 3 (IDLE)'
 *   i.e. 
-*   I-frame - Intra frame. Video term. Do not confuse with iframe (inline frame tag in HTML)
+*   I-frame - Intra frame. Video term. Do not confuse with iframe (inline frame tag in HTML).
 *   IM – instant message. Plural IMs. Defunct. Use *DM* or *PM* instead according to context.
 *   IMAX – trademark, so use as an adjective, not a noun 
 *   inbox 

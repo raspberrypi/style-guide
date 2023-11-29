@@ -812,7 +812,8 @@ drive space.*
 *   SDA – SD Card Association, developers of *SD*, *SDHC* etc. cards 
 *   SD card – Secure Digital memory card format 
 *   SDHC card – Secure Digital High-Capacity card 
-*   search engine 
+*   search engine
+*   Secure Boot is a standard. Things can boot securely without adhering to the standard. Note caps.
 *   security key 
 *   setup (noun, adjective), set up (verb) 
 *   short code – two words when referring to a mobile phone

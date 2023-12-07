@@ -194,6 +194,13 @@ Avoid gendered job titles; there is usually an alternative. So *firefighter* ins
 
 Avoid *man, mankind, manmade, manpower* etc. There are plenty of alternatives. 
 
+## Screenshots
+When screenshotting a window, make sure you are not using dark mode and screenshot the whole desktop, with the mouse cursor not visible unless it is relevant to the screenshot. The design team will crop to fit the relevant templates. If screenshotting multiple windows, there should be no overlapping. (If an author requests overlapping windows for a specific reason, please let the design team know; it can be achieved manually, but should be avoided where possible.)
+
+Screenshots should always be provided as PNG files. 
+
+If your screenshot requires annotations, do not add these to the screenshot. Include the instructions separately, and they will be added in the design process.
+
 ## Text in images
 
 If presenting a screenshot of the Terminal, or any other interfaces which don't provide scalable fonts, use a white background and black text for readability. Dark mode doesn't work well in printed media.

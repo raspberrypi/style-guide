@@ -964,7 +964,8 @@ drive space.*
 *   wiki – plural *wikis* 
 *   Windows – trademark: use Microsoft Windows if talking about the Microsoft product to differentiate from other windowing software 
 *   Windows CE – trademark. Not Microsoft Windows CE 
-*   Wine – application to allow Microsoft Windows software to run on UNIX-like operating systems. Originally an acronym for WINdows Emulator, later changed to a recursive “backronym” for Wine Is Not an Emulator. 
+*   Wine – application to allow Microsoft Windows software to run on UNIX-like operating systems. Originally an acronym for WINdows Emulator, later changed to a recursive “backronym” for Wine Is Not an Emulator.
+*   word mark – not wordmark
 *   word processing (noun), word-processing (adjective) 
 *   word-of-mouth 
 *   WordPress – trademark  

@@ -493,6 +493,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   hardcore 
 *   hashtag – Twitter term 
 *   HAT – Hardware Attached on Top, describing various add-on boards such as the Sense HAT
+*   HAT+ – new HAT specificiation, beginning Dec 2023. See also Power HAT+.
 *   HD audio – note capitalisation. Full HD audio is 192kHz; HD audio is 96kHz.
 *   HMDI – the HDMI authority have emailed to say that the ® symbol is required in the first mention of HDMI in any given document. So HDMI® in the first instance, thereafter HDMI.
 *   HDTV – high-definition television 
@@ -745,7 +746,8 @@ drive space.*
 *   polyfuse 
 *   pop-up (noun, adjective), pop up (verb). Not *popup*. 
 *   pope – lower case unless referring to a specific named pope. *The pope wants a Raspberry Pi. The Queen met Pope Benedict XVI.* 
-*   Post-it – 3M trademark. Do not use as a noun. Plural *Post-it notes*. 
+*   Post-it – 3M trademark. Do not use as a noun. Plural *Post-it notes*.
+*   Power HAT+ 
 *   pre- – close up pre- as a prefix with the root word unless the root word starts with an e or a capital letter, in which case hyphenate. *Preprandial, pre-election, pre-MP3.*  Exception: *pre-soldered*.
 *   press – when talking about a key on a keyboard, use *press*. *Click* is for buttons, links and other interface elements, and *click on* is for the mouse action. 
 *   print 

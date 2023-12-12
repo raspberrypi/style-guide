@@ -922,7 +922,8 @@ drive space.*
 *   USA 
 *   USB – universal serial bus
 *   USB C, USB 2 etc. Not USB Type-C in blog posts, magazine articles or books like the _Beginner's Guide_, but Type-C etc. is acceptable in writing geared for a more technical audience.
-*   USB flash drive 
+*   USB flash drive
+*   USB On-The-Go, USB OTG – hyphenate if expanded
 *   user 
 *   user base
 *   username 

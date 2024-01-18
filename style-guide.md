@@ -879,6 +879,7 @@ drive space.*
 *   text message (noun), text-message (adjective, verb). Acceptable to shorten to *text* 
 *   thin client – do not hyphenate, whether used as a noun or as an adjective. We would usually hyphenate a compound term of this kind when used as an adjective, but because no one else does, doing so would look fussy.
 *   third-best selling general-purpose computer
+*   third-party, not 3rd party
 *   thousand – spell out when in inline text 
 *   thumb drive 
 *   TikTok

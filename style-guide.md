@@ -392,7 +392,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   double-click – note hyphen 
 *   drag-and-drop (adjective), drag and drop (verb) 
 *   dreamt 
-*   drop-down menu not pull-down menu 
+*   drop-down menu not pull-down menu
+*   DV - digital video. Cap up. 
 *   DVD — digital video disc. No need to spell out the acronym in first use. 
 *   DVR — digital video recorder 
  
@@ -446,6 +447,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   floating-point — adjective, as in 'floating-point number'
 * focused — not _focussed_
 *   forgo — not _forego_
+*   FourCC - four-character code. Note capitalisation.
 *   frame rate — two words. Had a fight with Sam and Brian about this: two words won.
 *   friend — can be used as a verb if referring to social networking, but this is grim and unlovely. See *unfriend*. 
 *   FTP — File Transfer Protocol (note capitalisation) 
@@ -523,7 +525,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   I-frame - Intra frame. Video term. Do not confuse with iframe (inline frame tag in HTML).
 *   IM – instant message. Plural IMs. Defunct. Use *DM* or *PM* instead according to context.
 *   IMAX – trademark, so use as an adjective, not a noun 
-*   inbox 
+*   inbox
+*   inch, in
 *   index – plural: indices, *not* indexes (esp. in technical contexts)
 *   infrared 
 *   inkjet

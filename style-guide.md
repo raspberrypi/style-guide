@@ -593,14 +593,16 @@ In copy intended specifically for a US audience, US English should be used.
 *   livestream – one word when a noun. Two words when used as a verb
 *   logic 1/logic 0 – write the digit, not the number
 *   login – one word when a noun or adjective. Two words when used as a verb. However, try to avoid using as a verb; *sign in* is preferable because it sounds less technical. 
-*   lookup – one word when a noun or adjective: *lookup table* or *reverse phone number lookup*. Two words when a verb. *I tried to look up the length of my ex's prison sentence.* 
+*   lookup – one word when a noun or adjective: *lookup table* or *reverse phone number lookup*. Two words when a verb. *I tried to look up the length of my ex's prison sentence.*
+*   Low speed serial interface (LoSSI)
 *   LXDE – Lightweight X11 Desktop Environment  
  
 ###M 
 
 *   m – metre. No space between the number and m. *The sausage measured an amazing 6m.*
 *   M.2 
-*   Mac (for Macintosh) is acceptable usage 
+*   Mac (for Macintosh) is acceptable usage
+*   MAC address
 *   MacBook, MacBook Air, MacBook Pro – Apple trademarks, so do not add an s to make plural 
 *   macOS (**not** Mac OS, Mac OS X, OS X, or OSX) 
 *   machine – do not use as a synonym for computer. Use *computer*. 

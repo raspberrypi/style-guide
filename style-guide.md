@@ -610,6 +610,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   malware 
 *   mashup (noun, adjective), mash up (verb) 
 *   mass storage device – not capped up
+*   Master Boot Record
 *   Mastodon – social network. Please don't use their *Toot* coinage: use *post* instead.
 *   Maths, not math. Mathematics is also acceptable.
 *   Mbit – megabit (not Mb, as this is too easily confused with MB)

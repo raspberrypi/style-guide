@@ -598,7 +598,8 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###M 
 
-*   m – metre. No space between the number and m. *The sausage measured an amazing 6m.* 
+*   m – metre. No space between the number and m. *The sausage measured an amazing 6m.*
+*   M.2 
 *   Mac (for Macintosh) is acceptable usage 
 *   MacBook, MacBook Air, MacBook Pro – Apple trademarks, so do not add an s to make plural 
 *   macOS (**not** Mac OS, Mac OS X, OS X, or OSX) 
@@ -683,7 +684,8 @@ drive space.*
 *   Node-RED – a visual tool for wiring the Internet of Things
 *   Node.js
 *   NOOBS – New Out Of Box Software, used to easily install an operating system on Raspberry Pi. Deprecated.
-*   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight. 
+*   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight.
+*   NVMe
 *   NYC – New York City. Use only if space is tight. 
  
 ###O 

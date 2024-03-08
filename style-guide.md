@@ -319,7 +319,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   C# (language) 
 *   C++ (language)
 *   Camera Module / Camera Module v2 - the official Raspberry Pi camera add-on
-*   camera phone 
+*   camera phone
+*   CAN bus
 *   CAPTCHA – Completely Automated Public Turing Test to Tell Computers and Humans Apart. A rare instance where the first use of an acronym does not need spelling out! 
 *   capture card — HDMI capture card
 *   CAS – Computing at School  

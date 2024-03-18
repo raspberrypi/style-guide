@@ -668,6 +668,7 @@ drive space.*
 *   MS-DOS – Microsoft Disk Operating System. Trademark for a Microsoft operating system from the DOS family. See *DOS*.
 *   multi- – do not hyphenate words with this prefix unless the root word starts with an i or a capital letter. *Multiplayer, multicolour, multi-industry.*
 *   multimeter – note spelling. Not multimetre.
+*   Mylar
  
 ###N 
 

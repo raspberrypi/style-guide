@@ -484,7 +484,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   grown-up – the noun takes a hyphen; it isn't _grownup_
 *   GSM – Global System for Mobile Communications
 *   GStreamer
-*   GT/s - the PCIe spec says that rates are measured in gigatransfers per second, not in Gbps.
+*   GT/s - the PCIe spec says that rates are measured in gigatransfers per second, though MB/s seems to be the unit that many users prefer.
 *   guestbook 
 *   GUI – graphical user interface 
 *   guizero

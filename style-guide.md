@@ -556,8 +556,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   k – do not use as an abbreviation for thousand. When talking about kilobytes, use kB, not k, which is outdated. *The original BBC Micro had 32kB memory.* 
 *   kb – kilobit. No space between the number and kb. 
 *   kB – kilobyte. No space between the number and kB.  
-*   kbps – kilobits per second. No space between the number and kbps. 
-*   kBps – kilobytes per second. No space between the number and kBps. 
+*   kb/s – kilobits per second. No space between the number and kb/s. 
+*   kB/s – kilobytes per second. No space between the number and kB/s. 
 *   keylogger 
 *   key press
 *   Key Stage – in UK school system, note upper-case letters

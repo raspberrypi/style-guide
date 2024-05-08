@@ -462,8 +462,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   games console. Not "game console", which is the US usage: British usage is "games". See also maths/math.
 *   Gb – gigabit. No space between the number and Gb. 
 *   GB – gigabyte. No space between the number and GB. *You'll need an 8GB SD card.* 
-*   Gbps — gigabits per second. No space between number and Gbps. 
-*   GBps — gigabytes per second. No space between number and GBps. 
+*   Gb/s — gigabits per second. No space between number and Gb/s. 
+*   GB/s — gigabytes per second. No space between number and GB/s. 
 *   Generation X – not Generation Xer 
 *   Generation Y – this used to be the term of art. Since this style guide was conceived the term *millennials* has been coined and is now dominant in the culture. Feel free to use it.
 *   Generation Z – *zoomers* seems to be gaining currency. This one's in a state of flux; let's keep an eye on it.
@@ -620,8 +620,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   Mbit – megabit (not Mb, as this is too easily confused with MB)
 *   MB – megabyte (not MByte). No space between the number and MB. *My old Amiga only had 130MB 
 drive space.* 
-*   Mbps – megabits per second. No space between number and Mbps. 
-*   MBps – megabytes per second. No space between number and MBps. 
+*   Mb/s – megabits per second. No space between number and Mb/s. 
+*   MB/s – megabytes per second. No space between number and MB/s. 
 *   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.*
 *   meet-up (noun, adjective), meet up (verb). Not *meetup*. 
 *   mens'

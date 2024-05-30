@@ -769,6 +769,8 @@ drive space.*
 *   programme (television, theatre etc.) 
 *   PS2, PS3, PS4, PS5 – acceptable abbreviations for Sony's *PlayStation 2*, *PlayStation 3*, *PlayStation 4* and *PlayStation 5*. 
 *   pseudocode
+*   pull-up - resistor used in electronic logic circuits (https://en.wikipedia.org/wiki/Pull-up_resistor), can be shortened to PU during repeated heavy usage
+*   pull-down - resistor used in electronic logic circuits (https://en.wikipedia.org/wiki/Pull-down_resistor), can be shortened to PD during repeated heavy usage
 *   PulseAudio
 *   Puppy Linux 
 *   PuTTY: popular SSH/Telnet software used to access Raspberry Pi

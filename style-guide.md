@@ -600,6 +600,7 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###M 
 
+*   M key - edge connector standard for M.2 PCIe peripherals
 *   m – metre. No space between the number and m. *The sausage measured an amazing 6m.*
 *   M.2 
 *   Mac (for Macintosh) is acceptable usage

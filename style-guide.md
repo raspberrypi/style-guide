@@ -287,7 +287,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   beta — do not capitalise unless part of an official product lane. *Raspberry Pi's beta release for developers; try Yahoo! Messenger Beta.* 
 *   BGA — ball grid array 
 *   biannual, bimonthly, biweekly – do not use. Instead use every two months or twice a month etc. which is longer, but which avoids confusion.
-*   big-endian - always use a hyphen, as [Jonathan Swift](https://www.gutenberg.org/cache/epub/65473/pg65473-images.html) intended.
+*   big-endian - always use a hyphen, as [Jonathan Swift](https://www.gutenberg.org/cache/epub/65473/pg65473-images.html) intended
 *   billion — use numerals with billion: *5 billion people*. Abbreviate to bil only if space is at a premium. 
 *   binary 
 *   binary blob — a pejorative term in the free software community. Do not use to refer to the GPU in Raspberry Pi computers.

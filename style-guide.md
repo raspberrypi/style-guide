@@ -416,7 +416,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   emoji — pl. emojis (even though this word is Japanese; see _tsunami, tsunamis_)
 *   Emotiv — company producing EEG headsets for neuro-signal work. 
 *   end-of-year — adjective before a noun, as in 'end-of-year report'
-*   endianness - bit order within digital word data
+*   endianness - byte order within digital word data
 *   Endpoint Controller
 *   EPROM – erasable programmable read only memory 
 *   ePub – electronic publication. An open-standard file format for e-books. 

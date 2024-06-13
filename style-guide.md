@@ -286,7 +286,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   Beagle Board 
 *   beta — do not capitalise unless part of an official product lane. *Raspberry Pi's beta release for developers; try Yahoo! Messenger Beta.* 
 *   BGA — ball grid array 
-*   biannual, bimonthly, biweekly – do not use. Instead use every two months or twice a month etc. which is longer, but which avoids confusion. 
+*   biannual, bimonthly, biweekly – do not use. Instead use every two months or twice a month etc. which is longer, but which avoids confusion.
+*   big-endian - always use a hyphen, as [Jonathan Swift](https://www.gutenberg.org/cache/epub/65473/pg65473-images.html) intended.
 *   billion — use numerals with billion: *5 billion people*. Abbreviate to bil only if space is at a premium. 
 *   binary 
 *   binary blob — a pejorative term in the free software community. Do not use to refer to the GPU in Raspberry Pi computers.
@@ -410,11 +411,12 @@ In copy intended specifically for a US audience, US English should be used.
 *   eBay — an eBay trademark 
 *   Ed and Izzy — the two special Astro Pi units sent to the ISS with Tim Peake.
 *   EEG — electroencephalography 
-*   element14/Premier Farnell in the first instance in a chapter section, then just element14. Element14 should be capitalised if it appears at the beginning of a sentence; in general, try to avoid using at the start of a sentence. 
+*   element14/Premier Farnell in the first instance in a chapter section, then just element14. Element14 should be capitalised if it appears at the beginning of a sentence; in general, try to avoid using at the start of a sentence.
 *   email
 *   emoji — pl. emojis (even though this word is Japanese; see _tsunami, tsunamis_)
 *   Emotiv — company producing EEG headsets for neuro-signal work. 
 *   end-of-year — adjective before a noun, as in 'end-of-year report'
+*   endianness - bit order within digital word data
 *   Endpoint Controller
 *   EPROM – erasable programmable read only memory 
 *   ePub – electronic publication. An open-standard file format for e-books. 
@@ -591,6 +593,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Linux – trademark owned by Linus Torvalds. Not capitalised in the same way as UNIX. 
 *   LiPo – lithium polymer (a kind of battery)
 *   lithium-ion – do not capitalise when written out in full (cf. *Li-ion*)
+*   little-endian - always use a hyphen, as [Jonathan Swift](https://www.gutenberg.org/cache/epub/65473/pg65473-images.html) intended.
 *   livestream – one word when a noun. Two words when used as a verb
 *   logic 1/logic 0 – write the digit, not the number
 *   login – one word when a noun or adjective. Two words when used as a verb. However, try to avoid using as a verb; *sign in* is preferable because it sounds less technical. 

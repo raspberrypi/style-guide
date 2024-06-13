@@ -593,7 +593,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Linux – trademark owned by Linus Torvalds. Not capitalised in the same way as UNIX. 
 *   LiPo – lithium polymer (a kind of battery)
 *   lithium-ion – do not capitalise when written out in full (cf. *Li-ion*)
-*   little-endian - always use a hyphen, as [Jonathan Swift](https://www.gutenberg.org/cache/epub/65473/pg65473-images.html) intended.
+*   little-endian - always use a hyphen, as [Jonathan Swift](https://www.gutenberg.org/cache/epub/65473/pg65473-images.html) intended
 *   livestream – one word when a noun. Two words when used as a verb
 *   logic 1/logic 0 – write the digit, not the number
 *   login – one word when a noun or adjective. Two words when used as a verb. However, try to avoid using as a verb; *sign in* is preferable because it sounds less technical. 

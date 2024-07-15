@@ -465,9 +465,9 @@ In copy intended specifically for a US audience, US English should be used.
 *   g – gram(s). Use a numeral with g and no space between the numeral and g. *The teabag weighs 7g.* 
 *   gamer
 *   games console. Not "game console", which is the US usage: British usage is "games". See also maths/math.
-*   Gib - gibibit =  2<sup>30</sup> bit = 1073741824 bit. Always use a space between the number and the unit, preferably nonbreaking.
+*   Gib - gibibit =  2<sup>30</sup> b = 1073741824 b. Always use a space between the number and the unit, preferably nonbreaking.
 *   Gib/s - gibibits per second. Always use a space between the number and the unit, preferably nonbreaking.
-*   Gb - gigabit = 10<sup>9</sup> bit = 1000000000 bit. Always use a space between the number and the unit, preferably nonbreaking.
+*   Gb - gigabit = 10<sup>9</sup> b = 1000000000 b. Always use a space between the number and the unit, preferably nonbreaking.
 *   Gb/s - gigabits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   GiB - gibibyte =  2<sup>30</sup> B = 1073741824 B. Always use a space between the number and the unit, preferably nonbreaking.
 *   GiB/s - gibibytes per second. Always use a space between the number and the unit, preferably nonbreaking.
@@ -563,9 +563,9 @@ In copy intended specifically for a US audience, US English should be used.
 ###K 
 
 *   k – _do not use_ as an abbreviation for thousand. When talking about kilobytes, use kB, not k, which is outdated. *The original BBC Micro had 32 KiB memory.*
-*   Kib - kibibit = 2<sup>10</sup> bit = 1024 bit
+*   Kib - kibibit = 2<sup>10</sup> b = 1024 b
 *   Kib/s - kibibits per second. Always use a space between the number and the unit, preferably nonbreaking.
-*   kb - kilobit = 10<sup>3</sup> bit = 1000 bit. Always use a space between the number and the unit, preferably nonbreaking.
+*   kb - kilobit = 10<sup>3</sup> b = 1000 b. Always use a space between the number and the unit, preferably nonbreaking.
 *   kb/s – kilobits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   kB – kilobyte. 1000 B. _Rarely used; you probably want KiB._ Always use a space between the number and the unit, preferably nonbreaking. Always use a _lowercase_ k.
 *   kB/s – kilobytes per second. _Rarely used; you probably want KiB/s._ Always use a space between the number and the unit, preferably nonbreaking. Always use a _lowercase_ k.
@@ -634,12 +634,12 @@ In copy intended specifically for a US audience, US English should be used.
 *   Master Boot Record
 *   Mastodon – social network. Please don't use their *Toot* coinage: use *post* instead.
 *   Maths, not math. Mathematics is also acceptable.
-*   Mb - megabit. Always use a space between the number and the unit, preferably nonbreaking.
+*   Mb - megabit = 1000000 b. Always use a space between the number and the unit, preferably nonbreaking.
 *   Mb/s = megabits per second. Always use a space between the number and the unit, preferably nonbreaking.
+*   Mib - mebibit = 2<sup>20</sup> b = 1048576 b. Always use a space between the number and the unit, preferably nonbreaking.
+*   Mib/s - mebibits per second. _Rarely used; you probably want Mb/s._ Always use a space between the number and the unit, preferably nonbreaking.
 *   MB - megabyte = 10<sup>6</sup> B = 1000000 B. _Rarely used for storage; you probably want MiB._ Always use a space between the number and the unit, preferably nonbreaking.
 *   MB/s - megabytes per second. Always use a space between the number and the unit, preferably nonbreaking.
-*   Mib - mebibit = 2<sup>20</sup> bit = 1048576 bit. Always use a space between the number and the unit, preferably nonbreaking.
-*   Mib/s - mebibits per second. _Rarely used; you probably want Mb/s._ Always use a space between the number and the unit, preferably nonbreaking.
 *   MiB - mebibyte = 2<sup>20</sup> B = 1048576 B. Always use a space between the number and the unit, preferably nonbreaking.
 *   MiB/s - mebibytes per second. _Rarely used; you probably want MB/s._ Always use a space between the number and the unit, preferably nonbreaking.
 *   media – treat as a mass noun with a singular verb. *The media is paying a lot of attention to Raspberry Pi.* However, if you can distinguish a number of individual mediums making up the use of media, use a plural verb. *Various media are treating the story differently: print newspapers are not paying much attention, but the TV news and online news sites are very interested.*

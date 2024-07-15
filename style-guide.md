@@ -638,7 +638,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Mb/s = megabits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   Mib - mebibit = 2<sup>20</sup> b = 1048576 b. Always use a space between the number and the unit, preferably nonbreaking.
 *   Mib/s - mebibits per second. _Rarely used; you probably want Mb/s._ Always use a space between the number and the unit, preferably nonbreaking.
-*   MB - megabyte = 10<sup>6</sup> B = 1000000 B. _Rarely used for storage; you probably want MiB._ Always use a space between the number and the unit, preferably nonbreaking.
+*   MB - megabyte = 10<sup>6</sup> B = 1000000 B. Always use a space between the number and the unit, preferably nonbreaking. *My old Amiga only had 130 MB drive space.*
 *   MB/s - megabytes per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   MiB - mebibyte = 2<sup>20</sup> B = 1048576 B. Always use a space between the number and the unit, preferably nonbreaking.
 *   MiB/s - mebibytes per second. _Rarely used; you probably want MB/s._ Always use a space between the number and the unit, preferably nonbreaking.

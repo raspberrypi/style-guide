@@ -272,7 +272,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   b/s - bits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   B - byte = 2<sup>3</sup> b = 8 b
 *   B/s - bytes per second. Always use a space between the number and the unit, preferably nonbreaking.
-*   byte - 8 bits. The name is both a portmanteau of **binary** and **term** as well as a deliberate respelling of bite to avoid accidental mutation to bit. Always use a space between the number and the unit, preferably nonbreaking. _Use "B" as a suffix only, otherwise explicitly write out "byte"._ When used as a compound adjective, (e.g. 'The key is stored in a 2-byte register'), hyphenate. When used as a quantifier (e.g. 'These 3 bytes control the foobarbaz'), do not hyphenate. 
+*   byte - 8 b. The name is both a portmanteau of **binary** and **term** as well as a deliberate respelling of bite to avoid accidental mutation to bit. Always use a space between the number and the unit, preferably nonbreaking. _Use "B" as a suffix only, otherwise explicitly write out "byte"._ When used as a compound adjective, (e.g. 'The key is stored in a 2-byte register'), hyphenate. When used as a quantifier (e.g. 'These 3 bytes control the foobarbaz'), do not hyphenate. 
 *   B.C. – place after the year. *The hoard dates back to around 700 B.C.* 
 *   back end (noun), back-end (adjective) 
 *   back-to-school (adjective), back to school (noun) 

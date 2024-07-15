@@ -268,10 +268,11 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###B 
 
-*   b - bit = the most basic unit of information in computing and digital communication. The name is a portmanteau of **binary** and **digit**! Always use a space between the number and the unit, preferably nonbreaking. _Use "b" as a suffix only, otherwise explicitly write out "bit"._
+*   b - bit = the most basic unit of information in computing and digital communication. The name is a portmanteau of **binary** and **digit**! Always use a space between the number and the unit, preferably nonbreaking. _Use "b" as a suffix only, otherwise explicitly write out "bit"._ When used as a compound adjective, (e.g. 'The Sega Genesis is a 16-bit home video game console'), hyphenate. When used as a quantifier, (e.g. 'These 3 bits control the foo'), do not hyphenate. 
 *   b/s - bits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   B - byte = 2<sup>3</sup> bit = 8 bit
 *   B/s - bytes per second. Always use a space between the number and the unit, preferably nonbreaking.
+*   byte - 8 bits. The name is both a portmanteau of **binary** and **term** as well as a deliberate respelling of bite to avoid accidental mutation to bit. Always use a space between the number and the unit, preferably nonbreaking. _Use "B" as a suffix only, otherwise explicitly write out "byte"._ When used as a compound adjective, (e.g. 'The key is stored in a 2-byte register'), hyphenate. When used as a quantifier (e.g. 'These 3 bytes control the foobarbaz'), do not hyphenate. 
 *   B.C. – place after the year. *The hoard dates back to around 700 B.C.* 
 *   back end (noun), back-end (adjective) 
 *   back-to-school (adjective), back to school (noun) 
@@ -469,9 +470,9 @@ In copy intended specifically for a US audience, US English should be used.
 *   Gib/s - gibibits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   Gb - gigabit = 10<sup>9</sup> b = 1000000000 b. Always use a space between the number and the unit, preferably nonbreaking.
 *   Gb/s - gigabits per second. Always use a space between the number and the unit, preferably nonbreaking.
-*   GiB - gibibyte =  2<sup>30</sup> B = 1073741824 B. Always use a space between the number and the unit, preferably nonbreaking.
+*   GiB - gibibyte =  2<sup>30</sup> B = 1073741824 B. Always use a space between the number and the unit, preferably nonbreaking. Preferred for copy aimed at a technical audience, like datasheets and reference documentation. For content aimed at a general audience, like blog posts, use GB instead to avoid looking like a pedantic nerd.
 *   GiB/s - gibibytes per second. Always use a space between the number and the unit, preferably nonbreaking.
-*   GB - gigabyte = 10<sup>9</sup> B = 1000000000 B. Always use a space between the number and the unit, preferably nonbreaking.
+*   GB - gigabyte = 10<sup>9</sup> B = 1000000000 B. Always use a space between the number and the unit, preferably nonbreaking. Preferred for content aimed at a general audience, like blog posts. For copy aimed at a technical audience, like datasheets and reference documentation, use GB instead to avoid looking like a pedantic nerd.
 *   GB/s - gigabytes per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   Generation X – not Generation Xer 
 *   Generation Y – this used to be the term of art. Since this style guide was conceived the term *millennials* has been coined and is now dominant in the culture. Feel free to use it.
@@ -569,8 +570,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   kb/s – kilobits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   kB – kilobyte. 1000 B. _Rarely used; you probably want KiB._ Always use a space between the number and the unit, preferably nonbreaking. Always use a _lowercase_ k.
 *   kB/s – kilobytes per second. Always use a space between the number and the unit, preferably nonbreaking. Always use a _lowercase_ k.
-*   KB - _do not use_. Use kB or KiB instead.
-*   KB/s - _do not use_. Use kB/s or KiB/s instead.
+*   KB - [Ambiguous](https://cseducators.stackexchange.com/questions/4425/should-i-teach-that-1-kb-1024-bytes-or-1000-bytes), _do not use_. Use kB or KiB instead.
+*   KB/s - [Ambiguous](https://cseducators.stackexchange.com/questions/4425/should-i-teach-that-1-kb-1024-bytes-or-1000-bytes), _do not use_. Use kB/s or KiB/s instead.
 *   KiB - kibibyte = 2<sup>10</sup> B = 1024 B. Always use a space between the number and the unit, preferably nonbreaking.
 *   KiB/s = kibibytes per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   keylogger 

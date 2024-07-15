@@ -239,6 +239,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   aka – not 'a.k.a.' or 'AKA'
 *   Allen key – proper noun, capitalise. (Cf. _Phillips_ screwdrivers; why are all the things you screw into other things named after men? Don't answer that.)
 *   all-expenses-paid trip
+*   all-ones: used in the adjectival sense, "write an all-ones value to the `FOO_BAR` register"
 *   ALSA
 *   AlsaMixer
 *   AMD (company name) 

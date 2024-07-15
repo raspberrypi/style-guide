@@ -568,7 +568,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   kb - kilobit = 10<sup>3</sup> b = 1000 b. Always use a space between the number and the unit, preferably nonbreaking.
 *   kb/s – kilobits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   kB – kilobyte. 1000 B. _Rarely used; you probably want KiB._ Always use a space between the number and the unit, preferably nonbreaking. Always use a _lowercase_ k.
-*   kB/s – kilobytes per second. _Rarely used; you probably want KiB/s._ Always use a space between the number and the unit, preferably nonbreaking. Always use a _lowercase_ k.
+*   kB/s – kilobytes per second. Always use a space between the number and the unit, preferably nonbreaking. Always use a _lowercase_ k.
 *   KB - _do not use_. Use kB or KiB instead.
 *   KB/s - _do not use_. Use kB/s or KiB/s instead.
 *   KiB - kibibyte = 2<sup>10</sup> B = 1024 B. Always use a space between the number and the unit, preferably nonbreaking.

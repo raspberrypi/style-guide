@@ -562,7 +562,7 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###K 
 
-*   k – _do not use_ as an abbreviation for thousand. When talking about kilobytes, use kB, not k, which is outdated. *The original BBC Micro had 32 kiB memory.*
+*   k – _do not use_ as an abbreviation for thousand. When talking about kilobytes, use kB, not k, which is outdated. *The original BBC Micro had 32 KiB memory.*
 *   Kib - kibibit = 2<sup>10</sup> bit = 1024 bit
 *   Kib/s - kibibits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   kb - kilobit = 10<sup>3</sup> bit = 1000 bit. Always use a space between the number and the unit, preferably nonbreaking.

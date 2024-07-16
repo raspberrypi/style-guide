@@ -268,7 +268,7 @@ In copy intended specifically for a US audience, US English should be used.
  
 ###B 
 
-*   b - bit = the most basic unit of information in computing and digital communication. The name is a portmanteau of **binary** and **digit**! Always use a space between the number and the unit, preferably non-breaking. _Use "b" as a suffix only, otherwise explicitly write out "bit"._ When used as a compound adjective, (e.g. 'The Sega Genesis is a 16-bit home video game console'), hyphenate. When used as a quantifier, (e.g. 'These 3 bits control the foo'), do not hyphenate. 
+*   b - bit = the most basic unit of information in computing and digital communication. The name is a portmanteau of **binary** and **digit**! Always use a space between the number and the unit, preferably non-breaking. _Use "b" as a suffix only, otherwise explicitly write out "bit"._ When used as a compound adjective, (e.g. 'The Mega Drive is a 16-bit home video game console'), hyphenate. When used as a quantifier, (e.g. 'These 3 bits control the foo'), do not hyphenate. 
 *   b/s - bits per second. Always use a space between the number and the unit, preferably non-breaking.
 *   B - byte = 2<sup>3</sup> b = 8 b
 *   B/s - bytes per second. Always use a space between the number and the unit, preferably non-breaking.

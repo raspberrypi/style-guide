@@ -472,7 +472,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   Gb/s - gigabits per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   GiB - gibibyte =  2<sup>30</sup> B = 1073741824 B. Always use a space between the number and the unit, preferably nonbreaking. Preferred for copy aimed at a technical audience, like datasheets and reference documentation. For content aimed at a general audience, like blog posts, use GB instead to avoid looking like a pedantic nerd.
 *   GiB/s - gibibytes per second. Always use a space between the number and the unit, preferably nonbreaking.
-*   GB - gigabyte = 10<sup>9</sup> B = 1000000000 B. Always use a space between the number and the unit, preferably nonbreaking. Preferred for content aimed at a general audience, like blog posts. For copy aimed at a technical audience, like datasheets and reference documentation, use GB instead to avoid looking like a pedantic nerd.
+*   GB - gigabyte = 10<sup>9</sup> B = 1000000000 B. Always use a space between the number and the unit, preferably nonbreaking. Preferred for content aimed at a general audience, like blog posts. For copy aimed at a technical audience, like datasheets and reference documentation, use GiB (when correct) instead for pedantic nerd cred.
 *   GB/s - gigabytes per second. Always use a space between the number and the unit, preferably nonbreaking.
 *   Generation X – not Generation Xer 
 *   Generation Y – this used to be the term of art. Since this style guide was conceived the term *millennials* has been coined and is now dominant in the culture. Feel free to use it.

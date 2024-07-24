@@ -836,7 +836,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   rock 'n' roll 
 *   ROM – read-only memory 
 *   Roku – company name and name of streaming media device. Trademark. Do not add s to make plural. Plural *Roku boxes* or *Roku devices*. 
-*   roundup 
+*   roundup
+*   RP2040 - the full name of this product is simply "RP2040", not "Raspberry Pi RP2040"
 *   RS Components – in full in the first instance in a chapter section, then just RS. 
 *   RSS – Really Simple Syndication. Best practice is to use *RSS feed*, *RSS news feed* or *RSS newsreader*; few people know what RSS means on its own, and it's much less used in these dark days of the 2020s than it was when this guide was first written. 
 *   RTC – real-time clock 

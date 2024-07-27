@@ -660,6 +660,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   micro USB
 *   micro:bit – a handheld, fully programmable computer which was given free to every Year 7 child across the UK. The Micro:bit Educational Foundation is trying to drop the 'BBC' in front of 'micro:bit'. If using just 'micro:bit', try not to begin sentences with it, due to the lowercase nature of the name.
 *   Micro:bit Educational Foundation – see [here](http://microbit.org/about/). Note uppercase 'M'.
+*   microarchitecture, microarchitectural (as opposed to architectural)
 *   microblog – deprecated. This is what we used to call platforms like Twitter and Tumblr.
 *   microcontroller 
 *   microprocessor

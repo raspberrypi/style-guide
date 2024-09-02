@@ -158,7 +158,7 @@ For a range of numbers, try to keep a consistent format: *coding clubs for child
 
 For numbers of more than four digits, use commas: *10,000*, *100,000*. For highly technical documentation, use your best judgment: if a comma is likely to cause confusion, it's better to omit it.
 
-There should be no space between a value and its SI unit: *2m*, *2kg*, *2ohm*. However, this rule does not apply to units of storage or transfer speeds: *8 GB*, *5 KiB/s*, 1 MiB.
+Use a space between a value and its SI unit: *2 m*, *2 kg*, *2 ohm*, *8 GB*, *5 KiB/s*, *1 MiB*.
 
 Subscript numerals (e.g. in chemical formulae) are fine in print, but not for online content. So *CO2* online, *CO<sub>2</sub>*  in print. 
 

@@ -154,9 +154,9 @@ See the word list below for correct abbreviations and their capitalisations when
 
 Unless you are dealing with code, units of computer storage, or maths materials/equations, spell out numbers one to twelve; express 13 and higher numbers as a numeral *unless* at the start of a sentence. *Eighteen bagpipers were shown to the door.* 
 
-For a range of numbers, try to keep a consistent format: *coding clubs for children aged 9-13*, *Pioneers are aged 11-16*, *one to twenty*. Use common sense: if following the style guide looks awful, (*coding clubs for children aged nine to 13*, *one to 20*), use a consistent format instead.
+For a range of numbers, try to keep a consistent format: *coding clubs for children aged 9-13*, *most of the children at the Jam were aged 11-16*, *one to twenty*. Use common sense: if following the style guide looks awful, (*coding clubs for children aged nine to 13*, *one to 20*), use a consistent format instead.
 
-For numbers of more than four digits, use commas: *10,000*, *100,000*. For highly technical documentation, use your best judgment: if a comma is likely to cause confusion, it's better to omit it.
+For numbers of more than four digits, use commas: *10,000*, *100,000*. For technical documentation, especially for international audiences (in some languages, a comma is used as a decimal separator), commas may cause confusion, and it's usually better to use thin spaces instead.
 
 Use a space between a value and its SI unit: *2 m*, *2 kg*, *2 ohm*, *8 GB*, *5 KiB/s*, *1 MiB*.
 

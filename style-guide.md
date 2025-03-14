@@ -24,7 +24,7 @@ See **Titles of other works** below for more examples of bulleted lists.
 
 ## Emphasis 
 
-Use *italic* type for emphasis. Note: this is a change to reflect our normal usage. We used to prefer **bold** type for emphasis, but it's clear that it's not what writers and editors here default to, so *italics* win (and we've used bold so little for emphasis that there's little point in going back through and retroactively mopping up). 
+Use *italic* type for emphasis. Note: this is a change to reflect our normal usage. We used to prefer **bold** type for emphasis, but it's clear that it's not what writers and editors here default to, so *italics* win (and we've used bold so little for emphasis that there's little point in going back through and retroactively mopping up).
 
 ## Punctuation 
 

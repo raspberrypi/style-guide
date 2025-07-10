@@ -711,6 +711,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   no one - do not hyphenate
 *   Node-RED – a visual tool for wiring the Internet of Things
 *   Node.js
+*   Non-secure -- reference to the TrustZone security domain of the same name. Do not capitalise in other contexts.
 *   NOOBS – New Out Of Box Software, used to easily install an operating system on Raspberry Pi. Deprecated.
 *   number one – no hyphen as adjective. *Bagpipes are my number one hate*. Abbreviate as *No. 1* if space is tight.
 *   NVMe
@@ -860,7 +861,8 @@ In copy intended specifically for a US audience, US English should be used.
 *   SD card – Secure Digital memory card format 
 *   SDHC card – Secure Digital High-Capacity card 
 *   search engine
-*   Secure Boot is a standard. Things can boot securely without adhering to the standard. Note caps.
+*   Secure -- reference to the TrustZone domain of the same name. Do not capitalise in other contexts.
+*   Secure Boot is a standard. A secure boot implementation that does not implement the Microsoft standard (such as RP2350's) should not be capitalised.
 *   security key 
 *   setup (noun, adjective), set up (verb) 
 *   short code – two words when referring to a mobile phone

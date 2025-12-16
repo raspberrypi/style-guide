@@ -511,7 +511,7 @@ In copy intended specifically for a US audience, US English should be used.
 *   HAT – Hardware Attached on Top, describing various add-on boards such as the Sense HAT
 *   HAT+ – new HAT specificiation, beginning Dec 2023. See also Power HAT+.
 *   HD audio – note capitalisation. Full HD audio is 192kHz; HD audio is 96kHz.
-*   HMDI – the HDMI authority have emailed to say that the ® symbol is required in the first mention of HDMI in any given document. So HDMI® in the first instance, thereafter HDMI.
+*   HDMI – the HDMI authority have emailed to say that the ® symbol is required in the first mention of HDMI in any given document. So HDMI® in the first instance, thereafter HDMI.
 *   HDTV – high-definition television 
 *   heatsink – not *heat sink*
 *   help desk 

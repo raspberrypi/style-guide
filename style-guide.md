@@ -168,7 +168,7 @@ If you're unsure about which to use, consider whether the relative clause identi
 
 Although non-restrictive relative clauses don't limit or define the noun they modify, they can still offer useful contextual information, such as an explanation, reason, or contrast between the relative clause and the main clause. The clause might not be *grammatically* essential because the noun is already clear without the clause, but it's still informationally useful.
 
-In British English, '**that**' is preferred for restrictive clauses doesn't require a comma before it; '**which**' is preferred for non-restrictive clauses and requires a comma before it. For example:
+In British English, '**that**' is preferred for restrictive clauses and doesn't require a comma before it; '**which**' is preferred for non-restrictive clauses and requires a comma before it. For example:
 
 |Example|Type|Meaning|
 |---|---|---|

@@ -852,7 +852,6 @@ If a question really is frequently asked, you likely need to add or restructure 
 
 If using the preferred example style, introduce the link and then hyperlink the actual name of the webpage. Use the original capitalisation of the linked webpage.
 
-
 ## Word list
 
 The word list consists of accepted terms that can cause confusion or that we take a stance on for how the term is used or written.
@@ -865,50 +864,53 @@ Bolded terms within the description of another term indicate that the bolded ter
 
 In this particular example, **UNIX** is included as an entry in [Acronyms and initialisms](#acronyms-and-initialisms), a subsection of the [Abbreviation list](#abbreviation-list).
 
+**Note:** 'Capitalise' means 'capitalise the first letter or specified letters'; 'all-caps' means 'capitalise all letters'.
+
 ### &#35;
 
 |Term|Description|Notes|Don't use|
 |---|---|---|---|
-|2D, 3D|Two-dimensional; three-dimensional|No hyphen| 2-D, 3-D|
-|3G, 4G, 5G | Phone networks |||
+|2D, 3D|Two-dimensional; three-dimensional|No hyphen| 2-D; 3-D|
+|3G, 4G, 5G | Phone networks |No space|3 G; 4 G; 5 G|
 |4K|Screen resolution|Uppercase 'K'; if you add a modifier, don't add a space (e.g., 4Kp60)|4K p60
-|50–50|An equal division or a 50% probability|En dash|fifty-fifty|
+|50–50|An equal division or a 50% probability|En dash; use numerals|50-50; fifty-fifty|
 |7-inch screen|A display screen with a diagonal measurement of 7 inches|Hyphenate|7 inch screen|
-|8-bit microprocessor|A microprocessor that processes data in 8-bit chunks|Hyphenate|
+|8-bit microprocessor|A microprocessor that processes data in 8-bit chunks|Hyphenate|8 bit micropressor|
 |8×, 16× | CD or DVD drive speeds|Use the multiplication symbol, not the letter **x**| 8x, 16x|
 
 ### A
 
 |Use| Description |Notes|Don't use|
 |---|---|---|---|
-|AA batteries|A type of battery|Use capital letters for 'AA'|double-A-batteries|
+|AA batteries|A type of battery|Capitalise 'AA'|double-A-batteries|
 |adapter|A device for connecting pieces of equipment that can't be connected directly|Spell with 'er' rather than 'or'|adaptor|
-|ad blocker|Extension that prevents adverts from being displayed on websites, videos, or apps|Two words, no hyphen|ad-blocker|
-|add-on board|Secondary circuit board that adds functionality to a computer or device|Use hyphen|card|
+|ad blocker|Extension that prevents adverts from being displayed on websites, videos, or apps|Two words; no hyphen|ad-blocker|
+|add-on board|Secondary circuit board that adds functionality to a computer or device|Hyphenate; don't use 'card' to mean 'add-onboard'|add on board; card|
 |Advanced Error Reporting| PCI Express (PCIe) feature for reporting and diagnosing errors|Capitalise all words as a defined technical term|advanced error reporting|
 |adware|Software that automatically displays or downloads adverts  |One word; lowercase|ad-ware|
 |A level; A-level students|Subject-based qualifications in England and Wales|Only capitalise the 'A'; hyphenate when modifying the next word (e.g., A-level students)|A Level|
 |Allen key|Hexagonal wrench used to drive bolts or screws with hexagonal sockets|Proper noun (capitalise 'Allen')|allen key|
 |all-ones [adjective] |Describes a binary value filled with bits set to `1`|Hyphenate when used as a modifier (for example, 'all-ones value')|all ones|
 |all-zeros [adjective] |Describes a binary value filled with bits set to `0`|Hyphenate when used as a modifier (for example, 'all-zeros value')|all zeros|
-|ALSA|Advanced Linus Sound Architecture (software framework for audio on Linux)|Acronym; always uppercase|Alsa; alsa|
+|ALSA|Advanced Linux Sound Architecture (software framework for audio on Linux)|Acronym; always all-caps|Alsa; alsa|
 |AlsaMixer| Terminal-based mixer utility for ALSA sound system|One word; capital 'A' and 'M'|Alsamixer; alsamixer; ALSAMixer|
 |aluminium|A lightweight, corrosion-resistant metal used as a heat conductor|British English spelling|aluminum|
 |amp; ampere (see also **A** in [Measurement suffixes](#measurement-suffixes))|Unit of electric current|Lowercase unless using the abbreviation; abbreviation preferred |3 Amps|
-|analogue|Data transmitted in waves rather than digitally|Always British English spelling |analog
-|antenna||Plural in engineering and tech contexts is 'antennas'; plural in a biological context is 'antennae'||
+|analogue|Data transmitted in waves rather than digitally|Always British English spelling |analog|
+|antennae|Plural of 'antenna' in a biological context||antennas in a biological context|
+|antennas|Plural of 'antenna' in engineering and tech contexts||antennae in an engineering or tech context|
 |antivirus|Software designed to detect and remove malware  |One word|anti-virus; antivirus|
 |app|Short for application|Don't use if there's potential for confusion||
 |Apple| Trademark | Don't add an 's' to make plural; add the device after instead (for example, 'Apple computers')|Apples|
-|applications processor | Processor designed specifically for running applications on mobile devices|Two words; lowercase; 'applications' is plural|application processor|
+|applications processor | Processor designed specifically for running applications on mobile devices|Lowercase; 'applications' is plural|application processor|
 |apt|Advanced Package Tool for managing software in Debian Linux| Lowercase; not an acronym| APT|
 |Arm architecture|Family of RISC-based processor architectures developed by Arm Ltd.|Capitalise 'Arm' (proper noun); 'Arm' isn't an acronym| ARM architecture|
 |Arm chipset|System-on-Chip (SoC) or integrated circuit based on **Arm** architecture|Capitalise 'Arm' (proper noun); 'Arm' isn't an acronym|ARM chipset|
 |Arm Holdings|Company name; rebranded from ARM|Capitalise 'A' and 'H' only| ARM Holdings|
 |Armv6, Armv7|Versions of the **Arm** architecture instruction set|Capitalise 'Arm' with lowercase 'v' and numeral; no spaces|ARMv6; Arm V7|
-|AS level; AS-level students|The first year of **AS-level** course content in England and Wales|Only capitalise the **AS**; hyphenate when modifying the next word (e.g., AS-level students)|AS Level|
-|assembly language| Low-level programming language closely related to machine code | Two words; lowercase| Assembly Language; assembler language|
-|autofocus|Automatic camera lens adjustment to focus on a subject|One word|auto focus|
+|AS level; AS-level students|The first year of **AS-level** course content in England and Wales|Only capitalise the 'AS'; hyphenate when modifying the next word (e.g., AS-level students)|AS Level|
+|assembly language| Low-level programming language closely related to machine code | Lowercase; always 'assembly', not 'assembler'| Assembly Language; assembler language|
+|autofocus|Automatic camera lens adjustment to focus on a subject|One word|auto focus; auto-focus|
 |avatar|Icon or figure representing a person|Lowercase|Avatar|
 
 ### B
@@ -916,7 +918,6 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |Use|Description |Notes|Don't use|
 |---|---|---|---|
 |backdoor|Hidden method of bypassing normal security|One word when referring to computer security or hacking|back door; back-door|
-|backend |The part of a system or application that operates behind the scenes (such as servers and databases) |One word when referring to computer software|back end; back-end|
 |backlight| Lighting from behind a screen | One word| back light; back-light|
 |backlit| Lit from behind; typically referring to displays and keyboards | One word| back lit; back-lit|
 |barcode|Machine-readable code of lines and spaces|One word|bar code|
@@ -929,7 +930,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |BeagleBoard|A low-power, open-source hardware single-board computer|Use the full term without a space and capitalise each 'B'|Beagle Board; beagle board|
 |beta|Pre-release version|Don't capitalise unless part of an official product line|Beta|
 |big-endian|Byte order in which the most significant byte is stored first|Hyphenate|bigendian; big endian|
-|binary| Relating to a system using only '0' and '1'|Use lowercase when referring to binary files and numbers|
+|binary| Relating to a system using only '0' and '1'|Use lowercase when referring to binary files and numbers|Binary|
 |binary blob| Non-free software distributed in binary form; pejorative term in the free software community |Don't use to describe the GPU in Raspberry Pi||
 |bit (see also **b** in [Measurement suffixes](#measurement-suffixes))|The most basic unit of information in computing and digital communication; a portmanteau of 'binary' and 'digit'|Lowercase; hyphenate when used as a compound adjective (for example, 'It's a 16-bit home video game'); don't hyphenate when used as a quantifier (for example, 'These 3 bits control the foo')|3 Bits|
 |bitstream| A stream of bits transmitted over a communication channel|One word| bit stream' bit-stream|
@@ -943,7 +944,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |Bluetooth|Wireless technology standard	| One word; capitalised; only use as an adjective| Blue Tooth; Blue tooth; bluetooth|
 |Bluetooth Classic |Standard Bluetooth protocol	| Capitalised| Blue Tooth Classic; bluetooth classic|
 |Bluetooth Low Energy; Bluetooth LE | Bluetooth Low Energy protocol	| Capitalised| Blue Tooth Low Energy; bluetooth LE|
-|boot ROM| A small piece of memory containing the first code executed by the processor on startup | Two words unless referring directly to 'bootrom' in the code; capitalise ROM| bootrom|
+|boot ROM| A small piece of memory containing the first code executed by the processor on startup | Two words unless referring directly to `bootrom` in the code; capitalise ROM| bootrom|
 |breadcrumb | Website navigation | One word | bread crumb|
 |Broadcom| Semiconductor manufacturer| Capitalise | broadcom|
 |byte (see also **B** in [Measurement suffixes](#measurement-suffixes))|8 **bits**|Lowercase; hyphenate when used as a compound adjective (for example, 'It's a 2-byte register'); don't hyphenate when used as a quantifier (for example, '3 bytes')|3 Bytes|
@@ -1766,12 +1767,15 @@ The following words and phrases are problematic because they have ablest, gender
 |blind	| anonymous; ignore	||
 | dummy data/value | placeholder data/value; sample data/value	||
 |exploit| use||
+|female|socket; port; jack; slot ||
 | hand (as in 'right-hand side of the screen')	| NA – remove word, e.g., 'right side of the screen'||
 | hands-off	| automatic|
 | hands-on |direct; manual||
+| male|connector; plug; pin||
 | man hours	| person hours; time; resources; effort	||
 | man-in-the-middle	|attacker-in-the-middle; on-path attacker; or name the specific attack type	||
 |master	|main; primary; lead(er)	| When referring to proper noun or making direct reference to a UI element that includes the word 'master'.
+|mating| connecting; corresponding; paired; interfacing||
 |mute	|silence	||
 |native	|built-in	||
 |owner	| lead, manager, expert	||

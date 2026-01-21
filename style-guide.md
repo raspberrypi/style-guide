@@ -149,26 +149,31 @@ Commas separate parts of a sentence so that the meaning is clear. Sentence struc
 
 #### Oxford (serial) commas
 
-Use an Oxford (serial) comma after the second-to-last item in a list. Always use an Oxford comma, even when it seems like the meaning is obvious; they resolve ambiguity and should be used elsewhere for consistency.
+Use an Oxford (serial) comma after the second-to-last item in a list. Always use an Oxford comma, even when it seems like the meaning is obvious; they resolve ambiguity and should be used everywhere that they apply for consistency.
 
 #### Relative clauses
 
 A relative clause is introduced by a relative pronoun like 'that', 'which', 'who', 'whose', 'where' and 'when'.
 
-Use a comma before the relative pronoun when the relative clause is non-restrictive (provides additional information); don't use a comma before the relative pronoun when the relative clause is restrictive (provides defining information). If you're unsure about which to use, consider whether the relative clause could make sense as a separate sentence. For example:
+* Use a comma before the relative pronoun when the relative clause is non-restrictive (provides additional information).
+* Don't use a comma before the relative pronoun when the relative clause is restrictive (provides essential or defining information).
+
+If you're unsure about which to use, consider whether the relative clause identifies which noun you mean or whether it adds information about an already identified noun. Could the relative and main clauses form different sentences and still carry the same meaning? For example:
 
 |Example|Type|Meaning|
 |---|---|---|
-|I like the person who is the most kind.|Restrictive|There are multiple people but I like the kindest one.|
-|I like the person, who is the most kind.|Non-restrictive|I like the person and they are also the kindest.|
-|I like the person. They are the most kind.|Multiple sentences| I like the person and they are also the kindest|
+|I like the person who is the kindest.|Restrictive|There are multiple people but I like the kindest one.|
+|I like the person, who is the kindest.|Non-restrictive|I like the person and they are also the kindest.|
+|I like the person. They are the kindest.|Multiple sentences| I like the person and they are also the kindest.|
 
-In British English, 'that' is typically reserved for restrictive clauses and 'which' is reserved for non-restrictive clauses. For example:
+Although non-restrictive relative clauses don't limit or define the noun they modify, they can still offer useful contextual information, such as an explanation, reason, or contrast between the relative clause and the main clause. The clause might not be *grammatically* essential because the noun is already clear without the clause, but it's still informationally useful.
+
+In British English, '**that**' is preferred for restrictive clauses doesn't require a comma before it; '**which**' is preferred for non-restrictive clauses and requires a comma before it. For example:
 
 |Example|Type|Meaning|
 |---|---|---|
-|I like the jam that has a purple label.|Restrictive|There are multiple jams and I like the one with a purple label.|
-|I like the jam, which has a purple label.|Non-restrictive| I like the jam and it has a purple label.|
+|I like the jam **that** has a purple label.|Restrictive|There are multiple jams and I like the one with a purple label.|
+|I like the jam, **which** has a purple label.|Non-restrictive| I like the jam and it has a purple label.|
 |I like the jam. It has a purple label.|Multiple sentences| I like the jam and it has a purple label.|
 
 #### Semi-colons
@@ -418,7 +423,7 @@ When the verb phrase becomes a noun (thing) or adjective (modifying a noun), it 
 |livestream| live stream|The **livestream** was recorded (*noun*); We're setting up a **livestream event** (*adj.*); We will **live stream** the event (*verb*)|
 |lookup|look up|The database contains a **lookup** of all IDs (*noun*); Create a **lookup table** (*adj.*); I need to **look up** the definition (*verb*)|
 |meetup|meet up|There's a **meetup event** (*adj.*); Let's **meet up** later (*verb*)|
-|opt-in|opt in|There's an **opt-in policy** (*adj*); The user must **opt in** (*verb*)|
+|opt-in|opt in|There's an **opt-in policy** (*adj.*); The user must **opt in** (*verb*)|
 |pop-up|pop up|A **pop-up** appeared on my screen (*noun*); A **pop-up window** appears (*adj.*); The app can **pop up** notifications (*verb*)|
 |sign-in|sign in|There's a **sign-in process** (*adj.*); **Sign in** to your account (*verb*)|
 |sign-out|sign out|There's a **sign-out process** (*adj.*); **Sign out** of your account (*verb*)|
@@ -443,15 +448,9 @@ No hyphen is needed in the following examples because they are familiar, establi
 
 ## Titles of other works
 
-Set titles of other works in title case. This involves capitalising all words in the title *except* for:
+Set titles of other works in title case. For guidance on title case, see [**Capitalisation**](#capitalisation).
 
-- Articles (a, an, the).
-- Prepositions of three or fewer letters (in, of, on).
-- Co-ordinating conjunctions of three or fewer letters (and, but, or).
-
-With title case, always capitalise the first and last words of the title, regardless of their length or part of speech. Also capitalise small words like 'if', 'how', and 'why'.
-
-For software titles, use the capitalisation style chosen by the developer or publisher. Many examples of software title capitalisation are included in the [**Word list**](#Word-list) below; if you encounter more that you think we should add, start a pull request.
+For software titles, use the capitalisation style chosen by the developer or publisher. Many examples of software title capitalisation are included in the [**Word list**](#Word-list) below; if you encounter more that you think we should add, open a pull request on this style guide.
 
 Treatment of titles depends on the type of work. In general, titles should be set in *italics*.
 
@@ -515,7 +514,7 @@ If writing about a specific Raspberry Pi –– one that your reader is using in
 > - Insert a microSD card into your Raspberry Pi.
 > - Mount the HAT on the Raspberry Pi.
 
-Sometimes, for reasons of flow and readability, an article might be better used where we wouldn't usually use one according to the strict terms of this document. Exercise stylistic judgment.
+Sometimes, for reasons of flow and readability, an article might be better used where we wouldn't usually use one according to the strict terms of this document. Exercise stylistic judgement.
 
 ### Plurals
 
@@ -540,9 +539,7 @@ When listing several products or models, you can usually omit the full name of e
 |---|---|---|
 Raspberry Pi Zero 2 W, Raspberry Pi 2, Raspberry Pi 3, Raspberry Pi 3+, and Raspberry Pi Compute Module 3. | Raspberry Pi Zero 2 W, Raspberry Pi 2, 3, and 3+; and Raspberry Pi Compute Module 3.|Raspberry Pi 2, 3, 3+, and Zero 2 W; and Raspberry Pi Compute Module 3.
 
-**Note:** Be careful with when using **Raspberry Pi 1** — the **1** is only necessary when you need to clearly distinguish it from other models, and could be confused with **RP1**, which is a chip we use rather than a single-board computer.
-
-### Other Raspberry Pi products
+Be careful with when using **Raspberry Pi 1** — the **1** is only necessary when you need to clearly distinguish it from other models; be aware that **Raspberry Pi 1** could be confused with **RP1**, which is a chip we use rather than a single-board computer.
 
 Almost all accessories, peripheral, and add-on boards can take a definite article ('the') before their product name. For example:
 
@@ -590,11 +587,13 @@ None of the following flagship SBCs include 'the' before them unless referring t
 
 #### Keyboard computers
 
-Raspberry Pi keyboard computers are named in line with the flagship SBC they're based on. For example, Raspberry Pi 400 is a keyboard computer based on Raspberry Pi 4. As with SBCs, none of the following keyboard computers include 'the' before them unless referring to a specific keyboard computer in front of the user.
+Raspberry Pi keyboard computers are named in line with the flagship SBC they're based on. For example, Raspberry Pi 400 is a keyboard computer based on Raspberry Pi 4.
+
+As with SBCs, none of the following keyboard computers include 'the' before them unless referring to a specific keyboard computer in front of the user.
 
 |Official name|Shortened version|Naming notes|Key product difference|
 |---|---|---|---|
-|**Raspberry Pi 500+**|None; don't shorten to 'Pi 500+'|Named with a plus symbol (**+**) because it's based on **Raspberry Pi 500**, with the same processor, but also some changes.|Added more RAM, an M.2 slot, and mechanical keys with RGB backlighting.|
+|**Raspberry Pi 500+**|None; don't shorten to 'Pi 500+'|Named with a plus sign (**+**) because it's based on **Raspberry Pi 500**, with the same processor, but also some changes.|Added more RAM, an M.2 slot, and mechanical keys with RGB backlighting.|
 |**Raspberry Pi 500**|None; don't shorten to 'Pi 500'|Named because it's based on **Raspberry Pi 5** (without the PCIe interface).|Upgraded to 2.4 GHz CPU and 8 GB of RAM.|
 |**Raspberry Pi 400**|None; don't shorten to 'Pi 400'|Named because it's based on **Raspberry Pi 4**.||
 
@@ -631,7 +630,7 @@ None of the following Pico series models include 'the' before them unless referr
 
 #### Compute Modules
 
-Compute Modules are boards designed for embedded and industrial applications that provide the same hardware as flagship SBCs but in a smaller form factor with no on-board connectors. Instead, they connect to separate carrier boards (which can be **Raspberry Pi Compute Module IO boards**) that supply the necessary ports and pins.
+Compute Modules are boards designed for embedded and industrial applications that provide the same hardware as flagship SBCs but in a smaller form factor with no on-board connectors. Instead, they connect to separate carrier boards (which can be **Raspberry Pi [Compute Module IO boards](#compute-module-io-boards)**) that supply the necessary ports and pins.
 
 None of the following Compute Module models include 'the' before them unless referring to a specific Raspberry Pi Compute Module in front of the user.
 
@@ -650,7 +649,7 @@ None of the following Compute Module models include 'the' before them unless ref
 
 #### Compute Module IO boards
 
-Compute Module IO boards are carrier boards designed to provide the physical connectors needed for **Compute Modules**. They can also be used as a design reference for bespoke carrier boards.
+Compute Module IO boards are carrier boards designed to provide the physical connectors needed for **[Compute Modules](#compute-modules)**. They can also be used as a design reference for bespoke carrier boards.
 
 Compute Module IO boards do include 'the' because you're referring to the carrier board, not the Compute Module.
 
@@ -662,6 +661,14 @@ Compute Module IO boards do include 'the' because you're referring to the carrie
 |**Compute Module IO board version 1**|**CMIO**; **CMIO1**|Named based on the original Compute Module.||
 
 ## Capitalisation
+
+In most instances, only capitalise proper nouns and reserve title case for top-level headings and titles. Title case involves capitalising all words in the title *except* for:
+
+- Articles (a, an, the).
+- Prepositions of three or fewer letters (in, of, on).
+- Co-ordinating conjunctions of three or fewer letters (and, but, or).
+
+With title case, always capitalise the first and last words of the title, regardless of their length or part of speech. Also capitalise small words like 'if', 'how', and 'why'.
 
 Use sentence case for chapter and website headings and subheadings, as well as technical content. Sentence case means capitalising only the first word and any proper nouns or trademarked names. For example:
 
@@ -677,7 +684,7 @@ Spell out abbreviations, acronyms, and initialisms in the first instance in a ch
 
 The full phrase for a common abbreviation, acronym, or initialism isn’t necessarily capitalised when written out in full. For example, 'ASAP' when written out in full isn't 'As Soon As Possible'. Check the [List of abbreviations](#abbreviation-list) or Google the organisation if you're unsure about whether the expanded form should be capitalised.
 
-Abbreviations, acronyms, and initialisms shouldn't be marked in bold the following format: ***S**ystem **o**n a **C**hip*.
+Abbreviations, acronyms, and initialisms shouldn't be marked in bold, like in the following example: ***S**ystem **o**n a **C**hip*.
 
 For a list of correct capitalisation for abbreviations, acronyms, and initialisms, see [List of abbreviations](#abbreviation-list) in this style guide.
 
@@ -692,7 +699,7 @@ Unless you're dealing with code, units of computer storage, or maths materials a
 > - Eighteen bagpipers were shown to the door.
 > - There were 18 bagpipers.
 
-Spell out large round numbers (thousand, million, billion, and so on) when they appear in in-line text. For example:
+Spell out large round numbers (thousand, million, billion, and so on) when they appear in inline text. For example:
 
 > - There are a thousand reasons to use a Raspberry Pi.
 > - A total of 68 million Raspberry Pis have been sold worldwide.
@@ -721,11 +728,11 @@ For a range of numbers, keep a consistent format. For example:
 
 For school grades (USA), spell out the first through ninth grade, and use figures for 10th grade or higher. Try to keep a consistent format for ranges, as above.
 
-### Commas
+### Commas in numbers
 
-In general, use commas for numbers of more than four digits (for example, 10,000).
+In general, use commas in numbers of more than four digits (for example, 10,000).
 
-Don't use commas for technical documentation, especially for international audiences (in some languages, a comma is used as a decimal separator); commas can cause confusion, and it's usually better to use thin spaces instead.
+Don't use commas in numbers for technical documentation, especially for international audiences (in some languages, a comma is used as a decimal separator); commas can cause confusion, and it's usually better to use thin spaces instead.
 
 For years, pixels, and baud, only use commas when the number has five or more digits, for example:
 
@@ -743,8 +750,8 @@ For years, pixels, and baud, only use commas when the number has five or more di
 |Use numerals for measurements of distance, temperature, volume, size, weight, pixels, points, and so on, even if the number is less than 10.| 20 KB; 2 ohm; 8 GB; 5 KiB/s; 1 MiB||
 | Use a space between a value and its International System (SI) unit, or hyphenate if the measurement modifies a noun. |13.5 inch; 13.5-inch display|Percent symbol (**%**), for example, **50%**|
 | Add a zero before the decimal point for decimal fractions less than one. | 0.75 cm ||
-| Use the multiplication symbol (**×**) when required for dimensions, not the letter '**x**'. Use a space before and after the symbol. | 16 × 16 pixels||
-|Use abbreviations only with numbers in specific measurements.| 20 KB (rather than twenty KB) | |
+| Use the multiplication symbol (**×**) when required for dimensions, not the letter '**x**'. Use a space before and after the multiplication symbol. | 16 × 16 pixels||
+|Use abbreviations with numbers in specific measurements.| 20 KB (rather than twenty KB) | |
 |Don't follow abbreviated units with a full stop unless it's the end of a sentence.| 20 KB| Abbreviation for inch (**in.**), for example **5 in.**|
 |When no number is present, spell out the unit.| The diagram shows the mechanical measurements in millimetres (mm). ||
 |Don't use **k** or **K** to denote 1,000| 5,000 (rather then 5k or 5K)||
@@ -759,9 +766,8 @@ For years, pixels, and baud, only use commas when the number has five or more di
 | Use a colon to separate hours and minutes. |8:20pm|
 | Don't separate the time and 'am' or 'pm' with a space.| 6pm|
 | Use 'noon' and 'midnight' to express 12.00 and 00.00, respectively.| noon; midnight |
-| Express dates in the following format: **DD Month, YYYY**. This avoids confusion with month-day ordering for some readers outside the UK. |21 January, 2006|
+| Express dates in the following format: **DD Month YYYY**. This avoids confusion with month-day ordering for some readers outside the UK. |21 January, 2006|
 | If it's necessary to include the day of the week, express the date in the following format: **Day, DD Month, YYYY**. | Thursday, 14 April, 2022 |
-| If writing only the month and year, drop the comma before the year.|January 2006|
 | If necessary to save space, abbreviate months to the first three letters. | Jan |
 | Don't capitalise season names. | In the summer, we have a party.|
 | If writing something like the following, 'an x-week period', include a hyphen between the number and period of time |In a six-week period|
@@ -795,17 +801,17 @@ For more examples, see [www.accessibilityguides.org/prepare](www.accessibilitygu
 - If taking a screenshot of multiple windows, there should be no overlapping. (If an author requests overlapping windows for a specific reason, please let the design team know; it can be achieved manually, but should be avoided where possible.)
 - Provide screenshots as PNG files.
 - Don't add annotations to your screenshot or image. Send the annotations separately, to be added in the design process.
-- Don't over-rely on annotations in screenshots and images. Whatever is shown in a screenshot or image should be understood written down as well.
+- Don't over-rely on annotations in screenshots and images. Whatever is shown in a screenshot or image should be understood written in the main body of the text.
 - For the benefit of screen readers, include written copy describing the screenshot or image.
 
 ## FAQs
 
-FAQs tend to become a "dumping ground" of information that fails to take into account the customer experience. They show that you’ve thought about what your users should know, but haven’t thought about your user experience.
+FAQs tend to become a 'dumping ground' of information that fails to take into account the customer experience. They show that you’ve thought about what your users should know, but haven’t thought about the user experience.
 
 FAQs feel like a good idea from our perspective as writers, but they’re poor customer service because they create more work for readers:
 
 * Questions are longer and harder to scan than headings.
-* We can’t 'front load' questions with terms that most people are looking for.
+* We can’t front load questions with terms that most people are looking for.
 * FAQs are provided out of context.
 * FAQs create duplication in search results.
 * Readers don’t always word questions in the same way we’ve presented them.
@@ -824,11 +830,11 @@ If a question really is frequently asked, you likely need to add or restructure 
 * Only include questions that are actually frequently asked.
     * Don’t assume what customers might ask.
     * Don’t include vanity questions.
-* Don't use an FAQ sections as a substitute for good documentation.
+* Don't use an FAQ section as a substitute for good documentation.
 * Don’t use an FAQ section to defend shortcomings.
-* Provide detailed, meaningful answers to specific questions based on what readers need to know
+* Provide detailed, meaningful answers to specific questions based on what readers need to know.
 * Spell out 'Frequently asked questions', rather than relying on initialism (FAQ).
-* Keep FAQs specific to your product or article.
+* Keep FAQs specific to your product or page.
 
 ## Links
 
@@ -849,7 +855,7 @@ If using the preferred example style, introduce the link and then hyperlink the 
 
 ## Word list
 
-The word list consists of accepted terms that can cause confusion or that we take a stance for how the term is used or written.
+The word list consists of accepted terms that can cause confusion or that we take a stance on for how the term is used or written.
 
 Bolded terms within the description of another term indicate that the bolded term is listed elsewhere with its own description and usage guidance. For example, part of the guidance for the **Linux** entry is: 'Capitalised, but not in the same way as **UNIX**'. The bolding of **UNIX** indicates that you can find more information about **UNIX** in one of the following locations:
 

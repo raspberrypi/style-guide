@@ -176,9 +176,9 @@ In British English, '**that**' is preferred for restrictive clauses doesn't requ
 |I like the jam, **which** has a purple label.|Non-restrictive| I like the jam and it has a purple label.|
 |I like the jam. It has a purple label.|Multiple sentences| I like the jam and it has a purple label.|
 
-#### Semi-colons
+#### Semicolons
 
-If you find yourself adding more commas to make your sentence readable, consider splitting it into two sentences instead. If a full stop feels too abrupt, you can use a semi-colon instead. For example:
+If you find yourself adding more commas to make your sentence readable, consider splitting it into two sentences instead. If a full stop feels too abrupt, you can use a semicolon instead. For example:
 
 > At Raspberry Pi, we're committed to railing against the death of the semicolon; it's a very useful piece of punctuation.
 

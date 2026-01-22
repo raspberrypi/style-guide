@@ -864,7 +864,7 @@ Bolded terms within the description of another term indicate that the bolded ter
 
 In this particular example, **UNIX** is included as an entry in [Acronyms and initialisms](#acronyms-and-initialisms), a subsection of the [Abbreviation list](#abbreviation-list).
 
-**Note:** 'Capitalise' means 'capitalise the first letter or specified letters'; 'all-caps' means 'capitalise all letters'.
+**Note:** 'Capitalise' means 'capitalise the first letter or specified letters'; 'all caps' means 'capitalise all letters'.
 
 ### &#35;
 
@@ -888,6 +888,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |add-on board|Secondary circuit board that adds functionality to a computer or device|Hyphenate; don't use 'card' to mean 'add-onboard'|add on board; card|
 |Advanced Error Reporting| PCI Express (PCIe) feature for reporting and diagnosing errors|Capitalise all words as a defined technical term|advanced error reporting|
 |adware|Software that automatically displays or downloads adverts  |One word; lowercase|ad-ware|
+|artificial intelligence (see also **AI** in [Acronyms and initialisms](#acronyms-and-initialisms))|What we call AI today are software systems that use **machine-learning models**, such as **LLMs** and **VLMs**, trained on large datasets to recognise patterns and predict likely output; AI isn't self-aware, and doesn't truly think or understand|Two words; lowercase unless shortened to the acronym (AI)|Artificial Intelligence|
 |A level; A-level students|Subject-based qualifications in England and Wales|Only capitalise the 'A'; hyphenate when modifying the next word (e.g., A-level students)|A Level|
 |Allen key|Hexagonal wrench used to drive bolts or screws with hexagonal sockets|Proper noun (capitalise 'Allen')|allen key|
 |all-ones [adjective] |Describes a binary value filled with bits set to `1`|Hyphenate when used as a modifier (for example, 'all-ones value')|all ones|
@@ -969,15 +970,15 @@ Camera Module, Camera Module v2 |The official Raspberry Pi camera add-on| Capita
 |command line|Text-based interface for interacting with the operating system|Two words; no hyphen even when modifying the word 'interface', for example, 'command line interface'; (see also **CLI** in [Acronyms and initialisms](#acronyms-and-initialisms))| commandline|
 |Compute Module, Compute Module X, Compute Module X Lite |Raspberry Pi embedded compute boards, where 'X' represents a number, for example, Compute Module 4| Capitalise and preface with 'Raspberry Pi' on first use; only abbreviate after first use if repetition would be cumbersome: CM1, CM3, CM3Lite||
 |computer science| Academic discipline|Lowercase|computing science|
-|computing| Academic discipline| Always lowercase, even when referring to the school subject ||
-|cookie|Small file stored on user’s device for tracking; also a biscuit| lowercase for both tracking and biscuits| Cookie
+|computing| Academic discipline| Always lowercase, even when referring to the school subject |Computing|
+|cookie|Small file stored on user’s device for tracking; also a biscuit| Lowercase for both tracking and biscuits| Cookie
 |corrupted|A state in which data or files that have become unusable or unreadable| Don't shorten |corrupt (as an adjective)|
 |COVID; COVID-19|Stands for coronavirus disease 2019, which is an infectious disease caused by SARS-CoV-2, first identified in 2019 and then became a pandemic in 2020|All caps|Covid; covid; Covid-19|
 |crawl|Used by search engines to index the web	|Acceptable as a transitive verb, for example, 'Google crawls pages'|scrape|
 |Creative Commons|Licensing framework	|Always capitalised when referring to the brand or license	|creative commons|
 |cron|Time-based job scheduler in Unix-like systems	|Lowercase|Cron|
-|crontab|cron table; configuration file for `cron` that specifies shell commands to run periodically on a given schedule|One word, lowercase|cron tab|
-Cascading Style Sheets (CSS)| A style sheet language| Lowercase **style sheets** can be used to refer to CSS documents |Cascading Style Sheets (CSS) enable a web designer to use style sheets to lay out a web page. |
+|crontab|cron table; configuration file for `cron` that specifies shell commands to run periodically on a given schedule|One word; lowercase|cron tab|
+Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **style sheets** can be used to refer to CSS documents, for example, 'Cascading Style Sheets (CSS) enable a web designer to use style sheets to lay out a web page.'| cascading style sheets|
 |CubeSat |Miniature satellite| Capitalise as one word with camel casing	| cubesat; cube sat|
 |curriculum, curricula |Course of study |Latin plural preferred: curricula| curriculums|
 
@@ -985,8 +986,9 @@ Cascading Style Sheets (CSS)| A style sheet language| Lowercase **style sheets**
 
 |Use|Description |Notes|Don't use|
 |---|---|---|---|
-|data|Information such as facts and numbers|Treat as a mass noun, for example: 'The data is lost'|datum|
+|data|Information such as facts and numbers|Treat as a mass noun, for example: 'The data is lost'|datum; 'the data are lost'|
 |database|	An organised collection of structured data|One word|data base|
+|datasheet|A technical reference document that describes hardware details of a Raspberry Pi product, used by engineers, developers, and advanced hobbyists|One word|data sheet|
 |D-Bus|An inter-process communication (message bus) system|Capitalise the 'D' and 'B'; short for 'Desktop Bus'|dbus, Dbus, D Bus|
 |Debian|An open-source Linux-based operating system|Capitalise |debian|
 |delta-sigma PWM|A pulse-width modulation technique using delta-sigma modulation|Lowercase; hyphenate 'delta-sigma'|Delta-Sigma PWM; delta sigma PWM|
@@ -1015,12 +1017,12 @@ Cascading Style Sheets (CSS)| A style sheet language| Lowercase **style sheets**
 |earth|Soil|Lowercase when referring to soil|Buried in Earth|
 |Earth|Our planet|Capitalise when referring to the planet|Planet earth|
 |eBay|An online marketplace| No hyphen; capitalise 'B' |e-Bay; ebay|
-|Ed and Izzy| The two special Astro Pi units sent to the ISS with Tim Peake|Capitalise both names; always refer to them together unless context dictates otherwise| Ed & Izzy; ed and izzy|
-|egde AI|The deployment of AI models directly on local devices|Two words (no hyphen); 'AI' in all-caps|edge-AI; Edge AI|
+|Ed and Izzy| The two Astro Pi units sent to the ISS with Tim Peake|Capitalise both names; always refer to them together unless context dictates otherwise| Ed & Izzy; ed and izzy|
+|egde AI|The deployment of AI models directly on local devices|Two words (no hyphen); 'AI' in all caps|edge-AI; Edge AI|
 |email|Electronic mail| No hyphen |e-mail|
 |emoji, emojis|Pictographic characters used in digital communication|Plural is emojis (no 'e' before the 's')|emojies|
 |Emotiv| Company producing EEG headsets for neuro-signal work|Capitalise; no 'e' at the end| emotiv; Emotive
-|endianness| Byte order within digital word data| Lowercase; technical term||
+|endianness| Byte order within digital word data| Lowercase; technical term|Endianness|
 | ePub | Electronic publication; an open-standard file format for e-books | Capitalise the 'P'; no hyphen| epub; e-Pub |
 |Ethernet | Networking technology	| Capitalise | ethernet|
 
@@ -1031,7 +1033,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Lowercase **style sheets**
 | fan page| A web page dedicated to a person, show, group, brand, or topic| Two words| fanpage|
 | fan site | A website created by fans | Two words| fansite |
 | fanbase| Group of dedicated followers| One word| fan base|
-|fax | facsimile  |No need to spell out in full||
+|fax | facsimile  |No need to spell out in full|facsimile|
 |fediverse| Network of federated servers that inter-communicate | Lowercase; technical term |Fediverse |
 |feed reader| Software for reading syndicated web feeds| Two words| feedreader|
 |fetch-decode-execute cycle| Fundamental CPU instruction cycle | Hyphenate all three components | fetch decode execute cycle|
@@ -1040,7 +1042,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Lowercase **style sheets**
 | file system| Method of storing and organising files| Two words | filesystem |
 | firewall| Network security system| One word| fire wall|
 | FireWire | Trademarked high-speed interface| Capitalise| firewire|
-| Flash (Adobe)| Deprecated multimedia platform | Capitalise when referring to **Adobe Flash**  flash ||
+| Flash (Adobe)| Deprecated multimedia platform | Capitalise when referring to **Adobe Flash**  |flash |
 | flash memory | Non-volatile storage technology | Lowercase | Flash memory |
 | Flat Flexible Cable | Type of ribbon cable | Capitalise all words; **FFC** acceptable | flat flexible cable|
 | flatsat| Ground-based CubeSat test hardware | One word; Lowercase | FlatSat, flat sat|
@@ -1060,8 +1062,8 @@ Cascading Style Sheets (CSS)| A style sheet language| Lowercase **style sheets**
 |gigabit (see also **Gb** in [Measurement suffixes](#measurement-suffixes))| 10<sup>9</sup> b = 1000000000 b; unit of decimal bits | Lowercase; abbreviation preferred if using as a suffix |9 Gigabit|
 |gibibyte (see also **GiB** in [Measurement suffixes](#measurement-suffixes))| 2<sup>30</sup> B = 1073741824 B; unit of binary bytes| Lowercase; abbreviation preferred if using as a suffix; preferred unit of measure for a technical audience; for a general audience, use **GB** (when correct) |9 Gibibyte|
 |gigabyte (see also **GB** in [Measurement suffixes](#measurement-suffixes))| 10<sup>9</sup> B = 1000000000 B; unit of decimal bytes| Lowercase; abbreviation preferred if using as a suffix; preferred unit of measure for a general audience; for a technical audience, use **GiB** (when correct) |9 Gigabyte|
-|GitHub|Developer platform | Capital 'G' and 'H'|Github, github|
-|Generation X| Demographic cohort born approximately between 1965 and 1980| Capitalise | Generation x; Generation Xer|
+|GitHub|Developer platform | One word; capital 'G' and 'H'|Github, github|
+|Generation X; Gen X| Demographic cohort born approximately between 1965 and 1980| Capitalise | Generation x; Generation Xer|
 |Generation Y (see also **Millenial**)| Demographic cohort born approximately between 1981 and 1996; **Millenial** is preferred and more widely recognised| Capitalise | Generation y; gen y; Gen y|
 |Generation Z; Gen Z (see also **Zoomers**)| Demographic cohort born approximately between 1997 and 2012; **Gen Z** is more common; **Zoomers** is also acceptable| Capitalise | gen z; Generation z|
 |geolocation| Geographic location of an object| One word; no hyphen; lowercase | Geolocation; geo-location|
@@ -1081,11 +1083,10 @@ Cascading Style Sheets (CSS)| A style sheet language| Lowercase **style sheets**
 |---|---|---|---|
 |Hackspace (see also **maker space**)|A community-run workspace where people with shared interests collaborate and build projects| Often used interchangeably with **maker space**, but preferred for branding (for example, HackSpace magazine); use the organisation’s chosen term if referring to a specific location	||
 |HackSpace magazine| Publication produced by Raspberry Pi Press | Capitalise 'H' and 'S'; you can drop 'magazine' if appropriate| Hackspace magazine|
-|Hall effect sensor| A sensor that detects magnetic fields based on the Hall effect | Capitalise | hall effect sensor|
+|Hall effect sensor| A sensor that detects magnetic fields based on the Hall effect | Capitalise 'Hall'| hall effect sensor|
 |HAT+ (see also **Power HAT+**)| HAT specificiation, beginning Dec 2023| All caps| Hat plus; Hat+|
-|heatsink|A passive cooling component designed to absorb heat from electronic or mechanical components|One word|heat sink|
-|HMDI®| Proprietary technology used to transmit high-quality audio and video signals between devices | All caps; use the ® symbol in the first mention|hdmi|
-|heatsink|Component that dissipates heat from electronic devices|One word; lowercase| heat sink|
+|heatsink|A passive cooling component designed to absorb heat from electronic or mechanical components|One word; lowercase|heat sink|
+|HMDI®| Proprietary technology used to transmit high-quality audio and video signals between devices | All caps; use the ® symbol on first mention|hdmi|
 |help desk| Support service or department| Two words|helpdesk|
 |hi-fi|High-fidelity audio system|Hyphenated|Hi-Fi; hifi|
 |homepage|Main page of a website|One word; lowercase|home page|
@@ -1138,6 +1139,8 @@ Cascading Style Sheets (CSS)| A style sheet language| Lowercase **style sheets**
 
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
+|language model|A type of **machine-learning model** trained on large collections of text to recognise patterns in language and predict the most likely next word or sequence of words.|Lowercase|Language Model|
+|large language model (see also **LLM** in [Acronyms and initialisms](#acronyms-and-initialisms))|A **language model** trained on very large datasets to generate, summarise, and translate text with flexibility.|Two words;lowercase unless shortened to the acronym (LLM)|Large Language Model|
 |learnt; learned|Past tense of 'learn'|Both versions are correct in British English, though 'learnt' is encouraged in Raspberry Pi content||
 |legacy|Describes a product that is no longer actively promoted or sold (for example, 'legacy API')|Lowercase; not a title| Legacy API; Legacy stack|
 |LEGO; Lego| A company (The LEGO Group) and the bricks that this company makes| Always capitalise at least the first letter; the plural of Lego is 'Lego' or 'Lego bricks'|Legos|
@@ -1164,6 +1167,8 @@ Cascading Style Sheets (CSS)| A style sheet language| Lowercase **style sheets**
 |Mac|Macintosh; an **Apple** line of personal computers|Capitalise when referring to the computer  |mac; MAC|
 |Mac address|Media Access Control address; hardware identifier for a network interface|Lowercase 'address'; not related to Apple **Mac**|MAC address; Mac Address|
 |MacBook; MacBook Air; MacBook Pro | **Apple** trademarks| Don't add an 's to pluralise|Macbooks|
+|machine learning|A subset of **artificial intelligence** focussed on algorithms that learn patterns from data through training rather than through explicit programming; it doesn't involve understanding or awareness.|Lowercase|Machine Learning|
+|machine-learning model|A mathematical or statistical model created through machine-learning algorithms; it doesn't possess understanding, intent, or awareness.|Lowercase|Machine Learning|
 |macOS|Operating system for Apple **Mac** computers|One word; lowercase 'mac'|MacOS; Mac OS; Mac OS X; OS X; OSX|
 |The MagPi| The old name for **Raspberry Pi Official Magazine**|Use only when referring to historical branding||
 |mailbox|A digital message storage location (email context) or hardware mailbox (in electronics)|One word; lowercase|Mailbox; mail box|
@@ -1426,6 +1431,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |video camera|Device for recording video|Two words|videocamera|
 |video game|Electronic game played on a computer or console|Two words|videogame|
 |videoconference|Meeting conducted through a video link|One word|video conference; video-conference|
+|vision-language model (see also **VLM** in [Acronyms and initialisms](#acronyms-and-initialisms))|A multimodal **machine-learning model** trained on visual and textual data to interpret images in relation to language and generate or respond to text grounded in visual inputs.|Hyphenate 'vision-language; lowercase unless shortened to the acronym (VLM)|vision language model; Vision-Language Model|
 |voicemail|System for storing voice messages|One word|voice mail; voice-mail|
 |volt (see also **V** in [Measurement suffixes](#measurement-suffixes))|Unit of electric potential|Lowercase unless using the abbreviation|3.3 Volts; 3.3 v; 3V3|
 
@@ -1491,6 +1497,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 
 |Abbreviation| Meaning| Usage|
 |---|---|---|
+|AI|See **artificial intelligence** in [Word list](#word-list)||
 |AWG|American Wire Gauge||
 |BGA|Ball grid array||
 |BIOS| Basic Input/Output System||
@@ -1575,7 +1582,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |LAN| local area network ||
 |LCD|liquid-crystal display |Plural is LCDs|
 |LED|light-emitting diode|Plural is LEDs|
-|LLM|large language model||
+|LLM|See **large language model** in [Word list](#word-list)||
 |LoSSI|See **Low speed serial interface** in [Word list](#word-list)|Abbreviate after spelling it out on first use|
 |LXDE |Lightweight X11 Desktop Environment ||
 
@@ -1659,7 +1666,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |USB 2.0; USB 3.0|USB connector or version||
 |USB OTG|See **USB On-The-Go** in [Word list](#word-list)||
 |VGA|Video Graphics Array||
-|VLM|vision-language model||
+|VLM|See **vision-language model** in [Word list](#word-list)||
 |VoIP|Voice over Internet Protocol|
 |VPN|Virtual Private Network|Abbreviation is always acceptable|
 
@@ -1771,7 +1778,7 @@ The following words and phrases are problematic because they have ablest, gender
 | hand (as in 'right-hand side of the screen')	| NA – remove word, e.g., 'right side of the screen'||
 | hands-off	| automatic|
 | hands-on |direct; manual||
-| male|connector; plug; pin||
+| male|connector; plug; pin; header||
 | man hours	| person hours; time; resources; effort	||
 | man-in-the-middle	|attacker-in-the-middle; on-path attacker; or name the specific attack type	||
 |master	|main; primary; lead(er)	| When referring to proper noun or making direct reference to a UI element that includes the word 'master'.
@@ -1826,7 +1833,7 @@ Avoid using outdated terms, especially those that are ambiguous or no longer ref
 |code, coding|computer programming; software engineering||
 digital age, digital native, digital divide|NA – don't use||
 |cyber|| If you do need to use it, don't hyphenate, for example: cyberattack; cyberterrorism|
-|dongle|USB drive; USB flash drive; memory stick|
+|dongle|USB drive; (USB) flash drive; (USB) memory stick|
 |k (see also [Numbers](#numbers))|thousand; kilobytes; kB||
 |KB|kB; KiB||
 |KB/s|kB/s; KiB/s||

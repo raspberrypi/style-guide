@@ -221,8 +221,8 @@ Most prefixes don't require a hyphen, but this depends on the context and includ
 |co|Use a hyphen to join words that form a new word; don't use a hyphen for words that already include 'co'; use a hyphen where dictated by standard British English.|co-workers; coincidence; co-ordinate; co-author|
 |macro| Usually no hyphen, unless the root word starts with a vowel or a capital letter.|macroscale; macro-economics|
 |mega| Usually no hyphen, unless the root word starts with a vowel or a capital letter.|megabyte; mega-event|
-|micro|Often no hyphen; depending on the word, it is sometimes used with a space, and sometimes used without a space. Check the [**Word list**](#Word-list).|microchip; microSD; micro-USB; micro HDMI|
-|mini|Usually no hyphen, unless the root word starts with a vowel or a capital letter; used with a space if 'mini' is being used as a standalone modifier.|minicomputer; mini-USB; mini fridge|
+|micro|Often no hyphen; depending on the word, it is sometimes used with a space, and sometimes used without a space. Check the [**Word list**](#Word-list).|microchip; microSD; micro USB; micro HDMI|
+|mini|Usually no hyphen; used with a space if 'mini' is being used as a standalone modifier.|minicomputer; mini USB; mini fridge|
 |multi|Usually no hyphen, unless the root word starts with a vowel or a capital letter; see the [**Word list**](#Word-list) for the 'multi-touch' and 'multi-word' exceptions.| multicore; multi-industry; multi-touch|
 |over|Usually no hyphen.|overclock; overload|
 |pre| Usually no hyphen, unless the root word starts with an 'e' or a capital letter; see the [**Word list**](#Word-list) for the 'pre-soldered' exception.|preprandial; pre-election; pre-MP3; pre-soldered|
@@ -1102,7 +1102,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |I-frame| Intra frame | Video term (don't confuse with **iframe**)|iframe|
 |iframe| Inline frame tag in HTML|One word; lowercase|i-frame; iFrame|
 |inch|Unit of length (see also **in.** in [Measurement suffixes](#measurement-suffixes))| Lowercase; abbreviation preferred if using as a suffix |9 Inches|
-|index, indices|A data structure or listing of references|Plural is 'indices'|indexes|
+|index; indices|A data structure or listing of references|Plural is 'indices'|indexes|
 |information and communications technology (see also **ICT** in [Acronyms and initialisms](#acronyms-and-initialisms)) |Field covering computing, telecommunications, and related technologies|Always include 's' in 'communications'|information and communication technology|
 |infrared (see also **IR** in [Acronyms and initialisms](#acronyms-and-initialisms))|Electromagnetic radiation just beyond visible red light|One word; lowercase|infra-red|
 |inkjet| Type of printer that sprays ink onto paper	|One word; lowercase|ink jet; ink-jet|
@@ -1127,20 +1127,20 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |kibibyte (see also **KiB** in [Measurement suffixes](#measurement-suffixes))| 2<sup>10</sup> B = 1024 B; unit of binary data | Lowercase; abbreviation preferred if using as a suffix ||
 |kilobit (see also **kb** in [Measurement suffixes](#measurement-suffixes))| 10<sup>3</sup> b = 1000 b; unit of digital data| Lowercase; abbreviation preferred if using as a suffix ||
 |kilobyte (see also **kB** in [Measurement suffixes](#measurement-suffixes))| 10<sup>3</sup> B = 1000 B; unit of digital data | Lowercase; rarely used (consider using **KiB** instead); abbreviation preferred if using as a suffix ||
-|kilogram(see also **kg** in [Measurement suffixes](#measurement-suffixes))|Unit of weight|Lowercase|KG|
+|kilogram (see also **kg** in [Measurement suffixes](#measurement-suffixes))|Unit of weight|Lowercase|KG|
 |kilohertz (see also **kHz** in [Measurement suffixes](#measurement-suffixes))|Unit of frequency|Lowercase|KHZ; khz|
 |kilometre (see also **km** in [Measurement suffixes](#measurement-suffixes))|Unit of length|Lowercase|KM|
 |keylogger|Software that records keystrokes	|One word| key logger|
 |key press|The action of pressing a key on a keyboard| Two words| keypress|
 |keyword|Search engine term|One word ('Use the right keywords in your web page.')||
-|key word|A reference to a specific word ('The key word was "almost".')|Two words||
+|key word|A reference to a specific word|Two words  ('The key word was "almost".')||
 
 ### L
 
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
 |language model|A type of **machine-learning model** trained on large collections of text to recognise patterns in language and predict the most likely next word or sequence of words.|Lowercase|Language Model|
-|large language model (see also **LLM** in [Acronyms and initialisms](#acronyms-and-initialisms))|A **language model** trained on very large datasets to generate, summarise, and translate text with flexibility.|Two words;lowercase unless shortened to the acronym (LLM)|Large Language Model|
+|large language model (see also **LLM** in [Acronyms and initialisms](#acronyms-and-initialisms))|A **language model** trained on very large datasets to generate, summarise, and translate text with flexibility.|Two words; lowercase unless shortened to the acronym (LLM)|Large Language Model|
 |learnt; learned|Past tense of 'learn'|Both versions are correct in British English, though 'learnt' is encouraged in Raspberry Pi content||
 |legacy|Describes a product that is no longer actively promoted or sold (for example, 'legacy API')|Lowercase; not a title| Legacy API; Legacy stack|
 |LEGO; Lego| A company (The LEGO Group) and the bricks that this company makes| Always capitalise at least the first letter; the plural of Lego is 'Lego' or 'Lego bricks'|Legos|
@@ -1149,12 +1149,12 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |Li-ion| A type of battery: **lithium-ion**|Capitalise unless writing out in full rather than using this shortened form; hyphenate|li-ion|
 |licence (noun)| Noun: an official document that grants permission | Don't confuse the British English spellings between the noun and the verb||
 |license (verb)|Verb: to give official permission or formal authorisation | Don't confuse the British English spellings between the noun and the verb||
-|like (verb)| React with a thumb's up icon on Facebook| Lowercase; use with quotation marks (unless the word is hyperlinked), for example: 'Thousands of people "like" Raspberry Pi on Facebook' | Like|
+|like (verb)| React with a thumb's up icon| Lowercase; use with quotation marks (unless the word is hyperlinked), for example: 'Thousands of people "like" Raspberry Pi on Facebook' | Like|
 |LiPo| Lithium polymer; a kind of battery | One word; capitalise the 'L' and 'P'|Lipo; Li Po; Li-Po|
 |lithium-ion (see also **Li-ion**) |A type of battery|Lowercase|Lithium-ion|
 |Linux | A trademarked family of open-source operating systems, based on the Linux kernel | Capitalised, but not in the same way as **UNIX**|LINUX|
 |little-endian |A **data** format|Hyphenate|little endian|
-|logic 0; logic 1| Describes binary digital logic states|Write the number as a digit|logic zero; logic one|
+|logic 0; logic 1| Describes **binary** digital logic states|Write the number as a digit|logic zero; logic one|
 |login|Adjective: use as a modifying noun (for example, 'login details' or 'login page')|One word; don't use as a verb (use **sign in** instead, which is less technical and also helps to delineate a login page from the process of signing in)|log in|
 |low speed serial interface (see also **LoSSI** in [Acronyms and initialisms](#acronyms-and-initialisms))|A low-bandwidth serial interface used in computing|Capitalise as shown; use acronym after first mention|LOSSI|
 
@@ -1162,37 +1162,37 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
-|M key| Edge connector standard for M.s PCIe peripherals|Used to differentiate connector types (for example, B key)||
-|M.2|Specification for internally mounted computer expansion cards and connectors|Always include a full stop between 'M' and '2'|M2, m.2|
+|M key| Edge connector standard for M.s PCIe peripherals; used to differentiate connector types (for example, B key)|Capitalise 'M' only |M Key|
+|M.2|Specification for internally mounted computer expansion cards and connectors|Capitalise; always include a full stop between 'M' and '2'|M2, m.2|
 |Mac|Macintosh; an **Apple** line of personal computers|Capitalise when referring to the computer  |mac; MAC|
 |Mac address|Media Access Control address; hardware identifier for a network interface|Lowercase 'address'; not related to Apple **Mac**|MAC address; Mac Address|
 |MacBook; MacBook Air; MacBook Pro | **Apple** trademarks| Don't add an 's to pluralise|Macbooks|
 |machine learning|A subset of **artificial intelligence** focussed on algorithms that learn patterns from data through training rather than through explicit programming; it doesn't involve understanding or awareness.|Lowercase|Machine Learning|
-|machine-learning model|A mathematical or statistical model created through machine-learning algorithms; it doesn't possess understanding, intent, or awareness.|Lowercase|Machine Learning|
+|machine-learning model|A mathematical or statistical model created through machine-learning algorithms; it doesn't possess understanding, intent, or awareness.|Lowercase|Machine-Learning Model|
 |macOS|Operating system for Apple **Mac** computers|One word; lowercase 'mac'|MacOS; Mac OS; Mac OS X; OS X; OSX|
-|The MagPi| The old name for **Raspberry Pi Official Magazine**|Use only when referring to historical branding||
+|The MagPi| The old name for **Raspberry Pi Official Magazine**|'MagPi' is one word; capitalise 'M' and 'P'; use only when referring to historical branding|The Mag Pi; The Magpi|
 |mailbox|A digital message storage location (email context) or hardware mailbox (in electronics)|One word; lowercase|Mailbox; mail box|
-|maker movement|Grassroots movement focused on DIY tech, crafting, and engineering|Lowercase|Maker Movement|
+|maker movement|Grassroots movement focussed on DIY tech, crafting, and engineering|Lowercase|Maker Movement|
 |maker space| Community-oriented creative or tech space| Use varies: makespace, maker lab, hackspace, maker shed. **Hackspace** often preferred for branding. Use org-specific naming if referring to a real one.||
-|malware|Malicious software designed to harm or exploit systems	|Lowercase||
+|malware|Malicious software designed to harm or exploit systems	|Lowercase|Malware|
 |mass storage device|Any device used to store large amounts of data|Lowercase|Mass Storage Device|
 |Master Boot Record|Legacy system partitioning scheme|Capitalise all three words|master boot record; MBR (unless context demands it)|
 |maths|Mathematics|British English spelling|math|
-|mebibit (see also **Mib** in [Measurement suffixes](#measurement-suffixes)) | 2<sup>20</sup> b = 1048576 b; unit of digital information used to express binary data sizes | Lowercase; use in contexts where binary precision is important (such as networking and memory)| Mebibit|
-|mebibyte (see also **MiB** in [Measurement suffixes](#measurement-suffixes)) |  2<sup>20</sup> B = 1,048,576 bytes; unit of digital information used to express binary data sizes | Lowercase; use when binary precision matters (for example, memory)| Mebibyte|
+|mebibit (see also **Mib** in [Measurement suffixes](#measurement-suffixes)) | 2<sup>20</sup> b = 1048576 b; unit of digital information used to express **binary** data sizes | Lowercase; use in contexts where **binary** precision is important (such as networking and memory)| Mebibit|
+|mebibyte (see also **MiB** in [Measurement suffixes](#measurement-suffixes)) |  2<sup>20</sup> B = 1,048,576 bytes; unit of digital information used to express **binary** data sizes | Lowercase; use when **binary** precision matters (for example, memory)| Mebibyte|
 |media|Collective term for communication outlets such as TV, newspapers, and online platforms|Treat as a mass noun with singular verb (for example, 'The media is'). Use plural verb if referring to distinct mediums (for example, 'Various media are')||
 |megabit (see also **Mb** in [Measurement suffixes](#measurement-suffixes))|Unit of data equal to 1 million bits|Lowercase |Megabit|
-|megabyte (see also **MB** in [Measurement suffixes](#measurement-suffixes))|Unit of digital information equal to 1,000,000 bytes (decimal) or 1,048,576 bytes (binary, depending on context)|Lowercase |Megabyte|
+|megabyte (see also **MB** in [Measurement suffixes](#measurement-suffixes))|Unit of digital information equal to 1,000,000 bytes (decimal) or 1,048,576 bytes (**binary**, depending on context)|Lowercase |Megabyte|
 |megahertz (see also **MHz** in [Measurement suffixes](#measurement-suffixes))|Unit of frequency equal to one million hertz|Lowercase |Megahertz|
 |megapixel (see also **MP** in [Measurement suffixes](#measurement-suffixes))|Unit of image resolution equal to one million pixels	|Lowercase |Megapixel|
-|membership of|Belonging to a group, club, or organisation|Use 'membership of' rather than 'membership i' in UK English	|membership in|
+|membership of|Belonging to a group, club, or organisation|Use 'membership of' rather than 'membership in' in British English	|membership in|
 |metadata|Data about data| One word; lowercase| meta data; Meta Data|
 |metre (see also **m** in [Measurement suffixes](#measurement-suffixes))|Unit of length|Lowercase; British spelling |Metre; meter|
 |metatag|Tags embedded in web pages to describe content	|One word; lowercase|meta tag; Meta Tag|
 |mic|Short for microphone||mike|
 |microchip|A tiny piece of material that contains electronic circuits|One word; lowercase| micro chip|
 |micro HDMI| A smaller HDMI connector type|No hyphen unless modifying a proceeding word; lowercase 'micro'|Micro HDMI; micro-HDMI|
-|micro-USB| A smaller USB connector type|Hyphenated; lowercase 'micro'|Micro USB; micronUSB|
+|micro USB| A smaller USB connector type|Two words; no hyphen; lowercase 'micro'|Micro USB; micronUSB|
 |micro:bit|Pocket-sized microcontroller board for education	|Lowercase with colon; avoid starting a sentence with 'micro:bit'; add 'BBC' to the beginning if you have to use it at the beginning of a sentence|Microbit; microbit|
 |Micro:bit Educational Foundation|The company behind the **micro:bit**| Capitalise all three words; use full name when referring to the organisation| micro:bit Educational Foundation|
 |microarchitecture; microarchitectural|The internal design of a processor|Use instead of 'architecture' when referring to hardware design||
@@ -1200,19 +1200,19 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |microprocessor|Central processing unit on a single chip|One word; lowercase|Microprocessor; MicroProcessor; Micro Processor; micro processor|
 MicroPython|Python implementation for microcontrollers|One word; capital 'M' and 'P'|micropython; Micro Python|
 |microSD|A small **SD card** (SanDisk trademark); a proprietary, non-volatile, **flash** memory card format|One word; lowercase 'micro'|micro SD; MircoSD|
-|microsite|A small or focused website, often part of a campaign	|One word; lowercase|micro site; Micro Site|
+|microsite|A small or focussed website, often part of a campaign	|One word; lowercase|micro site; Micro Site|
 |Microsoft .Net	|Microsoft’s branding for its developer platform|Use 'Microsoft .Net' in full on first mention|
 |Microsoft Windows (see also **Windows**)|Operating system by Microsoft|Use full name on first mention if branding clarity is needed; otherwise use **Windows**|Windows OS (unless unavoidable)|
 |minute|Unit of time|Preferred to the abbreviation (**min.**), even as a suffix||
 |milligram (see also **mg** in [Measurement suffixes](#measurement-suffixes))| Unit of mass | Lowercase; abbreviation preferred if using as a suffix ||
 |millilitre (see also **ml** in [Measurement suffixes](#measurement-suffixes))| Unit of volume | Lowercase; abbreviation preferred if using as a suffix ||
 |millimetre (see also **mm** in [Measurement suffixes](#measurement-suffixes))| Unit of length | Lowercase; abbreviation preferred if using as a suffix ||
-|miniSD|Flash memory card format, smaller than standard SD but larger than microSD	|One word; lowercase; one words| mini SD; MiniSD|
+|miniSD|Flash memory card format, smaller than standard SD but larger than microSD	|One word; lowercase 'mini'| mini SD; MiniSD|
 |mini HDMI|A smaller version of the standard HDMI connector|Two words; lowercase 'mini'|Mini HDMI; mini-HDMI|
-|mini USB|A smaller USB connector used on older devices	|Hyphenate; lowercase 'mini'|Mini USB; mini USB|
+|mini USB|A smaller USB connector used on older devices	|Two words; don't hyphenate; lowercase 'mini'|Mini USB; mini USB|
 |mobile|Short for mobile phone|Use sparingly as a noun|cellphone|
 |(the) Moon|The large round object that circles the Earth| Capitalise when referring to the Earth's Moon|the moon|
-|moon|Any moon other than the Earth's Moon|Don't capitalise unless referring to the Earth's Moon|Jupiter has 95 recognised Moons|
+|moon|Any moon other than the Earth's Moon|Don't capitalise unless referring to the Earth's Moon|'Jupiter has 95 recognised Moons'|
 |mouse; mice|Input device|Plural is 'mice', even for computer peripherals|mouses|
 |MPEG-2 transport stream|A container format defined in the **MPEG-2** standard|All caps|Mpeg-2|
 |multi-touch|A touchscreen or trackpad that can recognise two or more points of contact simultaneously|Hyphenate because 'multi-touch' is the logical opposite of 'single-touch' and easier to read, with the repeated 't' in close proximity|multitouch|
@@ -1751,7 +1751,7 @@ This section highlights words and phrases to avoid, and provides preferred alter
 
 - **[Insensitive words and phrases](#insensitive-words-and-phrases).** Avoid ableist, gendered, or culturally problematic terms.
 - **[Violent words and phrases](#violent-words-and-phrases).** Choose neutral alternatives that reduce aggressive connotations.
-- **[System-focused words](#system-focussed-words-and-phrases).** Refer to user actions rather than device actions.
+- **[System-focussed words](#system-focussed-words-and-phrases).** Refer to user actions rather than device actions.
 - **[Ambiguous words and phrases](#ambiguous-words-and-phrases).** Clarify meaning in instructions and technical content.
 - **[Non-English words and phrases](#non-english-words-and-phrases).** Use precise English alternatives to common non-English terms (for example, 'faux pas') and Latin terms (for example, 'vice versa') for clarity and easier translation.
 - **[Colloquialisms and idioms](#colloquialisms-and-idioms).** Avoid slang, metaphors, and expressions that are not globally understood.

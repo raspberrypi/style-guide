@@ -1346,36 +1346,36 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |screen reader|An accessibility tool that reads out text and interface elements on a screen|Two words; lowercase|screenreader|
 |screencast| A video recording of a computer screen, often with audio narration|One word; lowercase|screen cast|
 |screensaver|A program that activates when a computer is idle|One word; lowercase| screen saver; screen-saver|
-|screenshot|An image of the on-screen display of a computer or mobile device|One word; preferred over 'screengrab'|screen shot; screengrab; screen grab|
+|screenshot|An image of the **on-screen** display of a computer or **mobile** device|One word; preferred over 'screengrab'|screen shot; screengrab; screen grab|
 |scroll bar|A graphical interface element that allows the user to scroll content vertically or horizontally|Two words; lowercase|scrollbar|
-|scroll wheel|The wheel on a mouse used for scrolling content up or down|Two words; lowercase|scrollwheel|
+|scroll wheel|The wheel on a **mouse** used for scrolling content up or down|Two words; lowercase|scrollwheel|
 |SD Association (see also **SDA** in [Acronyms and initialisms](#acronyms-and-initialisms))| Developers of **SD** and **SDHC** cards|Capitalise|SD association|
 |SD card|Secure Digital memory card format|Don't capitalise 'card'|SD Card|
 |SDHC card|Secure Digital High-Capacity card |Don't capitalise 'card'|SDHC Card|
 |Secure|Reference to the TrustZone domain of the same name|Capitalise only in this context|secure (when referring to the TrustZone domain)|
-|Secure Boot|A security feature that ensures only trusted software (signed and verified) can run on a device during startup; things can boot securely without adhering to the standard|Capitalise both words|Secure boot; secure boot|
+|secure boot|A security feature that ensures only trusted software (signed and verified) can run on a device during startup; things can boot securely without adhering to the standard|Lowercase unless referring to a specific, named secure-boot process|Secure Boot|
 |security key|A hardware device or token used for authentication, typically for two-factor authentication|Lowercase|Security Key|
 |short code|A shortened number used for SMS messaging or mobile services|Two words when referring to a mobile phone|shortcode|
 |sidebar|A vertical column in a user interface that contains navigation or supplementary information|One word |side bar|
-|sign in (to)|Verb: authenticate to gain access to a system or service|Two words, hyphenated as appropriate (see [Compound modifiers](#compound-modifiers)); use instead of 'log in' or 'log on'; don't use as a verb (use **login** instead of 'signin'); 'in' and 'to' are separate words|signin; sign into|
-|sign-out (noun, adjective); sign out (verb)|Action or process of ending an authenticated session in a system or service|Two words, hyphenate as appropriate|signout|
-|sign-up (noun, adjective); sign up (verb)|Action or process of registering for a service or account|Two words, hyphenate as appropriate|signup|
-|SIM card|subscriber identity module card|Don't spell out 'SIM'|Subscriber identity module card|
-|single-board computer (see also **SBC** in [Acronyms and initialisms](#acronyms-and-initialisms))|A complete computer built on a single circuit board, like a **Raspberry Pi**|Hyphenate 'single-board'|single board computer||
-|system in package (see also **SiP** in [Acronyms and initialisms](#acronyms-and-initialisms))|A microelectronic device that integrates multiple ICs into a single package|lowercase|System in Package|
+|sign in (to)|Verb: authenticate to gain access to a system or service|Two words, hyphenated as appropriate (see [Compound modifiers](#compound-modifiers)); use instead of 'log in' or 'log on'; don't use as a noun or adjective (use **login** instead of 'signin'); 'in' and 'to' are separate words|signin; sign into|
+|sign-out (noun, adjective); sign out (verb)|Action or process of ending an authenticated session in a system or service|Two words; hyphenate as appropriate|signout|
+|sign-up (noun, adjective); sign up (verb)|Action or process of registering for a service or account|Two words; hyphenate as appropriate|signup|
+|SIM card|subscriber identity module card|Don't spell out 'SIM'|subscriber identity module card|
+|single-board computer (see also **SBC** in [Acronyms and initialisms](#acronyms-and-initialisms))|A computer built on a single circuit board, like a **Raspberry Pi**|Hyphenate 'single-board'|single board computer||
+|system in package (see also **SiP** in [Acronyms and initialisms](#acronyms-and-initialisms))|A microelectronic device that integrates multiple ICs into a single package|Lowercase|System in Package|
 |sitemap|A visual or textual representation of the structure of a website|One word |site map|
 |slideshow|A sequence of images or slides presented on a screen|One word; lowercase|slide show|
 |smart card|A card used for authentication, payment, or identification|Two words; lowercase|smartcard; smart-card|
-|smartphone|A mobile phone with advanced computing capabilities and internet connectivity|One word; lowercase|smart phone; smart-phone|
+|smartphone|A **mobile** phone with advanced computing capabilities and internet connectivity|One word; lowercase|smart phone; smart-phone|
 |SODIMM (see also **SBC** in [Acronyms and initialisms](#acronyms-and-initialisms))| A type of compact memory module used in laptops and small computers|No hyphen|SO-DIMM|
-|Software|Collective noun for computer programs|When singular, never write 'a software'; use 'a piece of software' (preferred) or 'a software program'|a software|
+|software|Collective noun for computer programs|When singular, never write 'a software'; use 'a piece of software' (preferred) or 'a software program'|a software|
 |sound bite|A short extract from a recorded speech or interview|Two words|soundbite|
 |soundcheck|Testing and adjusting audio equipment before a performance or recording session|One word| sound check|
 |soundstage|An acoustically treated environment|One word| sound stage|
 |spellchecker| A tool for identifying spelling (and sometimes grammatical) errors |One word|spell checker; spell-checker|
 |splot|The individual nubble on a Lego brick, for example, a Raspberry Pi fits into a case measuring 7 × 11 splots| Lowercase|Splot|
 |spyware|Malicious software designed to gather information about a person or organisation without their knowledge|One word|spy ware|
-|standalone|Something that can operate independently without additional components|One word, no hyphen| stand-alone|
+|standalone|Something that can operate independently without additional components|One word; no hyphen| stand-alone|
 |STL file| File format (stereolithography) used for 3D-printing models|Though the extension itself is `stl`, in running text, write STL in all-caps with no dot before it| .stl; .STL|
 |style sheet| A document that defines the presentation of structured documents (such as HTML or XML)|Lowercase, even when referring to CSS, for example, 'Cascading Style Sheets (CSS) is a **style sheet** language'; see also **CSS** in [Acronyms and initialisms](#acronyms-and-initialisms)||
 |substring|A contiguous sequence of characters within a string|One word|sub-string|
@@ -1389,7 +1389,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |T-shirt|A short-sleeved casual top|Capital 'T'; hyphenated|t-shirt; Tshirt|
 |TensorFlow|Open-source machine learning framework|One word; capitalise 'T' and 'F'|Tensor Flow; Tensorflow|
 |terminal|The command line in a GUI (for example, 'Enter the command into the terminal')|Lowercase when talking about the command line more generally|Open a Terminal window|
-|Terminal|A proper noun when referring to the Terminal application on Raspberry Pi OS and when referring to a different Terminal applicaiton on an Apple computer|Only Capitalise when talking about the named application on Raspberry Pi OS or an Apple computer|Raspberry Pi terminal|
+|Terminal|A proper noun when referring to the Terminal application on Raspberry Pi OS and when referring to a Terminal application on an Apple computer|Only capitalise when talking about the named application on Raspberry Pi OS or an Apple computer|Raspberry Pi terminal|
 |thin client|A lightweight computer that relies on a server for processing|Two words|thin-client|
 |third-party|External vendors or services|Spell out 'third'; hyphenate|3rd party; 3rd-party|
 |timelapse|Photography or video technique|One word; lowercase| time lapse; Timelapse|
@@ -1405,7 +1405,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |trackball|Input device|One word; lowercase|Trackball; track ball|
 |trade show|Event for showcasing products or services|Two words| tradeshow|
 |transport stream|MPEG-2 transport stream; a standard digital container format for transmission and storage of audio, video, and Program and System Information Protocol data|Lowercase except for proper acronym|Transport Stream|
-|Trinket|Online platform and organisation (trinket.io)|Capitalise; use judgement based on context|trinket (when referring to the service or organisation)|
+|Trinket|Online platform and organisation (trinket.io)|Capitalise|trinket (when referring to the service or organisation)|
 |trinket; trinkets|Projects on **Trinket**|Lowercase|Trinkets for projects|
 |Trojan horse|Malware type or historical term|Two words; capitalise first word|trojan horse|
 |troubleshoot|Identify and resolve a problem|One word|trouble-shoot|
@@ -1418,7 +1418,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |USB flash drive|Portable flash storage device|Only capitalise the initialism|USB Flash Drive|
 |USB On-The-Go (OTG)|USB feature for device-to-device connection|Hyphenate and capitalise as shown|USB on-the-go|
 |undervoltage|Electrical condition of lower than expected voltage|One word|under voltage|
-|unfriend (verb)|Action to remove someone as you friend on Facebook; see also **friend**|Lowercase|Unfriend|
+|unfriend (verb)|Action to remove someone as a friend on Facebook; see also **friend**|Lowercase|Unfriend|
 |Unix; UNIX|Operating system| Prefer Unix (as is common usage, though trademark is UNIX)|unix|
 |user base|Collection of users for a product or service|Two words|userbase|
 |username|Identifier used by a user to **sign in**|One word|user name|
@@ -1431,7 +1431,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |video camera|Device for recording video|Two words|videocamera|
 |video game|Electronic game played on a computer or console|Two words|videogame|
 |videoconference|Meeting conducted through a video link|One word|video conference; video-conference|
-|vision-language model (see also **VLM** in [Acronyms and initialisms](#acronyms-and-initialisms))|A multimodal **machine-learning model** trained on visual and textual data to interpret images in relation to language and generate or respond to text grounded in visual inputs.|Hyphenate 'vision-language; lowercase unless shortened to the acronym (VLM)|vision language model; Vision-Language Model|
+|vision-language model (see also **VLM** in [Acronyms and initialisms](#acronyms-and-initialisms))|A multimodal **machine-learning model** trained on visual and textual data to interpret images in relation to language and generate or respond to text grounded in visual inputs.|Hyphenate 'vision-language'; lowercase unless shortened to the acronym (VLM)|vision language model; Vision-Language Model|
 |voicemail|System for storing voice messages|One word|voice mail; voice-mail|
 |volt (see also **V** in [Measurement suffixes](#measurement-suffixes))|Unit of electric potential|Lowercase unless using the abbreviation|3.3 Volts; 3.3 v; 3V3|
 
@@ -1440,7 +1440,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |Use| Description|Notes| Don’t use|
 |---|---|---|---|
 |wallpaper|Background image for a screen|One word|wall paper|
-|watt (see also **W** in [Measurement suffixes](#measurement-suffixes))|the standard scientific unit of power, representing the rate at which energy is transferred or consumed|Lowercase unless using the abbreviation|Watts|
+|watt (see also **W** in [Measurement suffixes](#measurement-suffixes))|The standard scientific unit of power, representing the rate at which energy is transferred or consumed|Lowercase unless using the abbreviation|Watts|
 |web|See **World Wide Web**|Lowercase|Web|
 |webcam|Video camera connected to a computer or internet|One word|web cam; web-cam|
 |webcast|Streaming media over the internet|One word| web case; web-cast|
@@ -1515,7 +1515,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |CD-R| CD-recordable| Plural is 'CD-Rs'|
 |CD-ROM| CD-read-only memory | Plural is 'CD-ROMs'|
 |CD-RW| CD-rewritable| Plural is 'CD-RWs'|
-|CGI| Computer-generated imaging ***or*** common gateway interface ***or*** computer graphics interface| Be explicit on first use which meaning applies	|
+|CGI| Computer-generated imaging ***or*** common gateway interface ***or*** computer graphics interface| Be explicit which meaning applies on first use 	|
 |CLI| command line interface||
 |codec|	coder; decoder|Used in video and audio contexts|
 |CPU| central processing unit||
@@ -1533,7 +1533,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |Abbreviation| Meaning| Usage|
 |---|---|---|
 |EEG |Electroencephalogram ||
-|EPROM |erasable programmable read only memory ||
+|EEPROM |electrically erasable programmable read only memory ||
 |ESP |email service provider ||
 |EULA | end-user licence agreement||
 |FAQ| frequently asked questions| Avoid using FAQs|
@@ -1552,7 +1552,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |GUI| graphical user interface ||
 |HAT| Hardware Attached on Top |Describing various add-on boards such as the Sense HAT|
 |HDTV|high-definition television ||
-|HD audio|high-definition audio	|Full HD audio is 192kHz, HD audio is 96kHz|
+|HD audio|high-definition audio	|Full HD audio is 192kHz; HD audio is 96kHz|
 |HDMI&reg;| High-Definition Multimedia Interface | See **HDMI** in word list for more detail; drop the &reg; symbol after first use|
 |HTML| Hypertext Markup Language ||
 
@@ -1569,11 +1569,12 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |IMAX| Trademark| Use as an adjective, not a noun |
 |IoT| See **Internet of Things** in [Word list](#word-list)||
 |I/O| Input/Output|Don't use 'IO'; see also **PIO**|
+|IOPS|Input/Output operations per second|Spell out on first use|
 |IP|intellectual property ***or*** Internet Protocol|Be clear about which one you mean when you mention it on first use|
 |IR|infrared||
 |ISP|internet service provider ***or*** image signal processor (not image sensor pipeline, which is now deprecated)|Be clear about which one you mean when you mention it on first use|
 |IT|information technology||
-|JPEG|Joint Photographic Experts Group ||
+|JPEG|Joint Photographic Experts Group |Only use the abbreviation|
 
 #### K-L
 
@@ -1625,9 +1626,9 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 
 |Abbreviation| Meaning| Usage|
 |---|---|---|
-|Q&A|Question and answer||
-|QR code|Quick-response code|Only use the abbreviation|
-|RAM|Random access memory|Only use the abbreviation|
+|Q&A|Question-and-Answer||
+|QR code|quick-response code|Only use the abbreviation|
+|RAM|random access memory|Only use the abbreviation|
 |ROM|Read-Only Memory||
 |RSS|Really Simple Syndication|Use in combination with 'feed' or 'newsreader'|
 |RTC|real-time clock||
@@ -1642,7 +1643,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |SiP|system in package||
 |SMS|short message service||
 |SoC| system on chip ||
-|SODDIM|Small Outline Dual In-line Memory Module. See also **SODDIM** in [Word list](#word-list)||
+|SODDIM|Small Outline Dual In-line Memory Module; see also **SODDIM** in [Word list](#word-list)||
 |SoM| system on module ||
 |SSH|Secure Shell||
 |STL| See **STL file** in [Word list](#word-list)||
@@ -1677,7 +1678,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |WAN|Wide Area Network||
 |Wi-Fi&reg;|See **Wi-Fi** in [Word list](#word-list)|Only use the abbreviation; drop the &reg; symbol after first use |
 |WWW|See **World Wide Web** in [Word list](#word-list)||
-|WYSIWYG|See **What You See Is What You Get** in [Word list](#word-list)||
+|WYSIWYG|What You See Is What You Get||
 |xHCI|Extensible Host Controller Interface (USB standard)|Capitalise as shown|
 |XHTML|Extensible Hypertext Markup Language||
 |XML|Extensible Markup Language||
@@ -1692,7 +1693,7 @@ Unless otherwise stated, most of the following units of measure:
 |Abbreviation| Meaning| Use|Example|
 |---|---|---|---|
 |°C |See **Celsius** in [Word list](#word-list)|Uppercase; no space between the number and the unit|25°C|
-|°F |See **Fahrenheit** in [Word list](#word-list)|Uppercase; no space between the number and the unit, for example|72°F|
+|°F |See **Fahrenheit** in [Word list](#word-list)|Uppercase; no space between the number and the unit|72°F|
 |%|Percent; don't use instead of 'percentage'|No space between the number and the symbol|5%|
 |Ω|See **ohm** in [Word list](#word-list)|Don't use 'R' in place of 'Ω'|9 Ω|
 |A|See **ampere** in [Word list](#word-list)|Uppercase; no space between the number and the unit| 5 V at 3 A (15 W)|
@@ -1723,7 +1724,7 @@ Unless otherwise stated, most of the following units of measure:
 |kHz| See **kilohertz** in [Word list](#word-list) | Uppercase 'H'| 9 kHz|
 |km| See **kilometre** in [Word list](#word-list) | Lowercase|9 km|
 |km/h|kilometres per hour| Lowercase|9 km/h|
-|l|See **litre** in [Word list](#word-list)|Lowercase, unless there is a high likelihood of it being misread as a capital 'I'or '1', in which case, uppercase is acceptabel|9 l; 9 L|
+|l|See **litre** in [Word list](#word-list)|Lowercase, unless there is a high likelihood of it being misread as a capital 'I' or '1', in which case, uppercase is acceptable|9 l; 9 L|
 |m|See **metre** in [Word list](#word-list)|Lowercase|9 m|
 |Mb|See **megabit** in [Word list](#word-list) |Uppercase 'M'|9 Mb|
 |MB|See **megabyte** in [Word list](#word-list)|All caps| 9 MB|
@@ -1731,9 +1732,9 @@ Unless otherwise stated, most of the following units of measure:
 |MB/s|Megabytes per second|Uppercase 'MB'|9 MB/s|
 |MHz|see **megahertz** in [Word list](#word-list)|Uppercase 'MH'|9 MHz|
 |Mib |See **mebibit** in [Word list](#word-list)|Uppercase 'M'|9 Mib|
-|MiB|See **mebibyte** in [Word list](#word-list)|Uppercase| 9 MiB|
+|MiB|See **mebibyte** in [Word list](#word-list)|Uppercase 'M' and 'B'| 9 MiB|
 |Mib/s|Mebibits per second|Uppercase 'M'|9 Mib/s|
-|MiB/s|Mebibytes per second|Uppercase 'M'; rarely used (consider **MB/s** instead)|9 MiB/s|
+|MiB/s|Mebibytes per second|Uppercase 'M' and 'B'; rarely used (consider **MB/s** instead)|9 MiB/s|
 |min.| Minute|Use only where space is at a premium; include a full stop after 'min'| 9 min.|
 |MIPS|million instructions per second|All caps|9 MIPS|
 |mg|See **milligram** in [Word list](#word-list)|Lowercase|9 mg|
@@ -1751,18 +1752,19 @@ This section highlights words and phrases to avoid, and provides preferred alter
 
 - **[Insensitive words and phrases](#insensitive-words-and-phrases).** Avoid ableist, gendered, or culturally problematic terms.
 - **[Violent words and phrases](#violent-words-and-phrases).** Choose neutral alternatives that reduce aggressive connotations.
-- **[System-focussed words](#system-focussed-words-and-phrases).** Refer to user actions rather than device actions.
-- **[Ambiguous words and phrases](#ambiguous-words-and-phrases).** Clarify meaning in instructions and technical content.
-- **[Non-English words and phrases](#non-english-words-and-phrases).** Use precise English alternatives to common non-English terms (for example, 'faux pas') and Latin terms (for example, 'vice versa') for clarity and easier translation.
-- **[Colloquialisms and idioms](#colloquialisms-and-idioms).** Avoid slang, metaphors, and expressions that are not globally understood.
-- **[Subjective and marketing words](#subjective-and-marketing-words).** Focus on being factual and avoid terms that could be true for one person but not for another (for example, describing something as 'easy').
+- **[System-focussed words and phrases](#system-focussed-words-and-phrases).** Refer to user actions rather than device actions.
 - **[Technically incorrect and outdated terminology](#violent-words-and-phrases).** Use accurate, modern language that's easier to understand for the wider audience.
 - **[Words with simpler alternatives](#words-with-simpler-alternatives).** Prefer short, clear, everyday words wherever possible.
 - **[Overusing polite words and phrases](#overusing-polite-words-and-phrases).** Be considerate but concise, avoiding unnecessary wordiness or insincere-sounding platitudes.
+- **[Words and phrases to avoid in technical writing](#words-and-phrases-to-avoid-in-technical-writing).** Guidance that applies strictly to technical writing but also recommended for other types of writing to improve clarity and localisation.
+   - **[Ambiguous words and phrases](#ambiguous-words-and-phrases).** Clarify meaning in instructions and technical content.
+   - **[Prose abbreviations and non-English terminology](#Prose-abbreviations-and-non-English-terminologys).** Use precise English alternatives to common non-English terms (for example, 'faux pas') and Latin terms (for example, 'vice versa') for clarity and easier translation.
+   - **[Colloquialisms and idioms](#colloquialisms-and-idioms).** Avoid slang, metaphors, and expressions that are not globally understood.
+   - **[Subjective and marketing words](#subjective-and-marketing-words).** Focus on being factual and avoid terms that could be true for one person but not for another (for example, describing something as 'easy').
 
 ### Insensitive words and phrases
 
-The following words and phrases are problematic because they have ablest, gendered, racial, or carry other culturally problematic undertones.
+The following words and phrases are problematic because they have ablest, gendered, racial, or other culturally problematic undertones.
 
 |Avoid	|Use instead	| Exceptions|
 |---|---|---|
@@ -1800,7 +1802,7 @@ The following words and phrases might be common in developer contexts, but have 
 |Avoid|Use instead|
 |---|---|
 |execute|run |
-|hang	| freeze; stop responding; not responding; halt |
+|hang	| freeze; stop responding; halt |
 | hit	| select; press; type |
 | kill	| end; stop |
 |scrape|crawl|
@@ -1842,7 +1844,7 @@ digital age, digital native, digital divide|NA – don't use||
 |PCIe connector (a standard that Raspberry Pi 5 **isn't** using)| Raspberry Pi connector for PCIe|When not referring to Raspberry Pi|
 |southbridge|Input/Output Controller Hub; I/O Controller Hub (ICH)|
 |snail mail | the post; mail |
-|thumb drive|USB drive; USB flash drive; memory stick|
+|thumb drive|USB drive; (USB) flash drive; (USB) memory stick|
 |Twitter|X|When specifically referring to the former name of X|
 |tweet|post on X (formerly Twitter)||
 |weblog|blog|When explaining etymology of **blog**|
@@ -1866,7 +1868,7 @@ Choose short, simple, everyday words over long, formal, or complicated words.
 |leverage	|use|	|
 |navigate	|go|	Sentences other than 'Navigate to', for example, 'This allows you to stay updated without having to navigate away from the page'.
 |navigation	| menu	||
-|possible	|can	| setting expectations about what might go wrong, for example, 'It is possible for data to change'.|
+|possible	|can	| When setting expectations about what might go wrong, for example, 'It is possible for data to change'.|
 |proceeding| following; next||
 |utilise	|use	||
 
@@ -1876,7 +1878,7 @@ Be considerate, not over-polite. Avoid overusing 'please', 'thank you', and 'sor
 
 |Avoid|Use instead| Exceptions|
 |---|---|---|
-|'Please in the context of normal product usage, even if you’re explaining a difficult task|	NA – remove word	| When asking for permission or forgiveness, for example, when what you’re asking for only benefits Raspberry Pi, inconveniences the user, or suggests a potential issue.
+|'Please' in the context of normal product usage, even if you’re explaining a difficult task|	NA – remove word	| When asking for permission or forgiveness, for example, when what you’re asking for only benefits Raspberry Pi, inconveniences the user, or suggests a potential issue.
 | 'Please note' to start a sentence	| Use a callout box prefaced with 'Note:' in bold	||
 | 'Sorry' in the context of normal product functioning|	NA – remove word|	Use only in situations that cause problems for the user, such as a system crash or data loss.
 |'Thank you' for any notice or action|NA – remove word|	Use when you’re asking someone to provide input.|
@@ -1911,7 +1913,7 @@ The following words and phrases are problematic, especially in **technical writi
 | would	|can; is then||
 
 #### Prose abbreviations and non-English terminology
-Avoid using prose abbreviations and non-English words and phrases, especially in **technical writing**. Many of the following examples can reduce clarity and make translation more difficult. Readers and writers also often use the following examples incorrectly, especially Latin phrases and abbreviations. For example, readers and writers frequently use 'i.e.' and 'e.g. interchangeably. Using the intended word or phrase in full removes this inconsistency and ensures accuracy.
+Avoid using prose abbreviations and non-English words and phrases, especially in **technical writing**. Many of the following examples can reduce clarity and make translation more difficult. Readers and writers also often use the following examples incorrectly, especially Latin phrases and abbreviations. For example, readers and writers frequently use 'i.e.' and 'e.g.' interchangeably. Using the intended word or phrase in full removes this inconsistency and ensures accuracy.
 
 |Avoid|Use instead|Exceptions|
 |---|---|---|
@@ -1919,7 +1921,7 @@ Avoid using prose abbreviations and non-English words and phrases, especially in
 |AKA|also known as; or; formerly known as|If you must use it (in non-technical writing, for example, to save space), don't include full stops between the letters.|
 |e.g. (preferred to **ex.** if using the shortened form)	|for example; such as; like|In non-technical documentation or when space is tight; if you use it, include full stops (**e.g.**) and use it with commas as if the phrase 'for example' is being used|
 |etc.	|and so on|
-|ergo	|thus, therefore|
+|ergo	|thus; therefore|
 |ex. (prefer **e.g.** if using the shortened form)| for example; such as; like||
 |faux pas|mistake||
 |i.e.	|specifically|In non-technical documentation or when space is tight; if you use it, include full stops (**i.e.**) and use it with commas as if the phrase 'specifically' is being used|
@@ -1931,11 +1933,11 @@ Avoid using prose abbreviations and non-English words and phrases, especially in
 
 #### Colloquialisms and idioms
 
-In **technical writing**, avoid phrases that require special, local, or cultural knowledge, and colloquialisms or slang. These can be less precise but also can be problematic for translating into other languages (Raspberry Pi is a globally recognised and used product). Avoid idioms, expressions, metaphors, clichés, irony, and humour.
+In **technical writing**, avoid phrases that require special, local, or cultural knowledge, and colloquialisms or slang. These can be less precise. They can also be problematic for translating into other languages (Raspberry Pi is a globally recognised and used product). Avoid idioms, expressions, metaphors, clichés, irony, and humour.
 
 |Avoid|Use instead|
 |---|---|
-|at the end of the day	|N/A –– remove word|
+|at the end of the day	|N/A –– remove phrase|
 | deep dive (see also **drill down** and **dig in**)	|Use specific phrases, for example 'view the details'|
 |dig in (see also **drill down** and **deep dive**)	|Use specific phrases, for example 'view the details'|
 |drill down (see also **dig in** and **deep dive**)	| Use specific phrases, for example 'view the details'|

@@ -891,15 +891,15 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |artificial intelligence (see also **AI** in [Acronyms and initialisms](#acronyms-and-initialisms))|What we call AI today are software systems that use **machine-learning models**, such as **LLMs** and **VLMs**, trained on large datasets to recognise patterns and predict likely output; AI isn't self-aware, and doesn't truly think or understand|Two words; lowercase unless shortened to the acronym (AI)|Artificial Intelligence|
 |A level; A-level students|Subject-based qualifications in England and Wales|Only capitalise the 'A'; hyphenate when modifying the next word (e.g., A-level students)|A Level|
 |Allen key|Hexagonal wrench used to drive bolts or screws with hexagonal sockets|Proper noun (capitalise 'Allen')|allen key|
-|all-ones [adjective] |Describes a binary value filled with bits set to `1`|Hyphenate when used as a modifier (for example, 'all-ones value')|all ones|
-|all-zeros [adjective] |Describes a binary value filled with bits set to `0`|Hyphenate when used as a modifier (for example, 'all-zeros value')|all zeros|
+|all-ones (*adj.*) |Describes a binary value filled with bits set to `1`|Hyphenate when used as a modifier (for example, 'all-ones value')|all ones|
+|all-zeros (*adj.*) |Describes a binary value filled with bits set to `0`|Hyphenate when used as a modifier (for example, 'all-zeros value')|all zeros|
 |ALSA|Advanced Linux Sound Architecture (software framework for audio on Linux)|Acronym; always all-caps|Alsa; alsa|
 |AlsaMixer| Terminal-based mixer utility for ALSA sound system|One word; capital 'A' and 'M'|Alsamixer; alsamixer; ALSAMixer|
-|aluminium|A lightweight, corrosion-resistant metal used as a heat conductor|British English spelling|aluminum|
+|aluminium|A lightweight, corrosion-resistant metal used as a heat conductor|British English spelling|aluminum (American English)|
 |amp; ampere (see also **A** in [Measurement suffixes](#measurement-suffixes))|Unit of electric current|Lowercase unless using the abbreviation; abbreviation preferred |3 Amps|
 |analogue|Data transmitted in waves rather than digitally|Always British English spelling |analog|
-|antennae|Plural of 'antenna' in a biological context||antennas in a biological context|
-|antennas|Plural of 'antenna' in engineering and tech contexts||antennae in an engineering or tech context|
+|antennae|Plural of 'antenna' in a biological context||antennas (in a biological context)|
+|antennas|Plural of 'antenna' in engineering and tech contexts||antennae (in an engineering or tech context)|
 |antivirus|Software designed to detect and remove malware  |One word|anti-virus; antivirus|
 |app|Short for application|Don't use if there's potential for confusion||
 |Apple| Trademark | Don't add an 's' to make plural; add the device after instead (for example, 'Apple computers')|Apples|
@@ -1002,8 +1002,8 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |dos and don'ts| Accepted and discouraged practices| No apostrophe before either 's'|do's and don'ts; do's and don't's|
 |double-click|Pressing a mouse button twice in quick succession to select something|Hyphenate|double click|
 |dreamt; dreamed|Past tense of 'dream'|Both versions are correct in British English, though 'dreamt' is encouraged in Raspberry Pi content||
-|drag-and-drop (adjective)| Describing a feature or capability|Hyphenate| 'It has drag and drop functionality'|
-|drag and drop (verb) |To select, hold, move, and release an item on screen | Don't hyphenate | 'Drag-and-drop the file onto your desktop'|
+|drag-and-drop (*adj.*)| Describing a feature or capability|Hyphenate| 'It has drag and drop functionality'|
+|drag and drop (*verb*) |To select, hold, move, and release an item on screen | Don't hyphenate | 'Drag-and-drop the file onto your desktop'|
 |dropdown menu|A menu that expands into a list when selected|'dropdown' is one word; consider shortening to 'menu'|pull down menu; pull-down menu; pulldown menu|
 
 ### E
@@ -1147,9 +1147,9 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |litre (see also **l** in [Measurement suffixes](#measurement-suffixes))| Unit of volume| Lowercase|9 Litres|
 |libcamera| Software library| One word; lowercase; don't use at the start of a sentence|Libcamera; lib camera|
 |Li-ion| A type of battery: **lithium-ion**|Capitalise unless writing out in full rather than using this shortened form; hyphenate|li-ion|
-|licence (noun)| Noun: an official document that grants permission | Don't confuse the British English spellings between the noun and the verb||
-|license (verb)|Verb: to give official permission or formal authorisation | Don't confuse the British English spellings between the noun and the verb||
-|like (verb)| React with a thumb's up icon| Lowercase; use with quotation marks (unless the word is hyperlinked), for example: 'Thousands of people "like" Raspberry Pi on Facebook' | Like|
+|licence (*noun*)| Noun: an official document that grants permission | Don't confuse the British English spellings between the noun and the verb||
+|license (*verb*)|Verb: to give official permission or formal authorisation | Don't confuse the British English spellings between the noun and the verb||
+|like (*verb*)| React with a thumb's up icon| Lowercase; use with quotation marks (unless the word is hyperlinked), for example: 'Thousands of people "like" Raspberry Pi on Facebook' | Like|
 |LiPo| Lithium polymer; a kind of battery | One word; capitalise the 'L' and 'P'|Lipo; Li Po; Li-Po|
 |lithium-ion (see also **Li-ion**) |A type of battery|Lowercase|Lithium-ion|
 |Linux | A trademarked family of open-source operating systems, based on the Linux kernel | Capitalised, but not in the same way as **UNIX**|LINUX|
@@ -1226,11 +1226,11 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |nano|Linux text editor|Lowercase; full name is 'GNU nano'|Nano|
 |NeoPixels|Adafruit trademark|One word; capitalise 'N' and 'P'|Neopixels; neopixels; Neo Pixels|
 |news feed|A continuously updated stream of content on a website, app, or social media platform|Two words| newsfeed|
-|newsreader|Job title and RSS feed|One word| news reader|
-|nickel-metal hydride (see also **Ni-MH** in [Acronyms and initialisms](#acronyms-and-initialisms))| A type of battery|Lowercase; hyphen between 'nickel' and 'metal'||
-|Node-RED|A visual tool for wiring the **Internet of Things**|Hyphenate|Node RED|
+|newsreader|Job title and **RSS (news) feed**|One word| news reader|
+|nickel-metal hydride (see also **Ni-MH** in [Acronyms and initialisms](#acronyms-and-initialisms))| A type of battery|Lowercase; hyphen between 'nickel' and 'metal'|nickel metal hydride|
+|Node-RED|A visual tool for wiring the **Internet of Things**|Hyphenate; Capitalise 'N'; 'RED' in all caps|Node RED|
 |Node.js|A runtime environment that allows you to run JavaScript code outside of a web browser|Capitalise and include a full stop as shown|node.js; NodeJS|
-|no one| Nobody | Don't hyphenate|no-one|
+|no one| Nobody |Two words; don't hyphenate|no-one|
 |NOOBS|Deprecated Raspberry Pi software that stands for 'New Out Of Box Software', used to install an OS on a Raspberry Pi|All caps|Noobs; noobs|
 |Non-secure|The TrustZone security domain of the same name|Capitalise only in this context|non-secure (in the context of TrustZone)|
 
@@ -1238,18 +1238,18 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
-|object-oriented programming (see also **OOP** in [Acronyms and initialisms](#acronyms-and-initialisms))|A programming paradigm based on the concept of 'objects'|Hyphenate when used as a compound adjective, for example, 'object-oriented language'||
+|object-oriented programming (see also **OOP** in [Acronyms and initialisms](#acronyms-and-initialisms))|A programming paradigm based on the concept of 'objects'|Hyphenate|object oriented programming|
 |offline|Not connected to the internet or a network	|One word|off-line|
 |offshoot|Something that branches off from a main system or idea|One word|off-shoot|
 |ohm (see also **Ω** in [Measurement suffixes](#measurement-suffixes))|Unit of electrical resistance|Lowercase despite being a proper name; use **Ω** for values, not **R**|Ohm; 4 ohm; 4R|
-|on-board [adjective]|Describes components on a circuit board|'There is an on-board wireless antenna'; 'There is a wireless antenna on board'|onboard|
-|onboard [adjective]; on board [adverb]| Refers to vessels or vehicles|'There are two Raspberry Pi computers on board the International Space Station'; 'Input from sensors in the hull is sent to the ship's onboard computer'|on-board|
+|on-board (*adj.*); on board (*adverb*)|Describes components on a circuit board|'There is an on-board wireless antenna'; 'There is a wireless antenna on board'|onboard (in the context of computers)|
+|onboard (*adj.*); on board (*adverb*)| Refers to vessels or vehicles|'There are two Raspberry Pi computers on board the International Space Station'; 'Input from sensors in the hull is sent to the ship's onboard computer'|on-board (in the context of vessels or vehicles)|
 |online|Connected to or available through the internet|One word|on-line; on line|
 |off-screen|Not visible on the display or outside the visible display area|Always hyphenated|off screen; offscreen|
 |on-screen|Visible on the display or occurring within the display area|Always hyphenated|on screen; onscreen|
 |OpenOCD| Open On-Chip Debugger	|One word; capitalise as shown|Open OCD; openOCD|
 |open source|Software with freely available source code	|Lowercase; no hyphen whether used as a noun or adjective|open-source|
-|overclocking [noun], overclock [verb]|Increasing a component’s clock rate beyond specifications|Never use clock as a verb unless context is clear (for example, dynamic frequency clocking)|Clock [as a verb for this context]|
+|overclocking (*noun*); overclock (*verb*)|Increasing a component’s clock rate beyond specifications|Never use clock as a verb unless context is clear (for example, dynamic frequency clocking)|Clock (as a verb for this context(|
 |overcurrent|Excess current	|One word|over current; over-current|
 |overvoltage|Excess voltage	|One word|over voltage; over-voltage|
 |overwrite |Replace existing data	|One word|over write; over-write|
@@ -1259,9 +1259,9 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
 |page view|An instance of a page being loaded or viewed|Two words|pageview|
-|passcode|A secret numeric code for authentication|One word|pass code|
-|passphrase|A secret sequence of words used for authentication|One word|pass phrase|
-|password|A secret string used for authentication|One word|pass word|
+|passcode|A numeric code for authentication|One word|pass code|
+|passphrase|A sequence of words used for authentication|One word|pass phrase|
+|password|A string used for authentication|One word|pass word|
 |password-protect|To secure something using a password|Hyphenated verb|password protect|
 | PCIe 3.0 x 1 (see also **PCIe** in [Abbreviation list](#abbreviation-list))|A PCI Express specification| Use the letter 'x', not multiplication symbol|PCIe 3.0 × 1|
 |peer-to-peer (see also **P2P** in [Abbreviation list](#abbreviation-list))| Direct interaction between nodes or devices | Hyphenated adjective	|peer to peer|
@@ -1269,7 +1269,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |Peripheral Address Map| Structured table of memory addresses for peripherals|Capitalise all three words|peripheral address map|
 |Perl|A programming language|Capitalise|perl; pearl|
 |pharming|Redirecting traffic from a legitimate-looking site to a spoofed site|Lowercase|Pharming|
-|Phillips screwdrivers, Phillips screw|A type of cross-head screw or tool|Proper noun, not a trademark; capital 'P'; unrelated to Philips the company (one 'l')|Philips screwdriver; phillips screwdriver|
+|Phillips screwdrivers, Phillips screw|A specific type of cross-head tool or screw|Proper noun, not a trademark; capital 'P'; unrelated to Philips the company (one 'l')|Philips screwdriver; phillips screwdriver|
 |phishing|Tricking someone into giving out sensitive information using an email or text message that looks legitimate|Lowercase|Phishing; fishing|
 |photobooth|A compact installation or app for taking photos|One word| photo booth|
 |Photoshop|Adobe trademark| Use as an adjective or proper noun, never a verb|photoshop (as a verb); photoshopped|
@@ -1285,11 +1285,11 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |Post-it| 3M trademark|Hyphenate and capitalise; don't use as a noun; add 'notes' to make it plural (Post-it notes)|post-its|
 |Power HAT+|Expansion board for Raspberry Pi providing additional power options|Capitalise 'P' and 'HAT'|power HAT; Power hat|
 |pre-soldered|An electronic component or part that already has solder applied to its pins or pads during manufacturing|An exception to the hyphenation rule for the 'pre' prefix. For more information, see [Prefixes and suffixes](#prefixes-and-suffixes) |presoldered|
-|printout (noun)|Physical copy of printed material|One word; lowercase|print out|
-|print off (verb)|Action of printing a document|Two words; lowercase|
+|printout (*noun*)|Physical copy of printed material|One word; lowercase|print out|
+|print off (*verb*)|Action of printing a document|Two words; lowercase|
 |pro forma (income) statement|Financial statement showing projected results|Two words|pro-forma; proforma|
-|program (computer; computing)|A computer application or software| American spelling only in the context of computing|computer programme|
-|programme|British spelling of 'program' outside of computing|British English; see **program** above for the exception in computing|television program|
+|program (computer; computing)|A computer application or software| American spelling only in the context of computing|computer programme (in a computing context)|
+|programme|British spelling of 'program' outside of computing|British English; see **program** above for the exception in computing|'television program'|
 |pseudocode|Informal description of an algorithm|One word; lowercase|pseudo-code|
 |pull-up resistor|Resistor used in electronic logic circuits| Hyphenate; can be shortened to PU resistor during repeated heavy usage|pullup resistor; pull up resistor|
 |pull-down resistor|Resistor used in electronic logic circuits| Hyphenate; can be shortened to PD resistor during repeated heavy usage|pulldown resistor; pull down resistor|
@@ -1303,7 +1303,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
 |QR code (see also [Acronyms and initialisms](#acronyms-and-initialisms))|A machine-readable code consisting of an array of black and white squares, typically used for storing URLs or other information for reading by the camera on a **smartphone**|Don't hyphenate; capitalise 'QR'|QR-code|
-|quad-core|A processor with four independent cores that can run tasks simultaneously|Hyphenated when modifying a noun, for example, quad-core processor||
+|quad core (*noun*); quad-cor (*adj.*)|A processor with four independent cores that can run tasks simultaneously|Hyphenated when modifying a noun, for example, quad-core processor||
 |QuickTime|Apple trademark |One word; capitalise 'Q' and 'T'|Quicktime; Quick Time|
 |Qt|A cross-platform application development framework used to create applications|Capitalise as shown (lowercase 't')|qt; QT|
 |QtGL (Qt OpenGL module)|An extension of **Qt** that allows integration of OpenGL graphics into Qt applications|One word; capitalise as shown (lowercase 't')|QTGL|
@@ -1312,12 +1312,12 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
-|Raspberry Pi|A small **single-board computer** developed by the Raspberry Pi Foundation.|Don't abbreviate; plural is 'Raspberry Pis'|Raspberry; Pi; Raspberry Pi's|
+|Raspberry Pi|A small **single-board computer** developed by the **Raspberry Pi Foundation**.|Don't abbreviate; plural is 'Raspberry Pis', but adding another word to make it plural is preferred, for example 'Raspberry Pi devices'|Raspberry; Pi; Raspberry Pi's|
 |Raspberry Pi 2; Raspberry Pi 3B+ (and so on)|Specific models of Raspberry Pi computers, differentiated by generation and features|Always include 'Raspberry' before 'Pi'; don't abbreviate to just 'Pi'|Pi 5|
 |Raspberry Pi icon|Official graphical representation of a Raspberry Pi device|Don't drop 'Raspberry' or 'Pi'; lowercase 'icon'|Raspberry Pi Icon; Pi icon; Raspberry icon;|
 |Raspberry Pi menu|The software menu in the Raspberry Pi OS interface|Don't drop 'Raspberry' or 'Pi'; lowercase 'menu'|Raspberry Pi Menu; Pi menu; Raspberry menu;|
-|(the) Raspberry Pi Foundation|The Raspberry Pi charity that develops Raspberry Pi computers and educational resources|Requires a definite article: The Raspberry Pi Foundation|Raspberry Pi Foundation|
-|Raspberry Pi OS|The official operating system for Raspberry Pi computers, formerly known as **Raspbian**|Capitalise; doesn't take a definite article, for example, 'Raspberry Pi OS is our official recommended operating system'; capitalise||
+|(the) Raspberry Pi Foundation|The Raspberry Pi charity that develops **Raspberry Pi** computers and educational resources|Requires a definite article: The Raspberry Pi Foundation|Raspberry Pi Foundation|
+|Raspberry Pi OS|The official operating system for Raspberry Pi computers, formerly known as **Raspbian**|Capitalise; doesn't take a definite article, for example, 'Raspberry Pi OS is our official recommended operating system'; capitalise|The Raspberry Pi OS|
 |Raspberry Pi OS Lite|A minimal version of **Raspberry Pi OS** without a desktop environment|Capitalise|Raspberry Pi lite|
 |Raspberry Pi Weekly|A weekly email newsletter|Capitalise|Raspberry Pi weekly|
 |Raspberry Pi Zero|A smaller, lower-cost version of Raspberry Pi|Capitalise; spell out 'Zero'|Raspberry Pi zero; Raspberry Pi 0|
@@ -1329,7 +1329,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |right-click|An action performed by pressing the secondary button on a mouse or touchpad|Hyphenate|right click|
 |ringtone|A sound played by a mobile phone to indicate an incoming call|One word| ring tone|
 |Roku|Company name and the name of a streaming media device (trademark)|Don't add an 's' to make plural (add 'boxes' or 'devices' instead)|Rokus|
-|RP1|The companion chip used in Raspberry Pi 5 to provide system-level I/O control.|All-caps; not an acronym; not to be confused with the first Raspberry Pi|Raspberry Pi 1|
+|RP1|The companion chip used in Raspberry Pi 5 to provide system-level I/O control.|All caps; not an acronym; not to be confused with the first Raspberry Pi|Raspberry Pi 1|
 |RP2040|The full name of a microcontroller|Don't add Raspberry Pi| Raspberry Pi RP2040|
 |RP2350|The full name of a microcontroller|Don't add Raspberry Pi| Raspberry Pi RP2350|
 |RS Components|A global distributor of electronic, electrical, and industrial components|Name of the company (capitalise 'RS' and 'C'); use full name in the first instance in a chapter section; then just RS|RS components|
@@ -1340,7 +1340,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 | Use | Description| Notes|Don’t use|
 |---|---|---|---|
 |SanDisk|A company that produces flash memory products, including SD cards, USB drives, and solid-state drives|One word; capitalise 'S' and 'D'|Sandisk; San Disk|
-|Schmitt trigger|An electronic circuit that converts a noisy input signal into a clean digital output|Capitalise 'Schnitt'| schmitt trigger|
+|Schmitt trigger|An electronic circuit that converts a noisy input signal into a clean digital output|Capitalise 'Schmitt'| schmitt trigger|
 |screen|The display surface of a computer monitor or television|Don't use to refer to a page on a website|
 |screen name|The name or handle used to identify a user in a software application or online service|Two words; lowercase|screenname|
 |screen reader|An accessibility tool that reads out text and interface elements on a screen|Two words; lowercase|screenreader|

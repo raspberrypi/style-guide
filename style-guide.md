@@ -885,7 +885,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |AA batteries|A type of battery|Capitalise 'AA'|double-A-batteries|
 |adapter|A device for connecting pieces of equipment that can't be connected directly|Spell with 'er' rather than 'or'|adaptor|
 |ad blocker|Extension that prevents adverts from being displayed on websites, videos, or apps|Two words; no hyphen|ad-blocker|
-|add-on board|Secondary circuit board that adds functionality to a computer or device|Hyphenate; don't use 'card' to mean 'add-onboard'|add on board; card|
+|add-on board|Secondary circuit board that adds functionality to a computer or device|Hyphenate; don't use 'card' to mean 'add-on board'|add on board; card|
 |Advanced Error Reporting| PCI Express (PCIe) feature for reporting and diagnosing errors|Capitalise all words as a defined technical term|advanced error reporting|
 |adware|Software that automatically displays or downloads adverts  |One word; lowercase|ad-ware|
 |artificial intelligence (see also **AI** in [Acronyms and initialisms](#acronyms-and-initialisms))|What we call AI today are software systems that use **machine-learning models**, such as **LLMs** and **VLMs**, trained on large datasets to recognise patterns and predict likely output; AI isn't self-aware, and doesn't truly think or understand|Two words; lowercase unless shortened to the acronym (AI)|Artificial Intelligence|

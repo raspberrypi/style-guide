@@ -928,7 +928,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |BBC Model A|A model of the **BBC Micro** with fewer features|Use full form with capital letters|BBC model A; BBC model a|
 |BBC Model B|A more popular and feature-rich model of the **BBC Micro**|Use full form with capital letters|BBC model B; BBC model b|
 |BCM2XXX (e.g., BCM2835, BCM2837, BCM2711)|SoCs made by Broadcom, used in Raspberry Pi computers|Use full designation on first use; shorten to 2XXX after that||
-|BeagleBoard|A low-power, open-source hardware single-board computer|Use the full term without a space and capitalise each 'B'|Beagle Board; beagle board|
+|BeagleBoard|A low-power, open source hardware single-board computer|Use the full term without a space and capitalise each 'B'|Beagle Board; beagle board|
 |beta|Pre-release version|Don't capitalise unless part of an official product line|Beta|
 |big-endian|Byte order in which the most significant byte is stored first|Hyphenate|bigendian; big endian|
 |binary| Relating to a system using only '0' and '1'|Use lowercase when referring to binary files and numbers|Binary|
@@ -990,7 +990,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |database|	An organised collection of structured data|One word|data base|
 |datasheet|A technical reference document that describes hardware details of a Raspberry Pi product, used by engineers, developers, and advanced hobbyists|One word|data sheet|
 |D-Bus|An inter-process communication (message bus) system|Capitalise the 'D' and 'B'; short for 'Desktop Bus'|dbus, Dbus, D Bus|
-|Debian|An open-source Linux-based operating system|Capitalise |debian|
+|Debian|An open source Linux-based operating system|Capitalise |debian|
 |delta-sigma PWM|A pulse-width modulation technique using delta-sigma modulation|Lowercase; hyphenate 'delta-sigma'|Delta-Sigma PWM; delta sigma PWM|
 |device tree|A means of representing devices on Raspberry Pi|Lowercase |Device Tree|
 |dialog box|A temporary window on a computer screen that prompts users for input, displays information, or confirms actions|American spelling in a computing or technology context only. Otherwise, use British spelling for the word 'dialogue'|dialogue box|
@@ -1037,7 +1037,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |fediverse| Network of federated servers that inter-communicate | Lowercase; technical term |Fediverse |
 |feed reader| Software for reading syndicated web feeds| Two words| feedreader|
 |fetch-decode-execute cycle| Fundamental CPU instruction cycle | Hyphenate all three components | fetch decode execute cycle|
-| FFmpeg| Open-source software project | Capitalised exactly as **FFmpeg** (lowercase 'mpeg')| FFMPEG, ffmpeg|
+| FFmpeg| Open source software project | Capitalised exactly as **FFmpeg** (lowercase 'mpeg')| FFMPEG, ffmpeg|
 | file name| Name of a file| Two words| filename|
 | file system| Method of storing and organising files| Two words | filesystem |
 | firewall| Network security system| One word| fire wall|
@@ -1085,7 +1085,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |HackSpace magazine| Publication produced by Raspberry Pi Press | Capitalise 'H' and 'S'; you can drop 'magazine' if appropriate| Hackspace magazine|
 |Hall effect sensor| A sensor that detects magnetic fields based on the Hall effect | Capitalise 'Hall'| hall effect sensor|
 |HAT+ (see also **Power HAT+**)| HAT specificiation, beginning Dec 2023| All caps| Hat plus; Hat+|
-|Hazard3|An open-source RISC-V core used in RP2350 microcontrollers|Capitalise 'H'; include 'RISC-V' when context requires clarity, for example, 'RP2350 uses the dual-core Hazard3 RISC-V processor'|Captial 'H'; no space before the '3'; don't imply that Raspberry Pi owns Hazard3|Raspberry Pi's Hazard3|
+|Hazard3|An open source RISC-V core used in RP2350 microcontrollers|Capitalise 'H'; include 'RISC-V' when context requires clarity, for example, 'RP2350 uses the dual-core Hazard3 RISC-V processor'|Captial 'H'; no space before the '3'; don't imply that Raspberry Pi owns Hazard3|Raspberry Pi's Hazard3|
 |heatsink|A passive cooling component designed to absorb heat from electronic or mechanical components|One word; lowercase|heat sink|
 |HMDI®| Proprietary technology used to transmit high-quality audio and video signals between devices | All caps; use the ® symbol on first mention|hdmi|
 |help desk| Support service or department| Two words|helpdesk|
@@ -1153,7 +1153,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |like (*verb*)| React with a thumb's up icon| Lowercase; use with quotation marks (unless the word is hyperlinked), for example: 'Thousands of people "like" Raspberry Pi on Facebook' | Like|
 |LiPo| Lithium polymer; a kind of battery | One word; capitalise the 'L' and 'P'|Lipo; Li Po; Li-Po|
 |lithium-ion (see also **Li-ion**) |A type of battery|Lowercase|Lithium-ion|
-|Linux | A trademarked family of open-source operating systems, based on the Linux kernel | Capitalised, but not in the same way as **UNIX**|LINUX|
+|Linux | A trademarked family of open source operating systems, based on the Linux kernel | Capitalised, but not in the same way as **UNIX**|LINUX|
 |little-endian |A **data** format|Hyphenate|little endian|
 |logic 0; logic 1| Describes **binary** digital logic states|Write the number as a digit|logic zero; logic one|
 |login|Adjective: use as a modifying noun (for example, 'login details' or 'login page')|One word; don't use as a verb (use **sign in** instead, which is less technical and also helps to delineate a login page from the process of signing in)|log in|
@@ -1388,7 +1388,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |Use| Description|Notes| Don’t use|
 |---|---|---|---|
 |T-shirt|A short-sleeved casual top|Capital 'T'; hyphenated|t-shirt; Tshirt|
-|TensorFlow|Open-source machine learning framework|One word; capitalise 'T' and 'F'|Tensor Flow; Tensorflow|
+|TensorFlow|Open source machine learning framework|One word; capitalise 'T' and 'F'|Tensor Flow; Tensorflow|
 |terminal|The command line in a GUI (for example, 'Enter the command into the terminal')|Lowercase when talking about the command line more generally|Open a Terminal window|
 |Terminal|A proper noun when referring to the Terminal application on Raspberry Pi OS and when referring to a Terminal application on an Apple computer|Only capitalise when talking about the named application on Raspberry Pi OS or an Apple computer|Raspberry Pi terminal|
 |thin client|A lightweight computer that relies on a server for processing|Two words|thin-client|

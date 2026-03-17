@@ -291,9 +291,9 @@ When two or more related modifiers share the same ending, you can avoid repetiti
 |Full- and part-time jobs |Full-time and part-time jobs|
 |10-, 20-, and 30-year plans |10-year, 20-year, and 30-year plans
 
-#### En dashes (**–**) and em dashes (**––**):
+#### En dashes (**–**) and em dashes (**—**):
 
-In British English, the en dash serves several distinct purposes and is more common than the em dash. An en dash (**–**) is longer than a hyphen (**-**) but shorter than an em dash (**––**).
+In British English, the en dash serves several distinct purposes and is more common than the em dash. An en dash (**–**) is longer than a hyphen (**-**) but shorter than an em dash (**—**).
 
 Em dashes are more widely used in American English. In British English, em dashes tend to be reserved for denoting interrupted speech. For readability, some publishers also use open em dashes instead of open en dashes for parenthesis. At Raspberry Pi, we recommend using the open em dash for parenthesis, as outlined in [**Open en and em dashes**](#open-en-and-em-dashes), below.
 
@@ -317,15 +317,15 @@ Due to their stylistic nature and possible ambiguity, avoid open en and em dashe
 
 |Use|Description|Examples|Notes|
 |---|---|---|---|
-|Introduction|An en or em dash is used in place of a colon to introduce information.|I didn't have an educated background –– Dad was a farm labourer.|This is a stylistic and informal style that's more common in journalism and creative writing.|
-|Emphasis or pause|An en or em dash is used to mark a break in a sentence, often for emphasis.|We decided to go ahead –– despite the risks.|This is a stylistic and informal style that's more common in journalism and creative writing.|
-|Parenthesis|A pair of en or em dashes are used to make a parenthetical statement in the middle of a sentence, often to express a more pronounced break in the sentence than commas but less of a break than brackets.|The family –– my mum, dad, and sister –– were all coming for dinner. |If using punctuation in the parenthetical part, the closing dash may be preceded by an exclamation mark or a question mark without the following word being capitalised, unless it's a proper noun.|
+|Introduction|An en or em dash is used in place of a colon to introduce information.|I didn't have an educated background — Dad was a farm labourer.|This is a stylistic and informal style that's more common in journalism and creative writing.|
+|Emphasis or pause|An en or em dash is used to mark a break in a sentence, often for emphasis.|We decided to go ahead — despite the risks.|This is a stylistic and informal style that's more common in journalism and creative writing.|
+|Parenthesis|A pair of en or em dashes are used to make a parenthetical statement in the middle of a sentence, often to express a more pronounced break in the sentence than commas but less of a break than brackets.|The family — my mum, dad, and sister — were all coming for dinner. |If using punctuation in the parenthetical part, the closing dash may be preceded by an exclamation mark or a question mark without the following word being capitalised, unless it's a proper noun.|
 
 Don't overuse open en or em dashes. En and em dashes are versatile and typically more informal, but they should be used sparingly to avoid overloading a sentence with interruptions.
 
 #### Quotation marks
 
-Don't use scare quotes –– double quotation marks put around a word or phrase in a written sentence to show that the word is being used in a special way, or in a way that might not be correct or true. Scare quotes make for vague, sensationalist writing.
+Don't use scare quotes — double quotation marks put around a word or phrase in a written sentence to show that the word is being used in a special way, or in a way that might not be correct or true. Scare quotes make for vague, sensationalist writing.
 
 Use single quotes to highlight a word or phrase when needed, such as when you introduce a new term or need to offset a title.
 
@@ -762,12 +762,12 @@ For years, pixels, and baud, only use commas when the number has five or more di
 |Guidance|Example|
 |---|---|
 | Use the 12-hour clock.|8pm|
-| Include the appropriate time zone abbreviation for North American events.|9 am PDT|
-| Use a colon to separate hours and minutes. |8:20pm|
+| Include the appropriate time zone abbreviation for North American events.|9am PDT|
+| If minutes are included in the time, use a colon to separate hours and minutes. |8:20pm|
 | Don't separate the time and 'am' or 'pm' with a space.| 6pm|
 | Use 'noon' and 'midnight' to express 12.00 and 00.00, respectively.| noon; midnight |
-| Express dates in the following format: **DD Month YYYY**. This avoids confusion with month-day ordering for some readers outside the UK. |21 January, 2006|
-| If it's necessary to include the day of the week, express the date in the following format: **Day, DD Month, YYYY**. | Thursday, 14 April, 2022 |
+| Express dates in the following format: **DD Month YYYY**. This avoids confusion with month-day ordering for some readers outside the UK. |21 January 2006|
+| If it's necessary to include the day of the week, express the date in the following format: **Day DD Month YYYY**. | Thursday 14 April 2022 |
 | If necessary to save space, abbreviate months to the first three letters. | Jan |
 | Don't capitalise season names. | In the summer, we have a party.|
 | If writing something like the following, 'an x-week period', include a hyphen between the number and period of time |In a six-week period|
@@ -860,7 +860,7 @@ Bolded terms within the description of another term indicate that the bolded ter
 
 * This [Word list](#word-list), which is structured into alphabetised groups.
 * The [Abbreviation list](#abbreviation-list), which includes a list of [Acronyms and initialisms](#acronyms-and-initialisms) (for example, **DoS** and **HTML**) and of [Measurement suffixes](#measurement-suffixes) (for example, **b** and **mm**).
-* [Words and phrases to avoid](#words-and-phrases-to-avoid), which includes alternative words to use for insensitive, violent, system-focussed, ambiguous, non-English, colloquial, idiomatic, subjective, marketing and sales, technical, outdated, and unnecessarily complicated terms.
+* [Words and phrases to avoid](#words-and-phrases-to-avoid), which includes alternative words to use for insensitive, violent, system-focused, ambiguous, non-English, colloquial, idiomatic, subjective, marketing and sales, technical, outdated, and unnecessarily complicated terms.
 
 In this particular example, **UNIX** is included as an entry in [Acronyms and initialisms](#acronyms-and-initialisms), a subsection of the [Abbreviation list](#abbreviation-list).
 
@@ -1046,7 +1046,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 | flash memory | Non-volatile storage technology | Lowercase | Flash memory |
 | Flat Flexible Cable | Type of ribbon cable | Capitalise all words; **FFC** acceptable | flat flexible cable|
 | flatsat| Ground-based CubeSat test hardware | One word; Lowercase | FlatSat, flat sat|
-| focussed | Past tense of 'focus' | Preferred spelling, but 'focused' with one 's' is also technically correct in British English|  |
+| focused; focuses; focusing | Past tense of 'focus' | Preferred spelling, but 'focussed' with a double 's' is also technically correct in British English|  |
 | forgo| To do without| Correct spelling| forego |                  |
 | frame rate | Frequency at which frames appear | Two words| framerate |
 | friend (verb)| Add someone as a friend on Facebook; see also **unfriend**| Lowercase | Friend|
@@ -1167,12 +1167,12 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |Mac|Macintosh; an **Apple** line of personal computers|Capitalise when referring to the computer  |mac; MAC|
 |Mac address|Media Access Control address; hardware identifier for a network interface|Lowercase 'address'; not related to Apple **Mac**|MAC address; Mac Address|
 |MacBook; MacBook Air; MacBook Pro | **Apple** trademarks| Don't add an 's to pluralise|Macbooks|
-|machine learning|A subset of **artificial intelligence** focussed on algorithms that learn patterns from data through training rather than through explicit programming; it doesn't involve understanding or awareness.|Lowercase|Machine Learning|
+|machine learning|A subset of **artificial intelligence** focused on algorithms that learn patterns from data through training rather than through explicit programming; it doesn't involve understanding or awareness.|Lowercase|Machine Learning|
 |machine-learning model|A mathematical or statistical model created through machine-learning algorithms; it doesn't possess understanding, intent, or awareness.|Lowercase|Machine-Learning Model|
 |macOS|Operating system for Apple **Mac** computers|One word; lowercase 'mac'|MacOS; Mac OS; Mac OS X; OS X; OSX|
 |The MagPi| The old name for **Raspberry Pi Official Magazine**|'MagPi' is one word; capitalise 'M' and 'P'; use only when referring to historical branding|The Mag Pi; The Magpi|
 |mailbox|A digital message storage location (email context) or hardware mailbox (in electronics)|One word; lowercase|Mailbox; mail box|
-|maker movement|Grassroots movement focussed on DIY tech, crafting, and engineering|Lowercase|Maker Movement|
+|maker movement|Grassroots movement focused on DIY tech, crafting, and engineering|Lowercase|Maker Movement|
 |maker space| Community-oriented creative or tech space| Use varies: makespace, maker lab, hackspace, maker shed. **Hackspace** often preferred for branding. Use org-specific naming if referring to a real one.||
 |malware|Malicious software designed to harm or exploit systems	|Lowercase|Malware|
 |mass storage device|Any device used to store large amounts of data|Lowercase|Mass Storage Device|
@@ -1200,7 +1200,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |microprocessor|Central processing unit on a single chip|One word; lowercase|Microprocessor; MicroProcessor; Micro Processor; micro processor|
 MicroPython|Python implementation for microcontrollers|One word; capital 'M' and 'P'|micropython; Micro Python|
 |microSD|A small **SD card** (SanDisk trademark); a proprietary, non-volatile, **flash** memory card format|One word; lowercase 'micro'|micro SD; MircoSD|
-|microsite|A small or focussed website, often part of a campaign	|One word; lowercase|micro site; Micro Site|
+|microsite|A small or focused website, often part of a campaign	|One word; lowercase|micro site; Micro Site|
 |Microsoft .Net	|Microsoft’s branding for its developer platform|Use 'Microsoft .Net' in full on first mention|
 |Microsoft Windows (see also **Windows**)|Operating system by Microsoft|Use full name on first mention if branding clarity is needed; otherwise use **Windows**|Windows OS (unless unavoidable)|
 |minute|Unit of time|Preferred to the abbreviation (**min.**), even as a suffix||
@@ -1752,7 +1752,7 @@ This section highlights words and phrases to avoid, and provides preferred alter
 
 - **[Insensitive words and phrases](#insensitive-words-and-phrases).** Avoid ableist, gendered, or culturally problematic terms.
 - **[Violent words and phrases](#violent-words-and-phrases).** Choose neutral alternatives that reduce aggressive connotations.
-- **[System-focussed words and phrases](#system-focussed-words-and-phrases).** Refer to user actions rather than device actions.
+- **[System-focused words and phrases](#system-focused-words-and-phrases).** Refer to user actions rather than device actions.
 - **[Technically incorrect and outdated terminology](#violent-words-and-phrases).** Use accurate, modern language that's easier to understand for the wider audience.
 - **[Words with simpler alternatives](#words-with-simpler-alternatives).** Prefer short, clear, everyday words wherever possible.
 - **[Overusing polite words and phrases](#overusing-polite-words-and-phrases).** Be considerate but concise, avoiding unnecessary wordiness or insincere-sounding platitudes.
@@ -1811,7 +1811,7 @@ The following words and phrases might be common in developer contexts, but have 
 | terminate	| stop; exit; cancel; end |
 |trigger	|prompt; start; generate; initiate|
 
-### System-focussed words and phrases
+### System-focused words and phrases
 Avoid talking about mouse and keyboard actions. Instead, refer to *user* actions.
 
 |Avoid|Use instead| Exceptions|

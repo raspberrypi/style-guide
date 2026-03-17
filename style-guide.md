@@ -1046,7 +1046,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 | flash memory | Non-volatile storage technology | Lowercase | Flash memory |
 | Flat Flexible Cable | Type of ribbon cable | Capitalise all words; **FFC** acceptable | flat flexible cable|
 | flatsat| Ground-based CubeSat test hardware | One word; Lowercase | FlatSat, flat sat|
-| focused; focuses; focusing | Past tense of 'focus' | Preferred spelling, but 'focussed' with a double 's' is also technically correct in British English|  |
+| focused; focuses; focusing | To concentrate attention, effort, or resources on something; to adjust or direct for clarity | Preferred spelling, but 'focussed' with a double 's' is also technically correct in British English|  |
 | forgo| To do without| Correct spelling| forego |                  |
 | frame rate | Frequency at which frames appear | Two words| framerate |
 | friend (verb)| Add someone as a friend on Facebook; see also **unfriend**| Lowercase | Friend|

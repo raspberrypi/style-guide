@@ -574,7 +574,8 @@ None of the following flagship SBCs include 'the' before them unless referring t
 |**Raspberry Pi 3 Model B+**|**Raspberry Pi 3B+**; don't shorten to 'Pi 3B+'||Upgraded to a 1.4 GHz CPU, faster Ethernet, dual-band Wi-Fi, and PoE support.|
 |**Raspberry Pi 3 Model B**|**Raspberry Pi 3B**; don't shorten to 'Pi 3B' or just '3B'||Upgraded to a 1.2 GHz CPU, Wi-Fi, Bluetooth, and USB boot support.|
 |**Raspberry Pi 2 Model B**|**Raspberry Pi 2B**; don't shorten to 'Pi 2B' or just '2B'||Upgraded to a 900 MHz CPU and 1 GB of RAM.|
-|**Raspberry Pi Model B**|None; don't shorten to 'Pi 1B'|Don't refer to this model as **Raspberry Pi 1**. Instead, refer specifically to **Raspberry Pi Model B**.||
+|**Raspberry Pi Model B+**|None; don't shorten to 'Pi 1B+' or just '1B+'|Don't refer to this model as **Raspberry Pi 1** unless overtly distinguishing it from later models. Instead, refer specifically to **Raspberry Pi Model B**.||
+|**Raspberry Pi Model B**|None; don't shorten to 'Pi 1B' or just '1B'|Don't refer to this model as **Raspberry Pi 1** unless overtly distinguishing it from later models. Instead, refer specifically to **Raspberry Pi Model B**.||
 
 ##### Model A variants
 
@@ -583,6 +584,7 @@ None of the following flagship SBCs include 'the' before them unless referring t
 |Official name|Shortened version|Naming notes|Key product difference|
 |---|---|---|---|
 |**Raspberry Pi 3 Model A+**|**Raspberry Pi 3A+**; don't shorten to 'Pi 3A+'||Same features as Raspberry Pi 3B+, but with 512 MB RAM and a smaller form factor.|
+|**Raspberry Pi Model A+**|None; don't shorten to 'Pi 1A+' or just '1A+'| Don't refer to '**Raspberry Pi 1**' unless overtly distinguishing it from later models. Instead, refer specifically to **Raspberry Pi Model A**.|Same features as **Model A**, but with 256 MB RAM, no Ethernet, and fewer USB ports.|
 |**Raspberry Pi Model A**|None; don't shorten to 'Pi 1A' or just '1A'| Don't refer to '**Raspberry Pi 1**' unless overtly distinguishing it from later models. Instead, refer specifically to **Raspberry Pi Model A**.|Same features as **Model A**, but with 256 MB RAM, no Ethernet, and fewer USB ports.|
 
 #### Keyboard computers
@@ -850,7 +852,7 @@ If a question really is frequently asked, you likely need to add or restructure 
     - Writing a description of the destination page to use as the link text, capitalised as if it's part of the sentence. For example: 'You can [update your Raspberry Pi software](https://www.raspberrypi.com/documentation/computers/os.html).'
     - **[Preferred]** Front loading a hyperlink with information about what the user can expect if they open it. For example: 'For more information, see [Raspberry Pi OS](https://www.raspberrypi.com/documentation/computers/os.html).'
 
-If using the preferred example style, introduce the link and then hyperlink the actual name of the webpage. Use the original capitalisation of the linked webpage.
+If using the preferred example style, introduce the link and then hyperlink the actual name of the web page. Use the original capitalisation of the linked web page.
 
 ## Word list
 
@@ -904,7 +906,6 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |app|Short for application|Don't use if there's potential for confusion||
 |Apple| Trademark | Don't add an 's' to make plural; add the device after instead (for example, 'Apple computers')|Apples|
 |applications processor | Processor designed specifically for running applications on mobile devices|Lowercase; 'applications' is plural|application processor|
-|apt|Advanced Package Tool for managing software in Debian Linux| Lowercase; not an acronym| APT|
 |Arm architecture|Family of RISC-based processor architectures developed by Arm Ltd.|Capitalise 'Arm' (proper noun); 'Arm' isn't an acronym| ARM architecture|
 |Arm chipset|System-on-Chip (SoC) or integrated circuit based on **Arm** architecture|Capitalise 'Arm' (proper noun); 'Arm' isn't an acronym|ARM chipset|
 |Arm Holdings|Company name; rebranded from ARM|Capitalise 'A' and 'H' only| ARM Holdings|
@@ -1499,11 +1500,15 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |Abbreviation| Meaning| Usage|
 |---|---|---|
 |AI|See **artificial intelligence** in [Word list](#word-list)||
+|APT|Advanced Package Tool for managing software in Debian-based Linux systems|Use 'APT' when you mean the package management system; use `apt` (lowercase) when referring to commands entered into the Terminal|
 |AWG|American Wire Gauge||
 |BGA|Ball grid array||
 |BIOS| Basic Input/Output System||
 |BSD | Berkeley Software Distribution ||
 |BMP| Bitmap||
+
+
+|apt|Advanced Package Tool for managing software in Debian Linux| Lowercase; not an acronym| APT|
 
 #### C-D
 
@@ -1697,7 +1702,7 @@ Unless otherwise stated, most of the following units of measure:
 |°F |See **Fahrenheit** in [Word list](#word-list)|Uppercase; no space between the number and the unit|72°F|
 |%|Percent; don't use instead of 'percentage'|No space between the number and the symbol|5%|
 |Ω|See **ohm** in [Word list](#word-list)|Don't use 'R' in place of 'Ω'|9 Ω|
-|A|See **ampere** in [Word list](#word-list)|Uppercase; no space between the number and the unit| 5 V at 3 A (15 W)|
+|A|See **ampere** in [Word list](#word-list)|Uppercase; space between the number and the unit| 5 V at 3 A (15 W)|
 |b|See **bit** in [Word list](#word-list)|Lowercase| 16 b|
 |B|see **Byte** in [Word list](#word-list)|Uppercase|16 B|
 |b/s|Bits per second|Lowercase|100 b/s|

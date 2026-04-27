@@ -987,6 +987,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 
 |Use|Description |Notes|Don't use|
 |---|---|---|---|
+|dampener|A device that dampens sound or vibration.|As in Key Dampeners for Raspberry Pi 500+. |damper|
 |data|Information such as facts and numbers|Treat as a mass noun, for example: 'The data is lost'|datum; 'the data are lost'|
 |database|	An organised collection of structured data|One word|data base|
 |datasheet|A technical reference document that describes hardware details of a Raspberry Pi product, used by engineers, developers, and advanced hobbyists|One word|data sheet|

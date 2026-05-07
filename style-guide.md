@@ -1315,11 +1315,12 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
-|Raspberry Pi|A small **single-board computer** developed by the **Raspberry Pi Foundation**.|Don't abbreviate; plural is 'Raspberry Pis', but adding another word to make it plural is preferred, for example 'Raspberry Pi devices'|Raspberry; Pi; Raspberry Pi's|
+|Raspberry Pi|A small **single-board computer** developed by Raspberry Pi Ltd.|Don't abbreviate; plural is 'Raspberry Pis', but adding another word to make it plural is preferred, for example 'Raspberry Pi devices'|Raspberry; Pi; Raspberry Pi's|
 |Raspberry Pi 2; Raspberry Pi 3B+ (and so on)|Specific models of Raspberry Pi computers, differentiated by generation and features|Always include 'Raspberry' before 'Pi'; don't abbreviate to just 'Pi'|Pi 5|
 |Raspberry Pi icon|Official graphical representation of a Raspberry Pi device|Don't drop 'Raspberry' or 'Pi'; lowercase 'icon'|Raspberry Pi Icon; Pi icon; Raspberry icon;|
 |Raspberry Pi menu|The software menu in the Raspberry Pi OS interface|Don't drop 'Raspberry' or 'Pi'; lowercase 'menu'|Raspberry Pi Menu; Pi menu; Raspberry menu;|
-|(the) Raspberry Pi Foundation|The Raspberry Pi charity that develops **Raspberry Pi** computers and educational resources|Requires a definite article: The Raspberry Pi Foundation|Raspberry Pi Foundation|
+|(the) Raspberry Pi Foundation|A computing education charity focused on young people; the Foundation established and once owned **Raspberry Pi Ltd** but the two are now separate organisations.|Requires a definite article: The Raspberry Pi Foundation|Raspberry Pi Foundation|
+|Raspberry Pi (Ltd)|The commercial company that develops and manufactures **Raspberry Pi** computers, modules, other hardware, silicon, and software|||
 |Raspberry Pi OS|The official operating system for Raspberry Pi computers, formerly known as **Raspbian**|Capitalise; doesn't take a definite article, for example, 'Raspberry Pi OS is our official recommended operating system'; capitalise|The Raspberry Pi OS|
 |Raspberry Pi OS Lite|A minimal version of **Raspberry Pi OS** without a desktop environment|Capitalise|Raspberry Pi lite|
 |Raspberry Pi Weekly|A weekly email newsletter|Capitalise|Raspberry Pi weekly|

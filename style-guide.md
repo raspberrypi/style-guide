@@ -1333,6 +1333,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |right-click|An action performed by pressing the secondary button on a mouse or touchpad|Hyphenate|right click|
 |ringtone|A sound played by a mobile phone to indicate an incoming call|One word| ring tone|
 |Roku|Company name and the name of a streaming media device (trademark)|Don't add an 's' to make plural (add 'boxes' or 'devices' instead)|Rokus|
+|RP-series microcontrollers| This set includes RP2350 and RP2040, but not RP1. | To avoid implying that this includes RP1 always use RP-series with microcontrollers. | RP-series devices, RP-series (alone) |
 |RP1|The companion chip used in Raspberry Pi 5 to provide system-level I/O control.|All caps; not an acronym; not to be confused with the first Raspberry Pi|Raspberry Pi 1|
 |RP2040|The full name of a microcontroller|Don't add Raspberry Pi| Raspberry Pi RP2040|
 |RP2350|The full name of a microcontroller|Don't add Raspberry Pi| Raspberry Pi RP2350|

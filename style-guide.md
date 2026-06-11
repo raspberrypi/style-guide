@@ -1842,7 +1842,7 @@ Avoid using outdated terms, especially those that are ambiguous or no longer ref
 |---|---|---|
 |bookazine||
 |code, coding|computer programming; software engineering||
-digital age, digital native, digital divide|NA – don't use||
+digital age, digital native|NA – don't use||
 |cyber|| If you do need to use it, don't hyphenate, for example: cyberattack; cyberterrorism|
 |dongle|USB drive; (USB) flash drive; (USB) memory stick|
 |k (see also [Numbers](#numbers))|thousand; kilobytes; kB||

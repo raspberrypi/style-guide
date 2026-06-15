@@ -1212,7 +1212,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 |millimetre (see also **mm** in [Measurement suffixes](#measurement-suffixes))| Unit of length | Lowercase; abbreviation preferred if using as a suffix ||
 |miniSD|Flash memory card format, smaller than standard SD but larger than microSD	|One word; lowercase 'mini'| mini SD; MiniSD|
 |mini HDMI|A smaller version of the standard HDMI connector|Two words; lowercase 'mini'|Mini HDMI; mini-HDMI|
-|mini USB|A smaller USB connector used on older devices	|Two words; don't hyphenate; lowercase 'mini'|Mini USB; mini USB|
+|mini USB|A smaller USB connector used on older devices	|Two words; don't hyphenate; lowercase 'mini'|Mini USB; mini-USB|
 |mobile|Short for mobile phone|Use sparingly as a noun|cellphone|
 |(the) Moon|The large round object that circles the Earth| Capitalise when referring to the Earth's Moon|the moon|
 |moon|Any moon other than the Earth's Moon|Don't capitalise unless referring to the Earth's Moon|'Jupiter has 95 recognised Moons'|

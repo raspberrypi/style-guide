@@ -1194,15 +1194,15 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |metatag|Tags embedded in web pages to describe content	|One word; lowercase|meta tag; Meta Tag|
 |mic|Short for microphone||mike|
 |microchip|A tiny piece of material that contains electronic circuits|One word; lowercase| micro chip|
-|micro HDMI| A smaller HDMI connector type|No hyphen unless modifying a proceeding word; lowercase 'micro'|Micro HDMI; micro-HDMI|
-|micro USB| A smaller USB connector type|Two words; no hyphen; lowercase 'micro'|Micro USB; micronUSB|
+|micro HDMI| A smaller HDMI connector type|No hyphen unless modifying a proceeding word; uppercase 'HDMI'|Micro HDMI; micro-HDMI|
+|micro USB| A smaller USB connector type|Two words; no hyphen unless modifying a proceeding word; uppercase 'USB'|Micro USB; micro-USB|
 |micro:bit|Pocket-sized microcontroller board for education	|Lowercase with colon; avoid starting a sentence with 'micro:bit'; add 'BBC' to the beginning if you have to use it at the beginning of a sentence|Microbit; microbit|
 |Micro:bit Educational Foundation|The company behind the **micro:bit**| Capitalise all three words; use full name when referring to the organisation| micro:bit Educational Foundation|
 |microarchitecture; microarchitectural|The internal design of a processor|Use instead of 'architecture' when referring to hardware design||
 |microcontroller|Integrated circuit that includes a processor, memory, and **I/O**|One word; lowercase|Microcontroller; MicroController; Micro Controller; micro controller|
 |microprocessor|Central processing unit on a single chip|One word; lowercase|Microprocessor; MicroProcessor; Micro Processor; micro processor|
 MicroPython|Python implementation for microcontrollers|One word; capital 'M' and 'P'|micropython; Micro Python|
-|microSD|A small **SD card** (SanDisk trademark); a proprietary, non-volatile, **flash** memory card format|One word; lowercase 'micro'|micro SD; MircoSD|
+|microSD|A small **SD card** (SanDisk trademark); a proprietary, non-volatile, **flash** memory card format|One word; uppercase 'SD'|micro SD; MircoSD|
 |microsite|A small or focused website, often part of a campaign	|One word; lowercase|micro site; Micro Site|
 |Microsoft .Net	|Microsoft’s branding for its developer platform|Use 'Microsoft .Net' in full on first mention|
 |Microsoft Windows (see also **Windows**)|Operating system by Microsoft|Use full name on first mention if branding clarity is needed; otherwise use **Windows**|Windows OS (unless unavoidable)|

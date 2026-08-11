@@ -890,7 +890,6 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |add-on board|Secondary circuit board that adds functionality to a computer or device|Hyphenate; don't use 'card' to mean 'add-on board'|add on board; card|
 |Advanced Error Reporting| PCI Express (PCIe) feature for reporting and diagnosing errors|Capitalise all words as a defined technical term|advanced error reporting|
 |adware|Software that automatically displays or downloads adverts  |One word; lowercase|ad-ware|
-|artificial intelligence (see also **AI** in [Acronyms and initialisms](#acronyms-and-initialisms))|What we call AI today are software systems that use **machine-learning models**, such as **LLMs** and **VLMs**, trained on large datasets to recognise patterns and predict likely output; AI isn't self-aware, and doesn't truly think or understand|Two words; lowercase unless shortened to the acronym (AI)|Artificial Intelligence|
 |A level; A-level students|Subject-based qualifications in England and Wales|Only capitalise the 'A'; hyphenate when modifying the next word (e.g., A-level students)|A Level|
 |Allen key|Hexagonal wrench used to drive bolts or screws with hexagonal sockets|Proper noun (capitalise 'Allen')|allen key|
 |all-ones (*adj.*) |Describes a binary value filled with bits set to `1`|Hyphenate when used as a modifier (for example, 'all-ones value')|all ones|
@@ -910,6 +909,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |Arm chipset|System-on-Chip (SoC) or integrated circuit based on **Arm** architecture|Capitalise 'Arm' (proper noun); 'Arm' isn't an acronym|ARM chipset|
 |Arm Holdings|Company name; rebranded from ARM|Capitalise 'A' and 'H' only| ARM Holdings|
 |Armv6, Armv7|Versions of the **Arm** architecture instruction set|Capitalise 'Arm' with lowercase 'v' and numeral; no spaces|ARMv6; Arm V7|
+|artificial intelligence (see also **AI** in [Acronyms and initialisms](#acronyms-and-initialisms))|What we call AI today are software systems that use **machine-learning models**, such as **LLMs** and **VLMs**, trained on large datasets to recognise patterns and predict likely output; AI isn't self-aware, and doesn't truly think or understand|Two words; lowercase unless shortened to the acronym (AI)|Artificial Intelligence|
 |AS level; AS-level students|The first year of **AS-level** course content in England and Wales|Only capitalise the 'AS'; hyphenate when modifying the next word (e.g., AS-level students)|AS Level|
 |assembly language| Low-level programming language closely related to machine code | Lowercase; always 'assembly', not 'assembler'| Assembly Language; assembler language|
 |autofocus|Automatic camera lens adjustment to focus on a subject|One word|auto focus; auto-focus|
@@ -959,6 +959,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |C++|Programming language|Successor to **C**; use exact spelling with two plus signs|C plus plus; C double plus|
 |C#|Programming language developed by Microsoft|Pronounced 'C-sharp' but written with a hashtag symbol|C-Sharp; Csharp|
 Camera Module, Camera Module v2 |The official Raspberry Pi camera add-on| Capitalise product names|Camera module|
+|Cipher|An algorithm or secret system used to perform encryption and decryption|Spelt with a 'y', making it more visually distinct from 'cyber' at a glance|Cypher|
 |Celsius (see also **°C** in [Measurement suffixes](#measurement-suffixes))| Temperature unit| Can always be abbreviated to **°C** | centigrade; degrees Celsius (unless context demands it)|
 |Centimetre| Unit of measurement | British English spelling | Centimeter|
 |Certified Educator|Graduate of Picademy|Capitalise; always use full term|Picademy Certified, certified educator|
@@ -1866,10 +1867,8 @@ Choose short, simple, everyday words over long, formal, or complicated words.
 |Avoid|Use instead| Exceptions|
 |---|---|---|
 |access	|see; edit; find; use; view	||
-|allow (see also **enable**)	| let	||
 |assistance	|help	|
 |comprises	|consists of; contains; includes	||
-|enable (see also **allow**)	|let	||
 |for instance	| for example; such as||
 |further	|more|	|
 |ingest	|load; import	||

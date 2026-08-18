@@ -2,7 +2,7 @@
 
 This document is being updated continuously; refer to GitHub for the most up-to-date version or, if you rely on a local copy of the style guide, check that you have the most recent version on your machine. If there’s something you think we should add or correct, create a pull request for us to review.
 
-When creating content for Raspberry Pi, we aim for a clear, friendly, and conversational tone. To help with this, this style guide provides practical guidance and examples for written content at Raspberry Pi. For matters not covered in this style guide, consult the ***New Hart's Rules: The Oxford Guide to Style***.
+When creating content for Raspberry Pi, we aim for a clear, friendly, and conversational tone. To help with this, this style guide provides practical guidance and examples for written content at Raspberry Pi. For matters not covered in this style guide, consult the ***New Hart's Rules: The Oxford Guide to Style*** and the **New Oxford Dictionary for Writers & Editors**.
 
 ## Quick reference
 
@@ -959,7 +959,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |C++|Programming language|Successor to **C**; use exact spelling with two plus signs|C plus plus; C double plus|
 |C#|Programming language developed by Microsoft|Pronounced 'C-sharp' but written with a hashtag symbol|C-Sharp; Csharp|
 Camera Module, Camera Module v2 |The official Raspberry Pi camera add-on| Capitalise product names|Camera module|
-|Cipher|An algorithm or secret system used to perform encryption and decryption|Spelt with a 'y', making it more visually distinct from 'cyber' at a glance|Cypher|
+|Cipher|An algorithm or secret system used to perform encryption and decryption|Spelt with an 'i', in line with the **New Oxford Dictionary for Writers & Editors** and making it more visually distinct from 'cyber' at a glance|Cypher|
 |Celsius (see also **°C** in [Measurement suffixes](#measurement-suffixes))| Temperature unit| Can always be abbreviated to **°C** | centigrade; degrees Celsius (unless context demands it)|
 |Centimetre| Unit of measurement | British English spelling | Centimeter|
 |Certified Educator|Graduate of Picademy|Capitalise; always use full term|Picademy Certified, certified educator|

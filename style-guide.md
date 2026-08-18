@@ -2,7 +2,7 @@
 
 This document is being updated continuously; refer to GitHub for the most up-to-date version or, if you rely on a local copy of the style guide, check that you have the most recent version on your machine. If there’s something you think we should add or correct, create a pull request for us to review.
 
-When creating content for Raspberry Pi, we aim for a clear, friendly, and conversational tone. To help with this, this style guide provides practical guidance and examples for written content at Raspberry Pi. For matters not covered in this style guide, consult the ***New Hart's Rules: The Oxford Guide to Style*** and the **New Oxford Dictionary for Writers & Editors**.
+When creating content for Raspberry Pi, we aim for a clear, friendly, and conversational tone. To help with this, this style guide provides practical guidance and examples for written content at Raspberry Pi. For matters not covered in this style guide, consult the ***New Hart's Rules: The Oxford Guide to Style*** and the ***New Oxford Dictionary for Writers & Editors***.
 
 ## Quick reference
 

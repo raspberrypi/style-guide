@@ -929,7 +929,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |BBC Model A|A model of the **BBC Micro** with fewer features|Use full form with capital letters|BBC model A; BBC model a|
 |BBC Model B|A more popular and feature-rich model of the **BBC Micro**|Use full form with capital letters|BBC model B; BBC model b|
 |BCM2XXX (e.g., BCM2835, BCM2837, BCM2711)|SoCs made by Broadcom, used in Raspberry Pi computers|Use full designation on first use; shorten to 2XXX after that||
-|BeagleBoard|A low-power, open source hardware single-board computer|Use the full term without a space and capitalise each 'B'|Beagle Board; beagle board|
+|BeagleBoard|A low-power, open source hardware **single-board computer**|Use the full term without a space and capitalise each 'B'|Beagle Board; beagle board|
 |beta|Pre-release version|Don't capitalise unless part of an official product line|Beta|
 |big-endian|Byte order in which the most significant byte is stored first|Hyphenate|bigendian; big endian|
 |binary| Relating to a system using only '0' and '1'|Use lowercase when referring to binary files and numbers|Binary|

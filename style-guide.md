@@ -1648,7 +1648,8 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 
 |Abbreviation| Meaning| Usage|
 |---|---|---|
-|SDA|See **SD Association** in [Word list](#word-list)||
+|SD|See **SD card** in [Word list](#word-list)|Use in combination with 'card'|
+|SDA|See **SD Association** in [Word list](#word-list)|Use in combination with 'Association'|
 |SIM|See **SIM card** in [Word list](#word-list)|Use in combination with 'card'|
 |SBC|See **single-board computer** in [Word list](#word-list)||
 |SiP|system in package||
@@ -1656,6 +1657,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |SoC| system on chip ||
 |SODDIM|Small Outline Dual In-line Memory Module; see also **SODDIM** in [Word list](#word-list)||
 |SoM| system on module ||
+|SSD|solid-state drive|Don't use in combination with 'card'|
 |SSH|Secure Shell||
 |STL| See **STL file** in [Word list](#word-list)||
 |SWD | Serial Wire Debug||

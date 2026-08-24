@@ -1820,7 +1820,7 @@ The following words and phrases might be common in developer contexts, but have 
 | kill	| end; stop |
 |scrape|crawl|
 | strip(ped)	| remove(d); replace(d) |
-|target	|anchor; deliver; choose; point to; position; direct(ed); select; insert; activate; send to |
+|target	|anchor; deliver; send; choose; point to; position; direct(ed); select; insert; activate; destination; client; selected; intended |
 | terminate	| stop; exit; cancel; end |
 |trigger	|prompt; start; generate; initiate|
 

@@ -1088,7 +1088,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |HackSpace magazine| Publication produced by Raspberry Pi Press | Capitalise 'H' and 'S'; you can drop 'magazine' if appropriate| Hackspace magazine|
 |Hall effect sensor| A sensor that detects magnetic fields based on the Hall effect | Capitalise 'Hall'| hall effect sensor|
 |HAT+ (see also **Power HAT+**)| HAT specificiation, beginning Dec 2023| All caps| Hat plus; Hat+|
-|Hazard3|An open source RISC-V core used in RP2350 microcontrollers|Captial 'H'; no space before the '3'; don't imply that Raspberry Pi owns Hazard3; include 'RISC-V' when context requires clarity, for example, 'RP2350 uses the dual-core Hazard3 RISC-V processor'|Raspberry Pi's Hazard3|
+|Hazard3 (see also **RISC-V** in [Acronyms and initialisms](#acronyms-and-initialisms))|An open source RISC-V core used in RP2350 microcontrollers|Captial 'H'; no space before the '3'; don't imply that Raspberry Pi owns Hazard3; include 'RISC-V' when context requires clarity, for example, 'RP2350 uses the dual-core Hazard3 RISC-V processor'|Raspberry Pi's Hazard3|
 |heatsink|A passive cooling component designed to absorb heat from electronic or mechanical components|One word; lowercase|heat sink|
 |HMDI®| Proprietary technology used to transmit high-quality audio and video signals between devices | All caps; use the ® symbol on first mention|hdmi|
 |help desk| Support service or department| Two words|helpdesk|
@@ -1639,6 +1639,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |Q&A|Question-and-Answer||
 |QR code|quick-response code|Only use the abbreviation|
 |RAM|random access memory|Only use the abbreviation|
+|RISC-V|reduced instruction set computer 5|Only use the abbreviation; always include the hyphen; always write in all-caps|
 |ROM|Read-Only Memory||
 |RSS|Really Simple Syndication|Use in combination with 'feed' or 'newsreader'|
 |RTC|real-time clock||

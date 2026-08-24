@@ -1649,7 +1649,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |Abbreviation| Meaning| Usage|
 |---|---|---|
 |SD|See **SD card** in [Word list](#word-list)|Use in combination with 'card'|
-|SDA|See **SD Association** in [Word list](#word-list)|Use in combination with 'Association'|
+|SDA|See **SD Association** in [Word list](#word-list)||
 |SIM|See **SIM card** in [Word list](#word-list)|Use in combination with 'card'|
 |SBC|See **single-board computer** in [Word list](#word-list)||
 |SiP|system in package||

@@ -1072,7 +1072,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |geolocation| Geographic location of an object| One word; no hyphen; lowercase | Geolocation; geo-location|
 |geotagging|The process of adding geographical identification metadata to media or data| One word; no hyphen; lowercase | Geotagging | geo-tagging|
 |gigahertz (see also **GHz** in [Measurement suffixes](#measurement-suffixes))|10<sup>9</sup> Hz = 1,000,000,000 Hz; unit of frequency| Lowercase; abbreviation preferred if using as a suffix| 9 Gigahertz|
-|GNU Linux (see **GNU** in [Measurement suffixes](#measurement-suffixes))| Operating system combining GNU software and the Linux kernel| Often shortened to Linux| |
+|GNU Linux (see **GNU** in [Acronyms and initialisms](#acronyms-and-initialisms))| Operating system combining GNU software and the Linux kernel| Often shortened to Linux| |
 |GPIO Zero; gpiozero |The name of a project (**GPIO Zero**)| **gpiozero** is an acceptable alternative when referring to the module|GPIO 0|
 |Gigatransfers | Data transfer unit used in PCIe specifications; rates measured in **GT/s**, though **MB/s** is often preferred by users	|Capitalise|gigatransfer|
 |gram|Unit of weight (see also **g** in [Measurement suffixes](#measurement-suffixes))| Lowercase; abbreviation preferred if using as a suffix |9 Grams|
@@ -1087,7 +1087,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 |Hackspace (see also **maker space**)|A community-run workspace where people with shared interests collaborate and build projects| Often used interchangeably with **maker space**, but preferred for branding (for example, HackSpace magazine); use the organisation’s chosen term if referring to a specific location	||
 |HackSpace magazine| Publication produced by Raspberry Pi Press | Capitalise 'H' and 'S'; you can drop 'magazine' if appropriate| Hackspace magazine|
 |Hall effect sensor| A sensor that detects magnetic fields based on the Hall effect | Capitalise 'Hall'| hall effect sensor|
-|HAT+ (see also **Power HAT+**)| HAT specificiation, beginning Dec 2023| All caps| Hat plus; Hat+|
+|HAT+ (see also **Power HAT+**; see also **HAT** in [Acronyms and initialisms](#acronyms-and-initialisms))| HAT specificiation, beginning Dec 2023| All caps| Hat plus; Hat+|
 |Hazard3 (see also **RISC-V** in [Acronyms and initialisms](#acronyms-and-initialisms))|An open source RISC-V core used in RP2350 microcontrollers|Captial 'H'; no space before the '3'; don't imply that Raspberry Pi owns Hazard3; include 'RISC-V' when context requires clarity, for example, 'RP2350 uses the dual-core Hazard3 RISC-V processor'|Raspberry Pi's Hazard3|
 |heatsink|A passive cooling component designed to absorb heat from electronic or mechanical components|One word; lowercase|heat sink|
 |HMDI®| Proprietary technology used to transmit high-quality audio and video signals between devices | All caps; use the ® symbol on first mention|hdmi|
@@ -1556,7 +1556,7 @@ Don't spell out the full phrase that an acronym or initialism represents on firs
 |---|---|---|
 |GPIO|General-Purpose Input/Output|All caps; don't spell out unless needed|
 |GIF| Graphic Interchange Format| Plural is 'GIFs'|
-|GNU |The GNU Project (a recursive acronym)| GNU is not UNIX|
+|GNU |The GNU Project (a recursive acronym: GNU is Not UNIX)||
 |GPU| graphics processing unit ||
 |GSM| Global System for Mobile Communications||
 |GUI| graphical user interface ||

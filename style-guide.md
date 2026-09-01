@@ -1307,7 +1307,7 @@ MicroPython|Python implementation for microcontrollers|One word; capital 'M' and
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
 |QR code (see also [Acronyms and initialisms](#acronyms-and-initialisms))|A machine-readable code consisting of an array of black and white squares, typically used for storing URLs or other information for reading by the camera on a **smartphone**|Don't hyphenate; capitalise 'QR'|QR-code|
-|quad core (*noun*); quad-cor (*adj.*)|A processor with four independent cores that can run tasks simultaneously|Hyphenated when modifying a noun, for example, quad-core processor||
+|quad core (*noun*); quad-core (*adj.*)|A processor with four independent cores that can run tasks simultaneously|Hyphenated when modifying a noun, for example, quad-core processor||
 |QuickTime|Apple trademark |One word; capitalise 'Q' and 'T'|Quicktime; Quick Time|
 |Qt|A cross-platform application development framework used to create applications|Capitalise as shown (lowercase 't')|qt; QT|
 |QtGL (Qt OpenGL module)|An extension of **Qt** that allows integration of OpenGL graphics into Qt applications|One word; capitalise as shown (lowercase 't')|QTGL|

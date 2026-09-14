@@ -936,7 +936,7 @@ In this particular example, **UNIX** is included as an entry in [Acronyms and in
 |binary blob| Non-free software distributed in binary form; pejorative term in the free software community |Don't use to describe the GPU in Raspberry Pi||
 |bit (see also **b** in [Measurement suffixes](#measurement-suffixes))|The most basic unit of information in computing and digital communication; a portmanteau of 'binary' and 'digit'|Lowercase; hyphenate when used as a compound adjective (for example, 'It's a 16-bit home video game'); don't hyphenate when used as a quantifier (for example, 'These 3 bits control the foo')|3 Bits|
 |bitstream| A stream of bits transmitted over a communication channel|One word| bit stream' bit-stream|
-|B key| Edge connector standard for M.2 cards that support SATA or up to two PCIe lanes	|Used to differentiate connector types (for example, M key)||
+|B key| Edge connector standard for M.2 cards that support SATA or up to two PCIe lanes	|Used to differentiate connector types (for example, M key)|B Key; B-key|
 |BlackBerry (devices) | Mobile device brand owned by Research In Motion (RIM)	|Use the full term without a space and capitalise each 'B'; plural is 'BlackBerry devices'| Blackberry; Black Berry; BlackBerrys|
 |blog|Online journal or article-style website| Lowercase (generic term) | The Blog|
 |Blogger| Google's trademark when referring to the blogging platform | Capitalise when referring to the platform|Google blogger|
@@ -1166,7 +1166,7 @@ Cascading Style Sheets (CSS)| A style sheet language| Capitalise; lowercase **st
 
 | Use | Description| Notes| Don’t use|
 |---|---|---|---|
-|M key| Edge connector standard for M.s PCIe peripherals; used to differentiate connector types (for example, B key)|Capitalise 'M' only |M Key|
+|M key| Edge connector standard for M.2 PCIe peripherals; used to differentiate connector types (for example, B key)|Capitalise 'M' only; don't hyphenate |M Key; M-key|
 |M.2|Specification for internally mounted computer expansion cards and connectors|Capitalise; always include a full stop between 'M' and '2'|M2, m.2|
 |Mac|Macintosh; an **Apple** line of personal computers|Capitalise when referring to the computer  |mac; MAC|
 |Mac address|Media Access Control address; hardware identifier for a network interface|Lowercase 'address'; not related to Apple **Mac**|MAC address; Mac Address|
